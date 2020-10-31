@@ -176,4 +176,4 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 
 
-:heavy_minus_sign: []()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Fully Quantized Transformer for Machine Translation. Gabriele Prato, Ella Charlaix and Mehdi Rezagholizadeh.]()  [**(preprint)**](https://arxiv.org/pdf/1910.10485.pdf) [**(paper)**]() [**(code)**]()
