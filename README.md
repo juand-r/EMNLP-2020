@@ -14,8 +14,6 @@ This contains a selection of papers from  EMNLP 2020.
 - [System Demonstrations](#system-demonstrations)
 - [Topics](#topics)
   - :boom: [Methodological](#top-methodological)
-  - [New Datasets](#top-new-datasets)
-  - [Integrating text with other kinds of data](#top-integrating-text-with-other-kinds-of-data)
   - [Semantics](#top-semantics)
   - [Discourse](#top-discourse)
   - :boom: [Explainability](#top-explainability)
@@ -39,3 +37,74 @@ This contains a selection of papers from  EMNLP 2020.
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
 - [Applications](#top-applications)
 - [Other](#top-other)
+
+## [General Remarks](#selections-from-acl-2020)
+
+---
+---
+
+## [Tutorials](#selections-from-acl-2020)
+
+---
+---
+
+## [Birds of a feather](#selections-from-acl-2020)
+
+---
+---
+
+
+## [Workshops](#selections-from-acl-2020)
+
+Full list of workshops: https://2020.emnlp.org/workshops
+
+---
+---
+
+## [Keynotes](#selections-from-acl-2020)
+
+---
+---
+
+
+## [System Demonstrations](#selections-from-acl-2020)
+
+## [Topics](#selections-from-acl-2020)
+
+### [:top:](#selections-from-acl-2020) Methodological
+
+
+---
+
+
+### [:top:](#selections-from-acl-2020) Semantics
+
+
+---
+
+### [:top:](#selections-from-acl-2020) Discourse
+
+---
+
+###  [:top:](#selections-from-acl-2020) Explainability
+
+
+---
+
+###  [:top:](#selections-from-acl-2020) Learning with Less Data
+
+
+---
+
+###  [:top:](#selections-from-acl-2020) Language Models and Transformers
+
+
+---
+###  [:top:](#selections-from-acl-2020) Embeddings
+
+- a
+
+---
+###  [:top:](#selections-from-acl-2020) Cognitive Models and Psycholinguistics
+
+
