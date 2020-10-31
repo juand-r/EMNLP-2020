@@ -25,7 +25,8 @@ This contains a selection of papers from  EMNLP 2020.
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
   - [Data-to-Text Generation](#top-data-to-text-generation)
-  - [Summarization and Simplification](#top-summarization-and-simplification)
+  - [Summarization](#top-summarization)
+  - [Simplification](#top-simplification)  
   - [Machine Translation](#top-machine-translation)
   - [Style Transfer](#top-style-transfer)
 - [NLU papers](#nlu-papers)
@@ -73,29 +74,25 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 ### [:top:](#selections-from-acl-2020) Methodological
 
+:heavy_minus_sign: []()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 ---
-
-
 ### [:top:](#selections-from-acl-2020) Semantics
 
 
 ---
-
 ### [:top:](#selections-from-acl-2020) Discourse
 
----
 
+---
 ###  [:top:](#selections-from-acl-2020) Explainability
 
 
 ---
-
 ###  [:top:](#selections-from-acl-2020) Learning with Less Data
 
 
 ---
-
 ###  [:top:](#selections-from-acl-2020) Language Models and Transformers
 
 
@@ -107,4 +104,76 @@ Full list of workshops: https://2020.emnlp.org/workshops
 ---
 ###  [:top:](#selections-from-acl-2020) Cognitive Models and Psycholinguistics
 
+---
+---
 
+
+## [NLG papers](#selections-from-acl-2020)
+
+###  [:top:](#selections-from-acl-2020) Dialogue
+
+---
+###  [:top:](#selections-from-acl-2020) Text Generation
+
+
+---
+###  [:top:](#selections-from-acl-2020) Data-to-Text Generation
+
+
+---
+###  [:top:](#selections-from-acl-2020) Summarization
+
+
+---
+###  [:top:](#selections-from-acl-2020) Simplification
+
+
+---
+###  [:top:](#selections-from-acl-2020) Style Transfer
+
+
+---
+---
+
+## [NLU papers](#selections-from-acl-2020)
+
+###  [:top:](#selections-from-acl-2020) Text Classification
+
+---
+###  [:top:](#selections-from-acl-2020) Topic Models
+
+
+---
+###  [:top:](#selections-from-acl-2020) Knowledge Graphs
+
+
+---
+###  [:top:](#selections-from-acl-2020) Hypernymy Detection
+
+
+---
+###  [:top:](#selections-from-acl-2020) Natural Language Inference
+
+
+---
+###  [:top:](#selections-from-acl-2020) Emergent Language in Multi-Agent Communication
+
+
+---
+---
+
+###  [:top:](#selections-from-acl-2020) Applications
+
+
+---
+###  [:top:](#selections-from-acl-2020) Other
+
+
+
+---
+---
+---
+
+
+
+:heavy_minus_sign: []()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
