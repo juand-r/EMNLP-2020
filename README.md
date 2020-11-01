@@ -52,6 +52,19 @@ This contains a selection of papers from  EMNLP 2020.
 
 ## [Tutorials](#selections-from-emnlp-2020)
 
+- [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
+- [**Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era**
+(Preslav Nakov, Giovanni Da San Martino)](https://propaganda.qcri.org/emnlp20-tutorial)
+- [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)]
+- [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)]
+- [Representation, Learning and Reasoning on Spatial Language for Down-stream NLP Tasks (Parisa Kordjamshidi, James Pustejovsky, Marie-Francine Moens
+)](https://spatial-language-tutorial.github.io/)
+- [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou
+)]()
+- [Simultaneous Translation
+(Liang Huang, Colin Cherry, Mingbo Ma, Naveen Arivazhagan, Zhongjun He)]
+
+
 ---
 ---
 
@@ -64,6 +77,12 @@ This contains a selection of papers from  EMNLP 2020.
 ## [Workshops](#selections-from-emnlp-2020)
 
 Full list of workshops: https://2020.emnlp.org/workshops
+
+- []()
+- []()
+- []()
+- []()
+
 
 ---
 ---
