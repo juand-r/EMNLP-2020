@@ -150,6 +150,10 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 
 ---
+###  [:top:](#selections-from-emnlp-2020) Machine Translation
+
+
+---
 ###  [:top:](#selections-from-emnlp-2020) Style Transfer
 
 
@@ -211,53 +215,53 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 # Papers, sort
 
-:heavy_minus_sign: [Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. Chengyu Wang, Minghui Qiu, jun huang and XIAOFENG HE.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. Chengyu Wang, Minghui Qiu, jun huang and XIAOFENG HE.]()  [**(preprint)**](https://arxiv.org/pdf/2003.13003.pdf) [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**]() [**(code)**](https://github.com/vered1986/self_talk)
 
-:heavy_minus_sign: [BERT-ATTACK: Adversarial Attack Against BERT Using BERT. Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue and Xipeng Qiu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [BERT-ATTACK: Adversarial Attack Against BERT Using BERT. Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue and Xipeng Qiu.]()  [**(preprint)**](https://arxiv.org/pdf/2004.09984.pdf) [**(paper)**]() [**(code)**](https://github.com/LinyangLee/BERT-Attack)
 
-:heavy_minus_sign: [Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT. Akshay Smit et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT. Akshay Smit et al.]()  [**(preprint)**](https://arxiv.org/pdf/2004.09167.pdf) [**(paper)**]() [**(code)**](https://github.com/stanfordmlgroup/CheXbert)
 
-:heavy_minus_sign: [Imitation Attacks and Defenses for Black-box Machine Translation Systems. Eric Wallace, Mitchell Stern and Dawn Song.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Imitation Attacks and Defenses for Black-box Machine Translation Systems. Eric Wallace, Mitchell Stern and Dawn Song.]()  [**(preprint)**](https://arxiv.org/pdf/2004.15015.pdf) [**(paper)**]() [**(code)**](https://github.com/Eric-Wallace/adversarial-mt)
 
-:heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.]()  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**]() [**(code)**](https://github.com/copenlu/X-MAML)
 
-:heavy_minus_sign: [ALICE: Active Learning with Contrastive Natural Language Explanations. Weixin Liang, James Zou and Zhou Yu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [ALICE: Active Learning with Contrastive Natural Language Explanations. Weixin Liang, James Zou and Zhou Yu.]()  [**(preprint)**](https://arxiv.org/pdf/2009.10259.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.]()  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.]()  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**]() [**(code)**](https://github.com/nicola-decao/diffmask)
 
-:heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.]()  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**]() [**(code)**](https://github.com/xinyadu/eeqa)
 
 :heavy_minus_sign: [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text. Dongfang Li, Baotian Hu, Qingcai Chen, Weihua Peng and Anqi Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Authorship Attribution for Neural Text Generation. Adaku Uchendu, Thai Le, Kai Shu and Dongwon Lee.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Authorship Attribution for Neural Text Generation**. Adaku Uchendu, Thai Le, Kai Shu and Dongwon Lee.]()  [**(preprint)**](http://www.cs.iit.edu/~kshu/files/emnlp20.pdf) [**(paper)**]() [**(code)**](https://github.com/AdaUchendu/Authorship-Attribution-for-Neural-Text-Generation)
 
-:heavy_minus_sign: [Structured Attention for Unsupervised Dialogue Structure Induction. Liang Qiu et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Structured Attention for Unsupervised Dialogue Structure Induction. Liang Qiu et al.]()  [**(preprint)**](https://arxiv.org/pdf/2009.08552.pdf) [**(paper)**]() [**(code)**](https://github.com/Liang-Qiu/SVRNN-dialogues)
 
-:heavy_minus_sign: [Shallow-to-Deep Training for Neural Machine Translation. Bei Li, Ziyang Wang, Hui Liu, Yufan Jiang, Quan Du, Tong Xiao, Huizhen Wang and Jingbo Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Shallow-to-Deep Training for Neural Machine Translation. Bei Li, Ziyang Wang, Hui Liu, Yufan Jiang, Quan Du, Tong Xiao, Huizhen Wang and Jingbo Zhu.]()  [**(preprint)**](https://arxiv.org/pdf/2010.03737.pdf) [**(paper)**]() [**(code)**](https://github.com/libeineu/SDT-Training/)
 
-:heavy_minus_sign: [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. Alessandro Raganato et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. Alessandro Raganato et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**](https://pilehvar.github.io/xlwic/)
 
-:heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification. Kaize Ding, Jianling Wang, Jundong Li, Dingcheng Li and Huan Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Double Graph Based Reasoning for Document-level Relation Extraction. Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Double Graph Based Reasoning for Document-level Relation Extraction. Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13752.pdf) [**(paper)**]() [**(code)**](https://github.com/DreamInvoker/GAIN)
 
-:heavy_minus_sign: [Towards Persona-Based Empathetic Conversational Models. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Towards Persona-Based Empathetic Conversational Models. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao.]()  [**(preprint)**](https://arxiv.org/pdf/2004.12316.pdf) [**(paper)**]() [**(data and code)**](https://github.com/zhongpeixiang/PEC)
 
-:heavy_minus_sign: [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing. Liye Fu, Susan Fussell and Cristian Danescu-Niculescu-Mizil.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing. Liye Fu, Susan Fussell and Cristian Danescu-Niculescu-Mizil.]()  [**(preprint)**](http://www.cs.cornell.edu/~cristian/Politeness_Paraphrasing_files/fine-grained-politeness-paraphrasing.pdf) [**(paper)**]() [**(code)**]() [**(video)**](https://www.youtube.com/watch?v=k-Mv29f5pBQ&feature=youtu.be)
 
-:heavy_minus_sign: [Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems. Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang and Liang Lin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems. Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang and Liang Lin.]()  [**(preprint)**](https://arxiv.org/pdf/2010.06823.pdf) [**(paper)**]() [**(data and code)**](https://github.com/QinJinghui/SAU-Solver)
 
-:heavy_minus_sign: [Retrofitting Structure-aware Transformer Language Model for End Tasks. Hao Fei, Yafeng Ren and Donghong Ji.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Retrofitting Structure-aware Transformer Language Model for End Tasks. Hao Fei, Yafeng Ren and Donghong Ji.]()  [**(preprint)**](https://arxiv.org/pdf/2009.07408.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Span-based discontinuous constituency parsing: a family of exact chart-based algorithms with time complexities from O(n^6) down to O(n^3). Caio Corro.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Span-based discontinuous constituency parsing: a family of exact chart-based algorithms with time complexities from O(n^6) down to O(n^3). Caio Corro.]()  [**(preprint)**](https://arxiv.org/pdf/2003.13785.pdf) [**(paper)**]() [**(code)**](https://github.com/FilippoC/disc-span-parser-release)
 
 :heavy_minus_sign: [Incomplete Utterance Rewriting as Semantic Segmentation. Qian Liu, Bei Chen, Jian-Guang LOU, Bin Zhou and Dongmei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
