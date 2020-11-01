@@ -53,13 +53,15 @@ This contains a selection of papers from  EMNLP 2020.
 ## [Tutorials](#selections-from-emnlp-2020)
 
 - [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
+>
+> x
 - [**Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era**
 (Preslav Nakov, Giovanni Da San Martino)](https://propaganda.qcri.org/emnlp20-tutorial)
->
->
+> 
+> x
 - [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)]
 >
->
+> x
 - [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou
 )]
 >
