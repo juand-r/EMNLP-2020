@@ -6,6 +6,7 @@
 
 This contains a selection of papers from  EMNLP 2020.
 
+Schedule: https://2020.emnlp.org/schedule
 
 - [General Remarks](#general-remarks)
 - [Tutorials](#tutorials)
@@ -96,6 +97,13 @@ Full list of workshops: https://2020.emnlp.org/workshops
 ---
 
 ## [Keynotes](#selections-from-emnlp-2020)
+
+- [Claire Cardie, Information Extraction Through the Years: How Did We Get Here?]
+> See also: [Ralph Grishman, 25 Years of Information Extraction](https://www.cambridge.org/core/journals/natural-language-engineering/article/twentyfive-years-of-information-extraction/0E5BB0D6AE906BB3C25037E2D74CA8F3) and [Ehud Reiter's blog post on the topic](https://ehudreiter.com/2020/01/02/25-years-of-information-extraction/).
+
+- [Rich Caruana, Friends Don’t Let Friends Deploy Black-Box Models: The Importance of Intelligibility in Machine Learning]
+
+- [Janet Pierrehumbert, Linguistic Behaviour and the Realistic Testing of NLP Systems]
 
 ---
 ---
