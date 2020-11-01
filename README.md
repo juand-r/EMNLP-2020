@@ -45,7 +45,7 @@ Schedule: https://2020.emnlp.org/schedule
 - [Applications](#top-applications)
   - [Cybersecurity](#top-cybersecurity)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
-  - [Scientific Text Mining](#scientific-text-mining)
+  - [Scientific Text Mining](#top-scientific-text-mining)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
 
