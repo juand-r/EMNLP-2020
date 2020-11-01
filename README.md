@@ -184,7 +184,6 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 :heavy_minus_sign: [Fully Quantized Transformer for Machine Translation. Gabriele Prato, Ella Charlaix and Mehdi Rezagholizadeh.]()  [**(preprint)**](https://arxiv.org/pdf/1910.10485.pdf) [**(paper)**]() [**(code)**]()
 
-
 Reducing Sentiment Bias in Language Models via Counterfactual Evaluation. Po-Sen Huang et al.
 Improving Text Understanding via Deep Syntax-Semantics Communication. Hao Fei, Yafeng Ren and Donghong Ji.
 GRUEN for Evaluating Linguistic Quality of Generated Text. Wanzheng Zhu and Suma Bhat.
@@ -497,8 +496,6 @@ Coming to Terms: Automatic Formation of Neologisms in Hebrew. Moran Mizrahi, Sta
 Joint Intent Detection and Entity Linking on Spatial Domain Queries. lei zhang, Runze Wang, Jingbo Zhou, Jingsong Yu, Zhenhua Ling and Hui Xiong.
 IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani, Anoop Kunchukuttan, Satish Golla, Gokul N.C., Avik Bhattacharyya, Mitesh M. Khapra and Pratyush Kumar.
 Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations. I-Ta Lee, Maria Leonor Pacheco and Dan Goldwasser.
-
-
 Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.
 Adversarial Text Generation via Sequence Contrast Discrimination. Ke Wang and Xiaojun Wan.
 **A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings. Katsuhiko Hayashi, Koki Kishimoto and Masashi Shimbo.**
