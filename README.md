@@ -25,6 +25,7 @@ Schedule: https://2020.emnlp.org/schedule
   - [Language Models and Transformers](#top-language-models-and-transformers)
   - [Embeddings](#top-embeddings)
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
+  - [Multimodal](#top-multimodal)
 - [NLG papers](#nlg-papers)
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
@@ -88,43 +89,17 @@ Schedule: https://2020.emnlp.org/schedule
 Full list of workshops: https://2020.emnlp.org/workshops
 
 - [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/)
+- [**BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP**](https://blackboxnlp.github.io/)
+- [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/)
+- [**SustaiNLP: Workshop on Simple and Efficient Natural Language Processing**](https://sites.google.com/view/sustainlp2020) (Promoting computationally efficient NLP and justified model complexity. Encouraging conceptual NLP novelty, discouraging 'more compute'")
 - [**CoNLL 2020**](https://www.conll.org/)
-- [**Spatial Language Understanding**](https://spatial-language.github.io/)
-- [Fifth Conference on Machine Translation (WMT20)](http://www.statmt.org/wmt20)
-- [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/)
+- [4th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/)
 - [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/)
+- [Deep Learning Inside Out (DeeLIO): The First Workshop on Knowledge Extraction and Integration for DL Architectures](https://sites.google.com/view/deelio-ws/) (focus on "low-data regimes")
+- [SIGTYP 2020: The Second Workshop on Computational Research in Linguistic Typology](https://sigtyp.github.io/ws2020.html)
+- [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
 - [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/)
 - [Second Workshop for NLP Open Source Software (NLP-OSS)](https://nlposs.github.io/)
-- [SIGTYP 2020: The Second Workshop on Computational Research in Linguistic Typology](https://sigtyp.github.io/ws2020.html)
-- [Deep Learning Inside Out (DeeLIO): The First Workshop on Knowledge Extraction and Integration for DL Architectures](https://sites.google.com/view/deelio-ws/) (focus on "low-data regimes")
-- [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
-- [**SustaiNLP: Workshop on Simple and Efficient Natural Language Processing**](https://sites.google.com/view/sustainlp2020) (Promoting computationally efficient NLP and justified model complexity. Encouraging conceptual NLP novelty, discouraging 'more compute'")
-- [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/)
-- [**Evaluation and Comparison of NLP Systems (Eval4NLP)**]
-- [4th Workshop on Structured Prediction for NLP]()
-
-
-NLP Beyond Text
-Erik Cambria, Giuseppe Castellucci, Simone Filice, Soujanya Poria, Lucia Specia
-Can you really know if someone is sarcastic by only reading his texts? If the answer is no, the NLPBT workshop is what you're looking for.
-
-PrivateNLP 2020: The Second Workshop on Privacy in NLP
-Oluwaseyi Feyisetan, Sepideh Ghanavati, Patricia Thaine and Shervin Malmasi
-PrivateNLP focuses on Privacy Preserving systems: differential privacy, anonymized datasets and models, GDPR compliance, and shared tasks!
-
-BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP
-Yonatan Belinkov, Afra Alishahi, Grzegorz Chrupała, Dieuwke Hupkes, Yuval Pinter and Hassan Sajjad
-Open the black-box of neural networks in NLP and make sense of the big pile of goo inside it
-
-NLP for COVID-19 Workshop (Part 2)
-Karin Verspoor, Mike Conway, Berry de Bruijn, Mark Dredze, Rada Mihalcea and Byron Wallace
-Analysing and understanding text and speech data to combat the COVID-19 Pandemic.
-
-- []()
-- []()
-- []()
-- []()
-
 
 ---
 ---
@@ -172,6 +147,7 @@ Analysing and understanding text and speech data to combat the COVID-19 Pandemic
 ---
 ### [:top:](#selections-from-emnlp-2020) Discourse
 
+See also the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Explainability
@@ -192,6 +168,18 @@ Analysing and understanding text and speech data to combat the COVID-19 Pandemic
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Cognitive Models and Psycholinguistics
+
+See also the [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/) at this conference.
+
+---
+###  [:top:](#selections-from-emnlp-2020) Multimodal
+
+See also the two multimodal workshops at this conference:
+
+- [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception"
+- [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020)
+
+
 
 ---
 ---
@@ -219,6 +207,9 @@ Analysing and understanding text and speech data to combat the COVID-19 Pandemic
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Machine Translation
+
+See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt.org/wmt20) at this conference.
+
 
 
 ---
@@ -267,6 +258,7 @@ Analysing and understanding text and speech data to combat the COVID-19 Pandemic
 See also two workshops at this conference:
 - [3rd Clinical Natural Language Processing Workshop (Clinical NLP 2020)](https://clinical-nlp.github.io/2020/)
 - [LOUHI 2020 - 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/)
+- [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/)
 
 
 ---
