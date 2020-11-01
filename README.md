@@ -1,5 +1,6 @@
 # EMNLP-2020
-Selections from EMNLP 2020
+
+![](https://github.com/juand-r/EMNLP-2020/blob/main/78320bbed6109938.jpeg)
 
 ### Selections from EMNLP 2020
 
