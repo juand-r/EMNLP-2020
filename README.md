@@ -176,7 +176,7 @@ See also the [Workshop on Cognitive Modeling and Computational Linguistics (CMCL
 
 See also the two multimodal workshops at this conference:
 
-- [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception"
+- [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
 - [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020)
 
 
@@ -255,7 +255,7 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 ---
 ### [:top:](#selections-from-emnlp-2020) Clinical and Biomedical
 
-See also two workshops at this conference:
+See also three workshops at this conference:
 - [3rd Clinical Natural Language Processing Workshop (Clinical NLP 2020)](https://clinical-nlp.github.io/2020/)
 - [LOUHI 2020 - 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/)
 - [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/)
