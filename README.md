@@ -308,7 +308,7 @@ Joint Estimation and Analysis of Risk Behavior Ratings in Movie Scripts. Victor 
 LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space. Tasnim Mohiuddin, M Saiful Bari and Shafiq Joty.
 Writing Strategies for Science Communication: Data and Computational Analysis. Tal August, Lauren Kim, Katharina Reinecke and Noah A. Smith.
 Multilingual AMR-to-Text Generation. Angela Fan and Claire Gardent.
-XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Ruofei Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Daniel Campos, Rangan Majumder and Ming Zhou.
+**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**
 Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News. Nguyen Vo and Kyumin Lee.
 Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing. Brian Thompson and Matt Post.
 Uncertainty-Aware Semantic Augmentation for Neural Machine Translation. Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Luxi Xing and Weihua Luo.
@@ -372,7 +372,7 @@ Towards Interpretable Reasoning over Paragraph Effects in Situation. Mucheng Ren
 TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue. Chien-Sheng Wu, Steven C.H. Hoi, Richard Socher and Caiming Xiong.
 Top-Rank-Focused Adaptive Vote Collection for the Evaluation of Domain-Specific Semantic Models. Pierangelo Lombardo, Alessio Boiardi, Luca Colombo, Angelo Schiavone and Nicolò Tamagnone.
 Lifelong Language Knowledge Distillation. Yung-Sung Chuang, Shang-Yu Su and Yun-Nung Chen.
-KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations. Fabio Massimo Zanzotto, Andrea Santilli, Leonardo Ranaldi, Dario Onorati, Pierfrancesco Tommasino and Francesca Fallucchi.
+KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations. Fabio Massimo Zanzotto et al.
 A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis. Zehui Dai, Cheng Peng, Huajie Chen and Yadong Ding.
 Incremental Processing in the Age of Non-Incremental Encoders: An Empirical Assessment of Bidirectional Models for Incremental NLU. Brielen Madureira and David Schlangen.
 Masking as an Efficient Alternative to Finetuning for Pretrained Language Models. Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi and Hinrich Schütze.
@@ -400,7 +400,7 @@ Analogous Process Structure Induction for Sub-event Sequence Prediction. Hongmin
 Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation. Jason Lee, Raphael Shu and Kyunghyun Cho.
 On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment. Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov.
 Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space. Chunyuan Li, Xiang Gao, Yuan Li, Baolin Peng, Xiujun Li, Yizhe Zhang and Jianfeng Gao.
-Experience Grounds Language. Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto and Joseph Turian.
+**Experience Grounds Language. Yonatan Bisk et al.**
 Pre-tokenization of Multi-word Expressions in Cross-lingual Word Embeddings. Naoki Otani, Satoru Ozaki, Xingyuan Zhao, Yucen Li, Micaelah St Johns and Lori Levin.
 SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness. Nathan Ng, Kyunghyun Cho and Marzyeh Ghassemi.
 Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction. Tara Safavi, Danai Koutra and Edgar Meij.
@@ -421,7 +421,7 @@ SelfORE: Self-supervised Relational Feature Learning for Open Relation Extractio
 SentiLARE: Sentiment-Aware Language Representation Learning with Linguistic Knowledge. Pei Ke, Haozhe Ji, Siyang Liu, Xiaoyan Zhu and Minlie Huang.
 Pareto Probing: Trading Off Accuracy for Complexity. Tiago Pimentel, Naomi Saphra, Adina Williams and Ryan Cotterell.
 Understanding the Difficulty of Training Transformers. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.
-Conversational Semantic Parsing for Dialog State Tracking. Jianpeng Cheng, Devang Agrawal, Héctor Martínez Alonso, Shruti Bhargava, Joris Driesen, Federico Flego, Dain Kaplan, Dimitri Kartsaklis, Lin Li, Dhivya Piraviperumal, Jason D Williams, Hong Yu, Diarmuid Ó Séaghdha and Anders Johannsen.
+Conversational Semantic Parsing for Dialog State Tracking. Jianpeng Cheng et al.
 Dynamic Data Selection and Weighting for Iterative Back-Translation. Zi-Yi Dou, Antonios Anastasopoulos and Graham Neubig.
 BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei and Ming Zhou.
 SetConv: A New Approach for Learning from Imbalanced Data. Yang Gao, Yi-Fan Li, Yu Lin, Charu Aggarwal and Latifur Khan.
@@ -438,7 +438,7 @@ Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine
 Hate-Speech and Offensive Language Detection in Roman Urdu. Hammad Rizwan, Muhammad Haroon Shakeel and Asim Karim.
 An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training. Kristjan Arumae, Qing Sun and Parminder Bhatia.
 Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection. Jingfeng Yang, Diyi Yang and Zhaoran Ma.
-MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models. Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar and Bryan Catanzaro.
+**MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models. Peng Xu et al.**
 Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering. Yanlin Feng, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan and Xiang Ren.
 XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques. Rexhina Blloshmi, Rocco Tripodi and Roberto Navigli.
 Probing Task-Oriented Dialogue Representation from Language Models. Chien-Sheng Wu and Caiming Xiong.
@@ -462,7 +462,6 @@ Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labelin
 HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction. Yu Wang, Yun Li, Hanghang Tong and Ziye Zhu.
 Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis. Mi Zhang and Tieyun Qian.
 Token-level Adaptive Training for Neural Machine Translation. Shuhao Gu, Jinchao Zhang, Fandong Meng, Yang Feng, Wanying Xie, Jie Zhou and Dong Yu.
-EXAMS: A Multi-subject High School Examinations Dataset for Cross-lingual and Multilingual Question Answering. Momchil Hardalov, Todor Mihaylov, Dimitrina Zlatkova, Yoan Dinkov, Ivan Koychev and Preslav Nakov.
 IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation. Yitao Cai and Xiaojun Wan.
 Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment. Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu and Tat-Seng Chua.
 Look at the First Sentence: Position Bias in Question Answering. Miyoung Ko, Jinhyuk Lee, Hyunjae Kim, Gangwoo Kim and Jaewoo Kang.
@@ -478,7 +477,6 @@ MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems. Zhaojian
 Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.
 Online Conversation Disentanglement with Pointer Networks. Tao Yu and Shafiq Joty.
 "What Do You Mean by That?" A Parser-Independent Interactive Approach for Enhancing Text-to-SQL. Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang LOU, Yan Zhang and Dongmei Zhang.
-End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems. Siamak Shakeri, Cicero Nogueira dos Santos, Henghui Zhu, Patrick Ng, Feng Nan, Zhiguo Wang, Ramesh Nallapati and Bing Xiang.
 SLM: Learning a Discourse Language Representation with Sentence Unshuffling. Haejun Lee, Drew A. Hudson, Kangwook Lee and Christopher D. Manning.
 Are All Good Word Vector Spaces Isomorphic?. Ivan Vulić, Sebastian Ruder and Anders Søgaard.
 Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.
@@ -496,7 +494,7 @@ Revisiting Modularized Multilingual NMT to Meet Industrial Demands. Sungwon Lyu,
 Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks. Chengyue Jiang, Yinggong Zhao, Shanbo Chu, Libin Shen and Kewei Tu.
 Adversarial Semantic Collisions. Congzheng Song, Alexander Rush and Vitaly Shmatikov.
 De-Biased Court’s View Generation with Causality. Yiquan Wu, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si and Fei Wu.
-Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification. Prithviraj Sen, Marina Danilevsky, Yunyao Li, Siddhartha Brahma, Matthias Boehm, Laura Chiticariu and Rajasekar Krishnamurthy.
+Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification et al.
 Personal Information Leakage Detection in Conversations. Qiongkai Xu, Lizhen Qu, Zeyu Gao and Gholamreza Haffari.
 MAVEN: A Massive General Domain Event Detection Dataset. Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou.
 Response Selection for Multi-Party Conversations with Dynamic Topic Tracking. Weishi Wang, Steven C.H. Hoi and Shafiq Joty.
@@ -525,7 +523,7 @@ APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learn
 doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset. Song Feng, Hui Wan, Chulaka Gunasekara, Siva Patel, Sachindra Joshi and Luis Lastras.
 Direct Segmentation Models for Streaming Speech Translation. Javier Iranzo-Sánchez, Adrià Giménez Pastor, Joan Albert Silvestre-Cerdà, Pau Baquero-Arnal, Jorge Civera Saiz and Alfons Juan.
 Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.
-An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels. Ilias Chalkidis, Manos Fergadiotis, Sotiris Kotitsas, Prodromos Malakasiotis, Nikolaos Aletras and Ion Androutsopoulos.
+An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels. Ilias Chalkidis et al.
 COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.
 H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network. Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang and Philip S. Yu.
 Consistency of a Recurrent Language Model With Respect to Incomplete Decoding. Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang and Kyunghyun Cho.
@@ -546,9 +544,8 @@ What do Models Learn from Question Answering Datasets?. Priyanka Sen and Amir Sa
 Multi-resolution Annotations for Emoji Prediction. Weicheng Ma, Ruibo Liu, Lili Wang and Soroush Vosoughi.
 The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions. Xiang Zhou, Yixin Nie, Hao Tan and Mohit Bansal.
 LAReQA: Language-Agnostic Answer Retrieval from a Multilingual Pool. Uma Roy, Noah Constant, Rami Al-Rfou, Aditya Barua, Aaron Phillips and Yinfei Yang.
-Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu, Don Tuggener, Pius von Däniken, Jon Ander Campos, Alvaro Rodrigo, Thiziri Belkacem, Aitor Soroa, Eneko Agirre and Mark Cieliebak.
+Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu et al.
 META: Metadata-Empowered Weak Supervision for Text Classification. Dheeraj Mekala, Xinyang Zhang and Jingbo Shang.
-Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation. Tahmid Hasan, Abhik Bhattacharjee, Kazi Samin, Masum Hasan, Madhusudan Basak, M. Sohel Rahman and Rifat Shahriyar.
 An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction. Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi and Luke Zettlemoyer.
 CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.
 Learning a Cost-Effective Annotation Policy for Question Answering. Bernhard Kratzwald, Stefan Feuerriegel and Huan Sun.
@@ -562,8 +559,8 @@ Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. 
 ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.
 Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.
 Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements. Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li and Zhiwei Guan.
-Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li, Chunyuan Li, Guoyin Wang, Hao Fu, Yuhchen Lin, Liqun Chen, Yizhe Zhang, Chenyang Tao, Ruiyi Zhang, Wenlin Wang, Dinghan Shen, Qian Yang and Lawrence Carin.
-RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark. Tatiana Shavrina, Alena Fenogenova, Emelyanov Anton, Denis Shevelev, Ekaterina Artemova, Valentin Malykh, Vladislav Mikhailov, Maria Tikhonova, Andrey Chertok and Andrey Evlampiev.
+Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li et al.
+RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.
 Message Passing for Hyper-Relational Knowledge Graphs. Mikhail Galkin, Priyansh Trivedi, Gaurav Maheshwari, Ricardo Usbeck and Jens Lehmann.
 Human-centric dialog training via offline reinforcement learning. Natasha Jaques, Judy Hanwen Shen, Asma Ghandeharioun, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu and Rosalind Picard.
 Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.
@@ -683,7 +680,7 @@ Modeling Protagonist Emotions for Emotion-Aware Storytelling. Faeze Brahman and 
 A Dataset for Tracking Entities in Open Domain Procedural Text. Niket Tandon, Keisuke Sakaguchi, Bhavana Dalvi, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson and Eduard Hovy.
 Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning. Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal.
 Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios. Ramy Eskander, Smaranda Muresan and Michael Collins.
-Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti, Stephanie Hirmer, Dai Morgan, Marco Basaldella and Yau Ben Or.
+Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.
 PathQG: Neural Question Generation from Facts. Siyuan Wang, Zhongyu Wei, Zhihao Fan, Zengfeng Huang, Weijian Sun, Qi ZHANG and Xuanjing Huang.
 A Method for Building a Commonsense Inference Dataset based on Basic Events. Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi.
 Diversiﬁed Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classiﬁcation. Yunjie Ji, Hao Liu, Bolei He, Xinyan Xiao, Hua Wu and Yanhua Yu.
@@ -710,14 +707,14 @@ Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analy
 Inquisitive Question Generation for High Level Text Comprehension. Wei-Jen Ko, TE-YUAN CHEN, Yiyan Huang, Greg Durrett and Junyi Jessy Li.
 Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. Xu Zhao, Zihao Wang, Hao Wu and Yong Zhang.
 Entity Linking in 100 Languages. Jan A. Botha, Zifei Shan and Daniel Gillick.
-Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference. Jianguo Zhang, Kazuma Hashimoto, Wenhao Liu, Chien-Sheng Wu, Yao Wan, Philip Yu, Richard Socher and Caiming Xiong.
+Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference. Jianguo Zhang et al.
 Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations. Gábor Berend.
 Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses. Prathyusha Jwalapuram, Shafiq Joty and Youlin Shen.
 Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.
 Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning. Wanyun Cui, Guangyu Zheng and Wei Wang.
 SLURP: A Spoken Language Understanding Resource Package. Emanuele Bastianelli, Andrea Vanzo, Pawel Swietojanski and Verena Rieser.
 Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders. Andrew Drozdov, Subendhu Rongali, Yi-Pei Chen, Tim O'Gorman, Mohit Iyyer and Andrew McCallum.
-Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning. Lianhui Qin, Vered Shwartz, Peter West, Chandra Bhagavatula, Jena D. Hwang, Ronan Le Bras, Antoine Bosselut and Yejin Choi.
+**Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning. Lianhui Qin et al.**
 Assessing Phrasal Representation and Composition in Transformers. Lang Yu and Allyson Ettinger.
 Position-Aware Tagging for Aspect Sentiment Triplet Extraction. Lu Xu, Hao Li, Wei Lu and Lidong Bing.
 Two are Better than One: Joint Entity and Relation Extraction with Table-Sequence Encoders. Jue WANG and Wei Lu.
@@ -810,7 +807,7 @@ Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming
 Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT. Alexandra Chronopoulou, Dario Stojanovski and Alexander Fraser.
 Simulated Multiple Reference Training Improves Low-Resource Machine Translation. Huda Khayrallah, Brian Thompson, Matt Post and Philipp Koehn.
 Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings. Phillip Keung, Yichao Lu, Julian Salazar and Vikas Bhardwaj.
-Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events. Miguel Ballesteros, Rishita Anubhai, Shuai Wang, Nima Pourdamghani, Yogarshi Vyas, Jie Ma, Parminder Bhatia, Kathleen McKeown and Yaser Al-Onaizan.
+Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events. Miguel Ballesteros et al.
 The Multilingual Amazon Reviews Corpus. Phillip Keung, Yichao Lu, György Szarvas and Noah A. Smith.
 Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.
 Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.
@@ -830,8 +827,8 @@ Train No Evil: Selective Masking for Task-Guided Pre-Training. Yuxian Gu, Zhengy
 Deconstructing word embedding algorithms. Kian Kenyon-Dean, Edward Newell and Jackie Chi Kit Cheung.
 On the importance of pre-training data volume for compact language models. Vincent Micheli, Martin d'Hoffschmidt and François Fleuret.
 Sequence-Level Mixed Sample Data Augmentation. Demi Guo, Yoon Kim and Alexander Rush.
-Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson, Anthony Zheng, Anish Mahendran, Rishi Tekriwal, Adrian Cheung, Eric Guldan, Kevin Leach and Jonathan K. Kummerfeld.
-Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra, Haggai Roitman, Doron Cohen, Nathaniel Mills, Chulaka Gunasekara, Yosi Mass, Sachindra Joshi, Luis Lastras and David Konopnicki.
+Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson et al.
+Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra et al.
 Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors. Qianchu Liu, Diana McCarthy and Anna Korhonen.
 Improving Low Compute Language Modeling with In-Domain Embedding Initialisation. Charles Welch, Rada Mihalcea and Jonathan K. Kummerfeld.
 Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning. Deren Lei, Gangrong Jiang, Xiaotao Gu, Kexuan Sun, Yuning Mao and Xiang Ren.
