@@ -787,17 +787,17 @@ Self-Paced Learning for Neural Machine Translation. Yu Wan, Baosong Yang, Derek 
 The role of context in neural pitch accent detection in English. Elizabeth Nielsen, Mark Steedman and Sharon Goldwater.
 How Much Knowledge Can You Pack Into the Parameters of a Language Model?. Adam Roberts, Colin Raffel and Noam Shazeer.
 Small but Mighty: New Benchmarks for Split and Rephrase. Li Zhang, Huaiyu Zhu, Siddhartha Brahma and Yunyao Li.
-Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization. Zhenjie Zhao, Evangelos Papalexakis and Xiaojuan Ma.
+Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization. Zhenjie Zhao et al.
 Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision. Kun Qian, Poornima Chozhiyath Raman, Yunyao Li and Lucian Popa.
 Semantically Inspired AMR Alignment for the Portuguese Language. Rafael Anchiêta and Thiago Pardo.
 Reactive Supervision: A New Method for Collecting Sarcasm Data. Boaz Shmueli, Lun-Wei Ku and Soumya Ray.
 BAE: BERT-based Adversarial Examples for Text Classification. Siddhant Garg and Goutham Ramakrishnan.
 A Simple Approach to Learning Unsupervised Multilingual Embeddings. Pratik Jawanpuria, Mayank Meghwanshi and Bamdev Mishra.
 Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube. Jack Hessel, Zhenhai Zhu, Bo Pang and Radu Soricut.
-Some Languages Seem Easier to Parse Because Their Treebanks Leak. Anders Søgaard.
+**Some Languages Seem Easier to Parse Because Their Treebanks Leak. Anders Søgaard.**
 A Simple and Effective Model for Answering Multi-span Questions. Elad Segal, Avia Efrat, Mor Shoham, Amir Globerson and Jonathan Berant.
 Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. Robert Munro and Alex (Carmen) Morrison.
-The Thieves on Sesame Street are Polyglots - Extracting Multilingual Models from Monolingual APIs. Nitish Shirish Keskar, Bryan McCann, Caiming Xiong and Richard Socher.
+The Thieves on Sesame Street are Polyglots - Extracting Multilingual Models from Monolingual APIs. Nitish Shirish Keskar et al.
 Distilling Structured Knowledge for Text-Based Relational Reasoning. Jin Dong, Marc-Antoine Rondeau and William L. Hamilton.
 Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles. Yao Lu, Yue Dong and Laurent Charlin.
 Reasoning about Goals, Steps, and Temporal Ordering with WikiHow. Li Zhang, Qing Lyu and Chris Callison-Burch.
@@ -805,7 +805,7 @@ An information theoretic view on selecting linguistic probes. Zining Zhu and Fra
 Exploiting Sentence Order in Document Alignment. Brian Thompson and Philipp Koehn.
 Semantic Role Labeling Guided Multi-turn Dialogue ReWriter. Kun Xu, Haochen Tan, Linfeng Song, Han Wu, Haisong Zhang, Linqi Song and Dong Yu.
 Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots. Yuanmeng Yan, Keqing He, Hong Xu, Sihong Liu, Fanyu Meng, Min Hu and Weiran XU.
-Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games. Subhajit Chaudhury, Daiki Kimura, Kartik Talamadupula, Michiaki Tatsubori, Asim Munawar and Ryuki Tachibana.
+Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games. Subhajit Chaudhury et al.
 Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming Cui, Ting Liu, Shijin Wang and Guoping Hu.
 Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT. Alexandra Chronopoulou, Dario Stojanovski and Alexander Fraser.
 Simulated Multiple Reference Training Improves Low-Resource Machine Translation. Huda Khayrallah, Brian Thompson, Matt Post and Philipp Koehn.
@@ -817,7 +817,7 @@ Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Yi
 Incremental Neural Coreference Resolution in Constant Memory. Patrick Xia, João Sedoc and Benjamin Van Durme.
 The importance of fillers for text representations of speech transcripts. Tanvi Dinkar, Pierre Colombo, Matthieu Labeau and Chloé Clavel.
 Table Fact Verification with Structure-Aware Transformer. Hongzhi Zhang, Yingyao Wang, Sirui Wang, Xuezhi Cao, Fuzheng Zhang and Zhongyuan Wang.
-Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang, Xiaoli Li, Yang Li, Suge Wang, Deyu Li, Jian Liao and Jianxing Zheng.
+Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.
 Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering. Zujie Liang, Weitao Jiang, Haifeng Hu and Jiaying Zhu.
 PatchBERT: Just-in-Time, Out-of-Vocabulary Patching. Sangwhan Moon and Naoaki Okazaki.
 Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems. Jindřich Libovický and Alexander Fraser.
@@ -861,14 +861,14 @@ Modeling Content Importance for Summarization with Pre-trained Language Models. 
 On the Sparsity of Neural Machine Translation Models. Yong Wang, Longyue Wang, Victor Li and Zhaopeng Tu.
 Multilingual Offensive Language Identification with Cross-lingual Embeddings. Tharindu Ranasinghe and Marcos Zampieri.
 Translation Quality Estimation by Jointly Learning to Score and Rank. Jingyi Zhang and Josef van Genabith.
-Multi-Stage Pre-training for Low-Resource Domain Adaptation. Rong Zhang, Revanth Gangi Reddy, Md Arafat Sultan, Vittorio Castelli, Anthony Ferritto, Radu Florian, Efsun Sarioglu Kayi, Salim Roukos, Avi Sil and Todd Ward.
+**Multi-Stage Pre-training for Low-Resource Domain Adaptation. Rong Zhang et al.**
 MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding. Qinxin Wang, Hao Tan, Sheng Shen, Michael Mahoney and Zhewei Yao.
 Incorporating a Local Translation Mechanism into Non-autoregressive Translation. Xiang Kong, Zhisong Zhang and Eduard Hovy.
 Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.
 Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution. Yordan Yordanov, Oana-Maria Camburu, Vid Kocijan and Thomas Lukasiewicz.
 Domain-Specific Lexical Grounding in Noisy Visual-Textual Documents. Gregory Yauney, Jack Hessel and David Mimno.
-CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation. Tianlu Wang, Xuezhi Wang, Yao Qin, Ben Packer, Kang Li, Jilin Chen, Alex Beutel and Ed Chi.
-To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee, Miguel Ballesteros, Rishita Anubhai, Smaranda Muresan, Jie Ma, Faisal Ladhak and Yaser Al-Onaizan.
+CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation. Tianlu Wang et al.
+To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee et al.
 Pre-Training Transformers as Energy-Based Cloze Models. Kevin Clark, Minh-Thang Luong, Quoc Le and Christopher D. Manning.
 An Empirical Study of Pre-trained Transformers for Arabic Information Extraction. Wuwei Lan, Yang Chen, Wei Xu and Alan Ritter.
 Monolingual Adapters for Zero-Shot Neural Machine Translation. Jerin Philip, Alexandre Berard, Matthias Gallé and Laurent Besacier.
@@ -880,7 +880,7 @@ TNT: Text Normalization based Pre-training of Transformers for Content Moderatio
 Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks. Yuanhe Tian, Yan Song and Fei Xia.
 Supervised Seeded Iterated Learning for Interactive Language Learning. Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin and Aaron Courville.
 Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.
-Calibration of Pre-trained Transformers. Shrey Desai and Greg Durrett.
+**Calibration of Pre-trained Transformers. Shrey Desai and Greg Durrett.**
 Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.
 Understanding Neural Abstractive Summarization Models via Uncertainty. Jiacheng Xu, Shrey Desai and Greg Durrett.
 On the Role of Supervision in Unsupervised Constituency Parsing. Haoyue Shi, Karen Livescu and Kevin Gimpel.
@@ -891,9 +891,9 @@ Reading Between the Lines: Exploring Infilling in Visual Narratives. Khyathi Rag
 Neural Topic Modeling by Incorporating Document Relationship Graph. Deyu Zhou, Xuemeng Hu and Rui Wang.
 Homophonic Pun Generation with Lexically Constrained Rewriting. Zhiwei Yu, Hongyu Zang and Xiaojun Wan.
 A Streaming Approach For Efficient Batched Beam Search. Kevin Yang, Violet Yao, John DeNero and Dan Klein.
-Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik, Himanshu Jain, Aditya Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu and Sanjiv Kumar.
-Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.
-A Preliminary Exploration of GANs for Keyphrase Generation. Avinash Swaminathan, Haimin Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah and Amanda Stent.
+Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.
+**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**
+A Preliminary Exploration of GANs for Keyphrase Generation. Avinash Swaminathan et al.
 Improving Bilingual Lexicon Induction for Low Frequency Words. Jiaji Huang, Xingyu Cai and Kenneth Church.
 SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search. Sean MacAvaney, Arman Cohan and Nazli Goharian.
 LOGAN: Local Group Bias Detection by Clustering. Jieyu Zhao and Kai-Wei Chang.
@@ -903,37 +903,35 @@ A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam 
 Precise Task Formalization Matters in Winograd Schema Evaluations. Haokun Liu, William Huang, Dhara Mungra and Samuel R. Bowman.
 Inference Strategies for Machine Translation with Conditional Masking. Julia Kreutzer, George Foster and Colin Cherry.
 Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.
-HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification. Wenshuo Yang, Jiyi Li, Fumiyo Fukumoto and Yanming Ye.
-Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.
-Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong, Duc Trong Le, Amir Pouran Ben Veyseh, Thuat Nguyen and Thien Huu Nguyen.
+HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification. Wenshuo Yang et al.
+**Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.**
+Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.
 Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2. Yosi Mass and Haggai Roitman.
 Scaling Hidden Markov Language Models. Justin Chiu and Alexander Rush.
 Aspect Sentiment Classification with Aspect-Specific Opinion Spans. Lu Xu, Lidong Bing, Wei Lu and Fei Huang.
 Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.
-Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction. Mengyun Chen, Tao Ge, Xingxing Zhang, Furu Wei and Ming Zhou.
-Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin, Seyeon Lee, Rahul Khanna and Xiang Ren.
+Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction. Mengyun Chen et al.
+Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin et al.
 Incorporating Behavioral Hypotheses for Query Generation. Ruey-Cheng Chen and Chia-Jung Lee.
 Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme. Chaofa Yuan, Chuang Fan, Jianzhu Bao and Ruifeng Xu.
 Long-Short Term Masking Transformer: A Simple but Effective Baseline for Document-level Neural Machine Translation. Pei Zhang, Boxing Chen, Niyu Ge and Kai Fan.
 How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue. Henry Elder, Alexander O'Connor and Jennifer Foster.
 Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks. Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen.
-Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. Semih Yavuz, Kazuma Hashimoto, Wenhao Liu, Nitish Shirish Keskar, Richard Socher and Caiming Xiong.
+Simple Data Augmentation with the Mask Token Improves Domain Adaptation for Dialog Act Tagging. Semih Yavuz et al.
 Querying Across Genres for Medical Claims in News. Chaoyuan Zuo, Narayan Acharya and Ritwik Banerjee.
 COD3S: Diverse Generation with Discrete Semantic Signatures. Nathaniel Weir, João Sedoc and Benjamin Van Durme.
 Learning to Fuse Sentences with Transformers for Summarization. Logan Lebanoff, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang and Fei Liu.
-Neural Conversational QA: Learning to Reason vs Exploiting Patterns. Nikhil Verma, Abhishek Sharma, Dhiraj Madan, Danish Contractor, Harshit Kumar and Sachindra Joshi.
-Towards Understanding Sample Variance in Visually Grounded Language Generation: Evaluations and Observations. Wanrong Zhu, Xin Wang, Pradyumna Narayana, Kazoo Sone, Sugato Basu and William Yang Wang.
+Neural Conversational QA: Learning to Reason vs Exploiting Patterns. Nikhil Verma et al.
+Towards Understanding Sample Variance in Visually Grounded Language Generation: Evaluations and Observations. Wanrong Zhu et al.
 Mention Extraction and Linking for SQL Query Generation. Jianqiang Ma, ZEYU YAN, Shuai Pang, Yang Zhang and Jianping Shen.
 On the weak link between importance and prunability of attention heads. Aakriti Budhraja, Madhura Pande, Preksha Nema, Pratyush Kumar and Mitesh M. Khapra.
 Efficient One-Pass End-to-End Entity Linking for Questions. Belinda Z. Li, Sewon Min, Srinivasan Iyer, Yashar Mehdad and Wen-tau Yih.
 Towards Interpreting BERT for Reading Comprehension Based QA. Sahana Ramnath, Preksha Nema, Deep Sahni and Mitesh M. Khapra.
-Investigating African-American Vernacular English in Transformer-Based Text Generation. Sophie Groenwold, Lily Ou, Aesha Parekh, Samhita Honnavalli, Sharon Levy, Diba Mirza and William Yang Wang.
+Investigating African-American Vernacular English in Transformer-Based Text Generation. Sophie Groenwold et al.
 Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach. Bowen Tan, Lianhui Qin, Eric Xing and Zhiting Hu.
 SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. Di Wu, Liang Ding, Fan Lu and Jian Xie.
 Pre-training Mention Representations in Coreference Models. Yuval Varkel and Amir Globerson.
 DGST: a Dual-Generator Network for Text Style Transfer. Xiao Li, Guanyi Chen, Chenghua Lin and Ruizhe Li.
-
-
 
 
 # Findings of ACL: EMNLP 2020
