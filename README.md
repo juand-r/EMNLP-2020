@@ -14,11 +14,12 @@ This contains a selection of papers from  EMNLP 2020.
 - [Keynotes](#keynotes)
 - [System Demonstrations](#system-demonstrations)
 - [Topics](#topics)
-  - :boom: [Methodological](#top-methodological)
+  - [Methodological](#top-methodological)
+  - [Datasets, Benchmarks and Other Resources](#top-datasets-benchmarks-and-other-resources)
   - [Semantics](#top-semantics)
   - [Pragmatics](#top-pragmatics)
   - [Discourse](#top-discourse)
-  - :boom: [Explainability](#top-explainability)
+  - [Explainability](#top-explainability)
   - [Learning with Less Data](#top-learning-with-less-data)
   - [Language Models and Transformers](#top-language-models-and-transformers)
   - [Embeddings](#top-embeddings)
@@ -39,6 +40,9 @@ This contains a selection of papers from  EMNLP 2020.
   - [Natural Language Inference](#top-natural-language-inference)
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
 - [Applications](#top-applications)
+  - [Cybersecurity](#top-cybersecurity)
+  - [Clinical and Biomedical](#top-clinical-and-biomedical)
+  - [Other applications](#top-other-applications)
 - [Other](#top-other)
 
 ## [General Remarks](#selections-from-acl-2020)
@@ -72,11 +76,22 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 ## [System Demonstrations](#selections-from-acl-2020)
 
+
+
+
+
+
+
+
 ## [Topics](#selections-from-acl-2020)
 
 ### [:top:](#selections-from-acl-2020) Methodological
 
 :heavy_minus_sign: []()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+---
+### [:top:](#selections-from-acl-2020) Datasets, Benchmarks and Other Resources
+
 
 ---
 ### [:top:](#selections-from-acl-2020) Semantics
@@ -168,9 +183,23 @@ Full list of workshops: https://2020.emnlp.org/workshops
 ---
 ---
 
-###  [:top:](#selections-from-acl-2020) Applications
+##  [:top:](#selections-from-acl-2020) Applications
+
+### [:top:](#selections-from-acl-2020) Cybersecurity
 
 
+
+---
+### [:top:](#selections-from-acl-2020) Clinical and Biomedical
+
+
+
+---
+### [:top:](#selections-from-acl-2020) Other applications
+
+
+
+---
 ---
 ###  [:top:](#selections-from-acl-2020) Other
 
