@@ -45,36 +45,36 @@ This contains a selection of papers from  EMNLP 2020.
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
 
-## [General Remarks](#selections-from-acl-2020)
+## [General Remarks](#selections-from-emnlp-2020)
 
 ---
 ---
 
-## [Tutorials](#selections-from-acl-2020)
+## [Tutorials](#selections-from-emnlp-2020)
 
 ---
 ---
 
-## [Birds of a feather](#selections-from-acl-2020)
+## [Birds of a feather](#selections-from-emnlp-2020)
 
 ---
 ---
 
 
-## [Workshops](#selections-from-acl-2020)
+## [Workshops](#selections-from-emnlp-2020)
 
 Full list of workshops: https://2020.emnlp.org/workshops
 
 ---
 ---
 
-## [Keynotes](#selections-from-acl-2020)
+## [Keynotes](#selections-from-emnlp-2020)
 
 ---
 ---
 
 
-## [System Demonstrations](#selections-from-acl-2020)
+## [System Demonstrations](#selections-from-emnlp-2020)
 
 
 
@@ -83,125 +83,125 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 
 
-## [Topics](#selections-from-acl-2020)
+## [Topics](#selections-from-emnlp-2020)
 
-### [:top:](#selections-from-acl-2020) Methodological
+### [:top:](#selections-from-emnlp-2020) Methodological
 
 :heavy_minus_sign: []()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 ---
-### [:top:](#selections-from-acl-2020) Datasets, Benchmarks and Other Resources
+### [:top:](#selections-from-emnlp-2020) Datasets, Benchmarks and Other Resources
 
 
 ---
-### [:top:](#selections-from-acl-2020) Semantics
+### [:top:](#selections-from-emnlp-2020) Semantics
 
 
 ---
-### [:top:](#selections-from-acl-2020) Pragmatics
+### [:top:](#selections-from-emnlp-2020) Pragmatics
 
 
 ---
-### [:top:](#selections-from-acl-2020) Discourse
+### [:top:](#selections-from-emnlp-2020) Discourse
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Explainability
+###  [:top:](#selections-from-emnlp-2020) Explainability
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Learning with Less Data
+###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Language Models and Transformers
+###  [:top:](#selections-from-emnlp-2020) Language Models and Transformers
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Embeddings
+###  [:top:](#selections-from-emnlp-2020) Embeddings
 
 - a
 
 ---
-###  [:top:](#selections-from-acl-2020) Cognitive Models and Psycholinguistics
+###  [:top:](#selections-from-emnlp-2020) Cognitive Models and Psycholinguistics
 
 ---
 ---
 
 
-## [NLG papers](#selections-from-acl-2020)
+## [NLG papers](#selections-from-emnlp-2020)
 
-###  [:top:](#selections-from-acl-2020) Dialogue
-
----
-###  [:top:](#selections-from-acl-2020) Text Generation
-
+###  [:top:](#selections-from-emnlp-2020) Dialogue
 
 ---
-###  [:top:](#selections-from-acl-2020) Data-to-Text Generation
+###  [:top:](#selections-from-emnlp-2020) Text Generation
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Summarization
+###  [:top:](#selections-from-emnlp-2020) Data-to-Text Generation
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Simplification
+###  [:top:](#selections-from-emnlp-2020) Summarization
 
 
 ---
-###  [:top:](#selections-from-acl-2020) Style Transfer
+###  [:top:](#selections-from-emnlp-2020) Simplification
 
 
 ---
----
-
-## [NLU papers](#selections-from-acl-2020)
-
-###  [:top:](#selections-from-acl-2020) Text Classification
-
----
-###  [:top:](#selections-from-acl-2020) Topic Models
-
-
----
-###  [:top:](#selections-from-acl-2020) Knowledge Graphs
-
-
----
-###  [:top:](#selections-from-acl-2020) Hypernymy Detection
-
-
----
-###  [:top:](#selections-from-acl-2020) Natural Language Inference
-
-
----
-###  [:top:](#selections-from-acl-2020) Emergent Language in Multi-Agent Communication
+###  [:top:](#selections-from-emnlp-2020) Style Transfer
 
 
 ---
 ---
 
-##  [:top:](#selections-from-acl-2020) Applications
+## [NLU papers](#selections-from-emnlp-2020)
 
-### [:top:](#selections-from-acl-2020) Cybersecurity
+###  [:top:](#selections-from-emnlp-2020) Text Classification
+
+---
+###  [:top:](#selections-from-emnlp-2020) Topic Models
+
+
+---
+###  [:top:](#selections-from-emnlp-2020) Knowledge Graphs
+
+
+---
+###  [:top:](#selections-from-emnlp-2020) Hypernymy Detection
+
+
+---
+###  [:top:](#selections-from-emnlp-2020) Natural Language Inference
+
+
+---
+###  [:top:](#selections-from-emnlp-2020) Emergent Language in Multi-Agent Communication
+
+
+---
+---
+
+##  [:top:](#selections-from-emnlp-2020) Applications
+
+### [:top:](#selections-from-emnlp-2020) Cybersecurity
 
 
 
 ---
-### [:top:](#selections-from-acl-2020) Clinical and Biomedical
+### [:top:](#selections-from-emnlp-2020) Clinical and Biomedical
 
 
 
 ---
-### [:top:](#selections-from-acl-2020) Other applications
+### [:top:](#selections-from-emnlp-2020) Other applications
 
 
 
 ---
 ---
-###  [:top:](#selections-from-acl-2020) Other
+###  [:top:](#selections-from-emnlp-2020) Other
 
 
 
