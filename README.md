@@ -26,6 +26,7 @@ Schedule: https://2020.emnlp.org/schedule
   - [Embeddings](#top-embeddings)
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
   - [Multimodal](#top-multimodal)
+  - [Multilingual](#top-multilingual)
 - [NLG papers](#nlg-papers)
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
@@ -44,6 +45,7 @@ Schedule: https://2020.emnlp.org/schedule
 - [Applications](#top-applications)
   - [Cybersecurity](#top-cybersecurity)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
+  - [Scientific Text Mining](#scientific-text-mining)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
 
@@ -96,9 +98,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 - [4th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/)
 - [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/)
 - [Deep Learning Inside Out (DeeLIO): The First Workshop on Knowledge Extraction and Integration for DL Architectures](https://sites.google.com/view/deelio-ws/) (focus on "low-data regimes")
-- [SIGTYP 2020: The Second Workshop on Computational Research in Linguistic Typology](https://sigtyp.github.io/ws2020.html)
 - [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
-- [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/)
 - [Second Workshop for NLP Open Source Software (NLP-OSS)](https://nlposs.github.io/)
 
 ---
@@ -180,6 +180,9 @@ See also the two multimodal workshops at this conference:
 - [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020)
 
 
+---
+### [:top:](#selections-from-emnlp-2020) Multilingual
+
 
 ---
 ---
@@ -260,6 +263,10 @@ See also three workshops at this conference:
 - [LOUHI 2020 - 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/)
 - [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/)
 
+---
+### [:top:](#selections-from-emnlp-2020) Scientific Text Mining
+
+See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/) at this conference.
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Other applications
