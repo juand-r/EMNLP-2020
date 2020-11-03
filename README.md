@@ -333,23 +333,23 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Span-based discontinuous constituency parsing: a family of exact chart-based algorithms with time complexities from O(n^6) down to O(n^3). Caio Corro.]()  [**(preprint)**](https://arxiv.org/pdf/2003.13785.pdf) [**(paper)**]() [**(code)**](https://github.com/FilippoC/disc-span-parser-release)
 
-:heavy_minus_sign: [Incomplete Utterance Rewriting as Semantic Segmentation. Qian Liu, Bei Chen, Jian-Guang LOU, Bin Zhou and Dongmei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Incomplete Utterance Rewriting as Semantic Segmentation. Qian Liu, Bei Chen, Jian-Guang LOU, Bin Zhou and Dongmei Zhang.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13166.pdf) [**(paper)**]() [**(code)**](https://github.com/microsoft/ContextualSP)
 
-:heavy_minus_sign: [Multi-turn Response Selection using Dialogue Dependency Relations. Qi Jia, Yizhu Liu, Siyu Ren, Kenny Zhu and Haifeng Tang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Multi-turn Response Selection using Dialogue Dependency Relations. Qi Jia, Yizhu Liu, Siyu Ren, Kenny Zhu and Haifeng Tang.]()  [**(preprint)**](https://arxiv.org/pdf/2010.01502.pdf) [**(paper)**]() [**(code)**](https://github.com/JiaQiSJTU/ResponseSelection)
 
-:heavy_minus_sign: [MedDialog: Large-scale Medical Dialogue Datasets. Guangtao Zeng et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [MedDialog: Large-scale Medical Dialogue Datasets. Guangtao Zeng et al.]()  [**(preprint)**]() [**(paper)**]() [**(data)**](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
 
-:heavy_minus_sign: [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss.]()  [**(preprint)**](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf) [**(paper)**]() [**(code)**](http://blender.cs.illinois.edu/software/pathlm)
 
-:heavy_minus_sign: [CSP:Code-Switching Pre-training for Neural Machine Translation. Zhen Yang, Bojie Hu, ambyera han, shen huang and Qi Ju.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [CSP:Code-Switching Pre-training for Neural Machine Translation. Zhen Yang, Bojie Hu, ambyera han, shen huang and Qi Ju.]()  [**(preprint)**](https://arxiv.org/pdf/2009.08088.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation. Minki Kang, Moonsu Han and Sung Ju Hwang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation. Minki Kang, Moonsu Han and Sung Ju Hwang.]()  [**(preprint)**](https://arxiv.org/pdf/2010.02705.pdf) [**(paper)**]() [**(code)**](https://github.com/Nardien/NMG)
 
-:heavy_minus_sign: [UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. Jian Guan and Minlie Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [UNION: An Unreferenced Metric for Evaluating Open-ended Story Generation. Jian Guan and Minlie Huang.]()  [**(preprint)**](https://arxiv.org/pdf/2009.07602.pdf) [**(paper)**]() [**(code)**](https://github.com/thu-coai/UNION)
 
-:heavy_minus_sign: [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. Nils Reimers and Iryna Gurevych.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. Nils Reimers and Iryna Gurevych.]()  [**(preprint)**](https://arxiv.org/pdf/2004.09813.pdf) [**(paper)**]() [**(code, models and data)**](https://github.com/UKPLab/sentence-transformers)
 
-:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.]()  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**]() [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
 
 :heavy_minus_sign: [Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. Yuning Mao, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
