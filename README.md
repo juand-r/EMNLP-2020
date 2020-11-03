@@ -351,31 +351,33 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.]()  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**]() [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
 
-:heavy_minus_sign: [Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. Yuning Mao, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. Yuning Mao, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han.]()  [**(preprint)**](https://arxiv.org/pdf/2010.00117.pdf) [**(paper)**]() [**(code)**](https://github.com/morningmoni/RL-MMR)
 
 :heavy_minus_sign: [A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation. Ming Wang and Yinglin Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.]()  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**]() [**(code)**](https://github.com/JiaweiSheng/FAAN)
 
-:heavy_minus_sign: [Coreferential Reasoning Learning for Language Representation. Deming Ye, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun and Zhiyuan Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Coreferential Reasoning Learning for Language Representation. Deming Ye, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun and Zhiyuan Liu.]()  [**(preprint)**](https://arxiv.org/pdf/2004.06870.pdf) [**(paper)**]() [**(code)**](https://github.com/thunlp/CorefBERT)
 
-:heavy_minus_sign: [The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.]()  [**(preprint)**](https://arxiv.org/pdf/2004.02421.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13028.pdf) [**(paper)**]() [**(code)**](https://github.com/zgahhblhc/Debiased-Chat)
 
-:heavy_minus_sign: [Unsupervised Question Decomposition for Question Answering. Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho and Douwe Kiela.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Unsupervised Question Decomposition for Question Answering. Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho and Douwe Kiela.]()  [**(preprint)**](https://arxiv.org/pdf/2002.09758.pdf&nbsp;&hellip) [**(paper)**]() [**(code)**](https://github.com/facebookresearch/UnsupervisedDecomposition)
 
-:heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.]()  [**(preprint)**](https://arxiv.org/pdf/2009.10359.pdf) [**(paper)**]() [**(code and data)**](https://github.com/nju-websoft/GLRE)
 
-:heavy_minus_sign: [Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding. Jiaming Shen, Heng Ji and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.]()  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**]() [**(code)**](https://github.com/mickeystroller/StegaText)
 
-:heavy_minus_sign: [F^2-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax. Byung-Ju Choi, Jimin Hong, David Park and Sang Wan Lee.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [F^2-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax. Byung-Ju Choi, Jimin Hong, David Park and Sang Wan Lee.]()  [**(preprint)**](https://arxiv.org/pdf/2009.09417.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Cold-start Active Learning through Self-supervised Language Modeling. Michelle Yuan, Hsuan-Tien Lin and Jordan Boyd-Graber.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Cold-start Active Learning through Self-supervised Language Modeling. Michelle Yuan, Hsuan-Tien Lin and Jordan Boyd-Graber.]()  [**(preprint)**](https://arxiv.org/pdf/2010.09535.pdf) [**(paper)**]() [**(code)**](https://github.com/forest-snow/alps)
 
-:heavy_minus_sign: [DuSQL: A Large-Scale and Pragmatic Chinese Text-to-SQL Dataset. Lijie Wang, Ao Zhang, Kun Wu, Ke Sun, Zhenghua Li, Hua Wu, Min Zhang and Haifeng Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Ana Valeria González, Maria Barrett, Rasmus Hvingelby, Kellie Webster and Anders Søgaard.]()  [**(preprint)**](https://arxiv.org/pdf/2009.11982.pdf) [**(paper)**]() [**(code and data)**](https://github.com/anavaleriagonzalez/ABC-dataset)
 
-:heavy_minus_sign: [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Ana Valeria González, Maria Barrett, Rasmus Hvingelby, Kellie Webster and Anders Søgaard.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+---
+---
 
 :heavy_minus_sign: [VD-BERT: A Unified Vision and Dialog Transformer with BERT. Yue Wang, Shafiq Joty, Michael Lyu, Irwin King, Caiming Xiong and Steven C.H. Hoi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
