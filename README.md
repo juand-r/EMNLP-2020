@@ -387,9 +387,35 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 ---
 ###  [:top:](#selections-from-emnlp-2020) Natural Language Inference
 
+:heavy_minus_sign: [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training. Joe Stacey, Pasquale Minervini, Haim Dubossarsky, Sebastian Riedel and Tim Rocktäschel.]()  [**(preprint)**](https://arxiv.org/pdf/2004.07790.pdf) [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [What Can We Learn from Collective Human Opinions on Natural Language Inference Data?. Yixin Nie, Xiang Zhou and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference. Xiaoan Ding, Tianyu Liu, Baobao Chang, Zhifang Sui and Kevin Gimpel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [ConjNLI: Natural Language Inference Over Conjunctive Sentences. Swarnadeep Saha, Yixin Nie and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [An Analysis of Natural Language Inference Benchmarks through the Lens of Negation. Md Mosharaf Hossain, Venelin Kovatchev, Pranoy Dutta, Tiffany Kao, Elizabeth Wei and Eduardo Blanco.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning. Wanyun Cui, Guangyu Zheng and Wei Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Mining Knowledge for Natural Language Inference from Wikipedia Categories. Mingda Chen, Zewei Chu, Karl Stratos and Kevin Gimpel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Temporal Reasoning in Natural Language Inference. Siddharth Vashishtha, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme and Aaron Steven White.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Enhancing Generalization in Natural Language Inference by Syntax. Qi He, Han Wang and Yue Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+**NLI for languages other than English:**
+
+:heavy_minus_sign: [Data and Representation for Turkish Natural Language Inference. Emrah Budur, Rıza Özçelik, Tunga Gungor and Christopher Potts.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) OCNLI: Original Chinese Natural Language Inference. Hai Hu, Kyle Richardson, Liang Xu, Lu Li, Sandra Kübler and Lawrence Moss.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Emergent Language in Multi-Agent Communication
+
+
 
 
 ---
@@ -532,7 +558,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training. Joe Stacey, Pasquale Minervini, Haim Dubossarsky, Sebastian Riedel and Tim Rocktäschel.]()  [**(preprint)**](https://arxiv.org/pdf/2004.07790.pdf) [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Exploring Logically Dependent Multi-task Learning with Causal Inference. Wenqing Chen, Jidong Tian, Liqiang Xiao, Hao He and Yaohui Jin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -877,7 +903,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**Entities as Experts: Sparse Memory Access with Entity Supervision**. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [What Can We Learn from Collective Human Opinions on Natural Language Inference Data?. Yixin Nie, Xiang Zhou and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction. Xuming Hu, Lijie Wen, Yusong Xu, Chenwei Zhang and Philip Yu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -972,7 +997,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Latent Geographical Factors for Analyzing the Evolution of Dialects in Contact. Yugo Murawaki.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference. Xiaoan Ding, Tianyu Liu, Baobao Chang, Zhifang Sui and Kevin Gimpel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models. Jonathan Pilault, Raymond Li, Sandeep Subramanian and Chris Pal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1150,9 +1176,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [ConjNLI: Natural Language Inference Over Conjunctive Sentences. Swarnadeep Saha, Yixin Nie and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [An Analysis of Natural Language Inference Benchmarks through the Lens of Negation. Md Mosharaf Hossain, Venelin Kovatchev, Pranoy Dutta, Tiffany Kao, Elizabeth Wei and Eduardo Blanco.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Fast semantic parsing with well-typedness guarantees. Matthias Lindemann, Jonas Groschwitz and Alexander Koller.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1268,7 +1291,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace and Sameer Singh.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Data and Representation for Turkish Natural Language Inference. Emrah Budur, Rıza Özçelik, Tunga Gungor and Christopher Potts.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [Routing Enforced Generative Model for Recipe Generation. Zhiwei Yu, Hongyu Zang and Xiaojun Wan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1428,7 +1452,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Entity Linking in 100 Languages. Jan A. Botha, Zifei Shan and Daniel Gillick.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference. Jianguo Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations. Gábor Berend.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1436,7 +1460,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning. Wanyun Cui, Guangyu Zheng and Wei Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [SLURP: A Spoken Language Understanding Resource Package. Emanuele Bastianelli, Andrea Vanzo, Pawel Swietojanski and Verena Rieser.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2287,9 +2311,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) A Semantics-based Approach to Disclosure Classification in User-Generated Online Content. Chandan Akiti, Anna squicciarini and Sarah Rajtmajer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Mining Knowledge for Natural Language Inference from Wikipedia Categories. Mingda Chen, Zewei Chu, Karl Stratos and Kevin Gimpel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) OCNLI: Original Chinese Natural Language Inference. Hai Hu, Kyle Richardson, Liang Xu, Lu Li, Sandra Kübler and Lawrence Moss.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Margin-aware Unsupervised Domain Adaptation for Cross-lingual Text Labeling. Dejiao Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2634,8 +2655,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Effects of Naturalistic Variation in Goal-Oriented Dialog. Jatin Ganhotra, Robert Moore, Sachindra Joshi and Kahini Wadhawan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Temporal Reasoning in Natural Language Inference. Siddharth Vashishtha, Adam Poliak, Yash Kumar Lal, Benjamin Van Durme and Aaron Steven White.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese. Anh Tuan Nguyen, Mai Hoang Dao and Dat Quoc Nguyen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -2683,5 +2702,4 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Dual Inference for Improving Language Understanding and Generation. Shang-Yu Su, Yung-Sung Chuang and Yun-Nung Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Enhancing Generalization in Natural Language Inference by Syntax. Qi He, Han Wang and Yue Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
