@@ -332,10 +332,47 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 ###  [:top:](#selections-from-emnlp-2020) Text Classification
 
+
+
+**Robust text classification:**
+
+:heavy_minus_sign: [(Findings) **Identifying Spurious Correlations for Robust Text Classification.** Zhao Wang and Aron Culotta.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Assessing Robustness of Text Classification through Maximal Safe Radius Computation. Emanuele La Malfa et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+**Large-scale text classification:**
+
+:heavy_minus_sign: [(Findings) Multi-pretraining for Large-scale Text Classification. Kang-Min Kim, Bumsu Hyeon, Yeachan Kim, Jun-Hyung Park and SangKeun Lee.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels. Ilias Chalkidis et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+**Other:**
+
+:heavy_minus_sign: [(Findings) Balancing via Generation for Multi-Class Text Classification Improvement. Naama Tepper et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification. Wenshuo Yang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Task-oriented Domain-specific Meta-Embedding for Text Classification. Xin Wu, Yi Cai, Yang Kai, Tao Wang and Qing Li.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Less is More: Attention Supervision with Counterfactuals for Text Classification. Seungtaek Choi, Haeju Park, Jinyoung Yeo and Seung-won Hwang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [**Towards More Accurate Uncertainty Estimation In Text Classification**. Jianfeng He, Xuchao Zhang, Shuo Lei, Zhiqian Chen, Fanglan Chen, Abdulaziz Alhamadani, Bei Xiao and ChangTien Lu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification. Kaize Ding, Jianling Wang, Jundong Li, Dingcheng Li and Huan Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Adversarial Self-Supervised Data-Free Distillation for Text Classification. Xinyin Ma, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia and Weiming Lu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Text Classification Using Label Names Only: A Language Model Self-Training Approach. Yu Meng, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [FIND: Human-in-the-Loop Debugging Deep Text Classifiers. Piyawat Lertvittayakumjorn, Lucia Specia and Francesca Toni.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
+
 ---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
 
 :heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Knowledge Graphs
@@ -438,7 +475,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Be More with Less: Hypergraph Attention Networks for Inductive Text Classification. Kaize Ding, Jianling Wang, Jundong Li, Dingcheng Li and Huan Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Double Graph Based Reasoning for Document-level Relation Extraction. Shuang Zeng, Runxin Xu, Baobao Chang and Lei Li.]()  [**(preprint)**](https://arxiv.org/pdf/2009.13752.pdf) [**(paper)**]() [**(code)**](https://github.com/DreamInvoker/GAIN)
 
@@ -516,14 +553,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-
-:heavy_minus_sign: [Adversarial Self-Supervised Data-Free Distillation for Text Classification. Xinyin Ma, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia and Weiming Lu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Extracting Implicitly Asserted Propositions in Argumentation. Yohan Jo, Jacky Visser, Chris Reed and Eduard Hovy.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Towards More Accurate Uncertainty Estimation In Text Classification. Jianfeng He, Xuchao Zhang, Shuo Lei, Zhiqian Chen, Fanglan Chen, Abdulaziz Alhamadani, Bei Xiao and ChangTien Lu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Non-Autoregressive Machine Translation with Latent Alignments. Chitwan Saharia, William Chan, Saurabh Saxena and Mohammad Norouzi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -675,6 +709,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance. jianquan li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang and yaohong jin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [A Diagnostic Study of Explainability Techniques for Text Classification. Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -864,7 +900,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 
-:heavy_minus_sign: [Text Classification Using Label Names Only: A Language Model Self-Training Approach. Yu Meng, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Interpretation of NLP models through input marginalization. Siwon Kim, Jihun Yi, Eunji Kim and Sungroh Yoon.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1034,7 +1070,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [An Empirical Study on Large-Scale Multi-Label Text Classification Including Few and Zero-Shot Labels. Ilias Chalkidis et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1294,7 +1330,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Entity Enhanced BERT Pre-training for Chinese NER. Chen Jia, Yuefeng Shi, Qinrong Yang and Yue Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [FIND: Human-in-the-Loop Debugging Deep Text Classifiers. Piyawat Lertvittayakumjorn, Lucia Specia and Francesca Toni.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1318,7 +1354,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French. AmirAli Bagher Zadeh, Yansheng Cao, Simon Hessner, Paul Pu Liang, Soujanya Poria and Louis-Philippe Morency.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Less is More: Attention Supervision with Counterfactuals for Text Classification. Seungtaek Choi, Haeju Park, Jinyoung Yeo and Seung-won Hwang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Unsupervised Stance Detection for Arguments from Consequences. Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1660,7 +1696,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Exploring the Role of Argument Structure in Online Debate Persuasion. Jialu Li, Esin Durmus and Claire Cardie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Task-oriented Domain-specific Meta-Embedding for Text Classification. Xin Wu, Yi Cai, Yang Kai, Tao Wang and Qing Li.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1764,7 +1800,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [HSCNN: A Hybrid-Siamese Convolutional Neural Network for Extremely Imbalanced Multi-label Text Classification. Wenshuo Yang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [**Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1999,7 +2036,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Privacy-Preserving News Recommendation Model Learning. Tao Qi, Fangzhao Wu, Chuhan Wu, Yongfeng Huang and Xing Xie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Balancing via Generation for Multi-Class Text Classification Improvement. Naama Tepper et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization. Zhengyuan Liu, Ke Shi and Nancy Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2077,7 +2113,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Chunk-based Chinese Spelling Check with Global Optimization. Zuyi Bao, Chen Li and Rui Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Multi-pretraining for Large-scale Text Classification. Kang-Min Kim, Bumsu Hyeon, Yeachan Kim, Jun-Hyung Park and SangKeun Lee.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) End-to-End Speech Recognition and Disfluency Removal. Paria Jamshid Lou and Mark Johnson.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2181,7 +2216,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [(Findings) Assessing Robustness of Text Classification through Maximal Safe Radius Computation. Emanuele La Malfa et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) Social Commonsense Reasoning with Multi-Head Knowledge Attention. Debjit Paul and Anette Frank.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2242,7 +2277,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA. Nora Kassner and Hinrich Schütze.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Identifying Spurious Correlations for Robust Text Classification. Zhao Wang and Aron Culotta.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
