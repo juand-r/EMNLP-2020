@@ -4,7 +4,7 @@
 
 ### Selections from EMNLP 2020
 
-This contains a selection of papers from  EMNLP 2020. Some papers are missing on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis
+This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented Dialogue, Morphology.
 
 
 Schedule: https://2020.emnlp.org/schedule
@@ -504,21 +504,21 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [On the Reliability and Validity of Detecting Approval of Political Actors in Tweets. Indira Sen, Fabian Flöck and Claudia Wagner.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
+:heavy_minus_sign: [Unsupervised Discovery of Implicit Gender Bias. Anjalie Field and Yulia Tsvetkov.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 :heavy_minus_sign: [Multi-Dimensional Gender Bias Classification. Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela and Adina Williams.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Modeling the Music Genre Perception across Language-Bound Cultures. Elena V. Epure, Guillaume Salha, Manuel Moussallam and Romain Hennequin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Word class flexibility: A deep contextualized approach. Bai Li, Guillaume Thomas, Yang Xu and Frank Rudzicz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Word class flexibility: A deep contextualized approach**. Bai Li, Guillaume Thomas, Yang Xu and Frank Rudzicz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Vector-Vector-Matrix Architecture: A Novel Hardware-Aware Framework for Low-Latency Inference in NLP Applications. Matthew Khoury, Rumen Dangovski, Longwu Ou, Preslav Nakov, Yichen Shen and Li Jing.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Multilevel Text Alignment with Cross-Document Attention. Xuhui Zhou, Nikolaos Pappas and Noah A. Smith.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [COMET: A Neural Framework for MT Evaluation. Ricardo Rei, Craig Stewart, Ana C Farinha and Alon Lavie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Unsupervised Discovery of Implicit Gender Bias. Anjalie Field and Yulia Tsvetkov.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**COMET: A Neural Framework for MT Evaluation**. Ricardo Rei, Craig Stewart, Ana C Farinha and Alon Lavie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing. Xilun Chen, Asish Ghoshal, Yashar Mehdad, Luke Zettlemoyer and Sonal Gupta.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -540,7 +540,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Can Automatic Post-Editing Improve NMT?. Shamil Chollampatt, Raymond Hendy Susanto, Liling Tan and Ewa Szymanska.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference. Bang An, Jie Lyu, Zhenyi Wang, Chunyuan Li, Changwei Hu, Fei Tan, Ruiyi Zhang, Yifan Hu and Changyou Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference**. Bang An, Jie Lyu, Zhenyi Wang, Chunyuan Li, Changwei Hu, Fei Tan, Ruiyi Zhang, Yifan Hu and Changyou Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [TeaForN: Teacher-Forcing with N-grams. Sebastian Goodman, Nan Ding and Radu Soricut.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -548,7 +548,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations. Lingzhi Wang, Jing Li, Xingshan Zeng, Haisong Zhang and Kam-Fai Wong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Acrostic Poem Generation. Rajat Agarwal and Katharina Kann.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Acrostic Poem Generation**. Rajat Agarwal and Katharina Kann.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. Haozhe Ji, Pei Ke, Shaohan Huang, Furu Wei, Xiaoyan Zhu and Minlie Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -556,9 +556,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [A Joint Multiple Criteria Model in Transfer Learning for Cross-domain Chinese Word Segmentation. Kaiyu Huang, Degen Huang, Zhuang Liu and Fengran Mo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Information-Theoretic Probing with Minimum Description Length. Elena Voita and Ivan Titov.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training. Wanwei He, Min Yang, Rui Yan, Chengming Li, Ying Shen and Ruifeng Xu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Information-Theoretic Probing with Minimum Description Length**. Elena Voita and Ivan Titov.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]() [**(video - NLP with Friends)**](https://www.youtube.com/watch?v=27eWB8IYc1A)
 
 :heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -591,8 +589,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving. Qinzhuo Wu, Qi Zhang, Jinlan Fu and Xuanjing Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Knowledge Association with Hyperbolic Knowledge Graph Embeddings. Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai and Wei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues. Hung Le, Doyen Sahoo, Chenghao Liu, Nancy Chen and Steven C.H. Hoi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation. Francisco Vargas and Ryan Cotterell.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -638,8 +634,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [What time is it? Temporal Analysis of Novels. Allen Kim, Charuta Pethe and Steve Skiena.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems. Shiquan Yang, Rui Zhang and Sarah Erfani.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [BERT-enhanced Relational Sentence Ordering Network. Baiyun Cui, Yingming Li and Zhongfei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation. Dana Ruiter, Josef van Genabith and Cristina España-Bonet.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -651,8 +645,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Neural Deepfake Detection with Factual Structure of Text. Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Towards Interpretable Reasoning over Paragraph Effects in Situation. Mucheng Ren, Xiubo Geng, Tao QIN, Heyan Huang and Daxin Jiang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue. Chien-Sheng Wu, Steven C.H. Hoi, Richard Socher and Caiming Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Top-Rank-Focused Adaptive Vote Collection for the Evaluation of Domain-Specific Semantic Models. Pierangelo Lombardo, Alessio Boiardi, Luca Colombo, Angelo Schiavone and Nicolò Tamagnone.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -720,13 +712,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation. Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Plug and Play Autoencoders for Conditional Text Generation. Florian Mai, Nikolaos Pappas, Ivan Montero, Noah A. Smith and James Henderson.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Surprisal Predicts Code-Switching in Chinese-English Bilingual Text. Jesús Calvillo, Le Fang, Jeremy Cole and David Reitter.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Plug and Play Autoencoders for Conditional Text Generation**. Florian Mai, Nikolaos Pappas, Ivan Montero, Noah A. Smith and James Henderson.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. Tara Safavi and Danai Koutra.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Parsing via Constituency Tests. Steven Cao, Nikita Kitaev and Dan Klein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Unsupervised Parsing via Constituency Tests**. Steven Cao, Nikita Kitaev and Dan Klein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [An Imitation Game for Learning Semantic Parsers from User Interaction. Ziyu Yao, Yiqi Tang, Wen-tau Yih, Huan Sun and Yu Su.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -738,7 +728,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Cross Copy Network for Dialogue Generation. Changzhen Ji, Xin Zhou, Yating Zhang, Xiaozhong Liu, Changlong Sun, Conghui Zhu and Tiejun Zhao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Entities as Experts: Sparse Memory Access with Entity Supervision. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Entities as Experts: Sparse Memory Access with Entity Supervision**. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [What Can We Learn from Collective Human Opinions on Natural Language Inference Data?. Yixin Nie, Xiang Zhou and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -748,7 +738,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Pareto Probing: Trading Off Accuracy for Complexity. Tiago Pimentel, Naomi Saphra, Adina Williams and Ryan Cotterell.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Understanding the Difficulty of Training Transformers. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Understanding the Difficulty of Training Transformers**. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Conversational Semantic Parsing for Dialog State Tracking. Jianpeng Cheng et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -762,9 +752,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [AmbigQA: Answering Ambiguous Open-domain Questions. Sewon Min, Julian Michael, Hannaneh Hajishirzi and Luke Zettlemoyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Reformulating Unsupervised Style Transfer as Paraphrase Generation. Kalpesh Krishna, John Wieting and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [CancerEmo: A Dataset for Fine-Grained Emotion Detection. Tiberiu Sosea and Cornelia Caragea.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems. Lishan Huang, Zheng Ye, Jinghui Qin, Liang Lin and Xiaodan Liang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -772,13 +760,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Interpretation of NLP models through input marginalization. Siwon Kim, Jihun Yi, Eunji Kim and Sungroh Yoon.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models. Isabel Papadimitriou and Dan Jurafsky.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models**. Isabel Papadimitriou and Dan Jurafsky.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading. Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq Joty, Steven C.H. Hoi, Caiming Xiong, Irwin King and Michael Lyu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Hate-Speech and Offensive Language Detection in Roman Urdu. Hammad Rizwan, Muhammad Haroon Shakeel and Asim Karim.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training. Kristjan Arumae, Qing Sun and Parminder Bhatia.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -790,9 +776,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques. Rexhina Blloshmi, Rocco Tripodi and Roberto Navigli.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Probing Task-Oriented Dialogue Representation from Language Models. Chien-Sheng Wu and Caiming Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction. Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -805,8 +789,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Accurate Word Alignment Induction from Neural Machine Translation. Yun Chen, Yang Liu, Guanhua Chen, Xin Jiang and Qun Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [RiSAWOZ: A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling. Jun Quan, Shian Zhang, Qian Cao, Zizhong Li and Deyi Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph. Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -850,8 +832,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Don't Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering. Yuxiang Wu, Sebastian Riedel, Pasquale Minervini and Pontus Stenetorp.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems. Zhaojiang Lin, Andrea Madotto, Genta Indra Winata and Pascale Fung.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Online Conversation Disentanglement with Pointer Networks. Tao Yu and Shafiq Joty.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -860,13 +840,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [SLM: Learning a Discourse Language Representation with Sentence Unshuffling. Haejun Lee, Drew A. Hudson, Kangwook Lee and Christopher D. Manning.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Are All Good Word Vector Spaces Isomorphic?. Ivan Vulić, Sebastian Ruder and Anders Søgaard.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Are All Good Word Vector Spaces Isomorphic?**. Ivan Vulić, Sebastian Ruder and Anders Søgaard.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [New Protocols and Negative Results for Textual Entailment Data Collection. Samuel R. Bowman, Jennimaria Palomaki, Livio Baldini Soares and Emily Pitler.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation. Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation**. Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT. Rik van Noord, Antonio Toral and Johan Bos.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -892,7 +872,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [De-Biased Court’s View Generation with Causality. Yiquan Wu, Kun Kuang, Yating Zhang, Xiaozhong Liu, Changlong Sun, Jun Xiao, Yueting Zhuang, Luo Si and Fei Wu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification**. Sen et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Personal Information Leakage Detection in Conversations. Qiongkai Xu, Lizhen Qu, Zeyu Gao and Gholamreza Haffari.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -908,8 +888,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts. Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Automatic Extraction of Rules Governing Morphological Agreement. Aditi Chaudhary, Antonios Anastasopoulos, Adithya Pratapa, David R. Mortensen, Zaid Sheikh, Yulia Tsvetkov and Graham Neubig.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes. Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel and Claudio Pinhanez.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Textual Data Augmentation for Efficient Active Learning on Tiny Datasets. Husam Quteineh, Spyridon Samothrakis and Richard Sutcliffe.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -920,7 +898,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks. Wanqiu Long, Bonnie Webber and Deyi Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Exploring and Predicting Transferability across NLP Tasks. Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji and Mohit Iyyer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -930,7 +908,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs. Marius Pasca.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks. Denis Emelin, Ivan Titov and Rico Sennrich.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. Denis Emelin, Ivan Titov and Rico Sennrich.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Generating Fact Checking Briefs. Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes and Sebastian Riedel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -940,13 +918,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multi-Fact Correction in Abstractive Text Summarization. Yue Dong, Shuohang Wang, Zhe Gan, Yu Cheng, Jackie Chi Kit Cheung and Jingjing Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures. Haim Dubossarsky, Ivan Vulić, Roi Reichart and Anna Korhonen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures**. Haim Dubossarsky, Ivan Vulić, Roi Reichart and Anna Korhonen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning. Liying Cheng, Lidong Bing, Qian Yu, Wei Lu and Luo Si.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset. Song Feng, Hui Wan, Chulaka Gunasekara, Siva Patel, Sachindra Joshi and Luis Lastras.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Direct Segmentation Models for Streaming Speech Translation. Javier Iranzo-Sánchez, Adrià Giménez Pastor, Joan Albert Silvestre-Cerdà, Pau Baquero-Arnal, Jorge Civera Saiz and Alfons Juan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -960,8 +936,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision. Patrick Huber and Giuseppe Carenini.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Learning to Pronounce Chinese Without a Pronunciation Dictionary. Christopher Chu, Scot Fang and Kevin Knight.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Parallel Interactive Networks for Multi-Domain Dialogue State Generation. Junfan Chen, Richong Zhang, Yongyi Mao and Jie Xu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -970,15 +944,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Solving Historical Dictionary Codes with a Neural Language Model. Christopher Chu, Raphael Valenti and Kevin Knight.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Digital Voicing of Silent Speech. David Gaddy and Dan Klein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [DORB: Dynamically Optimizing Multiple Rewards with Bandits. Ramakanth Pasunuru, Han Guo and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations. Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa and Rajiv Ratn Shah.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. Harsh Jhamtani and Peter Clark.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [With Little Power Comes Great Responsibility. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**With Little Power Comes Great Responsibility**. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation. Bianca Scarlini, Tommaso Pasini and Roberto Navigli.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1040,8 +1012,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Online Back-Parsing for AMR-to-Text Generation. Xuefeng Bai, Linfeng Song and Yue Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [DagoBERT: Generating Derivational Morphology with a Pretrained Language Model. Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning. Ye Liu, Sheng Zhang, Rui Song, Suo Feng and Yanghua Xiao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Do sequence-to-sequence VAEs learn global features of sentences?. Tom Bosc and Pascal Vincent.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -1088,7 +1058,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning. Xiaoxiao Guo, Mo Yu, Yupeng Gao, Chuang Gan, Murray Campbell and Shiyu Chang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Which *BERT? A Survey Organizing Contextualized Encoders. Patrick Xia, Shijie Wu and Benjamin Van Durme.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Which *BERT? A Survey Organizing Contextualized Encoders**. Patrick Xia, Shijie Wu and Benjamin Van Durme.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [An Empirical Study of Generation Order for Machine Translation. William Chan, Mitchell Stern, Jamie Kiros and Jakob Uszkoreit.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1097,8 +1067,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Training Question Answering Models From Synthetic Data. Raul Puri, Ryan Spring, Mohammad Shoeybi, Mostofa Patwary and Bryan Catanzaro.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Dense Passage Retrieval for Open-Domain Question Answering. Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen and Wen-tau Yih.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Template Guided Text Generation for Task-Oriented Dialogue. Mihir Kale and Abhinav Rastogi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Compositional Demographic Word Embeddings. Charles Welch, Jonathan K. Kummerfeld, Verónica Pérez-Rosas and Rada Mihalcea.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1262,7 +1230,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning. Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios. Ramy Eskander, Smaranda Muresan and Michael Collins.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios.** Ramy Eskander, Smaranda Muresan and Michael Collins.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1337,8 +1305,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Causal Inference of Script Knowledge. Noah Weber, Rachel Rudinger and Benjamin Van Durme.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [VCDM: Leveraging Variational Bi-encoding and Deep Contextualized Word Representations for Improved Definition Modeling. Machel Reid, Edison Marrese-Taylor and Yutaka Matsuo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning. Yichi Zhang, Zhijian Ou, Min Hu and Junlan Feng.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Wasserstein Distance Regularized Sequence Representation for Text Matching in Asymmetrical Domains. Weijie Yu, Chen Xu, Jun Xu, Liang Pang, Xiaopeng Gao, Xiaozhao Wang and Ji-Rong Wen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1520,8 +1486,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Incremental Neural Coreference Resolution in Constant Memory. Patrick Xia, João Sedoc and Benjamin Van Durme.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [The importance of fillers for text representations of speech transcripts. Tanvi Dinkar, Pierre Colombo, Matthieu Labeau and Chloé Clavel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [Table Fact Verification with Structure-Aware Transformer. Hongzhi Zhang, Yingyao Wang, Sirui Wang, Xuezhi Cao, Fuzheng Zhang and Zhongyuan Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -1533,8 +1497,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems. Jindřich Libovický and Alexander Fraser.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [An Element-aware Multi-representation Model for Law Article Prediction. Huilin Zhong, Junsheng Zhou, Weiguang QU, Yunfei Long and Yanhui Gu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Keep it Surprisingly Simple: A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit. Amrith Krishna, Ashim Gupta, Deepak Garasangi, Pavankumar Satuluri and Pawan Goyal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages. Michael A. Hedderich, David Adelani, Dawei Zhu, Jesujoba Alabi, Udia Markus and Dietrich Klakow.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1638,7 +1600,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Factual Error Correction for Abstractive Summarization Models. Meng Cao, Yue Dong, Jiapeng Wu and Jackie Chi Kit Cheung.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing. Piotr Szymański and Kyle Gorman.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Do Explicit Alignments Robustly Improve Multilingual Encoders?. Shijie Wu and Mark Dredze.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1685,8 +1647,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [LOGAN: Local Group Bias Detection by Clustering. Jieyu Zhao and Kai-Wei Chang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [Effectively pretraining a speech translation decoder with Machine Translation data. Ashkan Alinejad and Anoop Sarkar.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1776,8 +1736,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) An Attentive Recurrent Model for Incremental Prediction of Sentence-final Verbs. Wenyan Li, Alvin Grissom II and Jordan Boyd-Graber.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Converting the Point of View of Messages Spoken to Virtual Assistants. Gunhee Lee, Vera Zu, Sai Srujana Buddi, Dennis Liang, Purva Kulkarni and Jack FitzGerald.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Few-shot Natural Language Generation for Task-Oriented Dialog. Baolin Peng, Chenguang Zhu, Chunyuan Li, Xiujun Li, Jinchao Li, Michael Zeng and Jianfeng Gao.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Mimic and Conquer: Heterogeneous Tree Structure Distillation for Syntactic NLP. Hao Fei, Yafeng Ren and Donghong Ji.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1873,10 +1831,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Improving QA Generalization by Concurrent Modeling of Multiple Biases. Mingzhu Wu, Nafise Sadat Moosavi, Andreas Rücklé and Iryna Gurevych.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Actor-Double-Critic: Incorporating Model-Based Critic for Task-Oriented Dialogue Systems. Yen-chen Wu, Bo-Hsiang Tseng and Milica Gasic.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) AirConcierge: Generating Task-Oriented Dialogue via Efficient Large-Scale Knowledge Retrieval. Chieh-Yang Chen et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding. Zilong Wang, Mingjie Zhan, xuebo liu and ding liang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) A Study in Improving BLEU Reference Coverage with Diverse Automatic Paraphrasing. Rachel Bawden, Biao Zhang, Lisa Yankovskaya, Andre Tättar and Matt Post.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -1910,8 +1864,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) Undersensitivity in Neural Reading Comprehension. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding. Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu and Jingyang Li.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Learning Robust and Multilingual Speech Representations. Kazuya Kawakami, Luyu Wang, Chris Dyer, Phil Blunsom and Aaron van den Oord.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) FQuAD: French Question Answering Dataset. Martin D'Hoffschmidt, Wacim Belblidia, Quentin Heinrich, Tom Brendlé and Maxime Vidal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2069,8 +2021,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers. Marius Mosbach et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Adaptive Feature Selection for End-to-End Speech Translation. Biao Zhang, Ivan Titov, Barry Haddow and Rico Sennrich.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Abstractive Multi-Document Summarization via Joint Learning with Single-Document Summarization. Hanqi Jin and Xiaojun Wan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Blockwise Self-Attention for Long Document Understanding. Jiezhong Qiu, Hao Ma, Omer Levy, Wen-tau Yih, Sinong Wang and Jie Tang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -2191,8 +2141,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Continual Learning for Natural Language Generation in Task-oriented Dialog Systems. Fei Mi, Liangwei Chen, Mengjie Zhao, Minlie Huang and Boi Faltings.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) UNQOVERing Stereotyping Biases via Underspecified Questions. Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Vivek Srikumar.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) A Semantics-based Approach to Disclosure Classification in User-Generated Online Content. Chandan Akiti, Anna squicciarini and Sarah Rajtmajer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -2202,8 +2150,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) OCNLI: Original Chinese Natural Language Inference. Hai Hu, Kyle Richardson, Liang Xu, Lu Li, Sandra Kübler and Lawrence Moss.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Margin-aware Unsupervised Domain Adaptation for Cross-lingual Text Labeling. Dejiao Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems. Ziming Li, Julia Kiseleva and Maarten de Rijke.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Accurate polyglot semantic parsing with DAG grammars. Federico Fancellu, Ákos Kádár, Ran Zhang and Afsaneh Fazly.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2308,8 +2254,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) **What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models. Wietse de Vries et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?. Peter Hase et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) A Pointer Network Architecture for Joint Morphological Segmentation and Tagging. Amit Seker and Reut Tsarfaty.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Beyond Language: Learning Commonsense from Images for Reasoning. Wanqing Cui, Yanyan Lan, Liang Pang, Jiafeng Guo and Xueqi Cheng.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
