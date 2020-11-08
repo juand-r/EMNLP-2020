@@ -52,6 +52,8 @@ Schedule: https://2020.emnlp.org/schedule
   - [Scientific Text Mining](#top-scientific-text-mining)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
+  - [Gender Bias](#top-gender-bias)
+
 
 ## [General Remarks](#selections-from-emnlp-2020)
 
