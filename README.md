@@ -24,7 +24,8 @@ Schedule: https://2020.emnlp.org/schedule
   - [Discourse](#top-discourse)
   - [Explainability](#top-explainability)
   - [Adversarial ML](#top-adversarial-ml)
-  - [Commonsense Reasoning](#top-commonsense-reasoning)
+  - [Commonsense Reasoning and Question Answering](#top-commonsense-reasoning-and-question-answering)
+    - [Visual Question Answering](#top-visual-question-answering)
   - [Learning with Less Data](#top-learning-with-less-data)
   - [Language Models and Transformers](#top-language-models-and-transformers)
   - [Embeddings](#top-embeddings)
@@ -203,9 +204,72 @@ See also the [**1st Workshop on Computational Approaches to Discourse (CODI)**](
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning
+###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning and Question Answering
 
 :boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**]() [**(code)**](https://github.com/vered1986/self_talk)
+
+:heavy_minus_sign: [More Bang for Your Buck: Natural Perturbation for Robust Question Answering. Daniel Khashabi, Tushar Khot and Ashish Sabharwal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering. Pratyay Banerjee and Chitta Baral.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
+:heavy_minus_sign: [(Findings) Event Extraction as Multi-turn Question Answering. Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Zero-Shot Rationalization by Multi-Task Transfer Learning from Question Answering. Po-Nien Kung, Tse-Hsuan Yang, Yi-Cheng Chen, Sheng-Siang Yin and Yun-Nung Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Question Answering with Long Multiple-Span Answers. Ming Zhu, Aman Ahuja, Da-Cheng Juan, Wei Wei and Chandan K Reddy.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering. Peifeng Wang, Nanyun Peng, Filip Ilievski, Pedro Szekely and Xiang Ren.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion. Jiale Han, Bo Cheng and Xu Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
+:heavy_minus_sign: [Hierarchical Graph Network for Multi-hop Question Answering. Yuwei Fang, Siqi Sun, Zhe Gan, Rohit Pillai, Shuohang Wang and Jingjing Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Context-Aware Answer Extraction in Question Answering. Yeon Seonwoo, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Question Decomposition for Question Answering. Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho and Douwe Kiela.]()  [**(preprint)**](https://arxiv.org/pdf/2002.09758.pdf&nbsp;&hellip) [**(paper)**]() [**(code)**](https://github.com/facebookresearch/UnsupervisedDecomposition)
+
+:heavy_minus_sign: [STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering. Hrituraj Singh and Sumit Shekhar.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Look at the First Sentence: Position Bias in Question Answering. Miyoung Ko, Jinhyuk Lee, Hyunjae Kim, Gangwoo Kim and Jaewoo Kang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Don't Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering. Yuxiang Wu, Sebastian Riedel, Pasquale Minervini and Pontus Stenetorp.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [What do Models Learn from Question Answering Datasets?. Priyanka Sen and Amir Saffari.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Learning a Cost-Effective Annotation Policy for Question Answering. Bernhard Kratzwald, Stefan Feuerriegel and Huan Sun.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Training Question Answering Models From Synthetic Data. Raul Puri, Ryan Spring, Mohammad Shoeybi, Mostofa Patwary and Bryan Catanzaro.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Dense Passage Retrieval for Open-Domain Question Answering. Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen and Wen-tau Yih.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Adaptation of Question Answering Systems via Generative Self-training. Steven Rennie, Etienne Marcheret, Neil Mallinar, David Nahamoo and Vaibhava Goel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning. Yuncheng Hua, Yuan-Fang Li, Gholamreza Haffari, Guilin Qi and Tongtong Wu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming Cui, Ting Liu, Shijin Wang and Guoping Hu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
+
+
+####  [:top:](#selections-from-emnlp-2020) Visual Question Answering
+
+:heavy_minus_sign: [(Findings) Visuo-Linguistic Question Answering (VLQA) Challenge. Shailaja Keyur Sampat, Yezhou Yang and Chitta Baral.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering. Zujie Liang, Weitao Jiang, Haifeng Hu and Jiaying Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [MUTANT: A Training Paradigm for **Out-of-Distribution Generalization** in Visual Question Answering. Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) Open-Ended Visual Question Answering by Multi-Modal **Domain Adaptation**. Yiming Xu, Lin Chen, Zhongwei Cheng, Lixin Duan and Jiebo Luo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) ConceptBert: Concept-Aware Representation for Visual Question Answering. François Gardères, Maryam Ziaeefard, baptiste abeloos and Freddy Lecue.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+:heavy_minus_sign: [(Findings) MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering. Aisha Urooj, Amir Mazaheri, Niels Da vitoria lobo and Mubarak Shah.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
@@ -542,7 +606,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [Unsupervised Question Decomposition for Question Answering. Ethan Perez, Patrick Lewis, Wen-tau Yih, Kyunghyun Cho and Douwe Kiela.]()  [**(preprint)**](https://arxiv.org/pdf/2002.09758.pdf&nbsp;&hellip) [**(paper)**]() [**(code)**](https://github.com/facebookresearch/UnsupervisedDecomposition)
+
 
 :heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.]()  [**(preprint)**](https://arxiv.org/pdf/2009.10359.pdf) [**(paper)**]() [**(code and data)**](https://github.com/nju-websoft/GLRE)
 
@@ -767,11 +831,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Knowledge Association with Hyperbolic Knowledge Graph Embeddings. Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai and Wei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 
-:heavy_minus_sign: [Context-Aware Answer Extraction in Question Answering. Yeon Seonwoo, Ji-Hoon Kim, Jung-Woo Ha and Alice Oh.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Few-Shot Learning for Opinion Summarization. Arthur Bražinskas, Mirella Lapata and Ivan Titov.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering. Hrituraj Singh and Sumit Shekhar.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [MultiCQA: Zero-Shot Transfer of Self-Supervised Text Matching Models on a Massive Scale. Andreas Rücklé, Jonas Pfeiffer and Iryna Gurevych.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -987,7 +1051,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment. Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu and Tat-Seng Chua.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Look at the First Sentence: Position Bias in Question Answering. Miyoung Ko, Jinhyuk Lee, Hyunjae Kim, Gangwoo Kim and Jaewoo Kang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Multi-Unit Transformers for Neural Machine Translation. Jianhao Yan, Fandong Meng and Jie Zhou.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1002,7 +1066,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [On Extractive and Abstractive Neural Document Summarization with Transformer Language Models. Jonathan Pilault, Raymond Li, Sandeep Subramanian and Chris Pal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Don't Read Too Much Into It: Adaptive Computation for Open-Domain Question Answering. Yuxiang Wu, Sebastian Riedel, Pasquale Minervini and Pontus Stenetorp.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1128,7 +1192,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multi-Step Inference for Reasoning Over Paragraphs. Jiangming Liu, Matt Gardner, Shay B. Cohen and Mirella Lapata.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [What do Models Learn from Question Answering Datasets?. Priyanka Sen and Amir Saffari.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Multi-resolution Annotations for Emoji Prediction. Weicheng Ma, Ruibo Liu, Lili Wang and Soroush Vosoughi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1144,7 +1208,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Learning a Cost-Effective Annotation Policy for Question Answering. Bernhard Kratzwald, Stefan Feuerriegel and Huan Sun.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1159,8 +1222,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. Sungho Jeon and Michael Strube.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1233,9 +1294,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Training Question Answering Models From Synthetic Data. Raul Puri, Ryan Spring, Mohammad Shoeybi, Mostofa Patwary and Bryan Catanzaro.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Dense Passage Retrieval for Open-Domain Question Answering. Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen and Wen-tau Yih.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Compositional Demographic Word Embeddings. Charles Welch, Jonathan K. Kummerfeld, Verónica Pérez-Rosas and Rada Mihalcea.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1251,7 +1311,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks. Lifu Tu, Tianyu Liu and Kevin Gimpel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering. Pratyay Banerjee and Chitta Baral.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1287,7 +1348,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Neural Topic Modeling with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Hierarchical Graph Network for Multi-hop Question Answering. Yuwei Fang, Siqi Sun, Zhe Gan, Rohit Pillai, Shuohang Wang and Jingjing Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace and Sameer Singh.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1432,7 +1493,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product. Tiangang Zhu, Yue Wang, Haoran Li, Youzheng Wu, Xiaodong He and Bowen Zhou.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Adaptation of Question Answering Systems via Generative Self-training. Steven Rennie, Etienne Marcheret, Neil Mallinar, David Nahamoo and Vaibhava Goel.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding. Yu-An Wang and Yun-Nung Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1442,7 +1503,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Generating Dialogue Responses from a Semantic Latent Space. Wei-Jen Ko, Avik Ray, Yilin Shen and Hongxia Jin.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering. Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Partially-Aligned Data-to-Text Generation with Distant Supervision. Zihao Fu, Bei Shi, Wai Lam, Lidong Bing and Zhiyuan Liu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1584,7 +1645,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [RethinkCWS: Is Chinese Word Segmentation a Solved Task?. Jinlan Fu, Pengfei Liu, Qi Zhang and Xuanjing Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning. Yuncheng Hua, Yuan-Fang Li, Gholamreza Haffari, Guilin Qi and Tongtong Wu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Re-examining the Role of Schema Linking in Text-to-SQL. Wenqiang Lei, Weixin Wang, Zhixin MA, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1638,7 +1699,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games. Subhajit Chaudhury et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming Cui, Ting Liu, Shijin Wang and Guoping Hu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [Reusing a Pretrained Language Model on Languages with Limited Corpora for Unsupervised NMT. Alexandra Chronopoulou, Dario Stojanovski and Alexander Fraser.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1660,7 +1720,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering. Zujie Liang, Weitao Jiang, Haifeng Hu and Jiaying Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [PatchBERT: Just-in-Time, Out-of-Vocabulary Patching. Sangwhan Moon and Naoaki Okazaki.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1790,7 +1849,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [More Bang for Your Buck: Natural Perturbation for Robust Question Answering. Daniel Khashabi, Tushar Khot and Ashish Sabharwal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data. .]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1932,7 +1991,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Control, Generate, Augment: A Scalable Framework for Multi-Attribute Text Generation. Giuseppe Russo, Nora Hollenstein, Claudiu Cristian Musat and Ce Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Open-Ended Visual Question Answering by Multi-Modal Domain Adaptation. Yiming Xu, Lin Chen, Zhongwei Cheng, Lixin Duan and Jiebo Luo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Dual Low-Rank Multimodal Fusion. Tao Jin, Siyu Huang, Yingming Li and Zhongfei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1944,7 +2002,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Claim Check-Worthiness Detection as Positive Unlabelled Learning. Dustin Wright and Isabelle Augenstein.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) ConceptBert: Concept-Aware Representation for Visual Question Answering. François Gardères, Maryam Ziaeefard, baptiste abeloos and Freddy Lecue.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
+
 
 :heavy_minus_sign: [(Findings) Bootstrapping a Crosslingual Semantic Parser. Tom Sherborne, Yumo Xu and Mirella Lapata.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -1996,7 +2055,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) A Multi-task Learning Framework for Opinion Triplet Extraction. Chen Zhang, Qiuchi Li, Dawei Song and benyou wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Event Extraction as Multi-turn Question Answering. Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) Improving QA Generalization by Concurrent Modeling of Multiple Biases. Mingzhu Wu, Nafise Sadat Moosavi, Andreas Rücklé and Iryna Gurevych.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2156,7 +2215,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing. Ke Wang, Jiayi Wang, Niyu Ge, Yangbin Shi, Yu Zhao and Kai Fan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Zero-Shot Rationalization by Multi-Task Transfer Learning from Question Answering. Po-Nien Kung, Tse-Hsuan Yang, Yi-Cheng Chen, Sheng-Siang Yin and Yun-Nung Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) The Role of Reentrancies in Abstract Meaning Representation Parsing. Marco Damonte, Ida Szubert, Shay B. Cohen and Mark Steedman.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2354,7 +2413,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Reevaluating Adversarial Examples in Natural Language. John Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji and Yanjun Qi.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Question Answering with Long Multiple-Span Answers. Ming Zhu, Aman Ahuja, Da-Cheng Juan, Wei Wei and Chandan K Reddy.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) It's not a Non-Issue: Negation as a Source of Error in Machine Translation. Md Mosharaf Hossain, Antonios Anastasopoulos, Eduardo Blanco and Alexis Palmer.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2384,7 +2442,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) SupMMD: A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy. Umanga Bista, Alexander Mathews, Aditya Menon and Lexing Xie.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering. Peifeng Wang, Nanyun Peng, Filip Ilievski, Pedro Szekely and Xiang Ren.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension. Xuguang Wang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2444,13 +2502,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Visuo-Linguistic Question Answering (VLQA) Challenge. Shailaja Keyur Sampat, Yezhou Yang and Chitta Baral.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Multi-hop Question Generation with Graph Convolutional Network. Dan Su, Yan Xu, Wenliang Dai, Ziwei Ji, Tiezheng Yu and Pascale Fung.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering. Aisha Urooj, Amir Mazaheri, Niels Da vitoria lobo and Mubarak Shah.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2558,7 +2616,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) **exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources. Wen Tai et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion. Jiale Han, Bo Cheng and Xu Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) **Inexpensive Domain Adaptation of Pretrained Language Models: Case Studies on Biomedical NER and Covid-19 QA. Nina Poerner et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
