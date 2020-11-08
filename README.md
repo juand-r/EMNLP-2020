@@ -205,7 +205,7 @@ See also the [**1st Workshop on Computational Approaches to Discourse (CODI)**](
 ---
 ###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning
 
-:heavy_minus_sign: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**]() [**(code)**](https://github.com/vered1986/self_talk)
+:boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**]() [**(code)**](https://github.com/vered1986/self_talk)
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
