@@ -2130,7 +2130,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Predicting Responses to Psychological Questionnaires from Participants’ Social Media Posts and Question Text Embeddings. Huy Vu et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) **Will it Unblend?. Yuval Pinter, Cassandra L. Jacobs and Jacob Eisenstein.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) **Will it Unblend? Yuval Pinter, Cassandra L. Jacobs and Jacob Eisenstein.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) CodeBERT: A Pre-Trained Model for Programming and Natural Languages. Zhangyin Feng et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
