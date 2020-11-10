@@ -206,7 +206,7 @@ See also the [**1st Workshop on Computational Approaches to Discourse (CODI)**](
 ---
 ###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning and Question Answering
 
-:boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**]() [**(code)**](https://github.com/vered1986/self_talk)
+:boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**]()  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.373.pdf) [**(code)**](https://github.com/vered1986/self_talk)
 
 :heavy_minus_sign: [More Bang for Your Buck: Natural Perturbation for Robust Question Answering. Daniel Khashabi, Tushar Khot and Ashish Sabharwal.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
