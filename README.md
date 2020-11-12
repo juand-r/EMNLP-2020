@@ -2019,9 +2019,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior. Zi Lin, Jeremiah Liu, Zi Yang, Nan Hua and Dan Roth.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.64.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Rethinking Self-Attention: Towards Interpretability in Neural Parsing. Khalil Mrini et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) A Linguistic Analysis of Visually Grounded Dialogues Based on Spatial Expressions. Takuma Udagawa, Takato Yamazaki and Akiko Aizawa.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.65.pdf) [**(code)**]()
+:heavy_minus_sign: [(Findings) Rethinking Self-Attention: Towards Interpretability in Neural Parsing. Khalil Mrini et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.65.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking. Su Zhu, Jieyu Li, Lu Chen and Kai Yu.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.68.pdf) [**(code)**]()
 
