@@ -2400,16 +2400,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Reference Language based Unsupervised Neural Machine Translation. Zuchao Li, Hai Zhao, Rui Wang, Masao Utiyama and Eiichiro Sumita.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-
-:heavy_minus_sign: [(Findings) Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder. Alvin Chan, Yi Tay, Yew-Soon Ong and Aston Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Assessing Human-Parity in Machine Translation on the Segment Level. Yvette Graham, Christian Federmann, Maria Eskevich and Barry Haddow.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels. Harris Chan, Jamie Kiros and William Chan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Factorized Transformer for Multi-Domain Neural Machine Translation. Yongchao Deng, Hongfei Yu, Heng Yu, Xiangyu Duan and Weihua Luo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Improving Named Entity Recognition with Attentive Ensemble of Syntactic Information. Yuyang Nie, Yuanhe Tian, Yan Song, Xiang Ao and Xiang Wan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines. Łukasz Borchmann et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2418,8 +2413,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis. Peiqin Lin and Meng Yang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Detecting Media Bias in News Articles using Gaussian Bias Distributions. Wei-Fan Chen, Khalid Al Khatib, Benno Stein and Henning Wachsmuth.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Looking inside Noun Compounds: Unsupervised Prepositional and Free Paraphrasing. Girishkumar Ponkiya, Rudra Murthy, Pushpak Bhattacharyya and Girish Palshikar.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) BERT for Monolingual and Cross-Lingual Reverse Dictionary. Hang Yan, Xiaonan Li, Xipeng Qiu and bocao deng.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2441,24 +2434,14 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Improving Limited Labeled Dialogue State Tracking with Self-Supervision. Chien-Sheng Wu, Steven C.H. Hoi and Caiming Xiong.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) PrivNet: Safeguarding Private Attributes in Transfer Learning for Recommendation. Guangneng Hu and Qiang Yang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) An Empirical Investigation of Beam-Aware Training in Supertagging. Renato Negrinho, Matthew R. Gormley and Geoff Gordon.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Decoding Language Spatial Relations to 2D Spatial Arrangements. Gorjan Radevski, Guillem Collell, Marie-Francine Moens and Tinne Tuytelaars.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Why and when should you pool? Analyzing Pooling in Recurrent Architectures. Pratyush Maini, Keshav Kolluru, Danish Pruthi and Mausam.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 
 
 :heavy_minus_sign: [(Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Multi-hop Question Generation with Graph Convolutional Network. Dan Su, Yan Xu, Wenliang Dai, Ziwei Ji, Tiezheng Yu and Pascale Fung.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 
 
 :heavy_minus_sign: [(Findings) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -2517,17 +2500,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Context-aware Stand-alone Neural Spelling Correction. Xiangci Li, Hairong Liu and Liang Huang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) A Novel Workflow for Accurately and Efficiently Crowdsourcing Predicate Senses and Argument Labels. Youxuan Jiang et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) KorNLI and KorSTS: New Benchmark Datasets for Korean Natural Language Understanding. Jiyeon Ham, Yo Joong Choe, Kyubyong Park, Ilji Choi and Hyungjoon Soh.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning. Zhaojiang Lin, Andrea Madotto and Pascale Fung.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases. Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang and Nitesh Chawla.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Learning to Stop: A Simple yet Effective Approach to Urban Vision-Language Navigation. Jiannan Xiang, Xin Wang and William Yang Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) PolicyQA: A Reading Comprehension Dataset for Privacy Policies. Wasi Ahmad, Jianfeng Chi, Yuan Tian and Kai-Wei Chang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Controlled Hallucinations: Learning to Generate Faithfully from Noisy Data. Katja Filippova.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2593,7 +2570,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-
 :heavy_minus_sign: [(Findings) Service-oriented Text-to-SQL Parsing. Wangsu Hu and Jilei Tian.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Sparse and Decorrelated Representations for Stable Zero-shot NMT. Bokyung Son and Sungwon Lyu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
@@ -2606,13 +2582,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Adapting Coreference Resolution to Twitter Conversations. Berfin Aktaş, Veronika Solopova, Annalena Kohnert and Manfred Stede.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) On Romanization for Model Transfer Between Scripts in Neural Machine Translation. Chantal Amrhein and Rico Sennrich.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) Answer Span Correction in Machine Reading Comprehension. Revanth Gangi Reddy, Md Arafat Sultan, Efsun Sarioglu Kayi, Rong Zhang, Vittorio Castelli and Avi Sil.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Zero-shot Entity Linking with Efficient Long Range Sequence Modeling. Zonghai Yao, Liangliang Cao and Huapu Pan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) An Investigation of Potential Function Designs for Neural CRF. Zechuan Hu, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
@@ -2656,17 +2628,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) More Embeddings, Better Sequence Labelers?. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [(Findings) A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese. Anh Tuan Nguyen, Mai Hoang Dao and Dat Quoc Nguyen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
 :heavy_minus_sign: [(Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) Query-Key Normalization for Transformers. Alex Henry, Prudhvi Raj Dachapally, Shubham Shantaram Pawar and Yuxuan Chen.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) How Can Self-Attention Networks Recognize Dyck-n Languages?. Javid Ebrahimi, Dhruv Gelda and Wei Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Training Flexible Depth Model by Multi-Task Learning for Neural Machine Translation. Qiang Wang, Tong Xiao and Jingbo Zhu.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: [(Findings) The birth of Romanian BERT. Stefan Dumitrescu, Andrei-Marius Avram and Sampo Pyysalo.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(Findings) How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?. Shayne Longpre, Yu Wang and Chris DuBois.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
