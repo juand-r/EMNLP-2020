@@ -8,7 +8,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 
 Schedule: https://2020.emnlp.org/schedule
+
 EMNLP papers: https://www.aclweb.org/anthology/events/emnlp-2020/
+
 Findings of ACL, EMNLP 2020 https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/
 
 - [General Remarks](#general-remarks)
