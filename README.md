@@ -74,7 +74,7 @@ Findings of ACL, EMNLP 2020 https://www.aclweb.org/anthology/volumes/2020.findin
 (Preslav Nakov, Giovanni Da San Martino)](https://propaganda.qcri.org/emnlp20-tutorial)
 > 
 > x
-- [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)]
+- [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)] [**(video)**](https://slideslive.com/38940830/t7-the-amazing-world-of-neural-language-generation)
 >
 > x
 - [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou
