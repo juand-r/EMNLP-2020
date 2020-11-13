@@ -1412,7 +1412,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.102.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Fact or Fiction: Verifying Scientific Claims. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
+:boom: [**Fact or Fiction: Verifying Scientific Claims**. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. Rujun Han, Yichao Zhou and Nanyun Peng.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.461.pdf) [**(code)**]()
 
