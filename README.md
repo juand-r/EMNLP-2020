@@ -153,7 +153,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 **Constituency parsing:**
 
-:heavy_minus_sign: ``[(Findings) Improving Constituency Parsing with Span Attention. Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang.]()  [**(preprint)**](https://arxiv.org/pdf/2010.07543.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.153.pdf) [**(code)**](https://github.com/cuhksz-nlp/SAPar)```
+:heavy_minus_sign: ```[(Findings) Improving Constituency Parsing with Span Attention. Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang.]()  [**(preprint)**](https://arxiv.org/pdf/2010.07543.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.153.pdf) [**(code)**](https://github.com/cuhksz-nlp/SAPar)```
 
 :heavy_minus_sign: [Span-based discontinuous constituency parsing: a family of exact chart-based algorithms with time complexities from O(n^6) down to O(n^3). Caio Corro.]()  [**(preprint)**](https://arxiv.org/pdf/2003.13785.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.219.pdf) [**(code)**](https://github.com/FilippoC/disc-span-parser-release)
 
