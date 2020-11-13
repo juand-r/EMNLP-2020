@@ -2154,7 +2154,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures. Chaitanya Ahuja et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) UNIFIEDQA: Crossing Format Boundaries with a Single QA System. Daniel Khashabi et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.171.pdf) [**(code)**]()
+:boom: [(Findings) **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**. Daniel Khashabi et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.171.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
@@ -2412,15 +2412,15 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [(Findings) LIMIT-BERT : Linguistics Informed Multi-Task BERT. Junru Zhou, Zhuosheng Zhang, Hai Zhao and Shuailiang Zhang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) LIMIT-BERT : Linguistics Informed Multi-Task BERT. Junru Zhou, Zhuosheng Zhang, Hai Zhao and Shuailiang Zhang.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.399.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.405.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.412.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.415.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
+:heavy_minus_sign: [(Findings) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings) Guiding Attention for Self-Supervised Learning with Transformers. Ameet Deshpande and Karthik Narasimhan.]()  [**(preprint)**]() [**(paper)**]() [**(code)**]()
 
