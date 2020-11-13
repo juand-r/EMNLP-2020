@@ -67,16 +67,19 @@ Findings of ACL, EMNLP 2020 https://www.aclweb.org/anthology/volumes/2020.findin
 
 ## [Tutorials](#selections-from-emnlp-2020)
 
-- [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
+- [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
 > x
+
 - [**Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era**
-(Preslav Nakov, Giovanni Da San Martino)](https://propaganda.qcri.org/emnlp20-tutorial)
+(Preslav Nakov, Giovanni Da San Martino)](https://virtual.2020.emnlp.org/tutorial_T2.html)  [**(website)**](https://propaganda.qcri.org/emnlp20-tutorial) [**(video)**](https://slideslive.com/38940825/t2-factchecking-fake-news-propaganda-and-media-bias-truth-seeking-in-the-posttruth-era)
 > 
 > x
-- [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)] [**(video)**](https://slideslive.com/38940830/t7-the-amazing-world-of-neural-language-generation)
+
+- [**The Amazing World of Neural Language Generation** (Yangfeng Ji, Antoine Bosselut, Thomas Wolf, Asli Celikyilmaz)](https://virtual.2020.emnlp.org/tutorial_T7.html) [**(video)**](https://slideslive.com/38940830/t7-the-amazing-world-of-neural-language-generation) [**(slides)**](https://nlg-world.github.io/)
 >
 > x
+
 - [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou
 )]
 >
@@ -85,7 +88,7 @@ Findings of ACL, EMNLP 2020 https://www.aclweb.org/anthology/volumes/2020.findin
 )](https://spatial-language-tutorial.github.io/)
 - [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)]
 - [Simultaneous Translation
-(Liang Huang, Colin Cherry, Mingbo Ma, Naveen Arivazhagan, Zhongjun He)]
+(Liang Huang, Colin Cherry, Mingbo Ma, Naveen Arivazhagan, Zhongjun He)](https://virtual.2020.emnlp.org/tutorial_T6.html) [**(video)**](https://slideslive.com/38940829/t6-simultaneous-translation)
 
 
 ---
