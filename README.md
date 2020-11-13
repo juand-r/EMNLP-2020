@@ -2155,6 +2155,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings) No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures. Chaitanya Ahuja et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf) [**(code)**]()
 
 :boom: [(Findings) **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**. Daniel Khashabi et al.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.171.pdf) [**(code)**]()
+>
+> See also the comparison with GPT-3 in [Measuring Massive Multitask Language Understanding](https://arxiv.org/pdf/2009.03300.pdf) on the zero-shot setting.
+
 
 :heavy_minus_sign: [(Findings) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.]()  [**(preprint)**]() [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
