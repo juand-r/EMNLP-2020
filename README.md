@@ -436,6 +436,7 @@ See also the two multimodal workshops at this conference:
 ---
 ###  [:top:](#selections-from-emnlp-2020) Simplification
 
+:heavy_minus_sign: [Zero-Shot Crosslingual Sentence Simplification. Jonathan Mallinson, Rico Sennrich and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1339.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.415.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Machine Translation
@@ -1012,8 +1013,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding. Samson Tan, Shafiq Joty, Lav Varshney and Min-Yen Kan.](https://virtual.2020.emnlp.org/paper_main.1320.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.455.pdf) [**(code)**]()
 
 :heavy_minus_sign: [NwQM: A neural quality assessment framework for Wikipedia. Bhanu Prakash Reddy Guda, Sasi Bhushan Seelaboyina, Soumya Sarkar and Animesh Mukherjee.](https://virtual.2020.emnlp.org/paper_main.1322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.674.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Zero-Shot Crosslingual Sentence Simplification. Jonathan Mallinson, Rico Sennrich and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1339.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.415.pdf) [**(code)**]()
 
 :heavy_minus_sign: [If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
 
