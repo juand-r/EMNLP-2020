@@ -56,6 +56,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Cybersecurity](#top-cybersecurity)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
   - [Scientific Text Mining](#top-scientific-text-mining)
+  - [Social Media](#top-social-media)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
   - [Gender Bias](#top-gender-bias)
@@ -553,6 +554,7 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 ### [:top:](#selections-from-emnlp-2020) Cybersecurity
 
+:heavy_minus_sign: [Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
 
 
 ---
@@ -570,6 +572,12 @@ See also three workshops at this conference:
 ### [:top:](#selections-from-emnlp-2020) Scientific Text Mining
 
 See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/) at this conference.
+
+
+---
+### [:top:](#selections-from-emnlp-2020) Social Media
+
+
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Other applications
@@ -1929,12 +1937,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.](https://virtual.2020.emnlp.org/paper_main.3116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.367.pdf) [**(code)**]()
 
-
-
-
 :heavy_minus_sign: [**Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.**](https://virtual.2020.emnlp.org/paper_main.3181.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.376.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2. Yosi Mass and Haggai Roitman.](https://virtual.2020.emnlp.org/paper_main.3240.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.343.pdf) [**(code)**]()
 
