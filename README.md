@@ -7,11 +7,11 @@
 This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented Dialogue, Morphology, Word Segmentation, Spelling Correction.
 
 
-Schedule: https://2020.emnlp.org/schedule
+**Schedule:** https://2020.emnlp.org/schedule
 
-EMNLP papers: https://www.aclweb.org/anthology/events/emnlp-2020/
+**EMNLP papers:** https://www.aclweb.org/anthology/events/emnlp-2020/
 
-Findings of ACL, EMNLP 2020 https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/
+**Findings of EMNLP 2020:** https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/
 
 - [General Remarks](#general-remarks)
 - [Tutorials](#tutorials)
