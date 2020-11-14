@@ -4,7 +4,7 @@
 
 ### Selections from EMNLP 2020
 
-This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented Dialogue, Morphology, Word Segmentation, Spelling Correction.
+This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented/goal-oriented dialogue, Morphology, Word Segmentation, Spelling Correction.
 
 
 **Schedule:** https://2020.emnlp.org/schedule
@@ -1284,19 +1284,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning. Liying Cheng, Lidong Bing, Qian Yu, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.2133.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf) [**(code)**]()
 
-:heavy_minus_sign: [doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset. Song Feng, Hui Wan, Chulaka Gunasekara, Siva Patel, Sachindra Joshi and Luis Lastras.](https://virtual.2020.emnlp.org/paper_main.2141.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.652.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2164.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.68.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.](https://virtual.2020.emnlp.org/paper_main.2179.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf) [**(code)**]()
 
 :heavy_minus_sign: [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network. Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang and Philip S. Yu.](https://virtual.2020.emnlp.org/paper_main.2181.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.401.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Consistency of a Recurrent Language Model With Respect to Incomplete Decoding. Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.2198.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.448.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Parallel Interactive Networks for Multi-Domain Dialogue State Generation. Junfan Chen, Richong Zhang, Yongyi Mao and Jie Xu.](https://virtual.2020.emnlp.org/paper_main.2209.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.151.pdf) [**(code)**]()
 
