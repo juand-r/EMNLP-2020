@@ -377,6 +377,12 @@ See also the two multimodal workshops at this conference:
 
 :heavy_minus_sign: [Cross Copy Network for Dialogue Generation. Changzhen Ji, Xin Zhou, Yating Zhang, Xiaozhong Liu, Changlong Sun, Conghui Zhu and Tiejun Zhao.](https://virtual.2020.emnlp.org/paper_main.1522.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.149.pdf) [**(code)**]()
 
+**Knowledge-grounded dialogue:**
+
+:heavy_minus_sign: (Findings) Difference-aware Knowledge Selection for **Knowledge-grounded** Conversation Generation. Chujie Zheng, Yunbo Cao, Daxin Jiang and Minlie Huang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.11.pdf) [**(code)**]()
+
+:heavy_minus_sign: [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue. Jaehun Jung, Bokyung Son and Sungwon Lyu.](https://virtual.2020.emnlp.org/paper_main.787.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.280.pdf) [**(code)**]()
+
 **Persona consistency:**
 
 :heavy_minus_sign: [Will I Sound Like Me? Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness. Hyunwoo Kim, Byeongchang Kim and Gunhee Kim.](https://virtual.2020.emnlp.org/paper_main.419.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.65.pdf) [**(code)**]()
@@ -387,7 +393,11 @@ See also the two multimodal workshops at this conference:
 
 :heavy_minus_sign: [Towards Persona-Based Empathetic Conversational Models. Peixiang Zhong, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao.](https://virtual.2020.emnlp.org/paper_main.165.html)  [**(preprint)**](https://arxiv.org/pdf/2004.12316.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.531.pdf) [**(data and code)**](https://github.com/zhongpeixiang/PEC)
 
-**Dialogue State Tracking:**
+**Conversation disentanglement:**
+
+:heavy_minus_sign: [Online Conversation Disentanglement with Pointer Networks. Tao Yu and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.1863.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.512.pdf) [**(code)**]()
+
+**Dialogue state tracking:**
 
 :heavy_minus_sign: [Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking. Yexiang Wang, Yi Guo and Siqi Zhu.](https://virtual.2020.emnlp.org/paper_main.977.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.243.pdf) [**(code)**]()
 
@@ -405,43 +415,33 @@ See also the two multimodal workshops at this conference:
 
 :heavy_minus_sign: [Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu et al.](https://virtual.2020.emnlp.org/paper_main.2281.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.326.pdf) [**(code)**]()
 
-**New Dataset:**
+**New dataset:**
 
 :heavy_minus_sign: [Information Seeking in the Spirit of Learning: A Dataset for **Conversational Curiosity**. Pedro Rodriguez, Paul Crook, Seungwhan Moon and Zhiguang Wang.](https://virtual.2020.emnlp.org/paper_main.527.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.655.pdf) [**(code)**]()
 
-:heavy_minus_sign: [MedDialog: Large-scale Medical Dialogue Datasets. Guangtao Zeng et al.](https://virtual.2020.emnlp.org/paper_main.233.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.743.pdf) [**(data)**](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
+:heavy_minus_sign: [MedDialog: Large-scale **Medical Dialogue** Datasets. Guangtao Zeng et al.](https://virtual.2020.emnlp.org/paper_main.233.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.743.pdf) [**(data)**](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
 
-**Other:**
+**Response selection:**
 
-:heavy_minus_sign: [AttnIO: Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue. Jaehun Jung, Bokyung Son and Sungwon Lyu.](https://virtual.2020.emnlp.org/paper_main.787.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.280.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Where Are You? Localization from Embodied Dialog. Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee and Peter Anderson.](https://virtual.2020.emnlp.org/paper_main.647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data. Rongsheng Zhang, Yinhe Zheng, Jianzhi Shao, Xiaoxi Mao, Yadong Xi and Minlie Huang.](https://virtual.2020.emnlp.org/paper_main.478.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.277.pdf) [**(code)**]()
-
-:heavy_minus_sign: [The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.317.html)  [**(preprint)**](https://arxiv.org/pdf/2004.02421.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.741.pdf) [**(code)**]()
+:heavy_minus_sign: [Response Selection for Multi-Party Conversations with Dynamic Topic Tracking. Weishi Wang, Steven C.H. Hoi and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.2050.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.533.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-turn Response Selection using Dialogue Dependency Relations. Qi Jia, Yizhu Liu, Siyu Ren, Kenny Zhu and Haifeng Tang.](https://virtual.2020.emnlp.org/paper_main.215.html)  [**(preprint)**](https://arxiv.org/pdf/2010.01502.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.150.pdf) [**(code)**](https://github.com/JiaQiSJTU/ResponseSelection)
 
+:heavy_minus_sign: [The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.317.html)  [**(preprint)**](https://arxiv.org/pdf/2004.02421.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.741.pdf) [**(code)**]()
+
+**Other:**
+
+:heavy_minus_sign: [Where Are You? Localization from Embodied Dialog. Meera Hahn, Jacob Krantz, Dhruv Batra, Devi Parikh, James Rehg, Stefan Lee and Peter Anderson.](https://virtual.2020.emnlp.org/paper_main.647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.59.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Dialogue Distillation: Open-Domain Dialogue **Augmentation** Using Unpaired Data. Rongsheng Zhang, Yinhe Zheng, Jianzhi Shao, Xiaoxi Mao, Yadong Xi and Minlie Huang.](https://virtual.2020.emnlp.org/paper_main.478.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.277.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) Understanding User Resistance Strategies in Persuasive Conversations. Youzhi Tian, Weiyan Shi, Chen Li and Zhou Yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.431.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Difference-aware Knowledge Selection for Knowledge-grounded Conversation Generation. Chujie Zheng, Yunbo Cao, Daxin Jiang and Minlie Huang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.11.pdf) [**(code)**]()
+:heavy_minus_sign: [Refer, Reuse, Reduce: **Generating Subsequent References** in Visual and Conversational Contexts. Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández.](https://virtual.2020.emnlp.org/paper_main.2058.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.353.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [Refer, Reuse, Reduce: Generating Subsequent References in Visual and Conversational Contexts. Ece Takmaz, Mario Giulianelli, Sandro Pezzelle, Arabella Sinclair and Raquel Fernández.](https://virtual.2020.emnlp.org/paper_main.2058.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.353.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Personal Information Leakage Detection in Conversations. Qiongkai Xu, Lizhen Qu, Zeyu Gao and Gholamreza Haffari.](https://virtual.2020.emnlp.org/paper_main.2042.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Online Conversation Disentanglement with Pointer Networks. Tao Yu and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.1863.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.512.pdf) [**(code)**]()
-
-
+:heavy_minus_sign: [Personal **Information Leakage** Detection in Conversations. Qiongkai Xu, Lizhen Qu, Zeyu Gao and Gholamreza Haffari.](https://virtual.2020.emnlp.org/paper_main.2042.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.532.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Structured Attention for Unsupervised Dialogue Structure Induction. Liang Qiu et al.](https://virtual.2020.emnlp.org/paper_main.128.html)  [**(preprint)**](https://arxiv.org/pdf/2009.08552.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.148.pdf) [**(code)**](https://github.com/Liang-Qiu/SVRNN-dialogues)
-
-
-
-:heavy_minus_sign: [Response Selection for Multi-Party Conversations with Dynamic Topic Tracking. Weishi Wang, Steven C.H. Hoi and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.2050.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.533.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Text Generation
