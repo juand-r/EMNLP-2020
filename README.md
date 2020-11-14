@@ -230,6 +230,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Contextual Modulation for Relation-Level Metaphor Identification. Omnia Zayed, John P. McCrae and Paul Buitelaar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.36.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Explainability
@@ -2032,7 +2033,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Dual Low-Rank Multimodal Fusion. Tao Jin, Siyu Huang, Yingming Li and Zhongfei Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.35.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Contextual Modulation for Relation-Level Metaphor Identification. Omnia Zayed, John P. McCrae and Paul Buitelaar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.36.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings+WS) Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning. Yifan Gao, Piji Li, Wei Bi, Xiaojiang Liu, Michael Lyu and Irwin King.](https://virtual.2020.emnlp.org/paper_WS-16.475.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.40.pdf) [**(code)**]()
 
