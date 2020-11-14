@@ -398,6 +398,12 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 ###  [:top:](#selections-from-emnlp-2020) Style Transfer
 
 
+:heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.55.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.](https://virtual.2020.emnlp.org/paper_main.1898.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.699.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Blank Language Models**. Tianxiao Shen, Victor Quach, Regina Barzilay and Tommi Jaakkola.](https://virtual.2020.emnlp.org/paper_main.3403.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.420.pdf) [**(code)**](https://github.com/Varal7/blank_language_model)
+
 ---
 ---
 
@@ -443,6 +449,22 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
+
+:boom: [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**]()
+
+:boom: [(Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models. Alexander Terenin, Måns Magnusson and Leif Jonsson.](https://virtual.2020.emnlp.org/paper_main.1498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.234.pdf) [**(code)**]()
+
+**Neural topic modeling**
+
+:heavy_minus_sign: [Neural Topic Modeling with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.](https://virtual.2020.emnlp.org/paper_main.2756.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.725.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Neural Topic Modeling by Incorporating Document Relationship Graph. Deyu Zhou, Xuemeng Hu and Rui Wang.](https://virtual.2020.emnlp.org/paper_main.2764.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.310.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Improving Neural Topic Models using Knowledge Distillation. Alexander Miserlis Hoyle, Pranav Goel and Philip Resnik.](https://virtual.2020.emnlp.org/paper_main.2931.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf) [**(code)**]()
+
+**Topic modeling for short texts**
 
 :heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.](https://virtual.2020.emnlp.org/paper_main.30.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf) [**(code)**]()
 
@@ -960,7 +982,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [An Imitation Game for Learning Semantic Parsers from User Interaction. Ziyu Yao, Yiqi Tang, Wen-tau Yih, Huan Sun and Yu Su.](https://virtual.2020.emnlp.org/paper_main.1495.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.559.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models. Alexander Terenin, Måns Magnusson and Leif Jonsson.](https://virtual.2020.emnlp.org/paper_main.1498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.234.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [A Supervised Word Alignment Method based on Cross-Language Span Prediction using Multilingual BERT. Masaaki Nagata, Katsuki Chousa and Masaaki Nishino.](https://virtual.2020.emnlp.org/paper_main.1503.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.41.pdf) [**(code)**]()
 
@@ -989,7 +1011,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [AmbigQA: Answering Ambiguous Open-domain Questions. Sewon Min, Julian Michael, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.1580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.466.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.55.pdf) [**(code)**]()
 
 
 
@@ -1012,7 +1033,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques. Rexhina Blloshmi, Rocco Tripodi and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.1649.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.195.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction. Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.1669.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.690.pdf) [**(code)**]()
 
@@ -1345,8 +1365,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs. Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.2746.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.480.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Neural Topic Modeling with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.](https://virtual.2020.emnlp.org/paper_main.2756.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.725.pdf) [**(code)**]()
-
 
 
 :heavy_minus_sign: [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace and Sameer Singh.](https://virtual.2020.emnlp.org/paper_main.2763.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf) [**(code)**]()
@@ -1410,7 +1428,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses. Hisashi Kamezawa, Noriki Nishida, Nobuyuki Shimizu, Takashi Miyazaki and Hideki Nakayama.](https://virtual.2020.emnlp.org/paper_main.2927.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.267.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Improving Neural Topic Models using Knowledge Distillation. Alexander Miserlis Hoyle, Pranav Goel and Philip Resnik.](https://virtual.2020.emnlp.org/paper_main.2931.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: [FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction. Dianbo Sui, Yubo Chen, Jun Zhao, Yantao Jia, Yuantao Xie and Weijian Sun.](https://virtual.2020.emnlp.org/paper_main.2938.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.165.pdf) [**(code)**]()
 
@@ -1560,8 +1579,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Contrastive Distillation on Intermediate Representations for Language Model Compression. Siqi Sun, Zhe Gan, Yuwei Fang, Yu Cheng, Shuohang Wang and Jingjing Liu.](https://virtual.2020.emnlp.org/paper_main.3394.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.36.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Stepwise Extractive Summarization and Planning with Structured Transformers. Shashi Narayan, Joshua Maynez, Jakub Adamek, Daniele Pighin, Blaz Bratanic and Ryan McDonald.](https://virtual.2020.emnlp.org/paper_main.3398.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.339.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Blank Language Models**. Tianxiao Shen, Victor Quach, Regina Barzilay and Tommi Jaakkola.](https://virtual.2020.emnlp.org/paper_main.3403.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.420.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Coupled Hierarchical Transformer for Stance-Aware Rumor Verification in Social Media Conversations. Jianfei Yu, Jing Jiang, Ling Min Serena Khoo, Hai Leong Chieu and Rui Xia.](https://virtual.2020.emnlp.org/paper_main.3408.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.108.pdf) [**(code)**]()
 
@@ -1770,8 +1787,10 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Exploring the Role of Argument Structure in Online Debate Persuasion. Jialu Li, Esin Durmus and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.1750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.716.pdf) [**(code)**]()
 
 
+:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.](https://virtual.2020.emnlp.org/paper_main.1898.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.699.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: [Suicidal Risk Detection for Military Personnel. Sungjoon Park, Kiwoong Park, Jaimeen Ahn and Alice Oh.](https://virtual.2020.emnlp.org/paper_main.1904.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.198.pdf) [**(code)**]()
 
@@ -1845,7 +1864,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Reading Between the Lines: Exploring Infilling in Visual Narratives. Khyathi Raghavi Chandu, Ruo-Ping Dong and Alan W Black.](https://virtual.2020.emnlp.org/paper_main.2758.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Neural Topic Modeling by Incorporating Document Relationship Graph. Deyu Zhou, Xuemeng Hu and Rui Wang.](https://virtual.2020.emnlp.org/paper_main.2764.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.310.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: [Homophonic Pun Generation with Lexically Constrained Rewriting. Zhiwei Yu, Hongyu Zang and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.2766.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.229.pdf) [**(code)**]()
 
@@ -1853,7 +1873,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [A Preliminary Exploration of GANs for Keyphrase Generation. Avinash Swaminathan et al.](https://virtual.2020.emnlp.org/paper_main.2809.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf) [**(code)**]()
 
@@ -2200,7 +2220,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings) Reducing Quantity Hallucinations in Abstractive Summarization. Zheng Zhao, Shay B. Cohen and Bonnie Webber.]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.203.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings) A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning. Deepak Gupta, Asif Ekbal and Pushpak Bhattacharyya.]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf) [**(code)**]()
 
