@@ -165,7 +165,7 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 ---
 ### [:top:](#selections-from-emnlp-2020) Datasets, Benchmarks and Other Resources
 
-
+:heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Parsing
@@ -266,6 +266,8 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 :boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**](https://virtual.2020.emnlp.org/paper_main.41.html)  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.373.pdf) [**(code)**](https://github.com/vered1986/self_talk)
 
+:heavy_minus_sign: [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering. Yanlin Feng, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.99.pdf) [**(code)**]()
+
 :heavy_minus_sign: [More Bang for Your Buck: Natural Perturbation for Robust Question Answering. Daniel Khashabi, Tushar Khot and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2721.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.12.pdf) [**(code)**]()
 
 :heavy_minus_sign: [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.](https://virtual.2020.emnlp.org/paper_main.2380.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.85.pdf) [**(code)**]()
@@ -310,6 +312,15 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 :heavy_minus_sign: [Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming Cui, Ting Liu, Shijin Wang and Guoping Hu.](https://virtual.2020.emnlp.org/paper_main.782.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf) [**(code)**]()
 
+
+
+**Datasets:**
+
+:heavy_minus_sign: [XCOPA: A **Multilingual** Dataset for **Causal Commonsense Reasoning**. Edoardo Maria Ponti, Goran Glavaš, Olga Majewska, Qianchu Liu, Ivan Vulić and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.623.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.185.pdf) [**(code)**]()
+
+:heavy_minus_sign: [TORQUE: A Reading Comprehension Dataset of **Temporal Ordering Questions**. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.928.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf) [**(code)**]()
+
+:heavy_minus_sign: [SubjQA: A Dataset for **Subjectivity** and Review Comprehension. Johannes Bjerva, Nikita Bhutani, Behzad Golshan, Wang-Chiew Tan and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.442.pdf) [**(code)**]()
 
 
 
@@ -809,8 +820,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [The Grammar of Emergent Languages. Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.](https://virtual.2020.emnlp.org/paper_main.593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf) [**(code)**]()
 
-:heavy_minus_sign: [SubjQA: A Dataset for Subjectivity and Review Comprehension. Johannes Bjerva, Nikita Bhutani, Behzad Golshan, Wang-Chiew Tan and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.442.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Understanding Procedural Text using Interactive Entity Networks. Jizhi Tang, Yansong Feng and Dongyan Zhao.](https://virtual.2020.emnlp.org/paper_main.605.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.591.pdf) [**(code)**]()
@@ -823,7 +832,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning. Edoardo Maria Ponti, Goran Glavaš, Olga Majewska, Qianchu Liu, Ivan Vulić and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.623.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.185.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos. Nayu Liu, Xian Sun, Hongfeng Yu, Wenkai Zhang and Guangluan Xu.](https://virtual.2020.emnlp.org/paper_main.628.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.144.pdf) [**(code)**]()
 
@@ -897,7 +905,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multilingual AMR-to-Text Generation. Angela Fan and Claire Gardent.](https://virtual.2020.emnlp.org/paper_main.870.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.231.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News. Nguyen Vo and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.872.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.621.pdf) [**(code)**]()
 
@@ -919,7 +926,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. Haozhe Ji, Pei Ke, Shaohan Huang, Furu Wei, Xiaoyan Zhu and Minlie Huang.](https://virtual.2020.emnlp.org/paper_main.923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.54.pdf) [**(code)**]()
 
-:heavy_minus_sign: [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.928.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [**Information-Theoretic Probing with Minimum Description Length**. Elena Voita and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.947.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf) [**(code)**]() [**(video - NLP with Friends)**](https://www.youtube.com/watch?v=27eWB8IYc1A)
 
@@ -1128,8 +1135,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Planning and Generating Natural and Diverse Disfluent Texts as Augmentation for Disfluency Detection. Jingfeng Yang, Diyi Yang and Zhaoran Ma.](https://virtual.2020.emnlp.org/paper_main.1634.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.113.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models. Peng Xu et al.**](https://virtual.2020.emnlp.org/paper_main.1647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.226.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering. Yanlin Feng, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.99.pdf) [**(code)**]()
 
 :heavy_minus_sign: [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques. Rexhina Blloshmi, Rocco Tripodi and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.1649.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.195.pdf) [**(code)**]()
 
