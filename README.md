@@ -57,6 +57,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
   - [Scientific Text Mining](#top-scientific-text-mining)
   - [Social Media](#top-social-media)
+  - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
   - [Gender Bias](#top-gender-bias)
@@ -593,6 +594,24 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 ---
+### [:top:](#selections-from-emnlp-2020) Grammatical Error Correction
+
+:heavy_minus_sign: [Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Simon Flachs, Ophélie Lacroix, Helen Yannakoudakis, Marek Rei and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.680.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction. Mengyun Chen et al.](https://virtual.2020.emnlp.org/paper_main.3299.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.581.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction. Masato Mita, Shun Kiyono, Masahiro Kaneko, Jun Suzuki and Kentaro Inui.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.26.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Improving Grammatical Error Correction with Machine Translation Pairs. Wangchunshu Zhou, Tao Ge, Chang Mu, Ke Xu, Furu Wei and Ming Zhou.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.30.pdf) [**(code)**]()
+
+**Adversarial:**
+
+:heavy_minus_sign: [Improving Grammatical Error Correction Models with Purpose-Built Adversarial Examples. Lihao Wang and Xiaoqing Zheng.](https://virtual.2020.emnlp.org/paper_main.2357.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.228.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Adversarial Grammatical Error Correction. Vipul Raheja and Dimitris Alikaniotis.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.275.pdf) [**(code)**]()
+
+
+---
 ### [:top:](#selections-from-emnlp-2020) Other applications
 
 
@@ -825,7 +844,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Compositional Phrase Alignment and Beyond. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Simon Flachs, Ophélie Lacroix, Helen Yannakoudakis, Marek Rei and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.680.pdf) [**(code)**]()
+
 
 
 
@@ -1289,7 +1308,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Generationary or "How We Went beyond Word Sense Inventories and Learned to Gloss''. Michele Bevilacqua, Marco Maru and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2349.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Improving Grammatical Error Correction Models with Purpose-Built Adversarial Examples. Lihao Wang and Xiaoqing Zheng.](https://virtual.2020.emnlp.org/paper_main.2357.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.228.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf) [**(code)**]()
 
@@ -1955,7 +1974,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.](https://virtual.2020.emnlp.org/paper_main.3298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction. Mengyun Chen et al.](https://virtual.2020.emnlp.org/paper_main.3299.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.581.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin et al.](https://virtual.2020.emnlp.org/paper_main.3304.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.557.pdf) [**(code)**]()
 
@@ -2029,13 +2048,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) **Gradient-based Analysis of NLP Models is Manipulable**. Junlin Wang, Jens Tuyls, Eric Wallace and Sameer Singh.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.24.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) A Self-Refinement Strategy for Noise Reduction in Grammatical Error Correction. Masato Mita, Shun Kiyono, Masahiro Kaneko, Jun Suzuki and Kentaro Inui.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.26.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [(Findings+WS) Understanding tables with intermediate pre-training. Julian Eisenschlos, Syrine Krichene and Thomas Müller.](https://virtual.2020.emnlp.org/paper_WS-15.361.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.27.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Multilingual Argument Mining: Datasets and Analysis. Orith Toledo-Ronen, Matan Orbach, Yonatan Bilu, Artem Spector and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.29.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Improving Grammatical Error Correction with Machine Translation Pairs. Wangchunshu Zhou, Tao Ge, Chang Mu, Ke Xu, Furu Wei and Ming Zhou.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.30.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Machines Getting with the Program: Understanding Intent Arguments of Non-Canonical Directives. Won Ik Cho et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.31.pdf) [**(code)**]()
 
@@ -2357,7 +2376,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports. Markus Zlabinger et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.274.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Adversarial Grammatical Error Correction. Vipul Raheja and Dimitris Alikaniotis.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.275.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. Ishan Jindal, Yunyao Li, Siddhartha Brahma and Huaiyu Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.279.pdf) [**(code)**]()
 
