@@ -149,9 +149,12 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/) and the [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/).
 
-:heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**]()
+:heavy_minus_sign: [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
@@ -324,6 +327,7 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
+
 
 
 ---
@@ -1808,8 +1812,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Improving Low Compute Language Modeling with In-Domain Embedding Initialisation. Charles Welch, Rada Mihalcea and Jonathan K. Kummerfeld.](https://virtual.2020.emnlp.org/paper_main.1428.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.696.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning. Deren Lei, Gangrong Jiang, Xiaotao Gu, Kexuan Sun, Yuning Mao and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1466.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.688.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers. Yimeng Wu, Peyman Passban, Mehdi Rezagholizadeh and Qun Liu.](https://virtual.2020.emnlp.org/paper_main.1485.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.74.pdf) [**(code)**]()
 
