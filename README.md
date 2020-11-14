@@ -627,6 +627,14 @@ See also three workshops at this conference:
 
 
 ---
+### [:top:](#selections-from-emnlp-2020) Mental Health
+
+:heavy_minus_sign: (Findings) Do Models of Mental Health Based on Social Media Data Generalize?. Keith Harrigian, Carlos Aguirre and Mark Dredze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.337.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support. Ashish Sharma, Adam Miner, David Atkins and Tim Althoff.](https://virtual.2020.emnlp.org/paper_main.2707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.425.pdf) [**(code)**]()
+
+
+---
 ### [:top:](#selections-from-emnlp-2020) Scientific Text Mining
 
 See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/) at this conference.
@@ -635,7 +643,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 ---
 ### [:top:](#selections-from-emnlp-2020) Social Media
 
+:heavy_minus_sign: [Condolence and Empathy in Online Communities. Naitian Zhou and David Jurgens.](https://virtual.2020.emnlp.org/paper_main.2561.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.45.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Predicting Responses to Psychological Questionnaires from Participants’ Social Media Posts and Question Text Embeddings. Huy Vu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.137.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media. Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Grammatical Error Correction
@@ -1397,11 +1409,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning. Tsvetomila Mihaylova, Vlad Niculae and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.2535.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.171.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: [Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank. Eleftheria Briakou and Marine Carpuat.](https://virtual.2020.emnlp.org/paper_main.2553.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.121.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Condolence and Empathy in Online Communities. Naitian Zhou and David Jurgens.](https://virtual.2020.emnlp.org/paper_main.2561.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.45.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification. Shyam Subramanian and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.2570.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.627.pdf) [**(code)**]()
 
@@ -1452,8 +1460,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Visually Grounded Compound PCFGs. Yanpeng Zhao and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.2702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.354.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2705.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.746.pdf) [**(code)**]()
-
-:heavy_minus_sign: [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support. Ashish Sharma, Adam Miner, David Atkins and Tim Althoff.](https://virtual.2020.emnlp.org/paper_main.2707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.425.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
 
@@ -2218,8 +2224,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings+WS) Semantically Driven Sentence Fusion: Modeling and Evaluation. Eyal Ben-David, Orgad Keller, Eric Malmi, Idan Szpektor and Roi Reichart.](https://virtual.2020.emnlp.org/paper_WS-4.paper3.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.135.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Predicting Responses to Psychological Questionnaires from Participants’ Social Media Posts and Question Text Embeddings. Huy Vu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.137.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) **Will it Unblend? Yuval Pinter, Cassandra L. Jacobs and Jacob Eisenstein.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.138.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) CodeBERT: A Pre-Trained Model for Programming and Natural Languages. Zhangyin Feng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.139.pdf) [**(code)**]()
@@ -2478,8 +2482,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings+WS) Generating Accurate Electronic Health Assessment from Medical Graph. Zhichao Yang and hong yu.](https://virtual.2020.emnlp.org/paper_WS-12.2804.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.336.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Do Models of Mental Health Based on Social Media Data Generalize?. Keith Harrigian, Carlos Aguirre and Mark Dredze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.337.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Context Analysis for Pre-trained Masked Language Models. Yi-An Lai, Garima Lalwani and Yi Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.338.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Controllable Text Generation with Focused Variation. Lei Shu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.339.pdf) [**(code)**]()
@@ -2618,7 +2620,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification. Francesco Barbieri et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.148.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media. Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) TopicBERT for Energy Efﬁcient Document Classiﬁcation. Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.152.pdf) [**(code)**]()
 
