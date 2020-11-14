@@ -167,6 +167,14 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 :heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
+:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
+
+:heavy_minus_sign: [MAVEN: A Massive General Domain Event Detection Dataset. Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2048.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.129.pdf) [**(code)**]()
+
+:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
+
+:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
+
 ---
 ### [:top:](#selections-from-emnlp-2020) Parsing
 
@@ -1039,15 +1047,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model. Jun Yen Leung, Guy Emerson and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1282.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.329.pdf) [**(code)**]()
 
-:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding. Samson Tan, Shafiq Joty, Lav Varshney and Min-Yen Kan.](https://virtual.2020.emnlp.org/paper_main.1320.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.455.pdf) [**(code)**]()
 
 :heavy_minus_sign: [NwQM: A neural quality assessment framework for Wikipedia. Bhanu Prakash Reddy Guda, Sasi Bhushan Seelaboyina, Soumya Sarkar and Animesh Mukherjee.](https://virtual.2020.emnlp.org/paper_main.1322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.674.pdf) [**(code)**]()
 
 :heavy_minus_sign: [If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
-
-:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Identifying Elements Essential for BERT’s Multilinguality. Philipp Dufter and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.358.pdf) [**(code)**]()
 
@@ -1235,7 +1239,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [MAVEN: A Massive General Domain Event Detection Dataset. Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2048.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.129.pdf) [**(code)**]()
 
 
 
@@ -1438,7 +1441,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.](https://virtual.2020.emnlp.org/paper_main.2641.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.410.pdf) [**(code)**]()
 
-:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets. Gregory Spell, Brian Guay, Sunshine Hillygus and Lawrence Carin.](https://virtual.2020.emnlp.org/paper_main.2651.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.46.pdf) [**(code)**]()
 
