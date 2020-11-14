@@ -450,23 +450,23 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 ---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
 
-:boom: [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**]()
+:boom: [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
 
-:boom: [(Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf) [**(code)**]()
+:boom: [(Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**]  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf)
 
-:heavy_minus_sign: [Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models. Alexander Terenin, Måns Magnusson and Leif Jonsson.](https://virtual.2020.emnlp.org/paper_main.1498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.234.pdf) [**(code)**]()
+:heavy_minus_sign: [Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models. Alexander Terenin, Måns Magnusson and Leif Jonsson.](https://virtual.2020.emnlp.org/paper_main.1498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.234.pdf) [**(code)**](https://github.com/aterenin/Parallel-HDP-Experiments/)
 
-**Neural topic modeling**
+**Neural topic modeling:**
 
-:heavy_minus_sign: [Neural Topic Modeling with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.](https://virtual.2020.emnlp.org/paper_main.2756.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.725.pdf) [**(code)**]()
+:heavy_minus_sign: [Neural Topic Modeling with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.](https://virtual.2020.emnlp.org/paper_main.2756.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.725.pdf)
 
-:heavy_minus_sign: [Neural Topic Modeling by Incorporating Document Relationship Graph. Deyu Zhou, Xuemeng Hu and Rui Wang.](https://virtual.2020.emnlp.org/paper_main.2764.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.310.pdf) [**(code)**]()
+:heavy_minus_sign: [Neural Topic Modeling by Incorporating Document Relationship Graph. Deyu Zhou, Xuemeng Hu and Rui Wang.](https://virtual.2020.emnlp.org/paper_main.2764.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.310.pdf)
 
-:heavy_minus_sign: [Improving Neural Topic Models using Knowledge Distillation. Alexander Miserlis Hoyle, Pranav Goel and Philip Resnik.](https://virtual.2020.emnlp.org/paper_main.2931.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf) [**(code)**]()
+:heavy_minus_sign: [Improving Neural Topic Models using Knowledge Distillation. Alexander Miserlis Hoyle, Pranav Goel and Philip Resnik.](https://virtual.2020.emnlp.org/paper_main.2931.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf)
 
-**Topic modeling for short texts**
+**Topic modeling for short texts:**
 
-:heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.](https://virtual.2020.emnlp.org/paper_main.30.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf) [**(code)**]()
+:heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.](https://virtual.2020.emnlp.org/paper_main.30.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf) [**(code)**](https://github.com/bobxwu/NQTM)
 
 
 ---
