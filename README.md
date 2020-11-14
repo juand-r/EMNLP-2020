@@ -86,6 +86,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 )]
 >
 >
+
 - [Representation, Learning and Reasoning on Spatial Language for Down-stream NLP Tasks (Parisa Kordjamshidi, James Pustejovsky, Marie-Francine Moens
 )](https://spatial-language-tutorial.github.io/)
 - [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)]
@@ -145,6 +146,12 @@ Full list of workshops: https://2020.emnlp.org/workshops
 ## [Topics](#selections-from-emnlp-2020)
 
 ### [:top:](#selections-from-emnlp-2020) Methodological
+
+See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/) and the [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/).
+
+:heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf) [**(code)**]()
 
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
@@ -236,6 +243,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 ---
 ###  [:top:](#selections-from-emnlp-2020) Explainability
 
+See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP**](https://blackboxnlp.github.io/).
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Adversarial ML
@@ -764,6 +772,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Statistical Power and Translationese in Machine Translation Evaluation. Yvette Graham, Barry Haddow and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.619.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.6.pdf) [**(code)**]()
 
+
+
 :heavy_minus_sign: [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning. Edoardo Maria Ponti, Goran Glavaš, Olga Majewska, Qianchu Liu, Ivan Vulić and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.623.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.185.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multistage Fusion with Forget Gate for Multimodal Summarization in Open-Domain Videos. Nayu Liu, Xian Sun, Hongfeng Yu, Wenkai Zhang and Guangluan Xu.](https://virtual.2020.emnlp.org/paper_main.628.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.144.pdf) [**(code)**]()
@@ -1132,7 +1142,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**]()
 
 
 
@@ -1877,8 +1886,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Semi-supervised New Event Type Induction and Event Detection. Lifu Huang and Heng Ji.](https://virtual.2020.emnlp.org/paper_main.2427.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Factual Error Correction for Abstractive Summarization Models. Meng Cao, Yue Dong, Jiapeng Wu and Jackie Chi Kit Cheung.](https://virtual.2020.emnlp.org/paper_main.2437.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.506.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Do Explicit Alignments Robustly Improve Multilingual Encoders?. Shijie Wu and Mark Dredze.](https://virtual.2020.emnlp.org/paper_main.2490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.362.pdf) [**(code)**]()
 
