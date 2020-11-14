@@ -26,6 +26,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Semantics](#top-semantics)
   - [Pragmatics](#top-pragmatics)
   - [Discourse](#top-discourse)
+  - [Figurative Language](#top-figurative-language)
   - [Explainability](#top-explainability)
   - [Adversarial ML](#top-adversarial-ml)
   - [Commonsense Reasoning and Question Answering](#top-commonsense-reasoning-and-question-answering)
@@ -195,7 +196,40 @@ Full list of workshops: https://2020.emnlp.org/workshops
 ---
 ### [:top:](#selections-from-emnlp-2020) Discourse
 
-See also the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
+See also the papers at the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
+
+:heavy_minus_sign: (Findings) Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations. I-Ta Lee, Maria Leonor Pacheco and Dan Goldwasser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.446.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Towards Domain-Independent Text Structuring Trainable on Large Discourse Treebanks. Grigorii Guz and Giuseppe Carenini.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.281.pdf) [**(code)**]()
+
+:heavy_minus_sign: [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of **Discourse Structure** and **Ontological Knowledge**. Sopan Khosla, Shikhar Vashishth, Jill Fain Lehman and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.485.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.626.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.70.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Affective Event Classification with Discourse-enhanced Self-training. Yuan Zhuang, Tianyu Jiang and Ellen Riloff.](https://virtual.2020.emnlp.org/paper_main.2549.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.452.pdf) [**(code)**]()
+
+:heavy_minus_sign: [QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines. Valentina Pyatkin, Ayal Klein, Reut Tsarfaty and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2512.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley.](https://virtual.2020.emnlp.org/paper_main.2444.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.653.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. Sungho Jeon and Michael Strube.](https://virtual.2020.emnlp.org/paper_main.2377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.604.pdf) [**(code)**]()
+
+:heavy_minus_sign: [MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision. Patrick Huber and Giuseppe Carenini.](https://virtual.2020.emnlp.org/paper_main.2205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.603.pdf) [**(code)**]()
+
+:heavy_minus_sign: [TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks. Wanqiu Long, Bonnie Webber and Deyi Xiong.](https://virtual.2020.emnlp.org/paper_main.2075.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.223.pdf) [**(code)**]()
+
+:heavy_minus_sign: [SLM: Learning a Discourse Language Representation with Sentence Unshuffling. Haejun Lee, Drew A. Hudson, Kangwook Lee and Christopher D. Manning.](https://virtual.2020.emnlp.org/paper_main.1892.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.120.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading. Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq Joty, Steven C.H. Hoi, Caiming Xiong, Irwin King and Michael Lyu.](https://virtual.2020.emnlp.org/paper_main.1622.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.191.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.955.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.225.pdf) [**(code)**]()
+
+
+---
+###  [:top:](#selections-from-emnlp-2020) Figurative Language
+
+:heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
+
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Explainability
@@ -688,7 +722,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge. Sopan Khosla, Shikhar Vashishth, Jill Fain Lehman and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.485.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.626.pdf) [**(code)**]()
+
 
 
 :heavy_minus_sign: [Active Learning for BERT: An Empirical Study. Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf) [**(code)**]()
@@ -821,7 +855,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**Information-Theoretic Probing with Minimum Description Length**. Elena Voita and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.947.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf) [**(code)**]() [**(video - NLP with Friends)**](https://www.youtube.com/watch?v=27eWB8IYc1A)
 
-:heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.955.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.225.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance. jianquan li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang and yaohong jin.](https://virtual.2020.emnlp.org/paper_main.956.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.242.pdf) [**(code)**]()
 
@@ -1021,7 +1055,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.](https://virtual.2020.emnlp.org/paper_main.1618.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.19.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Discern: Discourse-Aware Entailment Reasoning Network for Conversational Machine Reading. Yifan Gao, Chien-Sheng Wu, Jingjing Li, Shafiq Joty, Steven C.H. Hoi, Caiming Xiong, Irwin King and Michael Lyu.](https://virtual.2020.emnlp.org/paper_main.1622.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.191.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training. Kristjan Arumae, Qing Sun and Parminder Bhatia.](https://virtual.2020.emnlp.org/paper_main.1631.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.394.pdf) [**(code)**]()
 
@@ -1095,7 +1129,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: ["What Do You Mean by That?" A Parser-Independent Interactive Approach for Enhancing Text-to-SQL. Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang LOU, Yan Zhang and Dongmei Zhang.](https://virtual.2020.emnlp.org/paper_main.1866.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.561.pdf) [**(code)**]()
 
-:heavy_minus_sign: [SLM: Learning a Discourse Language Representation with Sentence Unshuffling. Haejun Lee, Drew A. Hudson, Kangwook Lee and Christopher D. Manning.](https://virtual.2020.emnlp.org/paper_main.1892.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.120.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [**Are All Good Word Vector Spaces Isomorphic?**. Ivan Vulić, Sebastian Ruder and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.1901.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.257.pdf) [**(code)**]()
 
@@ -1151,7 +1185,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
 
-:heavy_minus_sign: [TED-CDB: A Large-Scale Chinese Discourse Relation Dataset on TED Talks. Wanqiu Long, Bonnie Webber and Deyi Xiong.](https://virtual.2020.emnlp.org/paper_main.2075.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.223.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
 
@@ -1189,7 +1223,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Consistency of a Recurrent Language Model With Respect to Incomplete Decoding. Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.2198.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.448.pdf) [**(code)**]()
 
-:heavy_minus_sign: [MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision. Patrick Huber and Giuseppe Carenini.](https://virtual.2020.emnlp.org/paper_main.2205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.603.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Parallel Interactive Networks for Multi-Domain Dialogue State Generation. Junfan Chen, Richong Zhang, Yongyi Mao and Jie Xu.](https://virtual.2020.emnlp.org/paper_main.2209.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.151.pdf) [**(code)**]()
 
@@ -1240,7 +1274,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. Sungho Jeon and Michael Strube.](https://virtual.2020.emnlp.org/paper_main.2377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.604.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.2382.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.526.pdf) [**(code)**]()
 
@@ -1267,7 +1301,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Dissecting Span Identification Tasks with Performance Prediction. Sean Papay, Roman Klinger and Sebastian Padó.](https://virtual.2020.emnlp.org/paper_main.2438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.396.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley.](https://virtual.2020.emnlp.org/paper_main.2444.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.653.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Seq2Edits: Sequence Transduction Using Span-level Edit Operations. Felix Stahlberg and Shankar Kumar.](https://virtual.2020.emnlp.org/paper_main.2448.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.418.pdf) [**(code)**]()
 
@@ -1289,7 +1323,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation. Xinyu Hua and Lu Wang.](https://virtual.2020.emnlp.org/paper_main.2511.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.57.pdf) [**(code)**]()
 
-:heavy_minus_sign: [QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines. Valentina Pyatkin, Ayal Klein, Reut Tsarfaty and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2512.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf) [**(code)**]()
 
 :heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
 
@@ -1297,7 +1330,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning. Tsvetomila Mihaylova, Vlad Niculae and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.2535.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.171.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Affective Event Classification with Discourse-enhanced Self-training. Yuan Zhuang, Tianyu Jiang and Ellen Riloff.](https://virtual.2020.emnlp.org/paper_main.2549.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.452.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank. Eleftheria Briakou and Marine Carpuat.](https://virtual.2020.emnlp.org/paper_main.2553.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.121.pdf) [**(code)**]()
 
@@ -1850,7 +1883,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**Calibration of Pre-trained Transformers. Shrey Desai and Greg Durrett.**](https://virtual.2020.emnlp.org/paper_main.2615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.21.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.70.pdf) [**(code)**]()
+
+
+
 
 :heavy_minus_sign: [Understanding Neural Abstractive Summarization Models via Uncertainty. Jiacheng Xu, Shrey Desai and Greg Durrett.](https://virtual.2020.emnlp.org/paper_main.2650.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.508.pdf) [**(code)**]()
 
@@ -2315,7 +2350,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: (Findings) Towards Domain-Independent Text Structuring Trainable on Large Discourse Treebanks. Grigorii Guz and Giuseppe Carenini.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.281.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: (Findings) A Multilingual View of Unsupervised Machine Translation. Xavier Garcia, Pierre Foret, Thibault Sellam and Ankur Parikh.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.283.pdf) [**(code)**]()
 
@@ -2467,7 +2503,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations. I-Ta Lee, Maria Leonor Pacheco and Dan Goldwasser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.446.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
 
@@ -2607,7 +2643,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) On the Branching Bias of Syntax Extracted from Pre-trained Language Models. Huayang Li, Lemao Liu, Guoping Huang and Shuming Shi.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.401.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) SMRT Chatbots: Improving Non-Task-Oriented Dialog with Simulated Multiple Reference Training. Huda Khayrallah and João Sedoc.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.403.pdf) [**(code)**]()
 
