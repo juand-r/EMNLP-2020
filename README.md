@@ -21,7 +21,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 - [System Demonstrations](#system-demonstrations)
 - [Topics](#topics)
   - [Methodological](#top-methodological)
-  - [Datasets, Benchmarks and Other Resources](#top-datasets-benchmarks-and-other-resources)
+  - [Datasets, Pretrained models and Other Resources](#top-datasets-pretrained-models-and-other-resources)
   - [Parsing](#top-parsing)
   - [Semantics](#top-semantics)
   - [Pragmatics](#top-pragmatics)
@@ -163,17 +163,25 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Datasets, Benchmarks and Other Resources
-
-:heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
-
-:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
+### [:top:](#selections-from-emnlp-2020) Datasets,pretrained models and Other Resources
 
 :heavy_minus_sign: [MAVEN: A Massive General Domain Event Detection Dataset. Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2048.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.129.pdf) [**(code)**]()
 
-:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
+**Multi/cross-lingual:**
+
+:heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
 :heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
+
+:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
+
+**In languages other than English:**
+
+:heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
+
+**Social biases:**
+
+:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Parsing
@@ -2570,8 +2578,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) Active Sentence Learning by Adversarial Uncertainty Sampling in Discrete Space. Dongyu Ru et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.441.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Joint Intent Detection and Entity Linking on Spatial Domain Queries. lei zhang, Runze Wang, Jingbo Zhou, Jingsong Yu, Zhenhua Ling and Hui Xiong.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.444.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
 
