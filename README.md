@@ -573,6 +573,10 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 :heavy_minus_sign: [Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.](https://virtual.2020.emnlp.org/paper_main.3298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf) [**(code)**]()
 
+:heavy_minus_sign: [(Findings+WS) A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events. Susmitha Wunnava et al.](https://virtual.2020.emnlp.org/paper_WS-12.2509.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.306.pdf) [**(code)**]()
+
+:heavy_minus_sign: [To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints. Barun Patra et al.](https://virtual.2020.emnlp.org/paper_main.3573.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.678.pdf) [**(code)**]()
+
 **Evaluation:**
 
 :heavy_minus_sign: [**Interpretable Multi-dataset Evaluation for Named Entity Recognition. Jinlan Fu, Pengfei Liu and Graham Neubig.**](https://virtual.2020.emnlp.org/paper_main.3648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.489.pdf) [**(code)**]()
@@ -593,7 +597,9 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 ####  [:top:](#selections-from-emnlp-2020) Entity Linking
 
-**Zero-shot:**
+**Zero-shot/few-shot:**
+
+:heavy_minus_sign: [**Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning**. Yi Yang and Arzoo Katiyar.](https://virtual.2020.emnlp.org/paper_main.2799.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.516.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval. Ledell Wu, Fabio Petroni, Martin Josifoski, Sebastian Riedel and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.519.pdf) [**(code)**]()
 
@@ -620,7 +626,17 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: [**Entities as Experts: Sparse Memory Access with Entity Supervision**. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.](https://virtual.2020.emnlp.org/paper_main.1528.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.400.pdf) [**(code)**]()
 
+:heavy_minus_sign: [(Findings+WS) E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT. Nina Poerner, Ulli Waltinger and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_WS-13.696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.71.pdf) [**(code)**]()
 
+:heavy_minus_sign: [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention. Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda and Yuji Matsumoto.](https://virtual.2020.emnlp.org/paper_main.911.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.523.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Learning Structured Representations of Entity Names using Active Learning and Weak Supervision. Kun Qian, Poornima Chozhiyath Raman, Yunyao Li and Lucian Popa.](https://virtual.2020.emnlp.org/paper_main.287.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.517.pdf) [**(code)**]()
+
+**Entity tracking:**
+
+:heavy_minus_sign: [Understanding Procedural Text using Interactive Entity Networks. Jizhi Tang, Yansong Feng and Dongyan Zhao.](https://virtual.2020.emnlp.org/paper_main.605.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.591.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Dataset for Tracking Entities in Open Domain Procedural Text. Niket Tandon, Keisuke Sakaguchi, Bhavana Dalvi, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.520.pdf) [**(code)**]()
 
 ####  [:top:](#selections-from-emnlp-2020) Entity Set Expansion
 
@@ -628,28 +644,13 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery. Jiaming Shen, Wenda Qiu, Jingbo Shang, Michelle Vanni, Xiang Ren and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.666.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [(Findings+WS) A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events. Susmitha Wunnava et al.](https://virtual.2020.emnlp.org/paper_WS-12.2509.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.306.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) E-BERT: Efficient-Yet-Effective Entity Embeddings for BERT. Nina Poerner, Ulli Waltinger and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_WS-13.696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.71.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision. Kun Qian, Poornima Chozhiyath Raman, Yunyao Li and Lucian Popa.](https://virtual.2020.emnlp.org/paper_main.287.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.517.pdf) [**(code)**]()
+**OTHER**
 
 :heavy_minus_sign: [TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization. Clément Jumel, Annie Louis and Jackie Chi Kit Cheung.](https://virtual.2020.emnlp.org/paper_main.2849.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.646.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning**. Yi Yang and Arzoo Katiyar.](https://virtual.2020.emnlp.org/paper_main.2799.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.516.pdf) [**(code)**]()
+:heavy_minus_sign: [Exploring and Evaluating Attributes, Values, and Structures for **Entity Alignment**. Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu and Tat-Seng Chua.](https://virtual.2020.emnlp.org/paper_main.1787.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.515.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment. Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu and Tat-Seng Chua.](https://virtual.2020.emnlp.org/paper_main.1787.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.515.pdf) [**(code)**]()
-
-:heavy_minus_sign: [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph. Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.1706.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.90.pdf) [**(code)**]()
-
-:heavy_minus_sign: [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention. Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda and Yuji Matsumoto.](https://virtual.2020.emnlp.org/paper_main.911.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.523.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Understanding Procedural Text using Interactive Entity Networks. Jizhi Tang, Yansong Feng and Dongyan Zhao.](https://virtual.2020.emnlp.org/paper_main.605.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.591.pdf) [**(code)**]()
-
-
-
+:heavy_minus_sign: [ENT-DESC: **Entity Description Generation** by Exploring Knowledge Graph. Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.1706.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.90.pdf) [**(code)**]()
 
 
 ---
@@ -1667,8 +1668,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Modeling Protagonist Emotions for Emotion-Aware Storytelling. Faeze Brahman and Snigdha Chaturvedi.](https://virtual.2020.emnlp.org/paper_main.3028.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.426.pdf) [**(code)**]()
 
-:heavy_minus_sign: [A Dataset for Tracking Entities in Open Domain Procedural Text. Niket Tandon, Keisuke Sakaguchi, Bhavana Dalvi, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.520.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning. Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.3035.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.712.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios.** Ramy Eskander, Smaranda Muresan and Michael Collins.](https://virtual.2020.emnlp.org/paper_main.3046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.391.pdf) [**(code)**]()
@@ -1826,8 +1825,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions. Arya D. McCarthy, Adina Williams, Shijia Liu, David Yarowsky and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.3563.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.456.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-Stage Pre-training for Automated Chinese Essay Scoring. Wei Song, Kai Zhang, Ruiji Fu, Lizhen Liu, Ting Liu and Miaomiao Cheng.](https://virtual.2020.emnlp.org/paper_main.3567.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.546.pdf) [**(code)**]()
-
-:heavy_minus_sign: [To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints. Barun Patra et al.](https://virtual.2020.emnlp.org/paper_main.3573.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.678.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis. Chenggong Gong, Jianfei Yu and Rui Xia.](https://virtual.2020.emnlp.org/paper_main.3579.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.572.pdf) [**(code)**]()
 
