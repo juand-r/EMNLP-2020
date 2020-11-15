@@ -177,11 +177,15 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 **In languages other than English:**
 
-:heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
+See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART](https://arxiv.org/pdf/2001.08210.pdf) (25 languages).
 
-:heavy_minus_sign: (Findings) RobBERT: a Dutch RoBERTa-based Language Model. Pieter Delobelle, Thomas Winters and Bettina Berendt.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.292.pdf) [**(code)**]()
+:heavy_minus_sign: [CMU-MOSEAS: A Multimodal Language Dataset for **Spanish, Portuguese, German and French**. AmirAli Bagher Zadeh, Yansheng Cao, Simon Hessner, Paul Pu Liang, Soujanya Poria and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.2994.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for Vietnamese. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for **Indian Languages**. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) RobBERT: a **Dutch** RoBERTa-based Language Model. Pieter Delobelle, Thomas Winters and Bettina Berendt.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.292.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for **Vietnamese**. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
 
 **Social biases:**
 
@@ -1571,10 +1575,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [PyMT5: multi-mode translation of natural language and Python code with transformers. Colin Clement, Dawn Drain, Jonathan Timcheck, Alexey Svyatkovskiy and Neel Sundaresan.](https://virtual.2020.emnlp.org/paper_main.2990.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.728.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. Tsu-Jui Fu, Xin Wang, Scott Grafton, Miguel Eckstein and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2991.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.357.pdf) [**(code)**]()
-
-:heavy_minus_sign: [CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French. AmirAli Bagher Zadeh, Yansheng Cao, Simon Hessner, Paul Pu Liang, Soujanya Poria and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.2994.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Unsupervised Stance Detection for Arguments from Consequences. Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt.](https://virtual.2020.emnlp.org/paper_main.2996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.4.pdf) [**(code)**]()
 
