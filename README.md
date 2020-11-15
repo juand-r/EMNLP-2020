@@ -52,6 +52,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Entity Linking](#top-entity-linking)
     - [Entity Representation](#top-entity-representation)
     - [Entity Set Expansion](#top-entity-set-expansion)
+  - [Coreference](#top-coreference)
   - [Topic Models](#top-topic-models)
   - [Knowledge Graphs](#top-knowledge-graphs)
   - [Hypernymy Detection](#top-hypernymy-detection)
@@ -653,6 +654,31 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 :heavy_minus_sign: [ENT-DESC: **Entity Description Generation** by Exploring Knowledge Graph. Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.1706.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.90.pdf) [**(code)**]()
 
 
+
+---
+###  [:top:](#selections-from-emnlp-2020) Coreference
+
+:heavy_minus_sign: [(Findings+WS) **Paraphrasing vs Coreferring: Two Sides of the Same Coin. Yehudit Meged, Avi Caciularu, Vered Shwartz and Ido Dagan.**](https://virtual.2020.emnlp.org/paper_WS-16.3598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.440.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Revealing the Myth of Higher-Order Inference in Coreference Resolution. Liyan Xu and Jinho D. Choi.](https://virtual.2020.emnlp.org/paper_main.1621.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.686.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks. Shubham Toshniwal, Sam Wiseman, Allyson Ettinger, Karen Livescu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.1518.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.685.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Incremental Neural Coreference Resolution in Constant Memory. Patrick Xia, João Sedoc and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.883.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.695.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Conundrums in Entity Coreference Resolution: Making Sense of the State of the Art. Jing Lu and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.536.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Coreferential Reasoning Learning for Language Representation. Deming Ye, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun and Zhiyuan Liu.](https://virtual.2020.emnlp.org/paper_main.315.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06870.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.582.pdf) [**(code)**](https://github.com/thunlp/CorefBERT)
+
+:heavy_minus_sign: [Pre-training Mention Representations in Coreference Models. Yuval Varkel and Amir Globerson.](https://virtual.2020.emnlp.org/paper_main.3647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.687.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Adapting Coreference Resolution to Twitter Conversations. Berfin Aktaş, Veronika Solopova, Annalena Kohnert and Manfred Stede.](https://virtual.2020.emnlp.org/paper_WS-16.1951.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.222.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) A Knowledge-Driven Approach to Classifying Object and Attribute Coreferences in Opinion Mining. Jiahua Chen, Shuai Wang, Sahisnu Mazumder and Bing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.146.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Fast End-to-end Coreference Resolution for Korean. Cheoneum Park, Jamin Shin, Sungjoon Park, Joonho Lim and Changki Lee.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.237.pdf) [**(code)**]()
+
+
 ---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
 
@@ -872,13 +898,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation. Ming Wang and Yinglin Wang.](https://virtual.2020.emnlp.org/paper_main.298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.504.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
-
-:heavy_minus_sign: [Coreferential Reasoning Learning for Language Representation. Deming Ye, Yankai Lin, Jiaju Du, Zhenghao Liu, Peng Li, Maosong Sun and Zhiyuan Liu.](https://virtual.2020.emnlp.org/paper_main.315.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06870.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.582.pdf) [**(code)**](https://github.com/thunlp/CorefBERT)
-
-
-
-
-
 
 :heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.](https://virtual.2020.emnlp.org/paper_main.327.html)  [**(preprint)**](https://arxiv.org/pdf/2009.10359.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.303.pdf) [**(code and data)**](https://github.com/nju-websoft/GLRE)
 
@@ -1830,8 +1849,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [MovieChats: Chat like Humans in a Closed Domain. Hui Su, Xiaoyu Shen, Zhou Xiao, Zheng Zhang, Ernie Chang, Cheng Zhang, Cheng Niu and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.3580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.535.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Conundrums in Entity Coreference Resolution: Making Sense of the State of the Art. Jing Lu and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.536.pdf) [**(code)**]()
-
 :heavy_minus_sign: [End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning. Zixiang Ding, Rui Xia and Jianfei Yu.](https://virtual.2020.emnlp.org/paper_main.3594.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.290.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation. Mehrad Moradshahi, Giovanni Campagna, Sina Semnani, Silei Xu and Monica Lam.](https://virtual.2020.emnlp.org/paper_main.3597.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.481.pdf) [**(code)**]()
@@ -1912,8 +1929,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.](https://virtual.2020.emnlp.org/paper_main.877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.222.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Incremental Neural Coreference Resolution in Constant Memory. Patrick Xia, João Sedoc and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.883.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.695.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Table Fact Verification with Structure-Aware Transformer. Hongzhi Zhang, Yingyao Wang, Sirui Wang, Xuezhi Cao, Fuzheng Zhang and Zhongyuan Wang.](https://virtual.2020.emnlp.org/paper_main.1086.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.126.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.](https://virtual.2020.emnlp.org/paper_main.1180.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.307.pdf) [**(code)**]()
@@ -1955,8 +1970,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Structure Aware Negative Sampling in Knowledge Graphs. Kian Ahrabian, Aarash Feizi, Yasmin Salehi, William L. Hamilton and Avishek Joey Bose.](https://virtual.2020.emnlp.org/paper_main.1508.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.492.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Learning to Ignore: Long Document Coreference with Bounded Memory Neural Networks. Shubham Toshniwal, Sam Wiseman, Allyson Ettinger, Karen Livescu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.1518.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.685.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Denoising Relation Extraction from Document-level Distant Supervision. Chaojun Xiao, Yuan Yao, Ruobing Xie, Xu Han, Zhiyuan Liu, Maosong Sun, Fen Lin and Leyu Lin.](https://virtual.2020.emnlp.org/paper_main.1566.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.300.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing. Hayley Ross, Jonathon Cai and Bonan Min.](https://virtual.2020.emnlp.org/paper_main.1569.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.689.pdf) [**(code)**]()
@@ -1967,7 +1980,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Revealing the Myth of Higher-Order Inference in Coreference Resolution. Liyan Xu and Jinho D. Choi.](https://virtual.2020.emnlp.org/paper_main.1621.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.686.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Parsing Gapping Constructions Based on Grammatical and Semantic Roles. Yoshihide Kato and Shigeki Matsubara.](https://virtual.2020.emnlp.org/paper_main.1625.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf) [**(code)**]()
 
@@ -2128,8 +2140,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. Di Wu, Liang Ding, Fan Lu and Jian Xie.](https://virtual.2020.emnlp.org/paper_main.3621.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.152.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Pre-training Mention Representations in Coreference Models. Yuval Varkel and Amir Globerson.](https://virtual.2020.emnlp.org/paper_main.3647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.687.pdf) [**(code)**]()
-
 :heavy_minus_sign: [DGST: a Dual-Generator Network for Text Style Transfer. Xiao Li, Guanyi Chen, Chenghua Lin and Ruizhe Li.](https://virtual.2020.emnlp.org/paper_main.3676.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.578.pdf) [**(code)**]()
 
 
@@ -2225,8 +2235,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings+WS) TSDG: Content-aware Neural Response Generation with Two-stage Decoding Process. Junsheng Kong, Zhicheng Zhong, Yi Cai, Xin Wu and Da Ren.](https://virtual.2020.emnlp.org/paper_WS-4.1735.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.192.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) Adapting Coreference Resolution to Twitter Conversations. Berfin Aktaş, Veronika Solopova, Annalena Kohnert and Manfred Stede.](https://virtual.2020.emnlp.org/paper_WS-16.1951.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.222.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) **An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text. Daivik Swarup et al.**](https://virtual.2020.emnlp.org/paper_WS-21.2220.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.270.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) On Long-Tailed Phenomena in Neural Machine Translation. Vikas Raunak, Siddharth Dalmia, Vivek Gupta and Florian Metze.](https://virtual.2020.emnlp.org/paper_WS-21.2284.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.276.pdf) [**(code)**]()
@@ -2299,8 +2307,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings+WS) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**](https://virtual.2020.emnlp.org/paper_WS-16.3452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Guiding Attention for Self-Supervised Learning with Transformers. Ameet Deshpande and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-15.49.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.419.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) **Paraphrasing vs Coreferring: Two Sides of the Same Coin. Yehudit Meged, Avi Caciularu, Vered Shwartz and Ido Dagan.**](https://virtual.2020.emnlp.org/paper_WS-16.3598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.440.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Enhance Robustness of Sequence Labelling with Masked Adversarial Training. Luoxin Chen, Xinyue Liu, Weitong Ruan and Jianhua Lu.](https://virtual.2020.emnlp.org/paper_WS-15.381.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.28.pdf) [**(code)**]()
 
@@ -2421,8 +2427,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.145.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) A Knowledge-Driven Approach to Classifying Object and Attribute Coreferences in Opinion Mining. Jiahua Chen, Shuai Wang, Sahisnu Mazumder and Bing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.146.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings. Masoud Jalili Sabet et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.147.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) On the Language Neutrality of Pre-trained Multilingual Representations. Jindřich Libovický, Rudolf Rosa and Alexander Fraser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.150.pdf) [**(code)**]()
@@ -2500,8 +2504,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) Abstractive Multi-Document Summarization via Joint Learning with Single-Document Summarization. Hanqi Jin and Xiaojun Wan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.231.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Learning Numeral Embedding. Chengyue Jiang, Zhonglin Nian, Kaihao Guo, Shanbo Chu, Yinggong Zhao, Libin Shen and Kewei Tu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.235.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Fast End-to-end Coreference Resolution for Korean. Cheoneum Park, Jamin Shin, Sungjoon Park, Joonho Lim and Changki Lee.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.237.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Hierarchical Pre-training for Sequence Labelling in Spoken Dialog. Emile Chapuis, Pierre Colombo, Matteo Manica, Matthieu Labeau and Chloé Clavel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.239.pdf) [**(code)**]()
 
