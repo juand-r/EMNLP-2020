@@ -239,7 +239,9 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 #### [:top:](#selections-from-emnlp-2020) Word Sense Disambiguation
 
@@ -1003,8 +1005,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Interactive Refinement of Cross-Lingual Word Embeddings. Michelle Yuan, Mozhi Zhang, Benjamin Van Durme, Leah Findlater and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.482.pdf) [**(code)**]()
 
 :heavy_minus_sign: [The Grammar of Emergent Languages. Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.](https://virtual.2020.emnlp.org/paper_main.593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Attention is Not Only a Weight: Analyzing Transformers with Vector Norms. Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.616.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.574.pdf) [**(code)**]()
 
@@ -2022,8 +2022,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding. Qinxin Wang, Hao Tan, Sheng Shen, Michael Mahoney and Zhewei Yao.](https://virtual.2020.emnlp.org/paper_main.2083.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.159.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Incorporating a Local Translation Mechanism into Non-autoregressive Translation. Xiang Kong, Zhisong Zhang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.2100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.79.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution. Yordan Yordanov, Oana-Maria Camburu, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.2271.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.402.pdf) [**(code)**]()
 
