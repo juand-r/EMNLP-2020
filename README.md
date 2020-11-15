@@ -626,6 +626,9 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: (Findings) Global Bootstrapping Neural Network for Entity Set Expansion. Lingyong Yan, Xianpei Han, Ben He and Le Sun.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.331.pdf) [**(code)**]()
 
+:heavy_minus_sign: [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery. Jiaming Shen, Wenda Qiu, Jingbo Shang, Michelle Vanni, Xiang Ren and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.666.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: [(Findings+WS) A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events. Susmitha Wunnava et al.](https://virtual.2020.emnlp.org/paper_WS-12.2509.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.306.pdf) [**(code)**]()
 
@@ -635,24 +638,15 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: [TESA: A Task in Entity Semantic Aggregation for Abstractive Summarization. Clément Jumel, Annie Louis and Jackie Chi Kit Cheung.](https://virtual.2020.emnlp.org/paper_main.2849.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.646.pdf) [**(code)**]()
 
-
 :heavy_minus_sign: [**Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning**. Yi Yang and Arzoo Katiyar.](https://virtual.2020.emnlp.org/paper_main.2799.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.516.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring and Evaluating Attributes, Values, and Structures for Entity Alignment. Zhiyuan Liu, Yixin Cao, Liangming Pan, Juanzi Li, Zhiyuan Liu and Tat-Seng Chua.](https://virtual.2020.emnlp.org/paper_main.1787.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.515.pdf) [**(code)**]()
 
 :heavy_minus_sign: [ENT-DESC: Entity Description Generation by Exploring Knowledge Graph. Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.1706.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.90.pdf) [**(code)**]()
 
-:heavy_minus_sign: [SynSetExpan: An Iterative Framework for Joint Entity Set Expansion and Synonym Discovery. Jiaming Shen, Wenda Qiu, Jingbo Shang, Michelle Vanni, Xiang Ren and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.666.pdf) [**(code)**]()
-
 :heavy_minus_sign: [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention. Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda and Yuji Matsumoto.](https://virtual.2020.emnlp.org/paper_main.911.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.523.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Understanding Procedural Text using Interactive Entity Networks. Jizhi Tang, Yansong Feng and Dongyan Zhao.](https://virtual.2020.emnlp.org/paper_main.605.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.591.pdf) [**(code)**]()
-
-
-
-
-
-
 
 
 
