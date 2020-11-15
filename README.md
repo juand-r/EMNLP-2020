@@ -177,7 +177,7 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 **In languages other than English:**
 
-See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART](https://arxiv.org/pdf/2001.08210.pdf) (25 languages).
+See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART](https://arxiv.org/pdf/2001.08210.pdf) (25 languages) and [OSCAR](https://oscar-corpus.com/).
 
 :heavy_minus_sign: [CMU-MOSEAS: A Multimodal Language Dataset for **Spanish, Portuguese, German and French**. AmirAli Bagher Zadeh, Yansheng Cao, Simon Hessner, Paul Pu Liang, Soujanya Poria and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.2994.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf) [**(code)**]()
 
