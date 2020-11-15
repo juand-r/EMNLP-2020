@@ -25,6 +25,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Parsing](#top-parsing)
   - [Semantics](#top-semantics)
     - [Lexical Semantics](#top-lexical-semantics)
+    - [Word Sense Disambiguation](#top-word-sense-disambiguation)
     - [Sentence-level Semantics](#top-sentence-level-semantics)
   - [Pragmatics](#top-pragmatics)
   - [Discourse](#top-discourse)
@@ -238,7 +239,38 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
 
+
+
+#### [:top:](#selections-from-emnlp-2020) Word Sense Disambiguation
+
+:heavy_minus_sign: [Improving Word Sense Disambiguation with Translations. Yixing Luan, Bradley Hauer, Lili Mou and Grzegorz Kondrak.](https://virtual.2020.emnlp.org/paper_main.2891.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.332.pdf) [**(code)**]()
+
+:heavy_minus_sign: [With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation. Bianca Scarlini, Tommaso Pasini and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2251.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.285.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation. Ming Wang and Yinglin Wang.](https://virtual.2020.emnlp.org/paper_main.298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.504.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations. Gábor Berend.](https://virtual.2020.emnlp.org/paper_main.3224.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.683.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation. Daniel Loureiro and Jose Camacho-Collados.](https://virtual.2020.emnlp.org/paper_main.1935.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.283.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.405.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
+
+**Word Sense Induction:**
+
+:heavy_minus_sign: (Findings) An Evaluation Method for Diachronic Word Sense Induction. Ashjan Alsulaimani, Erwan Moreau and Carl Vogel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.284.pdf) [**(code)**]()
+
+**Other:**
+
+:heavy_minus_sign: [Generationary or "How We Went beyond Word Sense Inventories and Learned to Gloss''. Michele Bevilacqua, Marco Maru and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2349.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. Denis Emelin, Ivan Titov and Rico Sennrich.](https://virtual.2020.emnlp.org/paper_main.2114.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.616.pdf) [**(code)**]()
+
+
 #### [:top:](#selections-from-emnlp-2020) Sentence-level Semantics
+
+
 
 
 
@@ -900,8 +932,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. Yuning Mao, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.286.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00117.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.136.pdf) [**(code)**](https://github.com/morningmoni/RL-MMR)
 
-:heavy_minus_sign: [A Synset Relation-enhanced Framework with a Try-again Mechanism for Word Sense Disambiguation. Ming Wang and Yinglin Wang.](https://virtual.2020.emnlp.org/paper_main.298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.504.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
 
 :heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.](https://virtual.2020.emnlp.org/paper_main.327.html)  [**(preprint)**](https://arxiv.org/pdf/2009.10359.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.303.pdf) [**(code and data)**](https://github.com/nju-websoft/GLRE)
@@ -1398,8 +1428,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs. Marius Pasca.](https://virtual.2020.emnlp.org/paper_main.2112.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.503.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. Denis Emelin, Ivan Titov and Rico Sennrich.](https://virtual.2020.emnlp.org/paper_main.2114.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.616.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Generating Fact Checking Briefs. Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes and Sebastian Riedel.](https://virtual.2020.emnlp.org/paper_main.2117.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.580.pdf) [**(code)**]()
 
 :heavy_minus_sign: [ISAAQ - Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention. Jose Manuel Gomez-Perez and Raúl Ortega.](https://virtual.2020.emnlp.org/paper_main.2120.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.441.pdf) [**(code)**]()
@@ -1436,11 +1464,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**With Little Power Comes Great Responsibility**. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.2238.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf) [**(code)**]()
 
-:heavy_minus_sign: [With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation. Bianca Scarlini, Tommaso Pasini and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2251.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.285.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Multi-Step Inference for Reasoning Over Paragraphs. Jiangming Liu, Matt Gardner, Shay B. Cohen and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.2253.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.245.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Multi-resolution Annotations for Emoji Prediction. Weicheng Ma, Ruibo Liu, Lili Wang and Soroush Vosoughi.](https://virtual.2020.emnlp.org/paper_main.2261.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.542.pdf) [**(code)**]()
 
@@ -1456,20 +1480,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.](https://virtual.2020.emnlp.org/paper_main.2322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.705.pdf) [**(code)**]()
 
-
 :heavy_minus_sign: [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.](https://virtual.2020.emnlp.org/paper_main.2342.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.660.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Generationary or "How We Went beyond Word Sense Inventories and Learned to Gloss''. Michele Bevilacqua, Marco Maru and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2349.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Text Segmentation by Cross Segment Attention. Michal Lukasik, Boris Dadachev, Kishore Papineni and Goncalo Simoes.](https://virtual.2020.emnlp.org/paper_main.2367.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.380.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.2382.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.526.pdf) [**(code)**]()
 
@@ -1628,8 +1645,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Knowledge Graph Alignment with Entity-Pair Embedding. Zhichun Wang, Jinjian Yang and Xiaoju Ye.](https://virtual.2020.emnlp.org/paper_main.2877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Improving Word Sense Disambiguation with Translations. Yixing Luan, Bradley Hauer, Lili Mou and Grzegorz Kondrak.](https://virtual.2020.emnlp.org/paper_main.2891.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.332.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually). Alex Warstadt, Yian Zhang, Xiaocheng Li, Haokun Liu and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2893.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.16.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
@@ -1740,17 +1755,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. Xu Zhao, Zihao Wang, Hao Wu and Yong Zhang.](https://virtual.2020.emnlp.org/paper_main.3205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.238.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Sparsity Makes Sense: Word Sense Disambiguation Using Sparse Contextualized Word Representations. Gábor Berend.](https://virtual.2020.emnlp.org/paper_main.3224.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.683.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses. Prathyusha Jwalapuram, Shafiq Joty and Youlin Shen.](https://virtual.2020.emnlp.org/paper_main.3227.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.177.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.](https://virtual.2020.emnlp.org/paper_main.3236.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.178.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [SLURP: A Spoken Language Understanding Resource Package. Emanuele Bastianelli, Andrea Vanzo, Pawel Swietojanski and Verena Rieser.](https://virtual.2020.emnlp.org/paper_main.3257.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.588.pdf) [**(code)**]()
 
@@ -1997,10 +2006,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Suicidal Risk Detection for Military Personnel. Sungjoon Park, Kiwoong Park, Jaimeen Ahn and Alice Oh.](https://virtual.2020.emnlp.org/paper_main.1904.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.198.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Towards Modeling Revision Requirements in wikiHow Instructions. Irshad Bhat, Talita Anthonio and Michael Roth.](https://virtual.2020.emnlp.org/paper_main.1906.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.675.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation. Daniel Loureiro and Jose Camacho-Collados.](https://virtual.2020.emnlp.org/paper_main.1935.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.283.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Beyond [CLS] through Ranking by Generation. Cicero Nogueira dos Santos, Xiaofei Ma, Ramesh Nallapati, zhiheng huang and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.1949.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.134.pdf) [**(code)**]()
 
@@ -2546,8 +2551,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) A Multilingual View of Unsupervised Machine Translation. Xavier Garcia, Pierre Foret, Thibault Sellam and Ankur Parikh.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.283.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) An Evaluation Method for Diachronic Word Sense Induction. Ashjan Alsulaimani, Erwan Moreau and Carl Vogel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.284.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning. Bingbing Li et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.286.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Towards Zero-Shot Conditional Summarization with Adaptive Multi-Task Fine-Tuning. Travis Goodwin, Max Savery and Dina Demner-Fushman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.289.pdf) [**(code)**]()
@@ -2633,8 +2636,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) LIMIT-BERT : Linguistics Informed Multi-Task BERT. Junru Zhou, Zhuosheng Zhang, Hai Zhao and Shuailiang Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.399.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.405.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.412.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.415.pdf) [**(code)**]()
@@ -2652,9 +2653,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing. Xi Victoria Lin, Richard Socher and Caiming Xiong.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.438.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Active Sentence Learning by Adversarial Uncertainty Sampling in Discrete Space. Dongyu Ru et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.441.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Adversarial Text Generation via Sequence Contrast Discrimination. Ke Wang and Xiaojun Wan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.5.pdf) [**(code)**]()
 
