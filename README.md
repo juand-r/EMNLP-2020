@@ -24,6 +24,8 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Datasets, Pretrained models and Other Resources](#top-datasets-pretrained-models-and-other-resources)
   - [Parsing](#top-parsing)
   - [Semantics](#top-semantics)
+    - [Lexical Semantics](#top-lexical-semantics)
+    - [Sentence-level Semantics](#top-sentence-level-semantics)
   - [Pragmatics](#top-pragmatics)
   - [Discourse](#top-discourse)
   - [Figurative Language](#top-figurative-language)
@@ -55,7 +57,6 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Coreference](#top-coreference)
   - [Topic Models](#top-topic-models)
   - [Knowledge Graphs](#top-knowledge-graphs)
-  - [Hypernymy Detection](#top-hypernymy-detection)
   - [Natural Language Inference](#top-natural-language-inference)
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
 - [Applications](#top-applications)
@@ -232,6 +233,13 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Semantics
+
+#### [:top:](#selections-from-emnlp-2020) Lexical Semantics
+
+:heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
+
+#### [:top:](#selections-from-emnlp-2020) Sentence-level Semantics
+
 
 
 ---
@@ -704,9 +712,6 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 ---
 ###  [:top:](#selections-from-emnlp-2020) Knowledge Graphs
 
-
----
-###  [:top:](#selections-from-emnlp-2020) Hypernymy Detection
 
 
 ---
@@ -1384,10 +1389,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang and Sang-goo Lee.](https://virtual.2020.emnlp.org/paper_main.2070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf) [**(code)**]()
 
 :heavy_minus_sign: [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
-
-
-
-:heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring and Predicting Transferability across NLP Tasks. Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.2087.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.635.pdf) [**(code)**]()
 
