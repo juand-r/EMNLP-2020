@@ -171,13 +171,17 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 :heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
-:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
+:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual **Semantic Role Labeling** Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
 
-:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
+:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual **Information Retrieval**. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
 
 **In languages other than English:**
 
 :heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for Indian Languages. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) RobBERT: a Dutch RoBERTa-based Language Model. Pieter Delobelle, Thomas Winters and Bettina Berendt.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.292.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for Vietnamese. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
 
 **Social biases:**
 
@@ -2479,8 +2483,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Towards Controllable Biases in Language Generation. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) RobBERT: a Dutch RoBERTa-based Language Model. Pieter Delobelle, Thomas Winters and Bettina Berendt.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.292.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Regularization of Distinct Strategies for Unsupervised Question Generation. Junmo Kang, Giwon Hong, Haritz Puerto San Roman and Sung-Hyon Myaeng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) DeSMOG: Detecting Stance in Media On Global Warming. Yiwei Luo, Dallas Card and Dan Jurafsky.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.296.pdf) [**(code)**]()
@@ -2600,8 +2602,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) Pretrained Language Models for Dialogue Generation with Multiple Input Sources. Yu Cao, Wei Bi, Meng Fang and Dacheng Tao.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.81.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Transition-based Parsing with Stack-Transformers. Ramón Fernandez Astudillo, Miguel Ballesteros, Tahira Naseem, Austin Blodgett and Radu Florian.  [**(preprint)**](https://www.aclweb.org/anthology/2020.findings-emnlp.89.pdf) [**(paper)**]() [**(code)**]()
-
-:heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for Vietnamese. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Make Templates Smarter: A Template Based Data2Text System Powered by Text Stitch Model. Bingfeng Luo, Zuo Bai, Kunfeng Lai and Jianping Shen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.94.pdf) [**(code)**]()
 
