@@ -562,39 +562,64 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 ####  [:top:](#selections-from-emnlp-2020) NER
 
+:heavy_minus_sign: [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition. Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.](https://virtual.2020.emnlp.org/paper_main.387.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.590.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Named Entity Recognition Only from Word Embeddings. Ying Luo, Hai Zhao and Junlang Zhan.](https://virtual.2020.emnlp.org/paper_main.989.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.723.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Coarse-to-Fine Pre-training for Named Entity Recognition. Xue Mengge, Bowen Yu, Zhenyu Zhang, Tingwen Liu, Yue Zhang and Bin Wang.](https://virtual.2020.emnlp.org/paper_main.1738.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.514.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?. Hongyu Lin, Yaojie Lu, Jialong Tang, Xianpei Han, Le Sun, Zhicheng Wei and Nicholas Jing Yuan.](https://virtual.2020.emnlp.org/paper_main.1974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.592.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.](https://virtual.2020.emnlp.org/paper_main.3298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf) [**(code)**]()
+
+**Evaluation:**
+
+:heavy_minus_sign: [**Interpretable Multi-dataset Evaluation for Named Entity Recognition. Jinlan Fu, Pengfei Liu and Graham Neubig.**](https://virtual.2020.emnlp.org/paper_main.3648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.489.pdf) [**(code)**]()
+
+**Nested NER:**
+
+See also the papers from ACL 2020 on nested NER, including [Named Entity Recognition as Dependency Parsing](https://www.aclweb.org/anthology/2020.acl-main.577/).
+
+:heavy_minus_sign: [HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction. Yu Wang, Yun Li, Hanghang Tong and Ziye Zhu.](https://virtual.2020.emnlp.org/paper_main.1755.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.486.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Hierarchical Region Learning for Nested Named Entity Recognition. Xinwei Long, Shuzi Niu and Yucheng Li.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.430.pdf) [**(code)**]()
+
+**Large-scale typing:**
+
+:heavy_minus_sign: (Findings) **Interpretable Entity Representations through Large-Scale Typing**. Yasumasa Onoe and Greg Durrett.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.54.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.60.pdf) [**(code)**]()
 
 ####  [:top:](#selections-from-emnlp-2020) Entity Linking
 
+**Zero-shot:**
+
+:heavy_minus_sign: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval. Ledell Wu, Fabio Petroni, Martin Josifoski, Sebastian Riedel and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.519.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Zero-shot Entity Linking with Efficient Long Range Sequence Modeling. Zonghai Yao, Liangliang Cao and Huapu Pan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.228.pdf) [**(code)**]()
+
+**Muli/cross-lingual:**
+
+:heavy_minus_sign: [Design Challenges in Low-resource Cross-lingual Entity Linking. Xingyu Fu, Weijia Shi, Xiaodong Yu, Zian Zhao and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.3453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.521.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Entity Linking in 100 Languages. Jan A. Botha, Zifei Shan and Daniel Gillick.](https://virtual.2020.emnlp.org/paper_main.3216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.630.pdf) [**(code)**]()
+
+**Dataset:**
+
+:heavy_minus_sign: [COMETA: A Corpus for Medical Entity Linking in the Social Media. Marco Basaldella, Fangyu Liu, Ehsan Shareghi and Nigel Collier.](https://virtual.2020.emnlp.org/paper_main.748.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.253.pdf) [**(code)**]()
+
+**Other:**
+
+:heavy_minus_sign: [Efficient One-Pass End-to-End Entity Linking for Questions. Belinda Z. Li, Sewon Min, Srinivasan Iyer, Yashar Mehdad and Wen-tau Yih.](https://virtual.2020.emnlp.org/paper_main.3517.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.522.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Joint Intent Detection and Entity Linking on Spatial Domain Queries. lei zhang, Runze Wang, Jingbo Zhou, Jingsong Yu, Zhenhua Ling and Hui Xiong.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.444.pdf) [**(code)**]()
 
 
 ####  [:top:](#selections-from-emnlp-2020) Entity Representation
 
-
-:heavy_minus_sign: (Findings) Hierarchical Region Learning for Nested Named Entity Recognition. Xinwei Long, Shuzi Niu and Yucheng Li.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.430.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.60.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **Interpretable Entity Representations through Large-Scale Typing**. Yasumasa Onoe and Greg Durrett.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.54.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.](https://virtual.2020.emnlp.org/paper_main.3298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [**Interpretable Multi-dataset Evaluation for Named Entity Recognition. Jinlan Fu, Pengfei Liu and Graham Neubig.**](https://virtual.2020.emnlp.org/paper_main.3648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.489.pdf) [**(code)**]()
-
-:heavy_minus_sign: [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?. Hongyu Lin, Yaojie Lu, Jialong Tang, Xianpei Han, Le Sun, Zhicheng Wei and Nicholas Jing Yuan.](https://virtual.2020.emnlp.org/paper_main.1974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.592.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [HIT: Nested Named Entity Recognition via Head-Tail Pair and Token Interaction. Yu Wang, Yun Li, Hanghang Tong and Ziye Zhu.](https://virtual.2020.emnlp.org/paper_main.1755.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.486.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Coarse-to-Fine Pre-training for Named Entity Recognition. Xue Mengge, Bowen Yu, Zhenyu Zhang, Tingwen Liu, Yue Zhang and Bin Wang.](https://virtual.2020.emnlp.org/paper_main.1738.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.514.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Entities as Experts: Sparse Memory Access with Entity Supervision**. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.](https://virtual.2020.emnlp.org/paper_main.1528.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.400.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Named Entity Recognition Only from Word Embeddings. Ying Luo, Hai Zhao and Junlang Zhan.](https://virtual.2020.emnlp.org/paper_main.989.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.723.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition. Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.](https://virtual.2020.emnlp.org/paper_main.387.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.590.pdf) [**(code)**]()
 
 
 
@@ -947,7 +972,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Transformer Based Multi-Source Domain Adaptation. Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.745.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.639.pdf) [**(code)**]()
 
-:heavy_minus_sign: [COMETA: A Corpus for Medical Entity Linking in the Social Media. Marco Basaldella, Fangyu Liu, Ehsan Shareghi and Nigel Collier.](https://virtual.2020.emnlp.org/paper_main.748.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.253.pdf) [**(code)**]()
+
 
 
 
@@ -1602,7 +1627,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [IIRC: A Dataset of Incomplete Information Reading Comprehension Questions. James Ferguson, Matt Gardner, Hannaneh Hajishirzi, Tushar Khot and Pradeep Dasigi.](https://virtual.2020.emnlp.org/paper_main.2973.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.86.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval. Ledell Wu, Fabio Petroni, Martin Josifoski, Sebastian Riedel and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.519.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Counterfactual Off-Policy Training for Neural Dialogue Generation. Qingfu Zhu, Wei-Nan Zhang, Ting Liu and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.276.pdf) [**(code)**]()
 
@@ -1682,7 +1707,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. Xu Zhao, Zihao Wang, Hao Wu and Yong Zhang.](https://virtual.2020.emnlp.org/paper_main.3205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.238.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Entity Linking in 100 Languages. Jan A. Botha, Zifei Shan and Daniel Gillick.](https://virtual.2020.emnlp.org/paper_main.3216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.630.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
 
@@ -1752,7 +1777,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Social Chemistry 101: Learning to Reason about Social and Moral Norms. Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.3450.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.48.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Design Challenges in Low-resource Cross-lingual Entity Linking. Xingyu Fu, Weijia Shi, Xiaodong Yu, Zian Zhao and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.3453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.521.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
@@ -2082,7 +2107,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [On the weak link between importance and prunability of attention heads. Aakriti Budhraja, Madhura Pande, Preksha Nema, Pratyush Kumar and Mitesh M. Khapra.](https://virtual.2020.emnlp.org/paper_main.3513.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.260.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Efficient One-Pass End-to-End Entity Linking for Questions. Belinda Z. Li, Sewon Min, Srinivasan Iyer, Yashar Mehdad and Wen-tau Yih.](https://virtual.2020.emnlp.org/paper_main.3517.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.522.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Towards Interpreting BERT for Reading Comprehension Based QA. Sahana Ramnath, Preksha Nema, Deep Sahni and Mitesh M. Khapra.](https://virtual.2020.emnlp.org/paper_main.3529.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.261.pdf) [**(code)**]()
 
@@ -2614,7 +2639,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Active Sentence Learning by Adversarial Uncertainty Sampling in Discrete Space. Dongyu Ru et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.441.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Joint Intent Detection and Entity Linking on Spatial Domain Queries. lei zhang, Runze Wang, Jingbo Zhou, Jingsong Yu, Zhenhua Ling and Hui Xiong.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.444.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
 
@@ -2669,7 +2693,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Zero-shot Entity Linking with Efficient Long Range Sequence Modeling. Zonghai Yao, Liangliang Cao and Huapu Pan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.228.pdf) [**(code)**]()
+
+
 
 :heavy_minus_sign: (Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.240.pdf) [**(code)**]()
 
