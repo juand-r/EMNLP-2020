@@ -48,6 +48,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 - [NLU papers](#nlu-papers)
   - [Text Classification](#top-text-classification)
   - [Entity Recognition, Linking and Representation](#top-entity-recognition-linking-and-representation)
+    - [NER](#top-NER)
+    - [Entity Linking](#top-entity-linking)
+    - [Entity Representation](#top-entity-representation)
   - [Topic Models](#top-topic-models)
   - [Knowledge Graphs](#top-knowledge-graphs)
   - [Hypernymy Detection](#top-hypernymy-detection)
@@ -556,6 +559,17 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Entity Recognition, Linking and Representation
+
+####  [:top:](#selections-from-emnlp-2020) NER
+
+
+
+####  [:top:](#selections-from-emnlp-2020) Entity Linking
+
+
+
+####  [:top:](#selections-from-emnlp-2020) Entity Representation
+
 
 :heavy_minus_sign: (Findings) Hierarchical Region Learning for Nested Named Entity Recognition. Xinwei Long, Shuzi Niu and Yucheng Li.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.430.pdf) [**(code)**]()
 
