@@ -306,11 +306,14 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 ---
 ### [:top:](#selections-from-emnlp-2020) Pragmatics
 
+:heavy_minus_sign: ["I'd rather just go to bed": Understanding Indirect Answers. Annie Louis, Dan Roth and Filip Radlinski.](https://virtual.2020.emnlp.org/paper_main.1972.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.601.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Discourse
 
 See also the papers at the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
+
+:heavy_minus_sign: [BERT-enhanced Relational Sentence Ordering Network. Baiyun Cui, Yingming Li and Zhongfei Zhang.](https://virtual.2020.emnlp.org/paper_main.1141.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.511.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations. I-Ta Lee, Maria Leonor Pacheco and Dan Goldwasser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.446.pdf) [**(code)**]()
 
@@ -1283,8 +1286,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [What time is it? Temporal Analysis of Novels. Allen Kim, Charuta Pethe and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1135.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf) [**(code)**]()
 
-:heavy_minus_sign: [BERT-enhanced Relational Sentence Ordering Network. Baiyun Cui, Yingming Li and Zhongfei Zhang.](https://virtual.2020.emnlp.org/paper_main.1141.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.511.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation. Dana Ruiter, Josef van Genabith and Cristina España-Bonet.](https://virtual.2020.emnlp.org/paper_main.1146.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.202.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning from Context or Names? An Empirical Study on Neural Relation Extraction. Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.1159.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.298.pdf) [**(code)**]()
@@ -1475,7 +1476,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
-:heavy_minus_sign: ["I'd rather just go to bed": Understanding Indirect Answers. Annie Louis, Dan Roth and Filip Radlinski.](https://virtual.2020.emnlp.org/paper_main.1972.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.601.pdf) [**(code)**]()
 
 
 
