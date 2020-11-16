@@ -468,6 +468,8 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 ---
 ###  [:top:](#selections-from-emnlp-2020) Embeddings
 
+For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bias).
+
 - a
 
 ---
@@ -929,15 +931,22 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multi-Dimensional Gender Bias Classification. Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela and Adina Williams.](https://virtual.2020.emnlp.org/paper_main.802.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.23.pdf) [**(code)**]()
 
-**Mitigation:**
+**Mitigation for dialogue generation:**
 
 :heavy_minus_sign: [**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.](https://virtual.2020.emnlp.org/paper_main.318.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13028.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.64.pdf) [**(code)**](https://github.com/zgahhblhc/Debiased-Chat)
 
 :heavy_minus_sign: [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.](https://virtual.2020.emnlp.org/paper_main.834.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.656.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation. Francisco Vargas and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1018.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.232.pdf) [**(code)**]()
+**Mitigation of word embeddings
+
+See also [Fair Embedding Engine: A Library for Analyzing and Mitigating Gender
+Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) from the NLP-OSS Workshop.
 
 :heavy_minus_sign: (Findings) Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation. Seungjae Shin et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.280.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings. Vaibhav Kumar et al.](https://virtual.2020.emnlp.org/paper_TACL.2011.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00327) [**(code)**](https://github.com/TimeTraveller-San/RAN-Debias)
+
+:heavy_minus_sign: [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation. Francisco Vargas and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1018.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.232.pdf) [**(code)**]()
 
 
 ---
