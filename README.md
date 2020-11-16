@@ -870,6 +870,9 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 ---
 ###  [:top:](#selections-from-emnlp-2020) Natural Language Inference
 
+
+:heavy_minus_sign: [(Blackbox NLP) Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation](https://virtual.2020.emnlp.org/paper_WS-25.2020.blackboxnlp-1.16.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.blackboxnlp-1.16) [**(code)**]()
+
 :heavy_minus_sign: [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training. Joe Stacey, Pasquale Minervini, Haim Dubossarsky, Sebastian Riedel and Tim Rocktäschel.](https://virtual.2020.emnlp.org/paper_main.359.html)  [**(preprint)**](https://arxiv.org/pdf/2004.07790.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.665.pdf) [**(code)**]()
 
 :heavy_minus_sign: [What Can We Learn from Collective Human Opinions on Natural Language Inference Data?. Yixin Nie, Xiang Zhou and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.1540.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.734.pdf) [**(code)**]()
