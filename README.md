@@ -68,6 +68,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Social Media](#top-social-media)
   - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Finance](#top-finance)
+  - [Customer Service](#top-customer-service)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
   - [Gender Bias](#top-gender-bias)
@@ -886,9 +887,15 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
 
 ---
+### [:top:](#selections-from-emnlp-2020) Customer Service
+
+:heavy_minus_sign: [Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra et al.](https://virtual.2020.emnlp.org/paper_main.1390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.25.pdf) [**(code)**]()
+
+
+---
 ### [:top:](#selections-from-emnlp-2020) Other applications
 
-
+:heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.328.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.22.pdf) [**(code)**](https://github.com/mickeystroller/StegaText)
 
 ---
 ---
@@ -978,8 +985,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
 
 :heavy_minus_sign: [Global-to-Local Neural Networks for Document-Level Relation Extraction. Difeng Wang, Wei Hu, Ermei Cao and Weijian Sun.](https://virtual.2020.emnlp.org/paper_main.327.html)  [**(preprint)**](https://arxiv.org/pdf/2009.10359.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.303.pdf) [**(code and data)**](https://github.com/nju-websoft/GLRE)
-
-:heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.328.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.22.pdf) [**(code)**](https://github.com/mickeystroller/StegaText)
 
 :heavy_minus_sign: [F^2-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax. Byung-Ju Choi, Jimin Hong, David Park and Sang Wan Lee.](https://virtual.2020.emnlp.org/paper_main.334.html)  [**(preprint)**](https://arxiv.org/pdf/2009.09417.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.737.pdf) [**(code)**]()
 
@@ -1972,8 +1977,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Sequence-Level Mixed Sample Data Augmentation. Demi Guo, Yoon Kim and Alexander Rush.](https://virtual.2020.emnlp.org/paper_main.1356.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.447.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson et al.](https://virtual.2020.emnlp.org/paper_main.1389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra et al.](https://virtual.2020.emnlp.org/paper_main.1390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.25.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors.** Qianchu Liu, Diana McCarthy and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.1395.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.333.pdf) [**(code)**]()
 
