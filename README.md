@@ -485,9 +485,11 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 - [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
 - [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020)
 
+:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
+
 :heavy_minus_sign: (Findings) Fine-Grained Grounding for Multimodal **Speech Recognition**. Tejas Srinivasan, Ramon Sanabria, Florian Metze and Desmond Elliott.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.242.pdf) [**(code)**]()
 
-:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
+:heavy_minus_sign: (Findings) Modeling Intra and Inter-modality Incongruity for Multi-Modal **Sarcasm Detection**. Hongliang Pan, Zheng Lin, Peng Fu, Yatao Qi and Weiping Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.124.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) DocStruct: A Multimodal Method to **Extract Hierarchy Structure** in Document for General Form Understanding. Zilong Wang, Mingjie Zhan, xuebo liu and ding liang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.80.pdf) [**(code)**]()
 
@@ -497,13 +499,22 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!. Jack Hessel and Lillian Lee.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Incorporating Multimodal Information in Open-Domain Web **Keyphrase Extraction**. Yansen Wang, Zhen Fan and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.652.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.140.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Multimodal Routing: Improving Local and Global **Interpretability** of Multimodal Language Analysis. Yao-Hung Hubert Tsai, Martin Ma, Muqiao Yang, Ruslan Salakhutdinov and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.376.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14198.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.143.pdf) [**(code)**](https://github.com/martinmamql/multimodal_routing)
 
 :heavy_minus_sign: [Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning. Wanyun Cui, Guangyu Zheng and Wei Wang.](https://virtual.2020.emnlp.org/paper_main.3239.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.444.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product. Tiangang Zhu, Yue Wang, Haoran Li, Youzheng Wu, Xiaodong He and Bowen Zhou.](https://virtual.2020.emnlp.org/paper_main.3136.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.166.pdf) [**(code)**]()
+
+**Keyphrase extraction:**
+
+:heavy_minus_sign: [Incorporating Multimodal Information in Open-Domain Web Keyphrase Extraction. Yansen Wang, Zhen Fan and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.652.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.140.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings. Yue Wang, Jing Li, Michael Lyu and Irwin King.](https://virtual.2020.emnlp.org/paper_main.3088.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.268.pdf) [**(code)**]()
+
+
+**Fake news detection:**
+
+:heavy_minus_sign: [Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News. Reuben Tan, Bryan Plummer and Kate Saenko.](https://virtual.2020.emnlp.org/paper_main.635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.163.pdf) [**(code)**]()
 
 **Summarization:**
 
@@ -1114,7 +1125,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 
 
-:heavy_minus_sign: [Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News. Reuben Tan, Bryan Plummer and Kate Saenko.](https://virtual.2020.emnlp.org/paper_main.635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.163.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Speakers Fill Lexical Semantic Gaps with Context**. Tiago Pimentel, Rowan Hall Maudslay, Damian Blasi and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.328.pdf) [**(code)**]()
 
@@ -1770,8 +1780,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Structured Pruning of Large Language Models. Ziheng Wang, Jeremy Wohlwend and Tao Lei.](https://virtual.2020.emnlp.org/paper_main.3074.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.496.pdf) [**(code)**]()
 
 :heavy_minus_sign: [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion. Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung and William L. Hamilton.](https://virtual.2020.emnlp.org/paper_main.3084.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.462.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings. Yue Wang, Jing Li, Michael Lyu and Irwin King.](https://virtual.2020.emnlp.org/paper_main.3088.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.268.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Methods for Numeracy-Preserving Word Embeddings. Dhanasekar Sundararaman, Shijing Si, Vivek Subramanian, Guoyin Wang, Devamanyu Hazarika and Lawrence Carin.](https://virtual.2020.emnlp.org/paper_main.3093.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.384.pdf) [**(code)**]()
 
@@ -2436,8 +2444,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: (Findings) **Evaluating Models’ Local Decision Boundaries via Contrast Sets.** Matt Gardner et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.117.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) A Compare Aggregate Transformer for Understanding Document-grounded Dialogue. Longxuan Ma, Wei-Nan Zhang, runxin sun and Ting Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.122.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Modeling Intra and Inter-modality Incongruity for Multi-Modal Sarcasm Detection. Hongliang Pan, Zheng Lin, Peng Fu, Yatao Qi and Weiping Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.124.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues. Sixing Wu, Ying Li, Dawei Zhang and Zhonghai Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.126.pdf) [**(code)**]()
 
