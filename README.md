@@ -29,6 +29,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Sentence-level Semantics](#top-sentence-level-semantics)
   - [Pragmatics](#top-pragmatics)
   - [Discourse](#top-discourse)
+  - [Argumentation](#top-argumentation)
   - [Figurative Language](#top-figurative-language)
   - [Explainability](#top-explainability)
   - [Adversarial ML](#top-adversarial-ml)
@@ -309,6 +310,23 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.955.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.225.pdf) [**(code)**]()
 
+
+---
+### [:top:](#selections-from-emnlp-2020) Argumentation
+
+:heavy_minus_sign: [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Extracting Implicitly Asserted Propositions in Argumentation. Yohan Jo, Jacky Visser, Chris Reed and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.440.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.2.pdf) [**(code)**]()
+
+:heavy_minus_sign: [APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning. Liying Cheng, Lidong Bing, Qian Yu, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.2133.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Multilingual Argument Mining: Datasets and Analysis. Orith Toledo-Ronen, Matan Orbach, Yonatan Bilu, Artem Spector and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.29.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Exploring the Role of Argument Structure in Online Debate Persuasion. Jialu Li, Esin Durmus and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.1750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.716.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Quantitative Argument Summarization and Beyond: Cross-Domain Key Point Analysis. Roy Bar-Haim, Yoav Kantor, Lilach Eden, Roni Friedman, Dan Lahav and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.2688.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.3.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Stance Detection for Arguments from Consequences. Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt.](https://virtual.2020.emnlp.org/paper_main.2996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.4.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Figurative Language
@@ -969,9 +987,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 
-:heavy_minus_sign: [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Extracting Implicitly Asserted Propositions in Argumentation. Yohan Jo, Jacky Visser, Chris Reed and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.440.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.2.pdf) [**(code)**]()
 
 
 
@@ -1438,8 +1453,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures**. Haim Dubossarsky, Ivan Vulić, Roi Reichart and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2131.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.186.pdf) [**(code)**]()
 
-:heavy_minus_sign: [APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning. Liying Cheng, Lidong Bing, Qian Yu, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.2133.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2164.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.68.pdf) [**(code)**]()
 
 :heavy_minus_sign: [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.](https://virtual.2020.emnlp.org/paper_main.2179.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf) [**(code)**]()
@@ -1586,7 +1599,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Tackling the Low-resource Challenge for Canonical Segmentation. Manuel Mager, Özlem Çetinoğlu and Katharina Kann.](https://virtual.2020.emnlp.org/paper_main.2675.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.423.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Quantitative Argument Summarization and Beyond: Cross-Domain Key Point Analysis. Roy Bar-Haim, Yoav Kantor, Lilach Eden, Roni Friedman, Dan Lahav and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.2688.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.3.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja and Navin Goyal.](https://virtual.2020.emnlp.org/paper_main.2696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.576.pdf) [**(code)**]()
 
@@ -1689,7 +1702,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. Tsu-Jui Fu, Xin Wang, Scott Grafton, Miguel Eckstein and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2991.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.357.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Unsupervised Stance Detection for Arguments from Consequences. Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt.](https://virtual.2020.emnlp.org/paper_main.2996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.4.pdf) [**(code)**]()
+
+
+
 
 :heavy_minus_sign: [Plan ahead: Self-Supervised Text Planning for Paragraph Completion Task. Dongyeop Kang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3010.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.529.pdf) [**(code)**]()
 
@@ -1995,7 +2010,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Exploring the Role of Argument Structure in Online Debate Persuasion. Jialu Li, Esin Durmus and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.1750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.716.pdf) [**(code)**]()
+
+
 
 
 :heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
@@ -2326,9 +2342,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) **Gradient-based Analysis of NLP Models is Manipulable**. Junlin Wang, Jens Tuyls, Eric Wallace and Sameer Singh.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.24.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Multilingual Argument Mining: Datasets and Analysis. Orith Toledo-Ronen, Matan Orbach, Yonatan Bilu, Artem Spector and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.29.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Machines Getting with the Program: Understanding Intent Arguments of Non-Canonical Directives. Won Ik Cho et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.31.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) The RELX Dataset and Matching the Multilingual Blanks for Cross-Lingual Relation Classification. Abdullatif Köksal and Arzucan Özgür.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.32.pdf) [**(code)**]()
 
@@ -2585,8 +2599,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) A Multi-Persona Chatbot for Hotline Counselor Training. Orianna Demasi, Yu Li and Zhou Yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.324.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Narrative Text Generation with a Latent Discrete Plan. Harsh Jhamtani and Taylor Berg-Kirkpatrick.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.325.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction. Amir Pouran Ben Veyseh, Tuan Ngo Nguyen and Thien Huu Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.326.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) The Box is in the Pen: Evaluating Commonsense Reasoning in Neural Machine Translation. Jie He, Tao Wang, Deyi Xiong and Qun Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.327.pdf) [**(code)**]()
 
