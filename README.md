@@ -1242,6 +1242,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.328.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.22.pdf) [**(code)**](https://github.com/mickeystroller/StegaText)
 
+:heavy_minus_sign: [Solving Historical Dictionary Codes with a Neural Language Model. Christopher Chu, Raphael Valenti and Kevin Knight.](https://virtual.2020.emnlp.org/paper_main.2216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.471.pdf) [**(code)**]()
+
 :heavy_minus_sign: [(Findings+WS) PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. Jiazhao Li et al.](https://virtual.2020.emnlp.org/paper_WS-12.2127.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [**(code)**]()
 
 ---
@@ -1714,8 +1716,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2212.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.275.pdf) [**(code)**]()
 
 :heavy_minus_sign: [When BERT Plays the Lottery, All Tickets Are Winning. Sai Prasanna, Anna Rogers and Anna Rumshisky.](https://virtual.2020.emnlp.org/paper_main.2215.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Solving Historical Dictionary Codes with a Neural Language Model. Christopher Chu, Raphael Valenti and Kevin Knight.](https://virtual.2020.emnlp.org/paper_main.2216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.471.pdf) [**(code)**]()
 
 :heavy_minus_sign: [DORB: Dynamically Optimizing Multiple Rewards with Bandits. Ramakanth Pasunuru, Han Guo and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2221.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.625.pdf) [**(code)**]()
 
