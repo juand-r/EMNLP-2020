@@ -202,7 +202,7 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for **Vietnamese**. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
 
-:heavy_minus_sign:[RussianSuperGLUE: A **Russian** Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.](https://virtual.2020.emnlp.org/paper_main.2391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.381.pdf)
+:heavy_minus_sign: [RussianSuperGLUE: A **Russian** Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.](https://virtual.2020.emnlp.org/paper_main.2391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.381.pdf)
 
 **Social biases:**
 
@@ -1574,8 +1574,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.2382.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.526.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li et al.](https://virtual.2020.emnlp.org/paper_main.2389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.735.pdf) [**(code)**]()
-
-:heavy_minus_sign: [RussianSuperGLUE: A Russian Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.](https://virtual.2020.emnlp.org/paper_main.2391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.381.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Message Passing for Hyper-Relational Knowledge Graphs. Mikhail Galkin, Priyansh Trivedi, Gaurav Maheshwari, Ricardo Usbeck and Jens Lehmann.](https://virtual.2020.emnlp.org/paper_main.2406.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.596.pdf) [**(code)**]()
 
