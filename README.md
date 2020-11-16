@@ -23,6 +23,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Methodological](#top-methodological)
   - [Datasets, Pretrained models and Other Resources](#top-datasets-pretrained-models-and-other-resources)
   - [Parsing](#top-parsing)
+  - [Syntax](#top-syntax)
   - [Semantics](#top-semantics)
     - [Lexical Semantics](#top-lexical-semantics)
     - [Word Sense Disambiguation](#top-word-sense-disambiguation)
@@ -58,6 +59,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Entity Representation](#top-entity-representation)
     - [Entity Set Expansion](#top-entity-set-expansion)
   - [Coreference](#top-coreference)
+  - [Semantic Role Labeling](#top-semantic-role-labeling)
   - [Topic Models](#top-topic-models)
   - [Knowledge Graphs](#top-knowledge-graphs)
   - [Natural Language Inference](#top-natural-language-inference)
@@ -186,8 +188,6 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 :heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
 
-:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual **Semantic Role Labeling** Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
-
 :heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual **Information Retrieval**. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
 
 **In languages other than English:**
@@ -242,6 +242,11 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: (Findings) Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders. Zhao Li and Kewei Tu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.193.pdf) [**(code)**]()
 
+
+---
+### [:top:](#selections-from-emnlp-2020) Syntax
+
+:heavy_minus_sign: [Parsing Gapping Constructions Based on Grammatical and Semantic Roles. Yoshihide Kato and Shigeki Matsubara.](https://virtual.2020.emnlp.org/paper_main.1625.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Semantics
@@ -1094,6 +1099,27 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 
 ---
+###  [:top:](#selections-from-emnlp-2020) Semantic Role Labeling
+
+:heavy_minus_sign: [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling. Diego Marcheggiani and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.1754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.322.pdf) [**(code)**]()
+
+:heavy_minus_sign: [SRLGRN: Semantic Role Labeling Graph Reasoning Network. Chen Zheng and Parisa Kordjamshidi.](https://virtual.2020.emnlp.org/paper_main.574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Semantic Role Labeling as Syntactic Dependency Parsing. Tianze Shi, Igor Malioutov and Ozan Irsoy.](https://virtual.2020.emnlp.org/paper_main.1957.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.610.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) High-order Semantic Role Labeling. Zuchao Li, Hai Zhao, Rui Wang and Kevin Parnow.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.102.pdf) [**(code)**]()
+
+
+**Cross-lingual:**
+
+:heavy_minus_sign: [X-SRL: A Parallel Cross-Lingual Semantic Role Labeling Dataset. Angel Daza and Anette Frank.](https://virtual.2020.emnlp.org/paper_main.1379.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Alignment-free Cross-lingual Semantic Role Labeling. Rui Cai and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.319.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. Ishan Jindal, Yunyao Li, Siddhartha Brahma and Huaiyu Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.279.pdf) [**(code)**]()
+
+
+---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
 
 :boom:++ [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
@@ -1370,12 +1396,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
 
-
-
-
 :heavy_minus_sign: [Conditional Causal Relationships between Emotions and Causes in Texts. Xinhong Chen, Qing Li and Jianping Wang.](https://virtual.2020.emnlp.org/paper_main.548.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf) [**(code)**]()
-
-:heavy_minus_sign: [SRLGRN: Semantic Role Labeling Graph Reasoning Network. Chen Zheng and Parisa Kordjamshidi.](https://virtual.2020.emnlp.org/paper_main.574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interactive Refinement of Cross-Lingual Word Embeddings. Michelle Yuan, Mozhi Zhang, Benjamin Van Durme, Leah Findlater and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.482.pdf) [**(code)**]()
 
@@ -1477,7 +1498,9 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Alignment-free Cross-lingual Semantic Role Labeling. Rui Cai and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.319.pdf) [**(code)**]()
+
+
+
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
 
@@ -1625,7 +1648,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Incremental Event Detection via Knowledge Consolidation Networks. Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang.](https://virtual.2020.emnlp.org/paper_main.1749.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.52.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling. Diego Marcheggiani and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.1754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.322.pdf) [**(code)**]()
+
 
 
 
@@ -1656,7 +1679,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Semantic Role Labeling as Syntactic Dependency Parsing. Tianze Shi, Igor Malioutov and Ozan Irsoy.](https://virtual.2020.emnlp.org/paper_main.1957.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.610.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
@@ -2110,8 +2132,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Exploiting Sentence Order in Document Alignment. Brian Thompson and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.639.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.483.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Semantic Role Labeling Guided Multi-turn Dialogue ReWriter. Kun Xu, Haochen Tan, Linfeng Song, Han Wu, Haisong Zhang, Linqi Song and Dong Yu.](https://virtual.2020.emnlp.org/paper_main.689.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.537.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots. Yuanmeng Yan, Keqing He, Hong Xu, Sihong Liu, Fanyu Meng, Min Hu and Weiran XU.](https://virtual.2020.emnlp.org/paper_main.744.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.490.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games. Subhajit Chaudhury et al.](https://virtual.2020.emnlp.org/paper_main.763.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.241.pdf) [**(code)**]()
@@ -2179,7 +2199,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
 
 
-:heavy_minus_sign: [Parsing Gapping Constructions Based on Grammatical and Semantic Roles. Yoshihide Kato and Shigeki Matsubara.](https://virtual.2020.emnlp.org/paper_main.1625.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
@@ -2514,7 +2533,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: (Findings) Using the Past Knowledge to Improve Sentiment Classification. Qi Qin, Wenpeng Hu and Bing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.101.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) High-order Semantic Role Labeling. Zuchao Li, Hai Zhao, Rui Wang and Kevin Parnow.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.102.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Undersensitivity in Neural Reading Comprehension. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.103.pdf) [**(code)**]()
 
@@ -2653,7 +2672,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: (Findings) Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports. Markus Zlabinger et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.274.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling. Ishan Jindal, Yunyao Li, Siddhartha Brahma and Huaiyu Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.279.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning. Bingbing Li et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.286.pdf) [**(code)**]()
 
