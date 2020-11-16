@@ -1786,7 +1786,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning. Xiaoxiao Guo, Mo Yu, Yupeng Gao, Chuang Gan, Murray Campbell and Shiyu Chang.](https://virtual.2020.emnlp.org/paper_main.2574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.624.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Which *BERT? A Survey Organizing Contextualized Encoders**. Patrick Xia, Shijie Wu and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.2579.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.608.pdf) [**(code)**]()
+:heavy_minus_sign: [**Which BERT? A Survey Organizing Contextualized Encoders**. Patrick Xia, Shijie Wu and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.2579.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.608.pdf) [**(code)**]()
 
 
 
