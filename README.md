@@ -198,7 +198,11 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: (Findings) RobBERT: a **Dutch** RoBERTa-based Language Model. Pieter Delobelle, Thomas Winters and Bettina Berendt.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.292.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Revisiting Pre-Trained Models for **Chinese** Natural Language Processing. Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.58.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) PhoBERT: Pre-trained language models for **Vietnamese**. Dat Quoc Nguyen and Anh Tuan Nguyen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.92.pdf) [**(code)**]()
+
+:heavy_minus_sign:[RussianSuperGLUE: A **Russian** Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.](https://virtual.2020.emnlp.org/paper_main.2391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.381.pdf)
 
 **Social biases:**
 
@@ -539,6 +543,12 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Multilingual
+
+
+**Linguistic Typology:**
+
+:heavy_minus_sign: [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions. Arya D. McCarthy, Adina Williams, Shijia Liu, David Yarowsky and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.3563.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.456.pdf) [**(code)**]()
+
 
 
 ---
@@ -1307,8 +1317,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model. Jun Yen Leung, Guy Emerson and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1282.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.329.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding. Samson Tan, Shafiq Joty, Lav Varshney and Min-Yen Kan.](https://virtual.2020.emnlp.org/paper_main.1320.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.455.pdf) [**(code)**]()
-
 :heavy_minus_sign: [NwQM: A neural quality assessment framework for Wikipedia. Bhanu Prakash Reddy Guda, Sasi Bhushan Seelaboyina, Soumya Sarkar and Animesh Mukherjee.](https://virtual.2020.emnlp.org/paper_main.1322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.674.pdf) [**(code)**]()
 
 :heavy_minus_sign: [If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
@@ -1641,14 +1649,9 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.](https://virtual.2020.emnlp.org/paper_main.2641.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.410.pdf) [**(code)**]()
 
-
 :heavy_minus_sign: [Distilling Multiple Domains for Neural Machine Translation. Anna Currey, Prashant Mathur and Georgiana Dinu.](https://virtual.2020.emnlp.org/paper_main.2661.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.364.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation. Wenxiang Jiao, Xing Wang, Shilin He, Irwin King, Michael Lyu and Zhaopeng Tu.](https://virtual.2020.emnlp.org/paper_main.2674.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.176.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Tackling the Low-resource Challenge for Canonical Segmentation. Manuel Mager, Özlem Çetinoğlu and Katharina Kann.](https://virtual.2020.emnlp.org/paper_main.2675.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.423.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja and Navin Goyal.](https://virtual.2020.emnlp.org/paper_main.2696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.576.pdf) [**(code)**]()
 
@@ -1901,8 +1904,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Toward Micro-Dialect Identification in Diaglossic and Code-Switched Environments. Muhammad Abdul-Mageed, Chiyu Zhang, AbdelRahim Elmadany and Lyle Ungar.](https://virtual.2020.emnlp.org/paper_main.3551.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.472.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Re-evaluating Evaluation in Text Summarization. Manik Bhandari, Pranav Narayan Gour, Atabak Ashfaq, Pengfei Liu and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.3552.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.751.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions. Arya D. McCarthy, Adina Williams, Shijia Liu, David Yarowsky and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.3563.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.456.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-Stage Pre-training for Automated Chinese Essay Scoring. Wei Song, Kai Zhang, Ruiji Fu, Lizhen Liu, Ting Liu and Miaomiao Cheng.](https://virtual.2020.emnlp.org/paper_main.3567.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.546.pdf) [**(code)**]()
 
@@ -2389,13 +2390,9 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: (Findings) A structure-enhanced graph convolutional network for sentiment analysis. Fanyu Meng, Junlan Feng, danping yin, Si Chen and Min Hu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.52.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: (Findings) Empirical Studies of Institutional Federated Learning For Natural Language Processing. Xinghua Zhu, Jianzong Wang, Zhenhou Hong and Jing Xiao.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.55.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) NeuReduce: Reducing Mixed Boolean-Arithmetic Expressions by Recurrent Neural Network. Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng and Yun Xu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.56.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Revisiting Pre-Trained Models for Chinese Natural Language Processing. Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.58.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Cascaded Semantic and Positional Self-Attention Network for Document Classification. Juyong Jiang, Jie Zhang and Kai Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.59.pdf) [**(code)**]()
 
