@@ -253,6 +253,8 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 :heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
+>
+> Not all that related, but interesting: [Media Persuasion through Slanted Language: Evidence from the Coverage of Immigration](https://www.barcelonagse.eu/research/working-papers/media-persuasion-through-slanted-language-evidence-coverage-immigration)
 
 **Hypernymy:**
 
@@ -478,6 +480,11 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Language Models and Transformers
+
+:boom:++ [Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually). Alex Warstadt, Yian Zhang, Xiaocheng Li, Haokun Liu and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2893.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.16.pdf) [**(code)**](https://github.com/nyu-mll/msgs)
+>
+>
+> **See also:** [When Do You Need Billions of Words of Pretraining Data?](https://arxiv.org/abs/2011.04946), [Information-theoretic Probing Explains Reliance on Spurious Features](https://openreview.net/forum?id=mNtmhaDkAr).
 
 :heavy_minus_sign: [Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. Chengyu Wang, Minghui Qiu, jun huang and XIAOFENG HE.](https://virtual.2020.emnlp.org/paper_main.16.html)  [**(preprint)**](https://arxiv.org/pdf/2003.13003.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.250.pdf) [**(code)**]()
 
@@ -1868,8 +1875,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Disentangle-based Continual Graph Representation Learning. Xiaoyu Kou, Yankai Lin, Shaobo Liu, Peng Li, Jie Zhou and Yan Zhang.](https://virtual.2020.emnlp.org/paper_main.2873.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.237.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Knowledge Graph Alignment with Entity-Pair Embedding. Zhichun Wang, Jinjian Yang and Xiaoju Ye.](https://virtual.2020.emnlp.org/paper_main.2877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually). Alex Warstadt, Yian Zhang, Xiaocheng Li, Haokun Liu and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2893.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.16.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
 
