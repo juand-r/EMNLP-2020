@@ -242,11 +242,29 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 #### [:top:](#selections-from-emnlp-2020) Lexical Semantics
 
-:heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
+:heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
+:heavy_minus_sign: [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
+
+**Hypernymy:**
+
+:heavy_minus_sign: [**When Hearst Is not Enough: Improving Hypernymy Detection from Corpus with Distributional Models**. Changlong Yu, Jialong Han, Peifeng Wang, Yangqiu Song, Hongming Zhang, Wilfred Ng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.2076.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.502.pdf) [**(code)**]()
+
+**Semantic change detection:**
+
+:heavy_minus_sign: [Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection. Adam Tsakalidis and Maria Liakata.](https://virtual.2020.emnlp.org/paper_main.1393.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.682.pdf) [**(code)**]()
+
+**Contextualized Representations:**
+
+:heavy_minus_sign: [**Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors.** Qianchu Liu, Diana McCarthy and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.1395.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.333.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf) [**(code)**]()
+
+:heavy_minus_sign: [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. Alessandro Raganato et al.](https://virtual.2020.emnlp.org/paper_main.143.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.584.pdf) [**(code)**](https://pilehvar.github.io/xlwic/)
+
+:heavy_minus_sign: [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations. Aina Garí Soler and Marianna Apidianaki.](https://virtual.2020.emnlp.org/paper_main.2094.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.598.pdf) [**(code)**]()
 
 #### [:top:](#selections-from-emnlp-2020) Word Sense Disambiguation
 
@@ -948,8 +966,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Shallow-to-Deep Training for Neural Machine Translation. Bei Li, Ziyang Wang, Hui Liu, Yufan Jiang, Quan Du, Tong Xiao, Huizhen Wang and Jingbo Zhu.](https://virtual.2020.emnlp.org/paper_main.130.html)  [**(preprint)**](https://arxiv.org/pdf/2010.03737.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.72.pdf) [**(code)**](https://github.com/libeineu/SDT-Training/)
 
-:heavy_minus_sign: [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. Alessandro Raganato et al.](https://virtual.2020.emnlp.org/paper_main.143.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.584.pdf) [**(code)**](https://pilehvar.github.io/xlwic/)
-
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
 
 
@@ -1254,8 +1270,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Visually Grounded Continual Learning of Compositional Phrases. Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1388.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.158.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Sequential Modelling of the Evolution of Word Representations for Semantic Change Detection. Adam Tsakalidis and Maria Liakata.](https://virtual.2020.emnlp.org/paper_main.1393.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.682.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Debiasing knowledge graph embeddings. Joseph Fisher, Arpit Mittal, Dave Palfrey and Christos Christodoulopoulos.](https://virtual.2020.emnlp.org/paper_main.1399.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.595.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Simultaneous Machine Translation with Visual Context. Ozan Caglayan, Julia Ive, Veneta Haralampieva, Pranava Madhyastha, Loïc Barrault and Lucia Specia.](https://virtual.2020.emnlp.org/paper_main.1402.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.184.pdf) [**(code)**]()
@@ -1449,8 +1463,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Exploring and Predicting Transferability across NLP Tasks. Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.2087.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.635.pdf) [**(code)**]()
 
-:heavy_minus_sign: [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations. Aina Garí Soler and Marianna Apidianaki.](https://virtual.2020.emnlp.org/paper_main.2094.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.598.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Improving AMR Parsing with Sequence-to-Sequence Pre-training. Dongqin Xu, Junhui Li, Muhua Zhu, Min Zhang and Guodong Zhou.](https://virtual.2020.emnlp.org/paper_main.2098.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.196.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs. Marius Pasca.](https://virtual.2020.emnlp.org/paper_main.2112.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.503.pdf) [**(code)**]()
@@ -1504,8 +1516,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.](https://virtual.2020.emnlp.org/paper_main.2322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.705.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.](https://virtual.2020.emnlp.org/paper_main.2342.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.660.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Text Segmentation by Cross Segment Attention. Michal Lukasik, Boris Dadachev, Kishore Papineni and Goncalo Simoes.](https://virtual.2020.emnlp.org/paper_main.2367.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.380.pdf) [**(code)**]()
 
@@ -1669,17 +1679,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Controllable Meaning Representation to Text Generation: Linearization and Data Augmentation Strategies. Chris Kedzie and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2916.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.419.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Annotating Temporal Dependency Graphs via Crowdsourcing. Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue.](https://virtual.2020.emnlp.org/paper_main.2922.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.432.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses. Hisashi Kamezawa, Noriki Nishida, Nobuyuki Shimizu, Takashi Miyazaki and Hideki Nakayama.](https://virtual.2020.emnlp.org/paper_main.2927.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.267.pdf) [**(code)**]()
 
-
-
-
 :heavy_minus_sign: [FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction. Dianbo Sui, Yubo Chen, Jun Zhao, Yantao Jia, Yuantao Xie and Weijian Sun.](https://virtual.2020.emnlp.org/paper_main.2938.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.165.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.](https://virtual.2020.emnlp.org/paper_main.2959.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.102.pdf) [**(code)**]()
 
@@ -1977,8 +1981,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Sequence-Level Mixed Sample Data Augmentation. Demi Guo, Yoon Kim and Alexander Rush.](https://virtual.2020.emnlp.org/paper_main.1356.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.447.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson et al.](https://virtual.2020.emnlp.org/paper_main.1389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors.** Qianchu Liu, Diana McCarthy and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.1395.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.333.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Low Compute Language Modeling with In-Domain Embedding Initialisation. Charles Welch, Rada Mihalcea and Jonathan K. Kummerfeld.](https://virtual.2020.emnlp.org/paper_main.1428.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.696.pdf) [**(code)**]()
 
