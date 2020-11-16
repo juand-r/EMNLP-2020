@@ -67,6 +67,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Scientific Text Mining](#top-scientific-text-mining)
   - [Social Media](#top-social-media)
   - [Grammatical Error Correction](#top-grammatical-error-correction)
+  - [Finance](#top-finance)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
   - [Gender Bias](#top-gender-bias)
@@ -826,6 +827,8 @@ See also three workshops at this conference:
 ---
 ### [:top:](#selections-from-emnlp-2020) Mental Health
 
+:heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) Do Models of Mental Health Based on Social Media Data Generalize?. Keith Harrigian, Carlos Aguirre and Mark Dredze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.337.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support. Ashish Sharma, Adam Miner, David Atkins and Tim Althoff.](https://virtual.2020.emnlp.org/paper_main.2707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.425.pdf) [**(code)**]()
@@ -846,6 +849,17 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Cost-effective Selection of Pretraining Data: A Case Study of Pretraining BERT on Social Media. Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.151.pdf) [**(code)**]()
 
+**Twitter:**
+
+:heavy_minus_sign: [Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding. Loitongbam Gyanendro Singh, Anasua Mitra and Sanasam Ranbir Singh.](https://virtual.2020.emnlp.org/paper_main.3357.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.718.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Embedding Model for **Estimating Legislative Preferences** from the Frequency and Sentiment of Tweets. Gregory Spell, Brian Guay, Sunshine Hillygus and Lawrence Carin.](https://virtual.2020.emnlp.org/paper_main.2651.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.46.pdf) [**(code)**]()
+
+:heavy_minus_sign: [On the Reliability and Validity of **Detecting Approval of Political Actors** in Tweets. Indira Sen, Fabian Flöck and Claudia Wagner.](https://virtual.2020.emnlp.org/paper_main.789.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.110.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification. Francesco Barbieri et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.148.pdf) [**(code)**]()
+
+
 ---
 ### [:top:](#selections-from-emnlp-2020) Grammatical Error Correction
 
@@ -863,6 +877,13 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Adversarial Grammatical Error Correction. Vipul Raheja and Dimitris Alikaniotis.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.275.pdf) [**(code)**]()
 
+
+---
+### [:top:](#selections-from-emnlp-2020) Finance
+
+:heavy_minus_sign: [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations. Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf) [**(code)**]()
+
+:heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Other applications
@@ -1068,21 +1089,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Transformer Based Multi-Source Domain Adaptation. Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.745.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.639.pdf) [**(code)**]()
 
-
-
-
-
-
 :heavy_minus_sign: [Compositional Phrase Alignment and Beyond. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
-
-
-
-
-
-:heavy_minus_sign: [On the Reliability and Validity of Detecting Approval of Political Actors in Tweets. Indira Sen, Fabian Flöck and Claudia Wagner.](https://virtual.2020.emnlp.org/paper_main.789.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.110.pdf) [**(code)**]()
-
-
-
 
 
 :heavy_minus_sign: [Modeling the Music Genre Perception across Language-Bound Cultures. Elena V. Epure, Guillaume Salha, Manuel Moussallam and Romain Hennequin.](https://virtual.2020.emnlp.org/paper_main.809.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.386.pdf) [**(code)**]()
@@ -1471,8 +1478,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [DORB: Dynamically Optimizing Multiple Rewards with Bandits. Ramakanth Pasunuru, Han Guo and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2221.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.625.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations. Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. Harsh Jhamtani and Peter Clark.](https://virtual.2020.emnlp.org/paper_main.2228.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.10.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**With Little Power Comes Great Responsibility**. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.2238.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf) [**(code)**]()
@@ -1544,12 +1549,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Weakly Supervised Subevent Knowledge Acquisition. Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang.](https://virtual.2020.emnlp.org/paper_main.2508.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.430.pdf) [**(code)**]()
 
-:heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
-
 :heavy_minus_sign: [PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation. Xinyu Hua and Lu Wang.](https://virtual.2020.emnlp.org/paper_main.2511.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.57.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
 
 :heavy_minus_sign: [PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge. Yun He, Zhuoer Wang, Yin Zhang, Ruihong Huang and James Caverlee.](https://virtual.2020.emnlp.org/paper_main.2533.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.611.pdf) [**(code)**]()
 
@@ -1584,14 +1584,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks. Lifu Tu, Tianyu Liu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.2636.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.449.pdf) [**(code)**]()
 
-
-
-
 :heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.](https://virtual.2020.emnlp.org/paper_main.2641.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.410.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets. Gregory Spell, Brian Guay, Sunshine Hillygus and Lawrence Carin.](https://virtual.2020.emnlp.org/paper_main.2651.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.46.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Distilling Multiple Domains for Neural Machine Translation. Anna Currey, Prashant Mathur and Georgiana Dinu.](https://virtual.2020.emnlp.org/paper_main.2661.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.364.pdf) [**(code)**]()
 
@@ -1799,8 +1793,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Training for Gibbs Sampling on Conditional Random Fields with Neural Scoring Factors. Sida Gao and Matthew R. Gormley.](https://virtual.2020.emnlp.org/paper_main.3348.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.406.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Quantifying Intimacy in Language. Jiaxin Pei and David Jurgens.](https://virtual.2020.emnlp.org/paper_main.3352.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.428.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding. Loitongbam Gyanendro Singh, Anasua Mitra and Sanasam Ranbir Singh.](https://virtual.2020.emnlp.org/paper_main.3357.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.718.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Bilingual Generative Transformer for Semantic Sentence Embedding. John Wieting, Graham Neubig and Taylor Berg-Kirkpatrick.](https://virtual.2020.emnlp.org/paper_main.3358.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.122.pdf) [**(code)**]()
 
@@ -2700,7 +2692,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) **exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources. Wen Tai et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.129.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification. Francesco Barbieri et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.148.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) TopicBERT for Energy Efﬁcient Document Classiﬁcation. Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.152.pdf) [**(code)**]()
 
