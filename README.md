@@ -164,6 +164,8 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 :boom: [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf)
 > See also Anna Rogers' blog post [How the transformers broke NLP leaderboards](https://hackingsemantics.xyz/2019/leaderboards/)
 
+:heavy_minus_sign: [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results. Ilia Kuznetsov and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.13.pdf) [**(code)**]()
+
 :heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf)
 
 :heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**](https://github.com/btaille/sincere)
@@ -1004,8 +1006,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 :heavy_minus_sign: [Active Learning for BERT: An Empirical Study. Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf) [**(code)**]()
-
-:heavy_minus_sign: [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results. Ilia Kuznetsov and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.13.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MLSUM: The Multilingual Summarization Corpus. Thomas Scialom, Paul-Alexis Dray, Sylvain Lamprier, Benjamin Piwowarski and Jacopo Staiano.](https://virtual.2020.emnlp.org/paper_main.504.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.647.pdf) [**(code)**]()
 
