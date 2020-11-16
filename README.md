@@ -38,6 +38,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Visual Question Answering](#top-visual-question-answering)
   - [Learning with Less Data](#top-learning-with-less-data)
     - [Active Learning](#top-active-learning)
+    - [ Data Augmentation](#top-data-augmentation)
   - [Language Models and Transformers](#top-language-models-and-transformers)
   - [Embeddings](#top-embeddings)
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
@@ -213,6 +214,12 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 ---
 ### [:top:](#selections-from-emnlp-2020) Parsing
 
+asdfg
+
+:heavy_minus_sign: [The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://virtual.2020.emnlp.org/paper_TACL.2141.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00337) [**(code)**](https://github.com/neulab/neural-lpcfg)
+
+:heavy_minus_sign: [Efficient Outside Computation. Daniel Gildea](https://virtual.2020.emnlp.org/paper_CL.5.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00386)
+
 **Constituency parsing:**
 
 :heavy_minus_sign: (Findings) Improving Constituency Parsing with Span Attention. Yuanhe Tian, Yan Song, Fei Xia and Tong Zhang. [**(preprint)**](https://arxiv.org/pdf/2010.07543.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.153.pdf) [**(code)**](https://github.com/cuhksz-nlp/SAPar)
@@ -246,7 +253,11 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 ---
 ### [:top:](#selections-from-emnlp-2020) Syntax
 
+:heavy_minus_sign: [Tractable Lexical-Functional Grammar](https://virtual.2020.emnlp.org/paper_CL.1.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00384)
+
 :heavy_minus_sign: [Parsing Gapping Constructions Based on Grammatical and Semantic Roles. Yoshihide Kato and Shigeki Matsubara.](https://virtual.2020.emnlp.org/paper_main.1625.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf) [**(code)**]()
+
+
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Semantics
@@ -481,6 +492,10 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 :heavy_minus_sign: (Findings) Active Learning Approaches to Enhancing **Neural Machine Translation**. Yuekai Zhao, Haoran Zhang, Shuchang Zhou and Zhihua Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.162.pdf) [**(code)**]()
 
 
+
+####  [:top:](#selections-from-emnlp-2020) Data Augmentation
+
+:heavy_minus_sign: [DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks. BOSHENG DING, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si and Chunyan Miao.](https://virtual.2020.emnlp.org/paper_main.2733.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.488.pdf) [**(code)**]()
 
 
 ---
@@ -1852,8 +1867,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
-
-:heavy_minus_sign: [DAGA: Data Augmentation with a Generation Approach forLow-resource Tagging Tasks. BOSHENG DING, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si and Chunyan Miao.](https://virtual.2020.emnlp.org/paper_main.2733.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.488.pdf) [**(code)**]()
 
 :heavy_minus_sign: [CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs. Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.2746.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.480.pdf) [**(code)**]()
 
