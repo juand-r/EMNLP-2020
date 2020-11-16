@@ -2071,7 +2071,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Learning from Task Descriptions. Orion Weller, Nicholas Lourie, Matt Gardner and Matthew Peters.](https://virtual.2020.emnlp.org/paper_main.3470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.105.pdf) [**(code)**]()
+:boom:++ [Learning from Task Descriptions. Orion Weller, Nicholas Lourie, Matt Gardner and Matthew Peters.](https://virtual.2020.emnlp.org/paper_main.3470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.105.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**PALM: Pre-training an Autoencoding & Autoregressive Language Model for Context-conditioned Generation. Bin Bi et al.**](https://virtual.2020.emnlp.org/paper_main.3483.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.700.pdf) [**(code)**]()
 
