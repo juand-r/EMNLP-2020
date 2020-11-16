@@ -483,7 +483,9 @@ See also the [Workshop on Cognitive Modeling and Computational Linguistics (CMCL
 For VQA, see [Visual Question Answering](#top-visual-question-answering). See also the two multimodal workshops at this conference:
 
 - [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
-- [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020)
+- [**NLP Beyond Text**](https://sites.google.com/view/nlpbt-2020)
+
+:boom: [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
 
 :heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
 
@@ -1328,8 +1330,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment. Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.1445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space. Chunyuan Li, Xiang Gao, Yuan Li, Baolin Peng, Xiujun Li, Yizhe Zhang and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_main.1446.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.378.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Pre-tokenization of Multi-word Expressions in Cross-lingual Word Embeddings. Naoki Otani, Satoru Ozaki, Xingyuan Zhao, Yucen Li, Micaelah St Johns and Lori Levin.](https://virtual.2020.emnlp.org/paper_main.1456.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.360.pdf) [**(code)**]()
 
