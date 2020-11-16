@@ -4,7 +4,7 @@
 
 ### Selections from EMNLP 2020
 
-This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented/goal-oriented dialogue, Morphology, Word Segmentation, Spelling Correction.
+This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented/goal-oriented dialogue, Morphology, Word Segmentation, Spelling Correction, Speech.
 
 
 **Schedule:** https://2020.emnlp.org/schedule
