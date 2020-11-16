@@ -71,6 +71,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Mental Health](#top-mental-health)
   - [Scientific Text Mining](#top-scientific-text-mining)
   - [Social Media](#top-social-media)
+  - [Literature](#top-literature)
   - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Finance](#top-finance)
   - [Customer Service](#top-customer-service)
@@ -388,6 +389,8 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Figurative Language
+
+:heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
 
@@ -1268,6 +1271,10 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification. Francesco Barbieri et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.148.pdf) [**(code)**]()
 
+---
+###  [:top:](#selections-from-emnlp-2020) Literature
+
+:heavy_minus_sign: [Chapter Captor: Text Segmentation in Novels. Charuta Pethe, Allen Kim and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1129.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.672.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Grammatical Error Correction
@@ -1539,8 +1546,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding. Alexander Ku, Peter Anderson, Roma Patel, Eugene Ie and Jason Baldridge.](https://virtual.2020.emnlp.org/paper_main.1113.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.356.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Joint Constrained Learning for Event-Event Relation Extraction. Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.1116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Chapter Captor: Text Segmentation in Novels. Charuta Pethe, Allen Kim and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1129.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.672.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Grounded Compositional Outputs for Adaptive Language Modeling. Nikolaos Pappas, Phoebe Mulcaire and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.1130.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.96.pdf) [**(code)**]()
 
@@ -2067,9 +2072,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Social Chemistry 101: Learning to Reason about Social and Moral Norms. Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.3450.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.48.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
 :boom:++ [Learning from Task Descriptions. Orion Weller, Nicholas Lourie, Matt Gardner and Matthew Peters.](https://virtual.2020.emnlp.org/paper_main.3470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.105.pdf) [**(code)**]()
 
