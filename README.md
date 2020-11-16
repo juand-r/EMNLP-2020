@@ -165,7 +165,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/) and the [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/). Here are some methodological papers from [EMNLP 2019](https://github.com/juand-r/EMNLP-2019#methodological) and [ACL 2020](https://github.com/juand-r/ACL-2020#top-methodological).
 
-:boom: [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf)
+:boom:+1 [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf)
 > See also Anna Rogers' blog post [How the transformers broke NLP leaderboards](https://hackingsemantics.xyz/2019/leaderboards/)
 
 :heavy_minus_sign: [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results. Ilia Kuznetsov and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.13.pdf) [**(code)**]()
