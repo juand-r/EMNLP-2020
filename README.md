@@ -487,6 +487,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: (Findings) Fine-Grained Grounding for Multimodal **Speech Recognition**. Tejas Srinivasan, Ramon Sanabria, Florian Metze and Desmond Elliott.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.242.pdf) [**(code)**]()
 
+:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
+
 :heavy_minus_sign: (Findings) DocStruct: A Multimodal Method to **Extract Hierarchy Structure** in Document for General Form Understanding. Zilong Wang, Mingjie Zhan, xuebo liu and ding liang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.80.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Dual Low-Rank Multimodal Fusion. Tao Jin, Siyu Huang, Yingming Li and Zhongfei Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.35.pdf) [**(code)**]()
@@ -495,18 +497,32 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!. Jack Hessel and Lillian Lee.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf) [**(code)**]()
 
-:heavy_minus_sign: [VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles. Mingzhe Li, Xiuying Chen, Shen Gao, Zhangming Chan, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.752.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Incorporating Multimodal Information in Open-Domain Web **Keyphrase Extraction**. Yansen Wang, Zhen Fan and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.652.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.140.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Multistage Fusion with Forget Gate for Multimodal **Summarization** in Open-Domain Videos. Nayu Liu, Xian Sun, Hongfeng Yu, Wenkai Zhang and Guangluan Xu.](https://virtual.2020.emnlp.org/paper_main.628.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.144.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Multimodal Routing: Improving Local and Global Interpretability of Multimodal Language Analysis. Yao-Hung Hubert Tsai, Martin Ma, Muqiao Yang, Ruslan Salakhutdinov and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.376.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14198.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.143.pdf) [**(code)**](https://github.com/martinmamql/multimodal_routing)
+:heavy_minus_sign: [Multimodal Routing: Improving Local and Global **Interpretability** of Multimodal Language Analysis. Yao-Hung Hubert Tsai, Martin Ma, Muqiao Yang, Ruslan Salakhutdinov and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.376.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14198.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.143.pdf) [**(code)**](https://github.com/martinmamql/multimodal_routing)
 
 :heavy_minus_sign: [Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning. Wanyun Cui, Guangyu Zheng and Wei Wang.](https://virtual.2020.emnlp.org/paper_main.3239.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.444.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product. Tiangang Zhu, Yue Wang, Haoran Li, Youzheng Wu, Xiaodong He and Bowen Zhou.](https://virtual.2020.emnlp.org/paper_main.3136.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.166.pdf) [**(code)**]()
 
+**Summarization:**
+
+:heavy_minus_sign: [VMSMO: Learning to Generate Multimodal Summary for Video-based News Articles. Mingzhe Li, Xiuying Chen, Shen Gao, Zhangming Chan, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.752.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Multistage Fusion with Forget Gate for Multimodal **Summarization** in Open-Domain Videos. Nayu Liu, Xian Sun, Hongfeng Yu, Wenkai Zhang and Guangluan Xu.](https://virtual.2020.emnlp.org/paper_main.628.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.144.pdf) [**(code)**]()
+
+
+**Captioning:**
+
+:heavy_minus_sign: [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements. Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li and Zhiwei Guan.](https://virtual.2020.emnlp.org/paper_main.2383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.443.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) **Pragmatic Issue-Sensitive Image Captioning. Allen Nie, Reuben Cohn-Gordon and Christopher Potts.**](https://virtual.2020.emnlp.org/paper_WS-1.1597_F.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.173.pdf) [**(code)**]()
+
+:heavy_minus_sign: [CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.](https://virtual.2020.emnlp.org/paper_main.2322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.705.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Semi-Supervised Learning for Video Captioning. Ke Lin, Zhuoxin Gan and Liwei WANG.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.98.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning. Zhiyuan Fang, Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang.](https://virtual.2020.emnlp.org/paper_main.1085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.61.pdf) [**(code)**]()
 
 ---
 ### [:top:](#selections-from-emnlp-2020) Multilingual
@@ -1023,8 +1039,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation. Nils Reimers and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.267.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09813.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.365.pdf) [**(code, models and data)**](https://github.com/UKPLab/sentence-transformers)
 
-:heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
-
 :heavy_minus_sign: [Multi-document Summarization with Maximal Marginal Relevance-guided Reinforcement Learning. Yuning Mao, Yanru Qu, Yiqing Xie, Xiang Ren and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.286.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00117.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.136.pdf) [**(code)**](https://github.com/morningmoni/RL-MMR)
 
 :heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
@@ -1226,8 +1240,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Alignment-free Cross-lingual Semantic Role Labeling. Rui Cai and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.319.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning. Zhiyuan Fang, Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang.](https://virtual.2020.emnlp.org/paper_main.1085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.61.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation. Dayiheng Liu, Yeyun Gong, Yu Yan, Jie Fu, Bo Shao, Daxin Jiang, Jiancheng Lv and Nan Duan.](https://virtual.2020.emnlp.org/paper_main.1091.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf) [**(code)**]()
 
@@ -1534,7 +1546,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction. Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2307.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.153.pdf) [**(code)**]()
 
-:heavy_minus_sign: [CapWAP: Image Captioning with a Purpose. Adam Fisch, Kenton Lee, Ming-Wei Chang, Jonathan Clark and Regina Barzilay.](https://virtual.2020.emnlp.org/paper_main.2322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.705.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.](https://virtual.2020.emnlp.org/paper_main.2342.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.660.pdf) [**(code)**]()
 
@@ -1543,8 +1554,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.2382.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.526.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements. Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li and Zhiwei Guan.](https://virtual.2020.emnlp.org/paper_main.2383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.443.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li et al.](https://virtual.2020.emnlp.org/paper_main.2389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.735.pdf) [**(code)**]()
 
@@ -2297,8 +2306,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [(Findings+WS) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-10.1595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) **Pragmatic Issue-Sensitive Image Captioning. Allen Nie, Reuben Cohn-Gordon and Christopher Potts.**](https://virtual.2020.emnlp.org/paper_WS-1.1597_F.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.173.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) **Out-of-Sample Representation Learning for Knowledge Graphs**. Marjan Albooyeh, Rishab Goel and Seyed Mehran Kazemi.](https://virtual.2020.emnlp.org/paper_WS-13.2047.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.241.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Visual Objects As Context: Exploiting Visual Objects for Lexical Entailment. Masayasu Muraoka, Tetsuya Nasukawa and Bishwaranjan Bhattacharjee.](https://virtual.2020.emnlp.org/paper_WS-13.2085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.246.pdf) [**(code)**]()
@@ -2405,8 +2412,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: (Findings) Scene Graph Modification Based on Natural Language Commands. Xuanli He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.87.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Why do you think that? Exploring Faithful Sentence-Level Rationales Without Supervision. Max Glockner, Ivan Habernal and Iryna Gurevych.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.97.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Semi-Supervised Learning for Video Captioning. Ke Lin, Zhuoxin Gan and Liwei WANG.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.98.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Multi$^2$OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT. Youngbin Ro, Yukyung Lee and Pilsung Kang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.99.pdf) [**(code)**]()
 
