@@ -215,10 +215,15 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 ### [:top:](#selections-from-emnlp-2020) Parsing
 
 asdfg
+:heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
-:heavy_minus_sign: [The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://virtual.2020.emnlp.org/paper_TACL.2141.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00337) [**(code)**](https://github.com/neulab/neural-lpcfg)
+:heavy_minus_sign: [(TACL) Consistent Unsupervised Estimators for Anchored PCFGs. Alexander Clark, Nathanaël Fijalkow](https://virtual.2020.emnlp.org/paper_TACL.1936.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00323) [**(code)**](https://github.com/alexc17/locallearner)
 
-:heavy_minus_sign: [Efficient Outside Computation. Daniel Gildea](https://virtual.2020.emnlp.org/paper_CL.5.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00386)
+:heavy_minus_sign: [**Some Languages Seem Easier to Parse Because Their Treebanks Leak. Anders Søgaard.**](https://virtual.2020.emnlp.org/paper_main.447.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.220.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(TACL) The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://virtual.2020.emnlp.org/paper_TACL.2141.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00337) [**(code)**](https://github.com/neulab/neural-lpcfg)
+
+:heavy_minus_sign: [(CL) Efficient Outside Computation. Daniel Gildea](https://virtual.2020.emnlp.org/paper_CL.5.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00386)
 
 **Constituency parsing:**
 
@@ -253,7 +258,11 @@ asdfg
 ---
 ### [:top:](#selections-from-emnlp-2020) Syntax
 
-:heavy_minus_sign: [Tractable Lexical-Functional Grammar](https://virtual.2020.emnlp.org/paper_CL.1.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00384)
+:heavy_minus_sign: [(TACL) Syntactic Structure Distillation Pretraining for Bidirectional Encoders. Adhiguna Kuncoro et al.](https://virtual.2020.emnlp.org/paper_TACL.2411.html)  [**(paper)**](https://arxiv.org/pdf/2005.13482.pdf)
+
+:heavy_minus_sign: [Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks. Yuanhe Tian, Yan Song and Fei Xia.](https://virtual.2020.emnlp.org/paper_main.2529.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.487.pdf) [**(code)**](https://github.com/cuhksz-nlp/NeST-CCG)
+
+:heavy_minus_sign: [(CL) Tractable Lexical-Functional Grammar. Jürgen Wedekind, Ronald M. Kaplan](https://virtual.2020.emnlp.org/paper_CL.1.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00384)
 
 :heavy_minus_sign: [Parsing Gapping Constructions Based on Grammatical and Semantic Roles. Yoshihide Kato and Shigeki Matsubara.](https://virtual.2020.emnlp.org/paper_main.1625.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.218.pdf) [**(code)**]()
 
@@ -723,6 +732,12 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [**Intrinsic Evaluation of Summarization Datasets**. Rishi Bommasani and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.675.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.649.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Modeling Content Importance for Summarization with Pre-trained Language Models**. Liqiang Xiao, Lu Wang, Hao He and Yaohui Jin.](https://virtual.2020.emnlp.org/paper_main.1952.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.293.pdf) [**(code)**]()
+
+**Short-text generation:**
+
+:heavy_minus_sign: [A Preliminary Exploration of GANs for Keyphrase Generation. Avinash Swaminathan et al.](https://virtual.2020.emnlp.org/paper_main.2809.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation. Dayiheng Liu, Yeyun Gong, Yu Yan, Jie Fu, Bo Shao, Daxin Jiang, Jiancheng Lv and Nan Duan.](https://virtual.2020.emnlp.org/paper_main.1091.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf) [**(code)**]()
 
 **Incorporating background knowledge:**
 
@@ -1513,13 +1528,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
-
-
-
-
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation. Dayiheng Liu, Yeyun Gong, Yu Yan, Jie Fu, Bo Shao, Daxin Jiang, Jiancheng Lv and Nan Duan.](https://virtual.2020.emnlp.org/paper_main.1091.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.505.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Iterative Domain-Repaired Back-Translation. Hao-Ran Wei, Zhirui Zhang, Boxing Chen and Weihua Luo.](https://virtual.2020.emnlp.org/paper_main.1100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.474.pdf) [**(code)**]()
 
@@ -2128,10 +2137,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Re-examining the Role of Schema Linking in Text-to-SQL. Wenqiang Lei, Weixin Wang, Zhixin MA, Tian Gan, Wei Lu, Min-Yen Kan and Tat-Seng Chua.](https://virtual.2020.emnlp.org/paper_main.3682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.564.pdf) [**(code)**]()
 
-
 :heavy_minus_sign: [Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube. Jack Hessel, Zhenhai Zhu, Bo Pang and Radu Soricut.](https://virtual.2020.emnlp.org/paper_main.445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.709.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Some Languages Seem Easier to Parse Because Their Treebanks Leak. Anders Søgaard.**](https://virtual.2020.emnlp.org/paper_main.447.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.220.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Simple and Effective Model for Answering Multi-span Questions. Elad Segal, Avia Efrat, Mor Shoham, Amir Globerson and Jonathan Berant.](https://virtual.2020.emnlp.org/paper_main.449.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.248.pdf) [**(code)**]()
 
@@ -2253,8 +2259,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [TNT: Text Normalization based Pre-training of Transformers for Content Moderation. Fei Tan, Yifan Hu, Changwei Hu, Keqian Li and Kevin Yen.](https://virtual.2020.emnlp.org/paper_main.2515.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.383.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Supertagging Combinatory Categorial Grammar with Attentive Graph Convolutional Networks. Yuanhe Tian, Yan Song and Fei Xia.](https://virtual.2020.emnlp.org/paper_main.2529.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.487.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Supervised Seeded Iterated Learning for Interactive Language Learning. Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin and Aaron Courville.](https://virtual.2020.emnlp.org/paper_main.2583.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.325.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.2614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.622.pdf) [**(code)**]()
@@ -2276,9 +2280,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [A Preliminary Exploration of GANs for Keyphrase Generation. Avinash Swaminathan et al.](https://virtual.2020.emnlp.org/paper_main.2809.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.645.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Bilingual Lexicon Induction for Low Frequency Words. Jiaji Huang, Xingyu Cai and Kenneth Church.](https://virtual.2020.emnlp.org/paper_main.2818.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.100.pdf) [**(code)**]()
 
