@@ -165,7 +165,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/) and the [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/). Here are some methodological papers from [EMNLP 2019](https://github.com/juand-r/EMNLP-2019#methodological) and [ACL 2020](https://github.com/juand-r/ACL-2020#top-methodological).
 
-:boom:+1 [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf)
+:boom:++ [**Utility is in the Eye of the User: A Critique of NLP Leaderboards**. Kawin Ethayarajh and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1484.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.393.pdf)
 > See also Anna Rogers' blog post [How the transformers broke NLP leaderboards](https://hackingsemantics.xyz/2019/leaderboards/)
 
 :heavy_minus_sign: [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results. Ilia Kuznetsov and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.13.pdf) [**(code)**]()
@@ -382,7 +382,7 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 ---
 ###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning and Question Answering
 
-:boom: [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**](https://virtual.2020.emnlp.org/paper_main.41.html)  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.373.pdf) [**(code)**](https://github.com/vered1986/self_talk)
+:boom:++ [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**](https://virtual.2020.emnlp.org/paper_main.41.html)  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.373.pdf) [**(code)**](https://github.com/vered1986/self_talk)
 
 :heavy_minus_sign: [Scalable Multi-Hop Relational Reasoning for Knowledge-Aware Question Answering. Yanlin Feng, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.99.pdf) [**(code)**]()
 
@@ -512,7 +512,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 - [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
 - [**NLP Beyond Text**](https://sites.google.com/view/nlpbt-2020)
 
-:boom: [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
+:boom:++ [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
 
 :heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
 
@@ -1089,9 +1089,9 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 ---
 ###  [:top:](#selections-from-emnlp-2020) Topic Models
 
-:boom: [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
+:boom:++ [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
 
-:boom: (Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf)
+:boom:++ (Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf)
 
 :heavy_minus_sign: [Sparse Parallel Training of Hierarchical Dirichlet Process Topic Models. Alexander Terenin, Måns Magnusson and Leif Jonsson.](https://virtual.2020.emnlp.org/paper_main.1498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.234.pdf) [**(code)**](https://github.com/aterenin/Parallel-HDP-Experiments/)
 
@@ -1887,7 +1887,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.](https://virtual.2020.emnlp.org/paper_main.2959.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.102.pdf) [**(code)**]()
 
-:boom: [**Fact or Fiction: Verifying Scientific Claims**. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.](https://virtual.2020.emnlp.org/paper_main.2962.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
+:boom:++ [**Fact or Fiction: Verifying Scientific Claims**. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.](https://virtual.2020.emnlp.org/paper_main.2962.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction. Rujun Han, Yichao Zhou and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.2972.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.461.pdf) [**(code)**]()
 
@@ -2571,7 +2571,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 
 
-:boom: (Findings) **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**. Daniel Khashabi et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.171.pdf) [**(code)**]()
+:boom:++ (Findings) **UNIFIEDQA: Crossing Format Boundaries with a Single QA System**. Daniel Khashabi et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.171.pdf) [**(code)**]()
 >
 > See also the comparison with GPT-3 in [Measuring Massive Multitask Language Understanding](https://arxiv.org/pdf/2009.03300.pdf) on the zero-shot setting.
 
