@@ -36,6 +36,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Commonsense Reasoning and Question Answering](#top-commonsense-reasoning-and-question-answering)
     - [Visual Question Answering](#top-visual-question-answering)
   - [Learning with Less Data](#top-learning-with-less-data)
+    - [Active Learning](#top-active-learning)
   - [Language Models and Transformers](#top-language-models-and-transformers)
   - [Embeddings](#top-embeddings)
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
@@ -459,6 +460,18 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 ---
 ###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
+
+####  [:top:](#selections-from-emnlp-2020) Active Learning
+
+:heavy_minus_sign: [Cold-start Active Learning through Self-supervised Language Modeling. Michelle Yuan, Hsuan-Tien Lin and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.345.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09535.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.637.pdf) [**(code)**](https://github.com/forest-snow/alps)
+
+:heavy_minus_sign: [ALICE: Active Learning with Contrastive Natural Language Explanations. Weixin Liang, James Zou and Zhou Yu.](https://virtual.2020.emnlp.org/paper_main.76.html)  [**(preprint)**](https://arxiv.org/pdf/2009.10259.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.355.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Active Learning for BERT: An Empirical Study. Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Textual Data Augmentation for Efficient Active Learning on Tiny Datasets. Husam Quteineh, Spyridon Samothrakis and Richard Sutcliffe.](https://virtual.2020.emnlp.org/paper_main.2068.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.600.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Active Learning Approaches to Enhancing Neural Machine Translation. Yuekai Zhao, Haoran Zhang, Shuchang Zhou and Zhihua Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.162.pdf) [**(code)**]()
 
 
 
@@ -1022,8 +1035,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
 
-:heavy_minus_sign: [ALICE: Active Learning with Contrastive Natural Language Explanations. Weixin Liang, James Zou and Zhou Yu.](https://virtual.2020.emnlp.org/paper_main.76.html)  [**(preprint)**](https://arxiv.org/pdf/2009.10259.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.355.pdf) [**(code)**]()
-
 :heavy_minus_sign: [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
 
 :heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.](https://virtual.2020.emnlp.org/paper_main.87.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.262.pdf) [**(code)**](https://github.com/nicola-decao/diffmask)
@@ -1073,9 +1084,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [F^2-Softmax: Diversifying Neural Text Generation via Frequency Factorized Softmax. Byung-Ju Choi, Jimin Hong, David Park and Sang Wan Lee.](https://virtual.2020.emnlp.org/paper_main.334.html)  [**(preprint)**](https://arxiv.org/pdf/2009.09417.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.737.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Cold-start Active Learning through Self-supervised Language Modeling. Michelle Yuan, Hsuan-Tien Lin and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.345.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09535.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.637.pdf) [**(code)**](https://github.com/forest-snow/alps)
-
-
 
 :heavy_minus_sign: [VD-BERT: A Unified Vision and Dialog Transformer with BERT. Yue Wang, Shafiq Joty, Michael Lyu, Irwin King, Caiming Xiong and Steven C.H. Hoi.](https://virtual.2020.emnlp.org/paper_main.355.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.269.pdf) [**(code)**](https://github.com/salesforce/VD-BERT)
 
@@ -1108,13 +1116,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Q-learning with Language Model for Edit-based Unsupervised Summarization. Ryosuke Kohita, Akifumi Wachi, Yang Zhao and Ryuki Tachibana.](https://virtual.2020.emnlp.org/paper_main.471.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.34.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
-
-
-
-
-
-
-:heavy_minus_sign: [Active Learning for BERT: An Empirical Study. Liat Ein-Dor, Alon Halfon, Ariel Gera, Eyal Shnarch, Lena Dankin, Leshem Choshen, Marina Danilevsky, Ranit Aharonov, Yoav Katz and Noam Slonim.](https://virtual.2020.emnlp.org/paper_main.493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.638.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MLSUM: The Multilingual Summarization Corpus. Thomas Scialom, Paul-Alexis Dray, Sylvain Lamprier, Benjamin Piwowarski and Jacopo Staiano.](https://virtual.2020.emnlp.org/paper_main.504.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.647.pdf) [**(code)**]()
 
@@ -1506,7 +1507,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes. Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel and Claudio Pinhanez.](https://virtual.2020.emnlp.org/paper_main.2066.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.324.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Textual Data Augmentation for Efficient Active Learning on Tiny Datasets. Husam Quteineh, Spyridon Samothrakis and Richard Sutcliffe.](https://virtual.2020.emnlp.org/paper_main.2068.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.600.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang and Sang-goo Lee.](https://virtual.2020.emnlp.org/paper_main.2070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf) [**(code)**]()
 
@@ -2476,7 +2477,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: (Findings) Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers. Shusheng Xu, Xingxing Zhang, Yi Wu, Furu Wei and Ming Zhou.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.161.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Active Learning Approaches to Enhancing Neural Machine Translation. Yuekai Zhao, Haoran Zhang, Shuchang Zhou and Zhihua Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.162.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling. Libo Qin, Xiao Xu, Wanxiang Che and Ting Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.163.pdf) [**(code)**]()
 
