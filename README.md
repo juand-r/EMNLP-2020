@@ -401,6 +401,8 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
+:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Contextual Modulation for Relation-Level Metaphor Identification. Omnia Zayed, John P. McCrae and Paul Buitelaar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.36.pdf) [**(code)**]()
@@ -2269,7 +2271,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 
 
-:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
+
 
 
 
