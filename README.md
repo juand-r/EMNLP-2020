@@ -1302,7 +1302,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ---
 ---
 
-##  [:top:](#selections-from-emnlp-2020) Applications
+## [Applications](#applications)
 
 ### [:top:](#selections-from-emnlp-2020) Cybersecurity
 
