@@ -47,7 +47,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Multimodal](#top-multimodal)
   - [Multilingual](#top-multilingual)
 
-# [NLG papers](#nlg-papers)
+#### [NLG papers](#nlg-papers-1)
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
     - [Open-ended text generation](#top-open-ended-text-generation)
