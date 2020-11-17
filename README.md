@@ -170,7 +170,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 ## [Topics](#topics)
 
-### [:top:](#selections-from-emnlp-2020) Methodological
+### [:top:](#methodological) Methodological
 
 See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/) and the [**Workshop on Insights from Negative Results in NLP**](https://insights-workshop.github.io/). Here are some methodological papers from [EMNLP 2019](https://github.com/juand-r/EMNLP-2019#methodological) and [ACL 2020](https://github.com/juand-r/ACL-2020#top-methodological).
 
@@ -187,7 +187,7 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Datasets, pretrained models and other resources
+### [:top:](#datasets-pretrained-models-and-other-resources) Datasets, pretrained models and other resources
 
 :heavy_minus_sign: [MAVEN: A Massive General Domain Event Detection Dataset. Xiaozhi Wang, Ziqi Wang, Xu Han, Wangyi Jiang, Rong Han, Zhiyuan Liu, Juanzi Li, Peng Li, Yankai Lin and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2048.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.129.pdf) [**(code)**]()
 
