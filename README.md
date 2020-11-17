@@ -103,7 +103,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 >
 > x
 
-- :memo: [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou)] [**(video)**](https://slideslive.com/38940827/t4-machine-reasoning-for-knowledgeable-explainable-and-inferable-models)
+- :memo: [**Machine Reasoning for Knowledgeable, Explainable and Inferable Models** (Nan Duan, Duyu Tang, Ming Zhou)](https://virtual.2020.emnlp.org/tutorial_T4.html) [**(video)**](https://slideslive.com/38940827/t4-machine-reasoning-for-knowledgeable-explainable-and-inferable-models)
 >
 >
 
