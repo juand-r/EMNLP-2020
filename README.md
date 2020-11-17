@@ -70,7 +70,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Knowledge Graphs](#top-knowledge-graphs)
   - [Natural Language Inference](#top-natural-language-inference)
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
-#### [Applications](#top-applications-1)
+#### [Applications](#applications-1)
   - [Cybersecurity](#top-cybersecurity)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
   - [Mental Health](#top-mental-health)
