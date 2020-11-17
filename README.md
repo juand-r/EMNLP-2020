@@ -274,15 +274,15 @@ asdfg
 
 #### [:top:](#selections-from-emnlp-2020) Lexical Semantics
 
+:boom:++ [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
+>
+> Not all that related, but interesting: [Media Persuasion through Slanted Language: Evidence from the Coverage of Immigration](https://www.barcelonagse.eu/research/working-papers/media-persuasion-through-slanted-language-evidence-coverage-immigration)
+
 See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)
 
 :heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
->
-> Not all that related, but interesting: [Media Persuasion through Slanted Language: Evidence from the Coverage of Immigration](https://www.barcelonagse.eu/research/working-papers/media-persuasion-through-slanted-language-evidence-coverage-immigration)
 
 **Hypernymy:**
 
