@@ -740,10 +740,10 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 ---
 ---
-###  [:top:](#selections-from-emnlp-2020) Text Generation
+###  [:top:](#nlg-papers) Text Generation
 
 ---
-####  [:top:](#selections-from-emnlp-2020) Open-ended text generation
+####  [:top:](#nlg-papers) Open-ended text generation
 
 :heavy_minus_sign: [**Sparse Text Generation**. Pedro Henrique Martins, Zita Marinho and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.348.pdf) [**(code)**]()
 
