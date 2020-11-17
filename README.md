@@ -274,6 +274,8 @@ asdfg
 
 #### [:top:](#selections-from-emnlp-2020) Lexical Semantics
 
+See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)
+
 :heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Within-Between Lexical Relation Classification. Oren Barkan, Avi Caciularu and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.284.pdf) [**(code)**]()
@@ -526,6 +528,8 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 :heavy_minus_sign: [**Pre-Training Transformers as Energy-Based Cloze Models**. Kevin Clark, Minh-Thang Luong, Quoc Le and Christopher D. Manning.](https://virtual.2020.emnlp.org/paper_main.2343.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.20.pdf) [**(code)**]()
 
 **Analysis:**
+
+:heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.](https://virtual.2020.emnlp.org/paper_main.2414.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.395.pdf) [**(code)**]()
 
@@ -1709,7 +1713,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
 
 
-:heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
 
 
