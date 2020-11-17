@@ -362,7 +362,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Affective Event Classification with Discourse-enhanced Self-training. Yuan Zhuang, Tianyu Jiang and Ellen Riloff.](https://virtual.2020.emnlp.org/paper_main.2549.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.452.pdf) [**(code)**]()
 
-:heavy_minus_sign: [QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines. Valentina Pyatkin, Ayal Klein, Reut Tsarfaty and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2512.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf) [**(code)**]()
+:boom:++ [QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines. Valentina Pyatkin, Ayal Klein, Reut Tsarfaty and Ido Dagan.](https://virtual.2020.emnlp.org/paper_main.2512.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley.](https://virtual.2020.emnlp.org/paper_main.2444.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.653.pdf) [**(code)**]()
 
