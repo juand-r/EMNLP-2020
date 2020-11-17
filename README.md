@@ -401,7 +401,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
+:boom:++ [**Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation**. Tuhin Chakrabarty, Smaranda Muresan and Nanyun Peng.](https://virtual.2020.emnlp.org/paper_main.1658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.524.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
 
@@ -772,6 +772,47 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 ####  [:top:](#nlg-papers) Data-to-text generation
 
 :heavy_minus_sign: [ToTTo: A Controlled Table-To-Text Generation Dataset. Ankur Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang and Dipanjan Das.](https://virtual.2020.emnlp.org/paper_main.1049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.89.pdf) [**(code)**]()
+
+
+
+
+
+
+
+:heavy_minus_sign: [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace and Sameer Singh.](https://virtual.2020.emnlp.org/paper_main.2763.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf) [**(code)**]()
+
+:boom:++ [**An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing**. Martin Schmitt, Sahand Sharifzadeh, Volker Tresp and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.577.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Acrostic Poem Generation**. Rajat Agarwal and Katharina Kann.](https://virtual.2020.emnlp.org/paper_main.920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.94.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. Haozhe Ji, Pei Ke, Shaohan Huang, Furu Wei, Xiaoyan Zhu and Minlie Huang.](https://virtual.2020.emnlp.org/paper_main.923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.54.pdf) [**(code)**]()
+
+:heavy_minus_sign: [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation. Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.1482.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.697.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Plug and Play Autoencoders for Conditional Text Generation**. Florian Mai, Nikolaos Pappas, Ivan Montero, Noah A. Smith and James Henderson.](https://virtual.2020.emnlp.org/paper_main.1490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.491.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Keep CALM and Explore: Language Models for Action Generation in Text-based Games. Shunyu Yao, Rohan Rao, Matthew Hausknecht and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_main.1578.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.704.pdf) [**(code)**]()
+
+:heavy_minus_sign: [PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking. Hannah Rashkin, Asli Celikyilmaz, Yejin Choi and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_main.1687.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.349.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models. Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.1006.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.272.pdf) [**(code)**]()
+
+:heavy_minus_sign: [POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training. Yizhe Zhang, Guoyin Wang, Chunyuan Li, Zhe Gan, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.698.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation**. Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1928.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.525.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li et al.](https://virtual.2020.emnlp.org/paper_main.2389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.735.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Online Back-Parsing for AMR-to-Text Generation. Xuefeng Bai, Linfeng Song and Yue Zhang.](https://virtual.2020.emnlp.org/paper_main.2422.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.92.pdf) [**(code)**]()
+
+:heavy_minus_sign: [PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation. Xinyu Hua and Lu Wang.](https://virtual.2020.emnlp.org/paper_main.2511.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.57.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Routing Enforced Generative Model for Recipe Generation. Zhiwei Yu, Hongyu Zang and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.2779.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, ZUOZHU LIU and Lidong Bing.](https://virtual.2020.emnlp.org/paper_main.2795.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.169.pdf) [**(code)**]()
+
+
+
 
 
 
@@ -1509,7 +1550,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models. Changmao Li, Elaine Fisher, Rebecca Thomas, Steve Pittard, Vicki Hertzberg and Jinho D. Choi.](https://virtual.2020.emnlp.org/paper_main.470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.679.pdf) [**(code)**]()
 
-
+:heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
 
@@ -1530,8 +1571,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Multi-view Story Characterization from Movie Plot Synopses and Reviews. Sudipta Kar, Gustavo Aguilar, Mirella Lapata and Thamar Solorio.](https://virtual.2020.emnlp.org/paper_main.668.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.454.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph. Xin Lv, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Wei Zhang, YICHI ZHANG, Hao Kong and Suhui Wu.](https://virtual.2020.emnlp.org/paper_main.684.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.459.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Transformer Based Multi-Source Domain Adaptation. Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.745.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.639.pdf) [**(code)**]()
 
@@ -1562,19 +1601,9 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Continuity of Topic, Interaction, and Query: Learning to Quote in Online Conversations. Lingzhi Wang, Jing Li, Xingshan Zeng, Haisong Zhang and Kam-Fai Wong.](https://virtual.2020.emnlp.org/paper_main.916.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.538.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Acrostic Poem Generation**. Rajat Agarwal and Katharina Kann.](https://virtual.2020.emnlp.org/paper_main.920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.94.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Language Generation with Multi-Hop Reasoning on Commonsense Knowledge Graph. Haozhe Ji, Pei Ke, Shaohan Huang, Furu Wei, Xiaoyan Zhu and Minlie Huang.](https://virtual.2020.emnlp.org/paper_main.923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.54.pdf) [**(code)**]()
-
-
-
 :heavy_minus_sign: [**Information-Theoretic Probing with Minimum Description Length**. Elena Voita and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.947.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf) [**(code)**]() [**(video - NLP with Friends)**](https://www.youtube.com/watch?v=27eWB8IYc1A)
 
-
-
 :heavy_minus_sign: [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance. jianquan li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang and yaohong jin.](https://virtual.2020.emnlp.org/paper_main.956.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.242.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [A Diagnostic Study of Explainability Techniques for Text Classification. Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.263.pdf) [**(code)**]()
 
@@ -1637,8 +1666,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Uncertainty-Aware Label Reﬁnement for Sequence Labeling. Tao Gui, Jiacheng Ye, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang.](https://virtual.2020.emnlp.org/paper_main.1225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.181.pdf) [**(code)**]()
 
-:boom:++ [**An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing**. Martin Schmitt, Sahand Sharifzadeh, Volker Tresp and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.577.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space. Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1262.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.467.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1267.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.320.pdf) [**(code)**]()
@@ -1667,10 +1694,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs. Woojeong Jin, Meng Qu, Xisen Jin and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1465.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.541.pdf) [**(code)**]()
 
-:heavy_minus_sign: [KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation. Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.1482.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.697.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Plug and Play Autoencoders for Conditional Text Generation**. Florian Mai, Nikolaos Pappas, Ivan Montero, Noah A. Smith and James Henderson.](https://virtual.2020.emnlp.org/paper_main.1490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.491.pdf) [**(code)**]()
-
 :heavy_minus_sign: [CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. Tara Safavi and Danai Koutra.](https://virtual.2020.emnlp.org/paper_main.1493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction. Xuming Hu, Lijie Wen, Yusong Xu, Chenwei Zhang and Philip Yu.](https://virtual.2020.emnlp.org/paper_main.1547.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.299.pdf) [**(code)**]()
@@ -1688,8 +1711,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.633.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SetConv: A New Approach for Learning from Imbalanced Data. Yang Gao, Yi-Fan Li, Yu Lin, Charu Aggarwal and Latifur Khan.](https://virtual.2020.emnlp.org/paper_main.1575.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.98.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Keep CALM and Explore: Language Models for Action Generation in Text-based Games. Shunyu Yao, Rohan Rao, Matthew Hausknecht and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_main.1578.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.704.pdf) [**(code)**]()
 
 :heavy_minus_sign: [AmbigQA: Answering Ambiguous Open-domain Questions. Sewon Min, Julian Michael, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.1580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.466.pdf) [**(code)**]()
 
@@ -1716,15 +1737,8 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction. Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.1669.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.690.pdf) [**(code)**]()
 
-:heavy_minus_sign: [PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking. Hannah Rashkin, Asli Celikyilmaz, Yejin Choi and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_main.1687.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.349.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1700.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Knowledge-Grounded Dialogue Generation with Pre-trained Language Models. Xueliang Zhao, wei wu, Can Xu, Chongyang Tao, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.1006.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.272.pdf) [**(code)**]()
-
-:heavy_minus_sign: [POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training. Yizhe Zhang, Guoyin Wang, Chunyuan Li, Zhe Gan, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.698.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup. Rongzhi Zhang, Yue Yu and Chao Zhang.](https://virtual.2020.emnlp.org/paper_main.1720.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.691.pdf) [**(code)**]()
 
@@ -1735,9 +1749,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model. Bugeun Kim, Kyung Seo Ki, Donggeon Lee and Gahgene Gweon.](https://virtual.2020.emnlp.org/paper_main.1739.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.308.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Incremental Event Detection via Knowledge Consolidation Networks. Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang.](https://virtual.2020.emnlp.org/paper_main.1749.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.52.pdf) [**(code)**]()
-
-
-
 
 
 :heavy_minus_sign: [IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation. Yitao Cai and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.1784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.560.pdf) [**(code)**]()
@@ -1760,8 +1771,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.](https://virtual.2020.emnlp.org/paper_main.1908.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.114.pdf) [**(code)**]()
 
 :heavy_minus_sign: [New Protocols and Negative Results for Textual Entailment Data Collection. Samuel R. Bowman, Jennimaria Palomaki, Livio Baldini Soares and Emily Pitler.](https://virtual.2020.emnlp.org/paper_main.1923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.658.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation**. Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1928.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.525.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
 
@@ -1852,21 +1861,15 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Substance over Style: Document-Level Targeted Content Transfer. Allison Hegel, Sudha Rao, Asli Celikyilmaz and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.2382.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.526.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Improving Text Generation with Student-Forcing Optimal Transport. Jianqiao Li et al.](https://virtual.2020.emnlp.org/paper_main.2389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.735.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Message Passing for Hyper-Relational Knowledge Graphs. Mikhail Galkin, Priyansh Trivedi, Gaurav Maheshwari, Ricardo Usbeck and Jens Lehmann.](https://virtual.2020.emnlp.org/paper_main.2406.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.596.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Human-centric dialog training via offline reinforcement learning. Natasha Jaques, Judy Hanwen Shen, Asma Ghandeharioun, Craig Ferguson, Agata Lapedriza, Noah Jones, Shixiang Gu and Rosalind Picard.](https://virtual.2020.emnlp.org/paper_main.2410.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.327.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Online Back-Parsing for AMR-to-Text Generation. Xuefeng Bai, Linfeng Song and Yue Zhang.](https://virtual.2020.emnlp.org/paper_main.2422.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.92.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Knowledge-guided Open Attribute Value Extraction with Reinforcement Learning. Ye Liu, Sheng Zhang, Rui Song, Suo Feng and Yanghua Xiao.](https://virtual.2020.emnlp.org/paper_main.2426.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.693.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Do sequence-to-sequence VAEs learn global features of sentences?. Tom Bosc and Pascal Vincent.](https://virtual.2020.emnlp.org/paper_main.2430.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.350.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dissecting Span Identification Tasks with Performance Prediction. Sean Papay, Roman Klinger and Sebastian Padó.](https://virtual.2020.emnlp.org/paper_main.2438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.396.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Seq2Edits: Sequence Transduction Using Span-level Edit Operations. Felix Stahlberg and Shankar Kumar.](https://virtual.2020.emnlp.org/paper_main.2448.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.418.pdf) [**(code)**]()
 
@@ -1877,8 +1880,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [OCR Post Correction for Endangered Language Texts. Shruti Rijhwani, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.2493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.478.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Weakly Supervised Subevent Knowledge Acquisition. Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang.](https://virtual.2020.emnlp.org/paper_main.2508.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.430.pdf) [**(code)**]()
-
-:heavy_minus_sign: [PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation. Xinyu Hua and Lu Wang.](https://virtual.2020.emnlp.org/paper_main.2511.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.57.pdf) [**(code)**]()
 
 :heavy_minus_sign: [PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge. Yun He, Zhuoer Wang, Yin Zhang, Ruihong Huang and James Caverlee.](https://virtual.2020.emnlp.org/paper_main.2533.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.611.pdf) [**(code)**]()
 
@@ -1932,20 +1933,13 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 
 
-:heavy_minus_sign: [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts. Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace and Sameer Singh.](https://virtual.2020.emnlp.org/paper_main.2763.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf) [**(code)**]()
 
-
-
-
-:heavy_minus_sign: [Routing Enforced Generative Model for Recipe Generation. Zhiwei Yu, Hongyu Zang and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.2779.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) [**(code)**]()
 
 :heavy_minus_sign: [TernaryBERT: Distillation-aware Ultra-low Bit BERT. Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang and Qun Liu.](https://virtual.2020.emnlp.org/paper_main.2783.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.37.pdf) [**(code)**]()
 
 :heavy_minus_sign: [We Can Detect Your Bias: Predicting the Political Ideology of News Articles. Ramy Baly, Giovanni Da San Martino, James Glass and Preslav Nakov.](https://virtual.2020.emnlp.org/paper_main.2784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.404.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks. Trapit Bansal, Rishikesh Jha, Tsendsuren Munkhdalai and Andrew McCallum.](https://virtual.2020.emnlp.org/paper_main.2793.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.38.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. Yan Zhang, Zhijiang Guo, Zhiyang Teng, Wei Lu, Shay B. Cohen, ZUOZHU LIU and Lidong Bing.](https://virtual.2020.emnlp.org/paper_main.2795.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.169.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Evaluating and Characterizing Human Rationales. Samuel Carton, Anirudh Rathore and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_main.2814.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.747.pdf) [**(code)**]()
 
