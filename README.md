@@ -13,6 +13,8 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 **Findings of EMNLP 2020:** https://www.aclweb.org/anthology/volumes/2020.findings-emnlp/
 
+**CoNLL 2020**: https://www.aclweb.org/anthology/events/conll-2020/
+
 - [General Remarks](#general-remarks)
 - [Tutorials](#tutorials)
 - [Birds of a feather](#birds-of-a-feather)
