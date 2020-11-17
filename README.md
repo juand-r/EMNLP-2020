@@ -529,9 +529,13 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 **Analysis:**
 
-**See also:** what LMs know about lexical semantics([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ) and discourse ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)). They also contain social bias ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
+**See also:** what LMs know about **lexical semantics** ([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ) and **discourse** ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)). They also contain **social bias** ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
 
 :heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin et al.](https://virtual.2020.emnlp.org/paper_main.3304.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.557.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers. Marius Mosbach et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.227.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.](https://virtual.2020.emnlp.org/paper_main.2414.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.395.pdf) [**(code)**]()
 
@@ -2309,9 +2313,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [Scaling Hidden Markov Language Models. Justin Chiu and Alexander Rush.](https://virtual.2020.emnlp.org/paper_main.3272.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.103.pdf) [**(code)**]()
 
 
-
-:heavy_minus_sign: [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin et al.](https://virtual.2020.emnlp.org/paper_main.3304.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.557.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Incorporating Behavioral Hypotheses for Query Generation. Ruey-Cheng Chen and Chia-Jung Lee.](https://virtual.2020.emnlp.org/paper_main.3327.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme. Chaofa Yuan, Chuang Fan, Jianzhu Bao and Ruifeng Xu.](https://virtual.2020.emnlp.org/paper_main.3329.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.289.pdf) [**(code)**]()
@@ -2653,8 +2654,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: (Findings) Event-Driven Learning of Systematic Behaviours in Stock Markets. Xianchao Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.220.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **Improving Compositional Generalization in Semantic Parsing**. Inbar Oren, Jonathan Herzig, Nitish Gupta, Matt Gardner and Jonathan Berant.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.225.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers. Marius Mosbach et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.227.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Learning Numeral Embedding. Chengyue Jiang, Zhonglin Nian, Kaihao Guo, Shanbo Chu, Yinggong Zhao, Libin Shen and Kewei Tu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.235.pdf) [**(code)**]()
 
