@@ -1182,6 +1182,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 ---
 ###  [:top:](#selections-from-emnlp-2020) Natural Language Inference
 
+:heavy_minus_sign: [(Findings+WS) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**](https://virtual.2020.emnlp.org/paper_WS-16.3452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Blackbox NLP) Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation](https://virtual.2020.emnlp.org/paper_WS-25.2020.blackboxnlp-1.16.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.blackboxnlp-1.16) [**(code)**]()
 
@@ -1362,8 +1363,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [(Findings+WS) TSDG: Content-aware Neural Response Generation with Two-stage Decoding Process. Junsheng Kong, Zhicheng Zhong, Yi Cai, Xin Wu and Da Ren.](https://virtual.2020.emnlp.org/paper_WS-4.1735.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.192.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) **An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text. Daivik Swarup et al.**](https://virtual.2020.emnlp.org/paper_WS-21.2220.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.270.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
 
@@ -2482,8 +2481,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [(Findings+WS) Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels. Harris Chan, Jamie Kiros and William Chan.](https://virtual.2020.emnlp.org/paper_WS-20.3148.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.376.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Beyond Language: Learning Commonsense from Images for Reasoning. Wanqing Cui, Yanyan Lan, Liang Pang, Jiafeng Guo and Xueqi Cheng.](https://virtual.2020.emnlp.org/paper_WS-23.3273.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.392.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**](https://virtual.2020.emnlp.org/paper_WS-16.3452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Guiding Attention for Self-Supervised Learning with Transformers. Ameet Deshpande and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-15.49.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.419.pdf) [**(code)**]()
 
