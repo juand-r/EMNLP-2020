@@ -486,6 +486,7 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 :heavy_minus_sign: (Findings) MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering. Aisha Urooj, Amir Mazaheri, Niels Da vitoria lobo and Mubarak Shah.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.417.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Can Pre-training help VQA with Lexical Variations?. Shailza Jolly and Shubham Kapoor.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.257.pdf) [**(code)**]()
 
 
 ---
@@ -2821,13 +2822,9 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
 
 
-
-
 :heavy_minus_sign: (Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.240.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Cross-Lingual Training of Neural Models for Document Ranking. Peng Shi, He Bai and Jimmy Lin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.249.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Can Pre-training help VQA with Lexical Variations?. Shailza Jolly and Shubham Kapoor.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.257.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Knowing What You Know: Calibrating Dialogue Belief State Distributions via Ensembles. Carel van Niekerk et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.277.pdf) [**(code)**]()
 
