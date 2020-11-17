@@ -168,7 +168,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 
 
-## [Topics](#selections-from-emnlp-2020)
+## [Topics](#topics)
 
 ### [:top:](#selections-from-emnlp-2020) Methodological
 
@@ -663,7 +663,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 ---
 
 
-## [NLG papers](#selections-from-emnlp-2020)
+## [NLG papers](#nlg-papers)
 
 ###  [:top:](#selections-from-emnlp-2020) Dialogue
 
@@ -1022,7 +1022,7 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 ---
 ---
 
-## [NLU papers](#selections-from-emnlp-2020)
+## [NLU papers](#nlu-papers)
 
 ###  [:top:](#selections-from-emnlp-2020) Text Classification
 
