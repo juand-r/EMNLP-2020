@@ -46,7 +46,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
   - [Multimodal](#top-multimodal)
   - [Multilingual](#top-multilingual)
-- [NLG papers](#nlg-papers)
+- [NLG papers](#nlg-papers) #NLG
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
     - [Open-ended text generation](#top-open-ended-text-generation)
