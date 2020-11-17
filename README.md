@@ -49,7 +49,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 - [NLG papers](#nlg-papers)
   - [Dialogue](#top-dialogue)
   - [Text Generation](#top-text-generation)
-  - [Data-to-Text Generation](#top-data-to-text-generation)
+    - [Open-ended text generation](#top-open-ended-text-generation)
+    - [Meaning-to-text generation](#top-meaning-to-text-generation)
+    - [Data-to-text generation](#top-data-to-text-generation)
   - [Summarization](#top-summarization)
   - [Simplification](#top-simplification)  
   - [Machine Translation](#top-machine-translation)
@@ -736,7 +738,11 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [Structured Attention for Unsupervised Dialogue Structure Induction. Liang Qiu et al.](https://virtual.2020.emnlp.org/paper_main.128.html)  [**(preprint)**](https://arxiv.org/pdf/2009.08552.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.148.pdf) [**(code)**](https://github.com/Liang-Qiu/SVRNN-dialogues)
 
 ---
+---
 ###  [:top:](#selections-from-emnlp-2020) Text Generation
+
+---
+####  [:top:](#selections-from-emnlp-2020) Open-ended text generation
 
 :heavy_minus_sign: [**Sparse Text Generation**. Pedro Henrique Martins, Zita Marinho and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.648.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.348.pdf) [**(code)**]()
 
@@ -753,11 +759,23 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [**Gradient-guided Unsupervised Lexically Constrained Text Generation.** Lei Sha.](https://virtual.2020.emnlp.org/paper_main.730.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.701.pdf) [**(code)**]()
 
 
+--- 
+####  [:top:](#selections-from-emnlp-2020) Meaning-to-text generation
+
+:heavy_minus_sign: [Multilingual AMR-to-Text Generation. Angela Fan and Claire Gardent.](https://virtual.2020.emnlp.org/paper_main.870.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.231.pdf) [**(code)**]()
+
+
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Data-to-Text Generation
+####  [:top:](#selections-from-emnlp-2020) Data-to-text generation
+
+:heavy_minus_sign: [ToTTo: A Controlled Table-To-Text Generation Dataset. Ankur Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang and Dipanjan Das.](https://virtual.2020.emnlp.org/paper_main.1049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.89.pdf) [**(code)**]()
 
 
+
+
+
+---
 ---
 ###  [:top:](#selections-from-emnlp-2020) Summarization
 
@@ -1532,8 +1550,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Writing Strategies for Science Communication: Data and Computational Analysis. Tal August, Lauren Kim, Katharina Reinecke and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.868.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.429.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Multilingual AMR-to-Text Generation. Angela Fan and Claire Gardent.](https://virtual.2020.emnlp.org/paper_main.870.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.231.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News. Nguyen Vo and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.872.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.621.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Can Automatic Post-Editing Improve NMT?. Shamil Chollampatt, Raymond Hendy Susanto, Liling Tan and Ewa Szymanska.](https://virtual.2020.emnlp.org/paper_main.894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.217.pdf) [**(code)**]()
@@ -1584,8 +1600,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [MultiCQA: Zero-Shot Transfer of Self-Supervised Text Matching Models on a Massive Scale. Andreas Rücklé, Jonas Pfeiffer and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.1032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.194.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Local Additivity Based Data Augmentation for Semi-supervised NER. Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang and Diyi Yang.](https://virtual.2020.emnlp.org/paper_main.1046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.95.pdf) [**(code)**]()
-
-:heavy_minus_sign: [ToTTo: A Controlled Table-To-Text Generation Dataset. Ankur Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang and Dipanjan Das.](https://virtual.2020.emnlp.org/paper_main.1049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.89.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
