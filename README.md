@@ -215,7 +215,6 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 ---
 ### [:top:](#selections-from-emnlp-2020) Parsing
 
-asdfg
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
 :heavy_minus_sign: [(TACL) Consistent Unsupervised Estimators for Anchored PCFGs. Alexander Clark, Nathanaël Fijalkow](https://virtual.2020.emnlp.org/paper_TACL.1936.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00323) [**(code)**](https://github.com/alexc17/locallearner)
@@ -275,7 +274,7 @@ asdfg
 #### [:top:](#selections-from-emnlp-2020) Lexical Semantics
 
 :boom:++ [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
-> asdf
+> **Philosophy of Language prelude:** Frege, Sense and Reference (1894): Semantic meaning = Reference + "mode of presentation". Most semantics to follow largely focused on reference and truth conditions -- in philosophy of language these are roughly the externalists and referentialists such as Putnam and Kripke. However, one can also look at semantics as grounded on psychological concepts (e.g., Gilbert Harman, Conceptual Role Semantics) and how they are used. Two-Factor Semantics (Ned Block, endorsed by Susan Carey) integrates both. This paper tries to operationalize the disentanglement of denotation and connotation with a neural network.
 >
 > Not all that related, but interesting: [Media Persuasion through Slanted Language: Evidence from the Coverage of Immigration](https://www.barcelonagse.eu/research/working-papers/media-persuasion-through-slanted-language-evidence-coverage-immigration)
 
