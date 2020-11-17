@@ -1061,9 +1061,9 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: [FIND: Human-in-the-Loop Debugging Deep Text Classifiers. Piyawat Lertvittayakumjorn, Lucia Specia and Francesca Toni.](https://virtual.2020.emnlp.org/paper_main.2958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf) [**(code)**]()
 
 ---
-### [:top:](#topics) Entity Recognition, Linking and Representation
+### [:top:](#nlu-papers) Entity Recognition, Linking and Representation
 
-####  [:top:](#topics) NER
+####  [:top:](#nlu-papers) NER
 
 :heavy_minus_sign: [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition. Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.](https://virtual.2020.emnlp.org/paper_main.387.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.590.pdf) [**(code)**]()
 
@@ -1097,7 +1097,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: (Findings) Toward Recognizing More Entity Types in NER: An Efficient Implementation using Only Entity Lexicons  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.60.pdf) [**(code)**]()
 
-####  [:top:](#selections-from-emnlp-2020) Entity Linking
+####  [:top:](#nlu-papers) Entity Linking
 
 **Zero-shot/few-shot:**
 
@@ -1124,7 +1124,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 :heavy_minus_sign: (Findings) Joint Intent Detection and Entity Linking on Spatial Domain Queries. lei zhang, Runze Wang, Jingbo Zhou, Jingsong Yu, Zhenhua Ling and Hui Xiong.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.444.pdf) [**(code)**]()
 
 
-####  [:top:](#selections-from-emnlp-2020) Entity Representation
+####  [:top:](#nlu-papers) Entity Representation
 
 :heavy_minus_sign: [**Entities as Experts: Sparse Memory Access with Entity Supervision**. Thibault Févry, Livio Baldini Soares, Nicholas FitzGerald, Eunsol Choi and Tom Kwiatkowski.](https://virtual.2020.emnlp.org/paper_main.1528.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.400.pdf) [**(code)**]()
 
@@ -1140,7 +1140,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: [A Dataset for Tracking Entities in Open Domain Procedural Text. Niket Tandon, Keisuke Sakaguchi, Bhavana Dalvi, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.520.pdf) [**(code)**]()
 
-####  [:top:](#selections-from-emnlp-2020) Entity Set Expansion
+####  [:top:](#nlu-papers) Entity Set Expansion
 
 :heavy_minus_sign: (Findings) Global Bootstrapping Neural Network for Entity Set Expansion. Lingyong Yan, Xianpei Han, Ben He and Le Sun.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.331.pdf) [**(code)**]()
 
@@ -1157,7 +1157,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Coreference
+###  [:top:](#nlu-papers) Coreference
 
 :heavy_minus_sign: [(Findings+WS) **Paraphrasing vs Coreferring: Two Sides of the Same Coin. Yehudit Meged, Avi Caciularu, Vered Shwartz and Ido Dagan.**](https://virtual.2020.emnlp.org/paper_WS-16.3598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.440.pdf) [**(code)**]()
 
@@ -1181,7 +1181,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Semantic Role Labeling
+###  [:top:](#nlu-papers) Semantic Role Labeling
 
 :heavy_minus_sign: [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling. Diego Marcheggiani and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.1754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.322.pdf) [**(code)**]()
 
@@ -1203,7 +1203,7 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Semantic Parsing
+###  [:top:](#nlu-papers) Semantic Parsing
 
 See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/).
 
@@ -1237,7 +1237,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Topic Models
+###  [:top:](#nlu-papers) Topic Models
 
 :boom:++ [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
 
@@ -1259,12 +1259,12 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Knowledge Graphs
+###  [:top:](#nlu-papers) Knowledge Graphs
 
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Natural Language Inference
+###  [:top:](#nlu-papers) Natural Language Inference
 
 :heavy_minus_sign: [(Findings+WS) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**](https://virtual.2020.emnlp.org/paper_WS-16.3452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
@@ -1294,7 +1294,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Emergent Language in Multi-Agent Communication
+###  [:top:](#nlu-papers) Emergent Language in Multi-Agent Communication
 
 
 
@@ -1304,13 +1304,13 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 ## [Applications](#applications)
 
-### [:top:](#selections-from-emnlp-2020) Cybersecurity
+### [:top:](#applications) Cybersecurity
 
 :heavy_minus_sign: [Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Clinical and Biomedical
+### [:top:](#applications) Clinical and Biomedical
 
 See also three workshops at this conference:
 - [3rd Clinical Natural Language Processing Workshop (Clinical NLP 2020)](https://clinical-nlp.github.io/2020/)
@@ -1322,7 +1322,7 @@ See also three workshops at this conference:
 :heavy_minus_sign: [(Findings+WS) Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization. Jiho Noh and Ramakanth Kavuluru.](https://virtual.2020.emnlp.org/paper_WS-7.2502.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.304.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Mental Health
+### [:top:](#applications) Mental Health
 
 :heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
 
@@ -1332,13 +1332,13 @@ See also three workshops at this conference:
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Scientific Text Mining
+### [:top:](#applications) Scientific Text Mining
 
 See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/) at this conference.
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Social Media
+### [:top:](#applications) Social Media
 
 :heavy_minus_sign: [Condolence and Empathy in Online Communities. Naitian Zhou and David Jurgens.](https://virtual.2020.emnlp.org/paper_main.2561.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.45.pdf) [**(code)**]()
 
@@ -1357,12 +1357,12 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification. Francesco Barbieri et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.148.pdf) [**(code)**]()
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Literature
+###  [:top:](#applications) Literature
 
 :heavy_minus_sign: [Chapter Captor: Text Segmentation in Novels. Charuta Pethe, Allen Kim and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1129.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.672.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Grammatical Error Correction
+### [:top:](#applications) Grammatical Error Correction
 
 :heavy_minus_sign: [Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses. Simon Flachs, Ophélie Lacroix, Helen Yannakoudakis, Marek Rei and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.680.pdf) [**(code)**]()
 
@@ -1380,20 +1380,20 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Finance
+### [:top:](#applications) Finance
 
 :heavy_minus_sign: [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations. Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf) [**(code)**]()
 
 :heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Customer Service
+### [:top:](#applications) Customer Service
 
 :heavy_minus_sign: [Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra et al.](https://virtual.2020.emnlp.org/paper_main.1390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.25.pdf) [**(code)**]()
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Other applications
+### [:top:](#applications) Other applications
 
 :heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.328.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.22.pdf) [**(code)**](https://github.com/mickeystroller/StegaText)
 
@@ -1403,9 +1403,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 ---
 ---
-###  [:top:](#selections-from-emnlp-2020) Other
+###  [:top:](#applications) Other
 
-#### [:top:](#selections-from-emnlp-2020) Gender Bias
+#### [:top:](#applications) Gender Bias
 
 :heavy_minus_sign: [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Ana Valeria González, Maria Barrett, Rasmus Hvingelby, Kellie Webster and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.353.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11982.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.209.pdf) [**(code and data)**](https://github.com/anavaleriagonzalez/ABC-dataset)
 
