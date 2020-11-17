@@ -529,6 +529,8 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 **Analysis:**
 
+**See also:** what LMs know about lexical semantics([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ) and discourse ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)). They also contain social bias ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
+
 :heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.](https://virtual.2020.emnlp.org/paper_main.2414.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.395.pdf) [**(code)**]()
