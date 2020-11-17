@@ -236,7 +236,7 @@ asdfg
 
 **Unsupervised Constituency parsing:**
 
-:heavy_minus_sign: [**Unsupervised Parsing via Constituency Tests**. Steven Cao, Nikita Kitaev and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.1494.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.389.pdf) [**(code)**]()
+:boom:++ [**Unsupervised Parsing via Constituency Tests**. Steven Cao, Nikita Kitaev and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.1494.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.389.pdf) [**(code)**]()
 
 :heavy_minus_sign: [On the Role of Supervision in Unsupervised Constituency Parsing. Haoyue Shi, Karen Livescu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.2684.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.614.pdf) [**(code)**]()
 
