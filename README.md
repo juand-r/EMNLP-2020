@@ -218,7 +218,7 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 :heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Parsing
+### [:top:](#topics) Parsing
 
 :heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
@@ -261,7 +261,7 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Syntax
+### [:top:](#topics) Syntax
 
 :heavy_minus_sign: [(TACL) Syntactic Structure Distillation Pretraining for Bidirectional Encoders. Adhiguna Kuncoro et al.](https://virtual.2020.emnlp.org/paper_TACL.2411.html)  [**(paper)**](https://arxiv.org/pdf/2005.13482.pdf)
 
@@ -274,9 +274,9 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Semantics
+### [:top:](#topics) Semantics
 
-#### [:top:](#selections-from-emnlp-2020) Lexical Semantics
+#### [:top:](#topics) Lexical Semantics
 
 :boom:++ [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
 > **Philosophy of Language prelude:** Frege, Sense and Reference (1894): Semantic meaning = Reference (denotation) + "mode of presentation". Most semantics to follow largely focused on reference and truth conditions -- in philosophy of language these are roughly the externalists and referentialists such as Putnam and Kripke. However, one can also look at semantics as grounded on psychological concepts (e.g., Gilbert Harman, Conceptual Role Semantics) and how they are used. Two-Factor Semantics (Ned Block, endorsed by Susan Carey) integrates both. This paper tries to operationalize the disentanglement of denotation and connotation with an adversarial neural network.
@@ -309,7 +309,7 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 :heavy_minus_sign: [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations. Aina Garí Soler and Marianna Apidianaki.](https://virtual.2020.emnlp.org/paper_main.2094.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.598.pdf) [**(code)**]()
 
-#### [:top:](#selections-from-emnlp-2020) Word Sense Disambiguation
+#### [:top:](#topics) Word Sense Disambiguation
 
 :heavy_minus_sign: [Improving Word Sense Disambiguation with Translations. Yixing Luan, Bradley Hauer, Lili Mou and Grzegorz Kondrak.](https://virtual.2020.emnlp.org/paper_main.2891.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.332.pdf) [**(code)**]()
 
@@ -336,19 +336,19 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 :heavy_minus_sign: [**Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. Denis Emelin, Ivan Titov and Rico Sennrich.](https://virtual.2020.emnlp.org/paper_main.2114.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.616.pdf) [**(code)**]()
 
 
-#### [:top:](#selections-from-emnlp-2020) Sentence-level Semantics
+#### [:top:](#topics) Sentence-level Semantics
 
 
 
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Pragmatics
+### [:top:](#topics) Pragmatics
 
 :heavy_minus_sign: ["I'd rather just go to bed": Understanding Indirect Answers. Annie Louis, Dan Roth and Filip Radlinski.](https://virtual.2020.emnlp.org/paper_main.1972.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.601.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Discourse
+### [:top:](#topics) Discourse
 
 See also the papers at the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
 
@@ -380,7 +380,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 
 ---
-### [:top:](#selections-from-emnlp-2020) Argumentation
+### [:top:](#topics) Argumentation
 
 :heavy_minus_sign: [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
 
@@ -397,7 +397,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 :heavy_minus_sign: [Unsupervised Stance Detection for Arguments from Consequences. Jonathan Kobbe, Ioana Hulpuș and Heiner Stuckenschmidt.](https://virtual.2020.emnlp.org/paper_main.2996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.4.pdf) [**(code)**]()
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Figurative Language
+### [:top:](#topics) Figurative Language
 
 :heavy_minus_sign: [Identifying Exaggerated Language. Li Kong, Chuanyi Li, Jidong Ge, Bin Luo and Vincent Ng.](https://virtual.2020.emnlp.org/paper_main.3454.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.571.pdf) [**(code)**]()
 
@@ -406,12 +406,12 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 :heavy_minus_sign: (Findings) Contextual Modulation for Relation-Level Metaphor Identification. Omnia Zayed, John P. McCrae and Paul Buitelaar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.36.pdf) [**(code)**]()
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Explainability
+### [:top:](#topics) Explainability
 
 See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP**](https://blackboxnlp.github.io/).
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Adversarial ML
+### [:top:](#topics) Adversarial ML
 
 :heavy_minus_sign: [Imitation Attacks and Defenses for Black-box Machine Translation Systems. Eric Wallace, Mitchell Stern and Dawn Song.](https://virtual.2020.emnlp.org/paper_main.60.html)  [**(preprint)**](https://arxiv.org/pdf/2004.15015.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.446.pdf) [**(code)**](https://github.com/Eric-Wallace/adversarial-mt)
 
@@ -419,7 +419,7 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Commonsense Reasoning and Question Answering
+###  [:top:](#topics) Commonsense Reasoning and Question Answering
 
 :boom:++ [**Unsupervised Commonsense Question Answering with Self-Talk. Vered Shwartz, Peter West, Ronan Le Bras, Chandra Bhagavatula and Yejin Choi.**](https://virtual.2020.emnlp.org/paper_main.41.html)  [**(preprint)**](https://arxiv.org/pdf/2004.05483.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.373.pdf) [**(code)**](https://github.com/vered1986/self_talk)
 
@@ -481,7 +481,7 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 
 
-####  [:top:](#selections-from-emnlp-2020) Visual Question Answering
+####  [:top:](#topics) Visual Question Answering
 
 :heavy_minus_sign: (Findings) Visuo-Linguistic Question Answering (VLQA) Challenge. Shailaja Keyur Sampat, Yezhou Yang and Chitta Baral.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.413.pdf) [**(code)**]()
 
@@ -499,9 +499,9 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Learning with Less Data
+###  [:top:](#topics) Learning with Less Data
 
-####  [:top:](#selections-from-emnlp-2020) Active Learning
+####  [:top:](#topics) Active Learning
 
 :heavy_minus_sign: [Cold-start Active Learning through Self-supervised Language Modeling. Michelle Yuan, Hsuan-Tien Lin and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.345.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09535.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.637.pdf) [**(code)**](https://github.com/forest-snow/alps)
 
@@ -515,13 +515,13 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 
 
-####  [:top:](#selections-from-emnlp-2020) Data Augmentation
+####  [:top:](#topics) Data Augmentation
 
 :heavy_minus_sign: [DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks. BOSHENG DING, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si and Chunyan Miao.](https://virtual.2020.emnlp.org/paper_main.2733.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.488.pdf) [**(code)**]()
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Language Models and Transformers
+###  [:top:](#topics) Language Models and Transformers
 
 :boom:++ [Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually). Alex Warstadt, Yian Zhang, Xiaocheng Li, Haokun Liu and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2893.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.16.pdf) [**(code)**](https://github.com/nyu-mll/msgs)
 >
@@ -550,19 +550,19 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Embeddings
+###  [:top:](#topics) Embeddings
 
 For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bias).
 
 - a
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Cognitive Models and Psycholinguistics
+###  [:top:](#topics) Cognitive Models and Psycholinguistics
 
 See also the [Workshop on Cognitive Modeling and Computational Linguistics (CMCL)](https://cmclorg.github.io/) at this conference.
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Multimodal
+###  [:top:](#topics) Multimodal
 
 For VQA, see [Visual Question Answering](#top-visual-question-answering). See also the two multimodal workshops at this conference:
 
@@ -622,7 +622,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning. Zhiyuan Fang, Tejas Gokhale, Pratyay Banerjee, Chitta Baral and Yezhou Yang.](https://virtual.2020.emnlp.org/paper_main.1085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.61.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Multilingual
+### [:top:](#topics) Multilingual
 
 :heavy_minus_sign: [On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment. Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.1445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf) [**(code)**]()
 
@@ -665,7 +665,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 ## [NLG papers](#nlg-papers)
 
-###  [:top:](#selections-from-emnlp-2020) Dialogue
+###  [:top:](#nlg-papers) Dialogue
 
 **Dialogue generation:**
 
@@ -760,14 +760,14 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 
 --- 
-####  [:top:](#selections-from-emnlp-2020) Meaning-to-text generation
+####  [:top:](#nlg-papers) Meaning-to-text generation
 
 :heavy_minus_sign: [Multilingual AMR-to-Text Generation. Angela Fan and Claire Gardent.](https://virtual.2020.emnlp.org/paper_main.870.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.231.pdf) [**(code)**]()
 
 
 
 ---
-####  [:top:](#selections-from-emnlp-2020) Data-to-text generation
+####  [:top:](#nlg-papers) Data-to-text generation
 
 :heavy_minus_sign: [ToTTo: A Controlled Table-To-Text Generation Dataset. Ankur Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang and Dipanjan Das.](https://virtual.2020.emnlp.org/paper_main.1049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.89.pdf) [**(code)**]()
 
@@ -777,7 +777,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 ---
 ---
-###  [:top:](#selections-from-emnlp-2020) Summarization
+###  [:top:](#nlg-papers) Summarization
 
 :heavy_minus_sign: [What Have We Achieved on Text Summarization?. Dandan Huang, Leyang Cui, Sen Yang, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang.](https://virtual.2020.emnlp.org/paper_main.965.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf) [**(code)**]()
 
@@ -887,12 +887,12 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Simplification
+###  [:top:](#nlg-papers) Simplification
 
 :heavy_minus_sign: [Zero-Shot Crosslingual Sentence Simplification. Jonathan Mallinson, Rico Sennrich and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1339.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.415.pdf) [**(code)**]()
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Machine Translation
+###  [:top:](#nlg-papers) Machine Translation
 
 See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt.org/wmt20) at this conference.
 
@@ -1010,7 +1010,7 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 
 ---
-###  [:top:](#selections-from-emnlp-2020) Style Transfer
+###  [:top:](#nlg-papers) Style Transfer
 
 
 :heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.55.pdf) [**(code)**]()
@@ -1024,7 +1024,7 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 ## [NLU papers](#nlu-papers)
 
-###  [:top:](#selections-from-emnlp-2020) Text Classification
+###  [:top:](#nlu-papers) Text Classification
 
 
 
@@ -1061,9 +1061,9 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: [FIND: Human-in-the-Loop Debugging Deep Text Classifiers. Piyawat Lertvittayakumjorn, Lucia Specia and Francesca Toni.](https://virtual.2020.emnlp.org/paper_main.2958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf) [**(code)**]()
 
 ---
-### [:top:](#selections-from-emnlp-2020) Entity Recognition, Linking and Representation
+### [:top:](#topics) Entity Recognition, Linking and Representation
 
-####  [:top:](#selections-from-emnlp-2020) NER
+####  [:top:](#topics) NER
 
 :heavy_minus_sign: [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition. Xiangji Zeng, Yunliang Li, Yuchen Zhai and Yin Zhang.](https://virtual.2020.emnlp.org/paper_main.387.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.590.pdf) [**(code)**]()
 
