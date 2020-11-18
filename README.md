@@ -152,9 +152,9 @@ Full list of workshops: https://2020.emnlp.org/workshops
 1. [Claire Cardie, Information Extraction Through the Years: How Did We Get Here?](https://virtual.2020.emnlp.org/plenary_session_keynote_by_claire_cardie.html) [**(video)**](https://slideslive.com/38938634/information-extraction-through-the-years-how-did-we-get-here)
 > See also: [Ralph Grishman, 25 Years of Information Extraction](https://www.cambridge.org/core/journals/natural-language-engineering/article/twentyfive-years-of-information-extraction/0E5BB0D6AE906BB3C25037E2D74CA8F3) and [Ehud Reiter's blog post on the topic](https://ehudreiter.com/2020/01/02/25-years-of-information-extraction/).
 
-2. [Rich Caruana, Friends Don’t Let Friends Deploy Black-Box Models: The Importance of Intelligibility in Machine Learning](https://virtual.2020.emnlp.org/plenary_session_keynote_by_rich_caruana.html)
+2. [Rich Caruana, Friends Don’t Let Friends Deploy Black-Box Models: The Importance of Intelligibility in Machine Learning](https://virtual.2020.emnlp.org/plenary_session_keynote_by_rich_caruana.html) [**(video)**](https://slideslive.com/38938635/friends-dont-let-friends-deploy-blackbox-models-intelligibility-transparency-and-explanation-in-machine-learning)
 
-3. [Janet Pierrehumbert, Linguistic Behaviour and the Realistic Testing of NLP Systems](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html)
+3. [Janet Pierrehumbert, Linguistic Behaviour and the Realistic Testing of NLP Systems](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html) [**(video)**]()
 
 ---
 ---
