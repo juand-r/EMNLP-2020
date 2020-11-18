@@ -40,7 +40,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Explainability](#top-explainability)
   - [Adversarial ML](#top-adversarial-ml)
     - [Adversarial attacks](#top-adversarial-attacks)
-    - [Adversarial training]((#top-adversarial-training)
+    - [Adversarial training](#top-adversarial-training)
   - [Commonsense Reasoning and Question Answering](#top-commonsense-reasoning-and-question-answering)
     - [Visual Question Answering](#top-visual-question-answering)
   - [Learning with Less Data](#top-learning-with-less-data)
