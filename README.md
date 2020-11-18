@@ -372,7 +372,7 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Interview: Large-scale Modeling of Media Dialog with Discourse Patterns and Knowledge Grounding. Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni and Julian McAuley.](https://virtual.2020.emnlp.org/paper_main.2444.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.653.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. Sungho Jeon and Michael Strube.](https://virtual.2020.emnlp.org/paper_main.2377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.604.pdf) [**(code)**]()
+:boom:++ [Centering-based Neural Coherence Modeling with Hierarchical Discourse Segments. Sungho Jeon and Michael Strube.](https://virtual.2020.emnlp.org/paper_main.2377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.604.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision. Patrick Huber and Giuseppe Carenini.](https://virtual.2020.emnlp.org/paper_main.2205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.603.pdf) [**(code)**]()
 
