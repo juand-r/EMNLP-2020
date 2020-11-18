@@ -1652,7 +1652,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Workshop - Negative Results in NLP) Embedding Structured Dictionary Entries. Steven Wilson, Walid Magdy, Barbara McGillivray, Gareth Tyson](https://virtual.2020.emnlp.org/paper_WS-3.34.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.insights-1.18.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(WMT20) Look It Up: Bilingual and Monolingual Dictionaries Improve Neural Machine Translation. Xing Jie Zhong, David Chiang](https://virtual.2020.emnlp.org/paper_WS-3.34.html)  [**(paper)**](https://www.statmt.org/wmt20/pdf/2020.wmt-1.65.pdf) [**(code)**]()
+:heavy_minus_sign: [(WMT20) Look It Up: Bilingual and Monolingual Dictionaries Improve Neural Machine Translation. Xing Jie Zhong, David Chiang](https://virtual.2020.emnlp.org/paper_WS-2.82.html)  [**(paper)**](https://www.statmt.org/wmt20/pdf/2020.wmt-1.65.pdf) [**(code)**]()
 
 **Reverse Dictionary:**
 
