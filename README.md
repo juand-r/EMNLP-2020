@@ -83,6 +83,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Scientific Text Mining](#top-scientific-text-mining)
   - [Social Media](#top-social-media)
   - [Literature](#top-literature)
+  - [Dictionaries](#top-dictionaries)
   - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Finance](#top-finance)
   - [Customer Service](#top-customer-service)
@@ -1645,6 +1646,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [What time is it? Temporal Analysis of Novels. Allen Kim, Charuta Pethe and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1135.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
+
+---
+### [:top:](#applications) Dictionaries
+
+:heavy_minus_sign: []()  [**(paper)**]() [**(code)**]()
 
 ---
 ### [:top:](#applications) Grammatical Error Correction
