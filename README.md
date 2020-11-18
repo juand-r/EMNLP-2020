@@ -1107,7 +1107,7 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [Multi-Unit Transformers for Neural Machine Translation. Jianhao Yan, Fandong Meng and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.1798.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.77.pdf) [**(code)**]()
 
-:heavy_minus_sign: [An Empirical Study of **Generation Order** for Machine Translation. William Chan, Mitchell Stern, Jamie Kiros and Jakob Uszkoreit.](https://virtual.2020.emnlp.org/paper_main.2581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.464.pdf) [**(code)**]()
+:boom:++ [An Empirical Study of **Generation Order** for Machine Translation. William Chan, Mitchell Stern, Jamie Kiros and Jakob Uszkoreit.](https://virtual.2020.emnlp.org/paper_main.2581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.464.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation. Wenxiang Jiao, Xing Wang, Shilin He, Irwin King, Michael Lyu and Zhaopeng Tu.](https://virtual.2020.emnlp.org/paper_main.2674.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.176.pdf) [**(code)**]()
 
