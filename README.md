@@ -17,7 +17,6 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 - [General Remarks](#general-remarks)
 - [Tutorials](#tutorials)
-- [Birds of a feather](#birds-of-a-feather)
 - [Workshops](#workshops)
 - [Keynotes](#keynotes)
 - [System Demonstrations](#system-demonstrations)
@@ -129,11 +128,6 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 ---
 ---
 
-## [Birds of a feather](#selections-from-emnlp-2020)
-
----
----
-
 
 ## [Workshops](#selections-from-emnlp-2020)
 
@@ -160,7 +154,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 
 2. [Rich Caruana, Friends Don’t Let Friends Deploy Black-Box Models: The Importance of Intelligibility in Machine Learning](https://virtual.2020.emnlp.org/plenary_session_keynote_by_rich_caruana.html) [**(video)**](https://slideslive.com/38938635/friends-dont-let-friends-deploy-blackbox-models-intelligibility-transparency-and-explanation-in-machine-learning)
 
-3. [Janet Pierrehumbert, Linguistic Behaviour and the Realistic Testing of NLP Systems](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html) [**(video)**]()
+3. [Janet Pierrehumbert, Linguistic Behaviour and the Realistic Testing of NLP Systems](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html) [**(video)**](https://virtual.2020.emnlp.org/plenary_session_keynote_by_janet_pierrehumbert.html)
 
 ---
 ---
