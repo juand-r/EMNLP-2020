@@ -217,10 +217,6 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 :heavy_minus_sign: [RussianSuperGLUE: A **Russian** Language Understanding Evaluation Benchmark. Tatiana Shavrina et al.](https://virtual.2020.emnlp.org/paper_main.2391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.381.pdf)
 
-**Social biases:**
-
-:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
-
 ---
 ### [:top:](#topics) Parsing
 
@@ -418,12 +414,41 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 ---
 ### [:top:](#topics) Artifacts and Spurious Correlations
 
+**Unknown artifacts:**
+
+:heavy_minus_sign: [**Towards Debiasing NLU Models from Unknown Biases**. Prasetya Ajie Utama, Nafise Sadat Moosavi and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.1408.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.613.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles. Christopher Clark, Mark Yatskar and Luke Zettlemoyer.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.272.pdf) [**(code)**]()
+
+**Other:**
+
+See also:  [(Findings+WS) **Identifying Spurious Correlations for Robust Text Classification.** Zhao Wang and Aron Culotta.](https://virtual.2020.emnlp.org/paper_WS-15.2516.html).
+
 :heavy_minus_sign: [Translation Artifacts in Cross-lingual Transfer Learning. Mikel Artetxe, Gorka Labaka and Eneko Agirre.](https://virtual.2020.emnlp.org/paper_main.2055.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.618.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training. Joe Stacey, Pasquale Minervini, Haim Dubossarsky, Sebastian Riedel and Tim Rocktäschel.](https://virtual.2020.emnlp.org/paper_main.359.html)  [**(preprint)**](https://arxiv.org/pdf/2004.07790.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.665.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Improving QA Generalization by Concurrent Modeling of Multiple Biases. Mingzhu Wu, Nafise Sadat Moosavi, Andreas Rücklé and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_WS-15.724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.74.pdf) [**(code)**]()
 
 
 ---
 ### [:top:](#topics) Biases
+
+:heavy_minus_sign: [CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.154.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**"You are grounded!": Latent Name Artifacts in Pre-trained Language Models. Vered Shwartz, Rachel Rudinger and Oyvind Tafjord.**](https://virtual.2020.emnlp.org/paper_main.32.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.556.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Towards Controllable Biases in Language Generation. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf) [**(code)**]() (to analyze and mitigate social biases).
+
+:heavy_minus_sign: [Debiasing knowledge graph embeddings. Joseph Fisher, Arpit Mittal, Dave Palfrey and Christos Christodoulopoulos.](https://virtual.2020.emnlp.org/paper_main.1399.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.595.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. Robert Munro and Alex (Carmen) Morrison.](https://virtual.2020.emnlp.org/paper_main.457.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.157.pdf) [**(code)**]()
+
+:heavy_minus_sign: [LOGAN: Local Group Bias Detection by Clustering. Jieyu Zhao and Kai-Wei Chang.](https://virtual.2020.emnlp.org/paper_main.2886.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.155.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Reducing Sentiment Bias in Language Models via Counterfactual Evaluation. Po-Sen Huang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.7.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) UNQOVERing Stereotyping Biases via Underspecified Questions. Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Vivek Srikumar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.311.pdf) [**(code)**]()
 
 
 #### [:top:](#topics) Gender Bias
@@ -889,8 +914,6 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: (Findings) Target Conditioning for One-to-Many Generation. Marie-Anne Lachaux, Armand Joulin and Guillaume Lample.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.256.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Approximation of Response Knowledge Retrieval in Knowledge-grounded Dialogue Generation. Wen Zheng, Natasa Milic-Frayling and Ke Zhou.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.321.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Towards Controllable Biases in Language Generation. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Regularization of Distinct Strategies for Unsupervised Question Generation. Junmo Kang, Giwon Hong, Haritz Puerto San Roman and Sung-Hyon Myaeng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf) [**(code)**]()
 
@@ -1452,8 +1475,6 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 :heavy_minus_sign: [(Blackbox NLP) Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation](https://virtual.2020.emnlp.org/paper_WS-25.2020.blackboxnlp-1.16.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.blackboxnlp-1.16) [**(code)**]()
 
-:heavy_minus_sign: [Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training. Joe Stacey, Pasquale Minervini, Haim Dubossarsky, Sebastian Riedel and Tim Rocktäschel.](https://virtual.2020.emnlp.org/paper_main.359.html)  [**(preprint)**](https://arxiv.org/pdf/2004.07790.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.665.pdf) [**(code)**]()
-
 :heavy_minus_sign: [What Can We Learn from Collective Human Opinions on Natural Language Inference Data?. Yixin Nie, Xiang Zhou and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.1540.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.734.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference. Xiaoan Ding, Tianyu Liu, Baobao Chang, Zhifang Sui and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.1834.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.657.pdf) [**(code)**]()
@@ -1788,9 +1809,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Visually Grounded Continual Learning of Compositional Phrases. Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1388.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.158.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Debiasing knowledge graph embeddings. Joseph Fisher, Arpit Mittal, Dave Palfrey and Christos Christodoulopoulos.](https://virtual.2020.emnlp.org/paper_main.1399.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.595.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Towards Debiasing NLU Models from Unknown Biases**. Prasetya Ajie Utama, Nafise Sadat Moosavi and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.1408.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.613.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Analogous Process Structure Induction for Sub-event Sequence Prediction. Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.1421.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.119.pdf) [**(code)**]()
 
@@ -2239,11 +2258,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction. Keshav Kolluru et al.](https://virtual.2020.emnlp.org/paper_main.3646.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.306.pdf) [**(code)**]()
 
 
-
-
-
-:heavy_minus_sign: [**"You are grounded!": Latent Name Artifacts in Pre-trained Language Models. Vered Shwartz, Rachel Rudinger and Oyvind Tafjord.**](https://virtual.2020.emnlp.org/paper_main.32.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.556.pdf) [**(code)**]()
-
 :heavy_minus_sign: [How Much Knowledge Can You Pack Into the Parameters of a Language Model?. Adam Roberts, Colin Raffel and Noam Shazeer.](https://virtual.2020.emnlp.org/paper_main.108.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Small but Mighty: New Benchmarks for Split and Rephrase. Li Zhang, Huaiyu Zhu, Siddhartha Brahma and Yunyao Li.](https://virtual.2020.emnlp.org/paper_main.210.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.91.pdf) [**(code)**]()
@@ -2263,8 +2277,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Beyond Instructional Videos: Probing for More Diverse Visual-Textual Grounding on YouTube. Jack Hessel, Zhenhai Zhu, Bo Pang and Radu Soricut.](https://virtual.2020.emnlp.org/paper_main.445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.709.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Simple and Effective Model for Answering Multi-span Questions. Elad Segal, Avia Efrat, Mor Shoham, Amir Globerson and Jonathan Berant.](https://virtual.2020.emnlp.org/paper_main.449.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.248.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. Robert Munro and Alex (Carmen) Morrison.](https://virtual.2020.emnlp.org/paper_main.457.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.157.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Distilling Structured Knowledge for Text-Based Relational Reasoning. Jin Dong, Marc-Antoine Rondeau and William L. Hamilton.](https://virtual.2020.emnlp.org/paper_main.531.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.551.pdf) [**(code)**]()
 
@@ -2406,8 +2418,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search. Sean MacAvaney, Arman Cohan and Nazli Goharian.](https://virtual.2020.emnlp.org/paper_main.2825.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.341.pdf) [**(code)**]()
 
-:heavy_minus_sign: [LOGAN: Local Group Bias Detection by Clustering. Jieyu Zhao and Kai-Wei Chang.](https://virtual.2020.emnlp.org/paper_main.2886.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.155.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2943.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.711.pdf) [**(code)**]()
@@ -2451,8 +2461,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 # Findings of ACL: EMNLP 2020
 
-:heavy_minus_sign: (Findings) Reducing Sentiment Bias in Language Models via Counterfactual Evaluation. Po-Sen Huang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.7.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Improving Text Understanding via Deep Syntax-Semantics Communication. Hao Fei, Yafeng Ren and Donghong Ji.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.8.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) An Attentive Recurrent Model for Incremental Prediction of Sentence-final Verbs. Wenyan Li, Alvin Grissom II and Jordan Boyd-Graber.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.12.pdf) [**(code)**]()
@@ -2488,8 +2496,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [(Findings+WS) From Language to Language-ish: How Brain-Like is an LSTM's Representation of Nonsensical Language Stimuli?. Maryam Hashemzadeh et al.](https://virtual.2020.emnlp.org/paper_WS-1.561_F.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.57.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study. Saurabh Kulshreshtha, Jose Luis Redondo Garcia and Ching-Yun Chang.](https://virtual.2020.emnlp.org/paper_WS-11.816.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.83.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Improving QA Generalization by Concurrent Modeling of Multiple Biases. Mingzhu Wu, Nafise Sadat Moosavi, Andreas Rücklé and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_WS-15.724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.74.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures. Chaitanya Ahuja et al.](https://virtual.2020.emnlp.org/paper_WS-23.1589.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf) [**(code)**]()
 
@@ -2755,8 +2761,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog. Erik Ekstedt and Gabriel Skantze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.268.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Learning to Model and Ignore Dataset Bias with Mixed Capacity Ensembles. Christopher Clark, Mark Yatskar and Luke Zettlemoyer.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.272.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Learning to Generalize for Sequential Decision Making. Xusen Yin, Ralph Weischedel and Jonathan May.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.273.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports. Markus Zlabinger et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.274.pdf) [**(code)**]()
@@ -2774,8 +2778,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: (Findings) On the Importance of Adaptive Data Collection for Extremely Imbalanced Pairwise Tasks. Stephen Mussmann, Robin Jia and Percy Liang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.305.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.309.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) UNQOVERing Stereotyping Biases via Underspecified Questions. Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Vivek Srikumar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.311.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Margin-aware Unsupervised Domain Adaptation for Cross-lingual Text Labeling. Dejiao Zhang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.315.pdf) [**(code)**]()
 
