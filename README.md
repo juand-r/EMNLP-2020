@@ -186,6 +186,8 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 :heavy_minus_sign: [A Matter of Framing: The Impact of Linguistic Formalism on Probing Results. Ilia Kuznetsov and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.498.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.13.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Precise Task Formalization Matters in Winograd Schema Evaluations. Haokun Liu, William Huang, Dhara Mungra and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2999.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.664.pdf) [**(code)**]()
+
 :heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf)
 
 :heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**](https://github.com/btaille/sincere)
@@ -2361,8 +2363,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2943.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.711.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Precise Task Formalization Matters in Winograd Schema Evaluations. Haokun Liu, William Huang, Dhara Mungra and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2999.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.664.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.](https://virtual.2020.emnlp.org/paper_main.3116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.367.pdf) [**(code)**]()
 
