@@ -1803,7 +1803,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Local Additivity Based Data Augmentation for Semi-supervised NER. Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang and Diyi Yang.](https://virtual.2020.emnlp.org/paper_main.1046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.95.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
+:boom:++ [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
 
