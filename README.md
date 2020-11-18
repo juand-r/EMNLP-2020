@@ -86,6 +86,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Finance](#top-finance)
   - [Customer Service](#top-customer-service)
+  - [Hate speech and offensive language](#top-hate-speech-and-offensive-language)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
 
@@ -1665,6 +1666,11 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Conversational Document Prediction to Assist Customer Care Agents. Jatin Ganhotra et al.](https://virtual.2020.emnlp.org/paper_main.1390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.25.pdf) [**(code)**]()
 
+---
+### [:top:](#applications) Hate speech and offensive language
+
+:heavy_minus_sign: [Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.2614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.622.pdf) [**(code)**]()
+
 
 ---
 ### [:top:](#applications) Other applications
@@ -1674,6 +1680,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :boom:++ [Solving Historical Dictionary Codes with a Neural Language Model. Christopher Chu, Raphael Valenti and Kevin Knight.](https://virtual.2020.emnlp.org/paper_main.2216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.471.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. Jiazhao Li et al.](https://virtual.2020.emnlp.org/paper_WS-12.2127.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) **Inferring about fraudulent collusion risk on Brazilian public works contracts in official texts using a Bi-LSTM approach.** Marcos Lima et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.143.pdf) [**(code)**]()
 
 ---
 ---
@@ -2328,8 +2336,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Supervised Seeded Iterated Learning for Interactive Language Learning. Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin and Aaron Courville.](https://virtual.2020.emnlp.org/paper_main.2583.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.325.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.2614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.622.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Calibration of Pre-trained Transformers. Shrey Desai and Greg Durrett.**](https://virtual.2020.emnlp.org/paper_main.2615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.21.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data. .](https://virtual.2020.emnlp.org/paper_main.2739.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.302.pdf) [**(code)**]()
@@ -2576,7 +2582,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) Enhancing Automated Essay Scoring Performance via Fine-tuning Pre-trained Language Models with Combination of Regression and Ranking. Ruosong Yang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.141.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) **Inferring about fraudulent collusion risk on Brazilian public works contracts in official texts using a Bi-LSTM approach.** Marcos Lima et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.143.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.145.pdf) [**(code)**]()
 
