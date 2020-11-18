@@ -585,7 +585,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: [MAF: Multimodal Alignment Framework for Weakly-Supervised Phrase Grounding. Qinxin Wang, Hao Tan, Sheng Shen, Michael Mahoney and Zhewei Yao.](https://virtual.2020.emnlp.org/paper_main.2083.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.159.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!. Jack Hessel and Lillian Lee.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf) [**(code)**]()
+:boom:++ [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!. Jack Hessel and Lillian Lee.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.62.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multimodal Routing: Improving Local and Global **Interpretability** of Multimodal Language Analysis. Yao-Hung Hubert Tsai, Martin Ma, Muqiao Yang, Ruslan Salakhutdinov and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.376.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14198.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.143.pdf) [**(code)**](https://github.com/martinmamql/multimodal_routing)
 
@@ -750,7 +750,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: [(Findings+WS) TSDG: Content-aware Neural Response Generation with Two-stage Decoding Process. Junsheng Kong, Zhicheng Zhong, Yi Cai, Xin Wu and Da Ren.](https://virtual.2020.emnlp.org/paper_WS-4.1735.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.192.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Authorship Attribution for Neural Text Generation**. Adaku Uchendu, Thai Le, Kai Shu and Dongwon Lee.](https://virtual.2020.emnlp.org/paper_main.125.html)  [**(preprint)**](http://www.cs.iit.edu/~kshu/files/emnlp20.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) [**(code)**](https://github.com/AdaUchendu/Authorship-Attribution-for-Neural-Text-Generation)
+:boom:++ [**Authorship Attribution for Neural Text Generation**. Adaku Uchendu, Thai Le, Kai Shu and Dongwon Lee.](https://virtual.2020.emnlp.org/paper_main.125.html)  [**(preprint)**](http://www.cs.iit.edu/~kshu/files/emnlp20.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.673.pdf) [**(code)**](https://github.com/AdaUchendu/Authorship-Attribution-for-Neural-Text-Generation)
 
 :heavy_minus_sign: [Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation. Minki Kang, Moonsu Han and Sung Ju Hwang.](https://virtual.2020.emnlp.org/paper_main.247.html)  [**(preprint)**](https://arxiv.org/pdf/2010.02705.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.493.pdf) [**(code)**](https://github.com/Nardien/NMG)
 
