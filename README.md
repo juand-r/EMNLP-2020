@@ -34,6 +34,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Discourse](#top-discourse)
   - [Argumentation](#top-argumentation)
   - [Figurative Language](#top-figurative-language)
+  - [Artifacts and Spurious Correlations](#top-artifacts-and-spurious-correlations)
+  - [Biases](#top-biases)
+    - [Gender Bias](#top-gender-bias)
   - [Explainability](#top-explainability)
   - [Adversarial ML](#top-adversarial-ml)
   - [Commonsense Reasoning and Question Answering](#top-commonsense-reasoning-and-question-answering)
@@ -83,7 +86,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Customer Service](#top-customer-service)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
-  - [Gender Bias](#top-gender-bias)
+
 
 
 ## [General Remarks](#selections-from-emnlp-2020)
@@ -410,6 +413,50 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 :heavy_minus_sign: (Findings) **The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.402.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Contextual Modulation for Relation-Level Metaphor Identification. Omnia Zayed, John P. McCrae and Paul Buitelaar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.36.pdf) [**(code)**]()
+
+
+---
+### [:top:](#topics) Artifacts and Spurious Correlations
+
+:heavy_minus_sign: [Translation Artifacts in Cross-lingual Transfer Learning. Mikel Artetxe, Gorka Labaka and Eneko Agirre.](https://virtual.2020.emnlp.org/paper_main.2055.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.618.pdf) [**(code)**]()
+
+
+
+---
+### [:top:](#topics) Biases
+
+
+#### [:top:](#topics) Gender Bias
+
+:heavy_minus_sign: [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Ana Valeria González, Maria Barrett, Rasmus Hvingelby, Kellie Webster and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.353.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11982.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.209.pdf) [**(code and data)**](https://github.com/anavaleriagonzalez/ABC-dataset)
+
+**Classification/discovery of gender bias:**
+
+:heavy_minus_sign: [Unsupervised Discovery of Implicit Gender Bias. Anjalie Field and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.838.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.44.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Multi-Dimensional Gender Bias Classification. Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela and Adina Williams.](https://virtual.2020.emnlp.org/paper_main.802.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.23.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Automatically Identifying Gender Issues in Machine Translation using Perturbations. Hila Gonen and Kellie Webster.](https://virtual.2020.emnlp.org/paper_WS-20.1663.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.180.pdf) [**(code)**]()
+
+**Mitigation for gender bias in text generation:**
+
+:boom:++ [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.](https://virtual.2020.emnlp.org/paper_main.318.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13028.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.64.pdf) [**(code)**](https://github.com/zgahhblhc/Debiased-Chat)
+
+:heavy_minus_sign: [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.](https://virtual.2020.emnlp.org/paper_main.834.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.656.pdf) [**(code)**]()
+
+**Mitigation of gender bias in word embeddings:**
+
+See also [Fair Embedding Engine: A Library for Analyzing and Mitigating Gender
+Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) from the NLP-OSS Workshop.
+
+:heavy_minus_sign: (Findings) Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation. Seungjae Shin et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.280.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings. Vaibhav Kumar et al.](https://virtual.2020.emnlp.org/paper_TACL.2011.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00327) [**(code)**](https://github.com/TimeTraveller-San/RAN-Debias)
+
+:heavy_minus_sign: [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation. Francisco Vargas and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1018.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.232.pdf) [**(code)**]()
+
 
 ---
 ### [:top:](#topics) Explainability
@@ -1540,37 +1587,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 ---
 ###  [:top:](#applications) Other
 
-#### [:top:](#applications) Gender Bias
-
-:heavy_minus_sign: [Type B Reflexivization as an Unambiguous Testbed for Multilingual Multi-Task Gender Bias. Ana Valeria González, Maria Barrett, Rasmus Hvingelby, Kellie Webster and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.353.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11982.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.209.pdf) [**(code and data)**](https://github.com/anavaleriagonzalez/ABC-dataset)
-
-**Classification/discovery:**
-
-:heavy_minus_sign: [Unsupervised Discovery of Implicit Gender Bias. Anjalie Field and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.838.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.44.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Multi-Dimensional Gender Bias Classification. Emily Dinan, Angela Fan, Ledell Wu, Jason Weston, Douwe Kiela and Adina Williams.](https://virtual.2020.emnlp.org/paper_main.802.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.23.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Automatically Identifying Gender Issues in Machine Translation using Perturbations. Hila Gonen and Kellie Webster.](https://virtual.2020.emnlp.org/paper_WS-20.1663.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.180.pdf) [**(code)**]()
-
-**Mitigation for text generation:**
-
-:boom:++ [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.](https://virtual.2020.emnlp.org/paper_main.318.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13028.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.64.pdf) [**(code)**](https://github.com/zgahhblhc/Debiased-Chat)
-
-:heavy_minus_sign: [Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation. Emily Dinan, Angela Fan, Adina Williams, Jack Urbanek, Douwe Kiela and Jason Weston.](https://virtual.2020.emnlp.org/paper_main.834.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.656.pdf) [**(code)**]()
-
-**Mitigation of word embeddings:**
-
-See also [Fair Embedding Engine: A Library for Analyzing and Mitigating Gender
-Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) from the NLP-OSS Workshop.
-
-:heavy_minus_sign: (Findings) Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation. Seungjae Shin et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.280.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Nurse is Closer to Woman than Surgeon? Mitigating Gender-Biased Proximities in Word Embeddings. Vaibhav Kumar et al.](https://virtual.2020.emnlp.org/paper_TACL.2011.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00327) [**(code)**](https://github.com/TimeTraveller-San/RAN-Debias)
-
-:heavy_minus_sign: [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation. Francisco Vargas and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1018.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.232.pdf) [**(code)**]()
-
 
 ---
 ---
@@ -1883,7 +1899,7 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [PRover: Proof Generation for Interpretable Reasoning over Rules. Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2054.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.9.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Translation Artifacts in Cross-lingual Transfer Learning. Mikel Artetxe, Gorka Labaka and Eneko Agirre.](https://virtual.2020.emnlp.org/paper_main.2055.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.618.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets. Nedjma Ousidhoum, Yangqiu Song and Dit-Yan Yeung.](https://virtual.2020.emnlp.org/paper_main.2057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.199.pdf) [**(code)**]()
 
