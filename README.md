@@ -1611,11 +1611,25 @@ See also three workshops at this conference:
 
 :heavy_minus_sign: [(Findings+WS) Generating Accurate Electronic Health Assessment from Medical Graph. Zhichao Yang and hong yu.](https://virtual.2020.emnlp.org/paper_WS-12.2804.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.336.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.](https://virtual.2020.emnlp.org/paper_main.1908.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.114.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports. Markus Zlabinger et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.274.pdf) [**(code)**]()
+
 **Radiology reports:**
 
-:heavy_minus_sign: [Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT. Akshay Smit et al.](https://virtual.2020.emnlp.org/paper_main.55.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09167.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.117.pdf) [**(code)**](https://github.com/stanfordmlgroup/CheXbert)
+:heavy_minus_sign: [Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report **Labeling** Using BERT. Akshay Smit et al.](https://virtual.2020.emnlp.org/paper_main.55.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09167.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.117.pdf) [**(code)**](https://github.com/stanfordmlgroup/CheXbert)
 
+:heavy_minus_sign: [**Generating** Radiology Reports via Memory-driven Transformer. Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan](https://virtual.2020.emnlp.org/paper_main.1271.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.112) [**(code)**]()
 
+:heavy_minus_sign: [(Findings+WS) Learning to **Generate** Clinically Coherent Chest X-Ray Reports. Justin Lovelace and Bobak Mortazavi.](https://virtual.2020.emnlp.org/paper_WS-12.1041.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.110.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(WS) A Hybrid Deep Learning Approach for **Spatial Trigger Extraction** from Radiology Reports. Surabhi Datta, Kirk Roberts](https://virtual.2020.emnlp.org/paper_WS-10.7.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.splu-1.6) [**(code)**]()
+
+:heavy_minus_sign: [(WS) An Ensemble Approach to Automatic **Structuring** of Radiology Reports. Morteza Pourreza Shahri, Amir Tahmasebi, Bingyang Ye, Henghui Zhu, Javed Aslam, Timothy Ferris](https://virtual.2020.emnlp.org/paper_WS-12.13.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.clinicalnlp-1.28) [**(code)**]()
+
+:heavy_minus_sign: [Not a cute stroke: Analysis of Rule- and Neural Network-based **Information Extraction Systems for Brain Radiology Reports**. Andreas Grivas, Beatrice Alex, Claire Grover, Richard Tobin, William Whiteley](https://virtual.2020.emnlp.org/paper_WS-19.13.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.louhi-1.4) [**(code)**]()
 
 ---
 ### [:top:](#applications) Mental Health
@@ -1983,10 +1997,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: ["What Do You Mean by That?" A Parser-Independent Interactive Approach for Enhancing Text-to-SQL. Yuntao Li, Bei Chen, Qian Liu, Yan Gao, Jian-Guang LOU, Yan Zhang and Dongmei Zhang.](https://virtual.2020.emnlp.org/paper_main.1866.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.561.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Are All Good Word Vector Spaces Isomorphic?**. Ivan Vulić, Sebastian Ruder and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.1901.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.257.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.](https://virtual.2020.emnlp.org/paper_main.1908.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.114.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Question Directed Graph Attention Network for Numerical Reasoning over Text. Kunlong Chen, Weidi Xu, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song, Taifeng Wang, Yuan Qi and Wei Chu.](https://virtual.2020.emnlp.org/paper_main.1975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.549.pdf) [**(code)**]()
 
@@ -2477,11 +2487,7 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [(Findings+WS) AutoETER: Automated Entity Type Representation for Knowledge Graph Embedding. Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu and Jingyang Li.](https://virtual.2020.emnlp.org/paper_WS-13.1008.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.105.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: [(Findings+WS) Making Information Seeking Easier: An Improved Pipeline for Conversational Search. Vaibhav Kumar and Jamie Callan.](https://virtual.2020.emnlp.org/paper_WS-4.2957.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.354.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Learning to Generate Clinically Coherent Chest X-Ray Reports. Justin Lovelace and Bobak Mortazavi.](https://virtual.2020.emnlp.org/paper_WS-12.1041.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.110.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Parsing with Multilingual BERT, a Small Corpus, and a Small Treebank. Ethan C. Chau, Lucy H. Lin and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_WS-11.1093-WS11.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.118.pdf) [**(code)**]()
 
@@ -2690,8 +2696,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: (Findings) TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog. Erik Ekstedt and Gabriel Skantze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.268.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Learning to Generalize for Sequential Decision Making. Xusen Yin, Ralph Weischedel and Jonathan May.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.273.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports. Markus Zlabinger et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.274.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Efficient Transformer-based Large Scale Language Representations using Hardware-friendly Block Structured Pruning. Bingbing Li et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.286.pdf) [**(code)**]()
 
