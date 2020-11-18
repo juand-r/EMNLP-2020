@@ -1791,7 +1791,7 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
 
-:heavy_minus_sign: [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
+:boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
 
 :heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.](https://virtual.2020.emnlp.org/paper_main.87.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.262.pdf) [**(code)**](https://github.com/nicola-decao/diffmask)
 
@@ -2007,7 +2007,7 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [**Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification**. Sen et al.](https://virtual.2020.emnlp.org/paper_main.2040.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.345.pdf) [**(code)**]()
 
-:heavy_minus_sign: [PRover: Proof Generation for Interpretable Reasoning over Rules. Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2054.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.9.pdf) [**(code)**]()
+:boom:++ [PRover: Proof Generation for Interpretable Reasoning over Rules. Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2054.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.9.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes. Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel and Claudio Pinhanez.](https://virtual.2020.emnlp.org/paper_main.2066.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.324.pdf) [**(code)**]()
 
