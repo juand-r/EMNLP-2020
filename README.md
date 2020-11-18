@@ -187,6 +187,8 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 
 :heavy_minus_sign: [**Is the Best Better? Bayesian Statistical Model Comparison for Natural Language Processing**. Piotr Szymański and Kyle Gorman.](https://virtual.2020.emnlp.org/paper_main.2452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.172.pdf)
 
+:heavy_minus_sign: [**With Little Power Comes Great Responsibility**. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.2238.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf) [**(code)**]()
+
 :heavy_minus_sign: [Let's Stop Incorrect Comparisons in End-to-end Relation Extraction!. Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten and patrick Gallinari.](https://virtual.2020.emnlp.org/paper_main.1862.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.301.pdf) [**(code)**](https://github.com/btaille/sincere)
 
 
@@ -2075,8 +2077,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [DORB: Dynamically Optimizing Multiple Rewards with Bandits. Ramakanth Pasunuru, Han Guo and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2221.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.625.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. Harsh Jhamtani and Peter Clark.](https://virtual.2020.emnlp.org/paper_main.2228.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.10.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**With Little Power Comes Great Responsibility**. Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.2238.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.745.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-Step Inference for Reasoning Over Paragraphs. Jiangming Liu, Matt Gardner, Shay B. Cohen and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.2253.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.245.pdf) [**(code)**]()
 
