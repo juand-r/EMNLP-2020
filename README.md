@@ -86,6 +86,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Dictionaries](#top-dictionaries)
   - [Grammatical Error Correction](#top-grammatical-error-correction)
   - [Finance](#top-finance)
+  - [Law](#top-law)
   - [Customer Service](#top-customer-service)
   - [Hate speech and offensive language](#top-hate-speech-and-offensive-language)
   - [Other applications](#top-other-applications)
