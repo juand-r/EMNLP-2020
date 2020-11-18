@@ -1525,7 +1525,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 :heavy_minus_sign: [Improving Neural Topic Models using Knowledge Distillation. Alexander Miserlis Hoyle, Pranav Goel and Philip Resnik.](https://virtual.2020.emnlp.org/paper_main.2931.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.137.pdf)
 
-:heavy_minus_sign: [A Neural Generative Model for Joint Learning Topics and Topic-Specific Word Embeddings](https://virtual.2020.emnlp.org/paper_TACL.2083.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00326) [**(code)**](https://github.com/somethingx02/topical_wordvec_models)
+:heavy_minus_sign: [(TACL) A Neural Generative Model for Joint Learning Topics and Topic-Specific Word Embeddings](https://virtual.2020.emnlp.org/paper_TACL.2083.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00326) [**(code)**](https://github.com/somethingx02/topical_wordvec_models)
 
 **Topic modeling for short texts:**
 
