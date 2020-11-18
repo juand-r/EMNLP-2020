@@ -383,7 +383,6 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 :heavy_minus_sign: [Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays. Wei Song, Ziyao Song, Ruiji Fu, Lizhen Liu, Miaomiao Cheng and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.955.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.225.pdf) [**(code)**]()
 
-
 ---
 ### [:top:](#topics) Argumentation
 
@@ -1398,6 +1397,10 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ---
 ###  [:top:](#nlu-papers) Natural Language Inference
 
+:boom:++ [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.](https://virtual.2020.emnlp.org/paper_main.2342.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.660.pdf) [**(code)**]()
+
+:heavy_minus_sign: [New Protocols and Negative Results for Textual Entailment Data Collection. Samuel R. Bowman, Jennimaria Palomaki, Livio Baldini Soares and Emily Pitler.](https://virtual.2020.emnlp.org/paper_main.1923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.658.pdf) [**(code)**]()
+
 :heavy_minus_sign: [(Findings+WS) **Thinking Like a Skeptic: Defeasible Inference in Natural Language. Rachel Rudinger et al.**](https://virtual.2020.emnlp.org/paper_WS-16.3452.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.418.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Blackbox NLP) Neural Natural Language Inference Models Partially Embed Theories of Lexical Entailment and Negation](https://virtual.2020.emnlp.org/paper_WS-25.2020.blackboxnlp-1.16.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.blackboxnlp-1.16) [**(code)**]()
@@ -1857,8 +1860,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 :heavy_minus_sign: [Predicting Clinical Trial Results by Implicit Evidence Integration. Qiao Jin, Chuanqi Tan, Mosha Chen, Xiaozhong Liu and Songfang Huang.](https://virtual.2020.emnlp.org/paper_main.1908.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.114.pdf) [**(code)**]()
 
-:heavy_minus_sign: [New Protocols and Negative Results for Textual Entailment Data Collection. Samuel R. Bowman, Jennimaria Palomaki, Livio Baldini Soares and Emily Pitler.](https://virtual.2020.emnlp.org/paper_main.1923.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.658.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Explainable Clinical Decision Support from Text. Jinyue Feng, Chantal Shaib and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.1942.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.115.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Question Directed Graph Attention Network for Numerical Reasoning over Text. Kunlong Chen, Weidi Xu, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song, Taifeng Wang, Yuan Qi and Wei Chu.](https://virtual.2020.emnlp.org/paper_main.1975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.549.pdf) [**(code)**]()
@@ -1938,9 +1939,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [META: Metadata-Empowered Weak Supervision for Text Classification. Dheeraj Mekala, Xinyang Zhang and Jingbo Shang.](https://virtual.2020.emnlp.org/paper_main.2289.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.670.pdf) [**(code)**]()
 
 :heavy_minus_sign: [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction. Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2307.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.153.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start. Wenpeng Yin, Nazneen Fatema Rajani, Dragomir Radev, Richard Socher and Caiming Xiong.](https://virtual.2020.emnlp.org/paper_main.2342.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.660.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Text Segmentation by Cross Segment Attention. Michal Lukasik, Boris Dadachev, Kishore Papineni and Goncalo Simoes.](https://virtual.2020.emnlp.org/paper_main.2367.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.380.pdf) [**(code)**]()
 
