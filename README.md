@@ -52,6 +52,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Open-ended text generation](#top-open-ended-text-generation)
     - [Meaning-to-text generation](#top-meaning-to-text-generation)
     - [Data-to-text generation](#top-data-to-text-generation)
+  - [OCR post-correction](#top-ocr-post-correction)
   - [Summarization](#top-summarization)
   - [Simplification](#top-simplification)  
   - [Machine Translation](#top-machine-translation)
@@ -899,8 +900,14 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 
 
+---
+
 
 ---
+###  [:top:](#nlg-papers) OCR post-correction
+
+:boom:++ [OCR Post Correction for Endangered Language Texts. Shruti Rijhwani, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.2493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.478.pdf) [**(code)**]()
+
 ---
 ###  [:top:](#nlg-papers) Summarization
 
@@ -1956,8 +1963,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [DualTKB: A Dual Learning Bridge between Text and Knowledge Base. Pierre Dognin, Igor Melnyk, Inkit Padhi, Cicero Nogueira dos Santos and Payel Das.](https://virtual.2020.emnlp.org/paper_main.2476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.694.pdf) [**(code)**]()
 
 :heavy_minus_sign: [On Losses for Modern Language Models. Stéphane Aroca-Ouellette and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.2491.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.403.pdf) [**(code)**]()
-
-:heavy_minus_sign: [OCR Post Correction for Endangered Language Texts. Shruti Rijhwani, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.2493.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.478.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Weakly Supervised Subevent Knowledge Acquisition. Wenlin Yao, Zeyu Dai, Maitreyi Ramaswamy, Bonan Min and Ruihong Huang.](https://virtual.2020.emnlp.org/paper_main.2508.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.430.pdf) [**(code)**]()
 
