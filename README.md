@@ -1509,6 +1509,8 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ---
 ###  [:top:](#nlu-papers) Topic Models
 
+:heavy_minus_sign: [(TACL) Topic Modeling in Embedding Spaces. Adji Bousso Dieng, Francisco Ruiz, David Blei.]()  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00325) [**(code)**](https://github.com/adjidieng/ETM)
+
 :boom:++ [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
 
 :boom:++ (Findings) **Rethinking Topic Modelling: From Document-Space to Term-Space. Magnus Sahlgren.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.204.pdf)
