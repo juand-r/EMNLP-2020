@@ -77,6 +77,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
 #### [Applications](#applications-1)
   - [Cybersecurity](#top-cybersecurity)
+  - [Language and Code](#top-language-and-code)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
   - [Mental Health](#top-mental-health)
   - [Scientific Text Mining](#top-scientific-text-mining)
@@ -1344,7 +1345,7 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [(Findings+WS) A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events. Susmitha Wunnava et al.](https://virtual.2020.emnlp.org/paper_WS-12.2509.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.306.pdf) [**(code)**]()
 
-:heavy_minus_sign: [To Schedule or not to Schedule: Extracting Task Specific Temporal Entities and Associated Negation Constraints. Barun Patra et al.](https://virtual.2020.emnlp.org/paper_main.3573.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.678.pdf) [**(code)**]()
+:heavy_minus_sign: [To Schedule or not to Schedule: Extracting Task Specific **Temporal Entities** and Associated Negation Constraints. Barun Patra et al.](https://virtual.2020.emnlp.org/paper_main.3573.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.678.pdf) [**(code)**]()
 
 **Evaluation:**
 
@@ -1568,7 +1569,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ---
 ###  [:top:](#nlu-papers) Emergent Language in Multi-Agent Communication
 
-
+:heavy_minus_sign: [The Grammar of Emergent Languages. Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.](https://virtual.2020.emnlp.org/paper_main.593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf) [**(code)**]()
 
 
 ---
@@ -1579,6 +1580,12 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ### [:top:](#applications) Cybersecurity
 
 :heavy_minus_sign: [Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
+
+---
+### [:top:](#applications) Language and Code
+
+
+:heavy_minus_sign: [PyMT5: multi-mode translation of natural language and Python code with transformers. Colin Clement, Dawn Drain, Jonathan Timcheck, Alexey Svyatkovskiy and Neel Sundaresan.](https://virtual.2020.emnlp.org/paper_main.2990.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.728.pdf) [**(code)**]()
 
 
 ---
@@ -1612,6 +1619,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 ---
 ### [:top:](#applications) Social Media
 
+:heavy_minus_sign: [A State-independent and Time-evolving Network for Early Rumor Detection in Social Media. Rui Xia, Kaizhou Xuan and Jianfei Yu.](https://virtual.2020.emnlp.org/paper_main.3438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.727.pdf) [**(code)**]()
+
 :heavy_minus_sign: [Condolence and Empathy in Online Communities. Naitian Zhou and David Jurgens.](https://virtual.2020.emnlp.org/paper_main.2561.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.45.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Predicting Responses to Psychological Questionnaires from Participants’ Social Media Posts and Question Text Embeddings. Huy Vu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.137.pdf) [**(code)**]()
@@ -1632,6 +1641,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 ###  [:top:](#applications) Literature
 
 :heavy_minus_sign: [Chapter Captor: Text Segmentation in Novels. Charuta Pethe, Allen Kim and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1129.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.672.pdf) [**(code)**]()
+
+:heavy_minus_sign: [What time is it? Temporal Analysis of Novels. Allen Kim, Charuta Pethe and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1135.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
 
@@ -1688,6 +1699,12 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.](https://virtual.2020.emnlp.org/paper_main.3049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.677.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Towards Modeling Revision Requirements in wikiHow Instructions. Irshad Bhat, Talita Anthonio and Michael Roth.](https://virtual.2020.emnlp.org/paper_main.1906.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.675.pdf) [**(code)**]()
+
+:heavy_minus_sign: [NwQM: A neural quality assessment framework for Wikipedia. Bhanu Prakash Reddy Guda, Sasi Bhushan Seelaboyina, Soumya Sarkar and Animesh Mukherjee.](https://virtual.2020.emnlp.org/paper_main.1322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.674.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models. Changmao Li, Elaine Fisher, Rebecca Thomas, Steve Pittard, Vicki Hertzberg and Jinho D. Choi.](https://virtual.2020.emnlp.org/paper_main.470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.679.pdf) [**(code)**]()
+
 ---
 ---
 ###  [:top:](#applications) Other
@@ -1740,8 +1757,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Cross-lingual Spoken Language Understanding with Regularized Representation Alignment. Zihan Liu, Genta Indra Winata, Peng Xu, Zhaojiang Lin and Pascale Fung.](https://virtual.2020.emnlp.org/paper_main.407.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.587.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Competence-Level Prediction and Resume & Job Description Matching Using Context-Aware Transformer Models. Changmao Li, Elaine Fisher, Rebecca Thomas, Steve Pittard, Vicki Hertzberg and Jinho D. Choi.](https://virtual.2020.emnlp.org/paper_main.470.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.679.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
@@ -1749,8 +1764,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Conditional Causal Relationships between Emotions and Causes in Texts. Xinhong Chen, Qing Li and Jianping Wang.](https://virtual.2020.emnlp.org/paper_main.548.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interactive Refinement of Cross-Lingual Word Embeddings. Michelle Yuan, Mozhi Zhang, Benjamin Van Durme, Leah Findlater and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.482.pdf) [**(code)**]()
-
-:heavy_minus_sign: [The Grammar of Emergent Languages. Oskar van der Wal, Silvan de Boer, Elia Bruni and Dieuwke Hupkes.](https://virtual.2020.emnlp.org/paper_main.593.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.270.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Attention is Not Only a Weight: Analyzing Transformers with Vector Norms. Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.616.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.574.pdf) [**(code)**]()
 
@@ -1831,8 +1844,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Grounded Compositional Outputs for Adaptive Language Modeling. Nikolaos Pappas, Phoebe Mulcaire and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.1130.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.96.pdf) [**(code)**]()
 
-:heavy_minus_sign: [What time is it? Temporal Analysis of Novels. Allen Kim, Charuta Pethe and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1135.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning from Context or Names? An Empirical Study on Neural Relation Extraction. Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.1159.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.298.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Neural Deepfake Detection with Factual Structure of Text. Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin.](https://virtual.2020.emnlp.org/paper_main.1187.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.193.pdf) [**(code)**]()
@@ -1854,8 +1865,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Leveraging Declarative Knowledge in Text and First-Order Logic for Fine-Grained Propaganda Detection. Ruize Wang, Duyu Tang, Nan Duan, Wanjun Zhong, Zhongyu Wei, Xuanjing Huang, Daxin Jiang and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1267.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.320.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model. Jun Yen Leung, Guy Emerson and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1282.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.329.pdf) [**(code)**]()
-
-:heavy_minus_sign: [NwQM: A neural quality assessment framework for Wikipedia. Bhanu Prakash Reddy Guda, Sasi Bhushan Seelaboyina, Soumya Sarkar and Animesh Mukherjee.](https://virtual.2020.emnlp.org/paper_main.1322.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.674.pdf) [**(code)**]()
 
 :heavy_minus_sign: [If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
 
@@ -2093,8 +2102,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition. Yun He, Ziwei Zhu, Yin Zhang, Qin Chen and James Caverlee.](https://virtual.2020.emnlp.org/paper_main.2989.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.372.pdf) [**(code)**]()
 
-:heavy_minus_sign: [PyMT5: multi-mode translation of natural language and Python code with transformers. Colin Clement, Dawn Drain, Jonathan Timcheck, Alexey Svyatkovskiy and Neel Sundaresan.](https://virtual.2020.emnlp.org/paper_main.2990.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.728.pdf) [**(code)**]()
-
 :heavy_minus_sign: [SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. Tsu-Jui Fu, Xin Wang, Scott Grafton, Miguel Eckstein and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2991.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.357.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Plan ahead: Self-Supervised Text Planning for Paragraph Completion Task. Dongyeop Kang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3010.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.529.pdf) [**(code)**]()
@@ -2180,8 +2187,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Social Media Attributions in the Context of Water Crisis. Rupak Sarkar, Sayantan Mahinder, Hirak Sarkar and Ashiqur KhudaBukhsh.](https://virtual.2020.emnlp.org/paper_main.3424.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.109.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Selection and Generation: Learning towards Multi-Product Advertisement Post Generation. Zhangming Chan, Yuchi Zhang, Xiuying Chen, Shen Gao, Zhiqiang Zhang, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.3431.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf) [**(code)**]()
-
-:heavy_minus_sign: [A State-independent and Time-evolving Network for Early Rumor Detection in Social Media. Rui Xia, Kaizhou Xuan and Jianfei Yu.](https://virtual.2020.emnlp.org/paper_main.3438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.727.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Generating Diverse Translation from Model Distribution with Dropout. Xuanfu Wu, Yang Feng and Chenze Shao.](https://virtual.2020.emnlp.org/paper_main.3441.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.82.pdf) [**(code)**]()
 
@@ -2308,8 +2313,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Suicidal Risk Detection for Military Personnel. Sungjoon Park, Kiwoong Park, Jaimeen Ahn and Alice Oh.](https://virtual.2020.emnlp.org/paper_main.1904.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.198.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Towards Modeling Revision Requirements in wikiHow Instructions. Irshad Bhat, Talita Anthonio and Michael Roth.](https://virtual.2020.emnlp.org/paper_main.1906.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.675.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Beyond [CLS] through Ranking by Generation. Cicero Nogueira dos Santos, Xiaofei Ma, Ramesh Nallapati, zhiheng huang and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.1949.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.134.pdf) [**(code)**]()
 
