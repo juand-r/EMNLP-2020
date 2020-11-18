@@ -345,7 +345,11 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 ---
 ### [:top:](#topics) Pragmatics
 
+See also: [Pragmatic Issue-Sensitive Image Captioning. Allen Nie, Reuben Cohn-Gordon and Christopher Potts.](https://virtual.2020.emnlp.org/paper_WS-1.1597_F.html).
+
 :heavy_minus_sign: ["I'd rather just go to bed": Understanding Indirect Answers. Annie Louis, Dan Roth and Filip Radlinski.](https://virtual.2020.emnlp.org/paper_main.1972.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.601.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Help! Need Advice on Identifying Advice. Venkata Subrahmanyan Govindarajan, Benjamin Chen, Rebecca Warholic, Katrin Erk and Junyi Jessy Li.](https://virtual.2020.emnlp.org/paper_main.3068.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.427.pdf) [**(code)**]()
 
 ---
 ### [:top:](#topics) Discourse
@@ -2087,8 +2091,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 :heavy_minus_sign: [A Method for Building a Commonsense Inference Dataset based on Basic Events. Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi.](https://virtual.2020.emnlp.org/paper_main.3057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.192.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation. Ruibo Liu, Guangxuan Xu, Chenyan Jia, Weicheng Ma, Lili Wang and Soroush Vosoughi.](https://virtual.2020.emnlp.org/paper_main.3065.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.726.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Help! Need Advice on Identifying Advice. Venkata Subrahmanyan Govindarajan, Benjamin Chen, Rebecca Warholic, Katrin Erk and Junyi Jessy Li.](https://virtual.2020.emnlp.org/paper_main.3068.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.427.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions. Ritam Dutt, Rishabh Joshi and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.3072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.605.pdf) [**(code)**]()
 
