@@ -1552,7 +1552,9 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [(Findings+WS) Automatically Identifying Gender Issues in Machine Translation using Perturbations. Hila Gonen and Kellie Webster.](https://virtual.2020.emnlp.org/paper_WS-20.1663.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.180.pdf) [**(code)**]()
 
-**Mitigation for dialogue generation:**
+**Mitigation for text generation:**
+
+:boom:++ [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning**. Haochen Liu, Wentao Wang, Yiqi Wang, Hui Liu, Zitao Liu and Jiliang Tang.](https://virtual.2020.emnlp.org/paper_main.318.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13028.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.64.pdf) [**(code)**](https://github.com/zgahhblhc/Debiased-Chat)
 
@@ -1892,8 +1894,6 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 
 :heavy_minus_sign: [Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang and Sang-goo Lee.](https://virtual.2020.emnlp.org/paper_main.2070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf) [**(code)**]()
-
-:heavy_minus_sign: [PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction. Xinyao Ma, Maarten Sap, Hannah Rashkin and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring and Predicting Transferability across NLP Tasks. Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.2087.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.635.pdf) [**(code)**]()
 
