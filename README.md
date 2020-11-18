@@ -1604,6 +1604,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Chapter Captor: Text Segmentation in Novels. Charuta Pethe, Allen Kim and Steve Skiena.](https://virtual.2020.emnlp.org/paper_main.1129.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.672.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
+
 ---
 ### [:top:](#applications) Grammatical Error Correction
 
@@ -2118,8 +2120,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Disentangle-based Continual Graph Representation Learning. Xiaoyu Kou, Yankai Lin, Shaobo Liu, Peng Li, Jie Zhou and Yan Zhang.](https://virtual.2020.emnlp.org/paper_main.2873.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.237.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Knowledge Graph Alignment with Entity-Pair Embedding. Zhichun Wang, Jinjian Yang and Xiaoju Ye.](https://virtual.2020.emnlp.org/paper_main.2877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.130.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Measuring Information Propagation in Literary Social Networks. Matthew Sims and David Bamman.](https://virtual.2020.emnlp.org/paper_main.2894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.47.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Annotating Temporal Dependency Graphs via Crowdsourcing. Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue.](https://virtual.2020.emnlp.org/paper_main.2922.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.432.pdf) [**(code)**]()
 
