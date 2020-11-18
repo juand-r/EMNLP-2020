@@ -1946,7 +1946,7 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2164.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.68.pdf) [**(code)**]()
 
-:boom:++ [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.](https://virtual.2020.emnlp.org/paper_main.2179.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf) [**(code)**]()
+:boom:++ [COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. Najoung Kim and Tal Linzen.](https://virtual.2020.emnlp.org/paper_main.2179.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf) [**(code)**](https://github.com/najoungkim/COGS)
 
 :heavy_minus_sign: [H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network. Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang and Philip S. Yu.](https://virtual.2020.emnlp.org/paper_main.2181.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.401.pdf) [**(code)**]()
 
