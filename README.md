@@ -1511,6 +1511,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ###  [:top:](#nlu-papers) Topic Models
 
 :heavy_minus_sign: [(TACL) Topic Modeling in Embedding Spaces. Adji Bousso Dieng, Francisco Ruiz, David Blei.]()  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00325) [**(code)**](https://github.com/adjidieng/ETM)
+> See also: [Discovering Discrete Latent Topics with Neural Variational Inference (2016).](https://arxiv.org/abs/1706.00359)
 
 :boom:++ [**Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!. Suzanna Sia, Ayush Dalmia and Sabrina J. Mielke.**](https://virtual.2020.emnlp.org/paper_main.2792.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.135.pdf) [**(code)**](https://github.com/adalmia96/Cluster-Analysis)
 
@@ -1670,6 +1671,10 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 ### [:top:](#applications) Hate speech and offensive language
 
 :heavy_minus_sign: [Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.2614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.622.pdf) [**(code)**]()
+
+:heavy_minus_sign: [HABERTOR: An Efficient and Effective Deep Hatespeech Detector. Thanh Tran, Yifan Hu, Changwei Hu, Kevin Yen, Fei Tan, Kyumin Lee and Se Rim Park.](https://virtual.2020.emnlp.org/paper_main.3126.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.606.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets. Nedjma Ousidhoum, Yangqiu Song and Dit-Yan Yeung.](https://virtual.2020.emnlp.org/paper_main.2057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.199.pdf) [**(code)**]()
 
 
 ---
@@ -1932,8 +1937,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: [PRover: Proof Generation for Interpretable Reasoning over Rules. Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2054.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.9.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Comparative Evaluation of Label-Agnostic Selection Bias in Multilingual Hate Speech Datasets. Nedjma Ousidhoum, Yangqiu Song and Dit-Yan Yeung.](https://virtual.2020.emnlp.org/paper_main.2057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.199.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Improving Out-of-Scope Detection in Intent Classification by Using Embeddings of the Word Graph Space of the Classes. Paulo Cavalin, Victor Henrique Alves Ribeiro, Ana Appel and Claudio Pinhanez.](https://virtual.2020.emnlp.org/paper_main.2066.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.324.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Variational Hierarchical Dialog Autoencoder for Dialog State Tracking Data Augmentation. Kang Min Yoo, Hanbit Lee, Franck Dernoncourt, Trung Bui, Walter Chang and Sang-goo Lee.](https://virtual.2020.emnlp.org/paper_main.2070.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.274.pdf) [**(code)**]()
@@ -2123,8 +2126,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [HENIN: Learning Heterogeneous Neural Interaction Networks for Explainable Cyberbullying Detection on Social Media. Hsin-Yu Chen and Cheng-Te Li.](https://virtual.2020.emnlp.org/paper_main.3101.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.200.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Word Frequency Does Not Predict Grammatical Knowledge in Language Models. Charles Yu, Ryan Sie, Nicolas Tedeschi and Leon Bergen.](https://virtual.2020.emnlp.org/paper_main.3115.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.331.pdf) [**(code)**]()
-
-:heavy_minus_sign: [HABERTOR: An Efficient and Effective Deep Hatespeech Detector. Thanh Tran, Yifan Hu, Changwei Hu, Kevin Yen, Fei Tan, Kyumin Lee and Se Rim Park.](https://virtual.2020.emnlp.org/paper_main.3126.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.606.pdf) [**(code)**]()
 
 :heavy_minus_sign: [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding. Yu-An Wang and Yun-Nung Chen.](https://virtual.2020.emnlp.org/paper_main.3143.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.555.pdf) [**(code)**]()
 
