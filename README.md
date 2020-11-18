@@ -90,7 +90,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Hate speech and offensive language](#top-hate-speech-and-offensive-language)
   - [Other applications](#top-other-applications)
 - [Other](#top-other)
-
+- [More Findings of EMNLP papers](#top-more-findings-of-emnlp-papers)
 
 
 ## [General Remarks](#selections-from-emnlp-2020)
@@ -1597,9 +1597,25 @@ See also three workshops at this conference:
 - [LOUHI 2020 - 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/)
 - [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/)
 
+:heavy_minus_sign: [(Findings+WS) Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization. Jiho Noh and Ramakanth Kavuluru.](https://virtual.2020.emnlp.org/paper_WS-7.2502.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.304.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Characterizing the Value of Information in Medical Notes. Chao-Chun Hsu, Shantanu Karnwal, Sendhil Mullainathan, Ziad Obermeyer and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_WS-12.1713.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.187.pdf) [**(code)**]()
+
+:heavy_minus_sign: [BioMegatron: Larger Biomedical Domain Language Model. Hoo-Chang Shin, Yang Zhang, Evelina Bakhturina, Raul Puri, Mostofa Patwary, Mohammad Shoeybi and Raghav Mani.](https://virtual.2020.emnlp.org/paper_main.1594.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.379.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition. Yun He, Ziwei Zhu, Yin Zhang, Qin Chen and James Caverlee.](https://virtual.2020.emnlp.org/paper_main.2989.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.372.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) MedICaT: A Dataset of Medical Images, Captions, and Textual References. Sanjay Subramanian et al.](https://virtual.2020.emnlp.org/paper_WS-7.1728.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.191.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text. Dongfang Li, Baotian Hu, Qingcai Chen, Weihua Peng and Anqi Wang.](https://virtual.2020.emnlp.org/paper_main.110.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.111.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Generating Accurate Electronic Health Assessment from Medical Graph. Zhichao Yang and hong yu.](https://virtual.2020.emnlp.org/paper_WS-12.2804.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.336.pdf) [**(code)**]()
+
+**Radiology reports:**
+
 :heavy_minus_sign: [Combining Automatic Labelers and Expert Annotations for Accurate Radiology Report Labeling Using BERT. Akshay Smit et al.](https://virtual.2020.emnlp.org/paper_main.55.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09167.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.117.pdf) [**(code)**](https://github.com/stanfordmlgroup/CheXbert)
 
-:heavy_minus_sign: [(Findings+WS) Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization. Jiho Noh and Ramakanth Kavuluru.](https://virtual.2020.emnlp.org/paper_WS-7.2502.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.304.pdf) [**(code)**]()
+
 
 ---
 ### [:top:](#applications) Mental Health
@@ -1748,13 +1764,15 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 ###  [:top:](#applications) Other
 
 
+
+
 ---
 ---
 ---
 
 # Papers, sort
 
-:heavy_minus_sign: [(Findings+WS) MedICaT: A Dataset of Medical Images, Captions, and Textual References. Sanjay Subramanian et al.](https://virtual.2020.emnlp.org/paper_WS-7.1728.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.191.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
 
@@ -1763,8 +1781,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.](https://virtual.2020.emnlp.org/paper_main.87.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.262.pdf) [**(code)**](https://github.com/nicola-decao/diffmask)
 
 :heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.96.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.49.pdf) [**(code)**](https://github.com/xinyadu/eeqa)
-
-:heavy_minus_sign: [Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text. Dongfang Li, Baotian Hu, Qingcai Chen, Weihua Peng and Anqi Wang.](https://virtual.2020.emnlp.org/paper_main.110.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.111.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
 
@@ -2136,8 +2152,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [IIRC: A Dataset of Incomplete Information Reading Comprehension Questions. James Ferguson, Matt Gardner, Hannaneh Hajishirzi, Tushar Khot and Pradeep Dasigi.](https://virtual.2020.emnlp.org/paper_main.2973.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.86.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition. Yun He, Ziwei Zhu, Yin Zhang, Qin Chen and James Caverlee.](https://virtual.2020.emnlp.org/paper_main.2989.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.372.pdf) [**(code)**]()
-
 :heavy_minus_sign: [SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. Tsu-Jui Fu, Xin Wang, Scott Grafton, Miguel Eckstein and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2991.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.357.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Plan ahead: Self-Supervised Text Planning for Paragraph Completion Task. Dongyeop Kang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.3010.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.529.pdf) [**(code)**]()
@@ -2329,8 +2343,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing. Hayley Ross, Jonathon Cai and Bonan Min.](https://virtual.2020.emnlp.org/paper_main.1569.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.689.pdf) [**(code)**]()
 
-:heavy_minus_sign: [BioMegatron: Larger Biomedical Domain Language Model. Hoo-Chang Shin, Yang Zhang, Evelina Bakhturina, Raul Puri, Mostofa Patwary, Mohammad Shoeybi and Raghav Mani.](https://virtual.2020.emnlp.org/paper_main.1594.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.379.pdf) [**(code)**]()
-
 :boom:++ [Generating Label Cohesive and Well-Formed Adversarial Claims. Pepa Atanasova, Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.1614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.256.pdf) [**(code)**]()
 
 :heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
@@ -2413,7 +2425,10 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. Di Wu, Liang Ding, Fan Lu and Jian Xie.](https://virtual.2020.emnlp.org/paper_main.3621.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.152.pdf) [**(code)**]()
 
 
-# Findings of ACL: EMNLP 2020
+###  [:top:](#applications) More Findings of EMNLP papers
+
+
+
 
 :heavy_minus_sign: (Findings) Improving Text Understanding via Deep Syntax-Semantics Communication. Hao Fei, Yafeng Ren and Donghong Ji.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.8.pdf) [**(code)**]()
 
@@ -2494,8 +2509,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [(Findings+WS) Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing. Ke Wang, Jiayi Wang, Niyu Ge, Yangbin Shi, Yu Zhao and Kai Fan.](https://virtual.2020.emnlp.org/paper_WS-21.1774.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.197.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) Characterizing the Value of Information in Medical Notes. Chao-Chun Hsu, Shantanu Karnwal, Sendhil Mullainathan, Ziad Obermeyer and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_WS-12.1713.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.187.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-10.1595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) **Out-of-Sample Representation Learning for Knowledge Graphs**. Marjan Albooyeh, Rishab Goel and Seyed Mehran Kazemi.](https://virtual.2020.emnlp.org/paper_WS-13.2047.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.241.pdf) [**(code)**]()
@@ -2515,8 +2528,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [(Findings+WS) Cross-Lingual Text Classification with Minimal Resources by Transferring a Sparse Teacher. Giannis Karamanolakis, Daniel Hsu and Luis Gravano.](https://virtual.2020.emnlp.org/paper_WS-13.2666.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.323.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension. Adyasha Maharana and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_WS-13.2797.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.333.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Generating Accurate Electronic Health Assessment from Medical Graph. Zhichao Yang and hong yu.](https://virtual.2020.emnlp.org/paper_WS-12.2804.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.336.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels. Harris Chan, Jamie Kiros and William Chan.](https://virtual.2020.emnlp.org/paper_WS-20.3148.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.376.pdf) [**(code)**]()
 
