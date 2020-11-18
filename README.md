@@ -498,6 +498,8 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 ---
 #### [:top:](#topics) Adversarial attacks
 
+See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. Denis Emelin, Ivan Titov and Rico Sennrich.](https://virtual.2020.emnlp.org/paper_main.2114.html) 
+
 :heavy_minus_sign: (Findings) Reevaluating Adversarial Examples in Natural Language. John Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji and Yanjun Qi.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.341.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **Gradient-based Analysis of NLP Models is Manipulable**. Junlin Wang, Jens Tuyls, Eric Wallace and Sameer Singh.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.24.pdf) [**(code)**]()
@@ -517,17 +519,23 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 ---
 #### [:top:](#topics) Adversarial training
 
-:heavy_minus_sign: [Effective **Unsupervised Domain Adaptation** with Adversarially Trained Language Models. Thuy-Trang Vu, Dinh Phung and Gholamreza Haffari.](https://virtual.2020.emnlp.org/paper_main.3434.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.497.pdf) [**(code)**]()
+**NOTE:** there are other papers related to this scattered in other sections (GEC, gender biases, etc.). For an interesting application, see "Differentiating Denotation and Connotation in Vector Spaces".
 
-:heavy_minus_sign: [(Findings+WS) Domain Adversarial Fine-Tuning as an Effective Regularizer. Giorgos Vernikos, Katerina Margatina, Alexandra Chronopoulou and Ion Androutsopoulos.](https://virtual.2020.emnlp.org/paper_WS-15.2288.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.278.pdf) [**(code)**]()
+:heavy_minus_sign: [Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots. Yuanmeng Yan, Keqing He, Hong Xu, Sihong Liu, Fanyu Meng, Min Hu and Weiran XU.](https://virtual.2020.emnlp.org/paper_main.744.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.490.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Adversarial Self-Supervised Data-Free Distillation for Text Classification. Xinyin Ma, Yongliang Shen, Gongfan Fang, Chen Chen, Chenghao Jia and Weiming Lu.](https://virtual.2020.emnlp.org/paper_main.426.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.499.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Neural **Topic Modeling** with Cycle-Consistent Adversarial Training. Xuemeng Hu, Rui Wang, Deyu Zhou and Yuxuan Xiong.](https://virtual.2020.emnlp.org/paper_main.2756.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.725.pdf)
 
-:heavy_minus_sign: [CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation. Tianlu Wang et al.](https://virtual.2020.emnlp.org/paper_main.2313.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.417.pdf) [**(code)**]()
+**Domain Adaptation:**
 
-:heavy_minus_sign: [Adversarial Semantic Decoupling for Recognizing Open-Vocabulary Slots. Yuanmeng Yan, Keqing He, Hong Xu, Sihong Liu, Fanyu Meng, Min Hu and Weiran XU.](https://virtual.2020.emnlp.org/paper_main.744.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.490.pdf) [**(code)**]()
+:heavy_minus_sign: [Effective **Unsupervised Domain Adaptation** with Adversarially Trained Language Models. Thuy-Trang Vu, Dinh Phung and Gholamreza Haffari.](https://virtual.2020.emnlp.org/paper_main.3434.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.497.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Domain Adversarial Fine-Tuning as an Effective Regularizer. Giorgos Vernikos, Katerina Margatina, Alexandra Chronopoulou and Ion Androutsopoulos.](https://virtual.2020.emnlp.org/paper_WS-15.2288.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.278.pdf) [**(code)**]()
+
+**Improving robustness:**
+
+:heavy_minus_sign: [CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation. Tianlu Wang et al.](https://virtual.2020.emnlp.org/paper_main.2313.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.417.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Enhance Robustness of Sequence Labelling with Masked Adversarial Training. Luoxin Chen, Xinyue Liu, Weitong Ruan and Jianhua Lu.](https://virtual.2020.emnlp.org/paper_WS-15.381.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.28.pdf) [**(code)**]()
 
