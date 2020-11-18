@@ -1690,6 +1690,8 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 
 :heavy_minus_sign: (Findings) **Inferring about fraudulent collusion risk on Brazilian public works contracts in official texts using a Bi-LSTM approach.** Marcos Lima et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.143.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.](https://virtual.2020.emnlp.org/paper_main.3049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.677.pdf) [**(code)**]()
+
 ---
 ---
 ###  [:top:](#applications) Other
@@ -2112,8 +2114,6 @@ See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https:
 :heavy_minus_sign: [Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning. Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.3035.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.712.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios.** Ramy Eskander, Smaranda Muresan and Michael Collins.](https://virtual.2020.emnlp.org/paper_main.3046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.391.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.](https://virtual.2020.emnlp.org/paper_main.3049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.677.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Method for Building a Commonsense Inference Dataset based on Basic Events. Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi.](https://virtual.2020.emnlp.org/paper_main.3057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.192.pdf) [**(code)**]()
 
