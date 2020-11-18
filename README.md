@@ -438,8 +438,6 @@ See also:  [(Findings+WS) **Identifying Spurious Correlations for Robust Text Cl
 
 :heavy_minus_sign: [**"You are grounded!": Latent Name Artifacts in Pre-trained Language Models. Vered Shwartz, Rachel Rudinger and Oyvind Tafjord.**](https://virtual.2020.emnlp.org/paper_main.32.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.556.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Towards Controllable Biases in Language Generation. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf) [**(code)**]() (to analyze and mitigate social biases).
-
 :heavy_minus_sign: [Debiasing knowledge graph embeddings. Joseph Fisher, Arpit Mittal, Dave Palfrey and Christos Christodoulopoulos.](https://virtual.2020.emnlp.org/paper_main.1399.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.595.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. Robert Munro and Alex (Carmen) Morrison.](https://virtual.2020.emnlp.org/paper_main.457.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.157.pdf) [**(code)**]()
@@ -447,6 +445,8 @@ See also:  [(Findings+WS) **Identifying Spurious Correlations for Robust Text Cl
 :heavy_minus_sign: [LOGAN: Local Group Bias Detection by Clustering. Jieyu Zhao and Kai-Wei Chang.](https://virtual.2020.emnlp.org/paper_main.2886.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.155.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Reducing Sentiment Bias in Language Models via Counterfactual Evaluation. Po-Sen Huang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.7.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Towards Controllable Biases in Language Generation. Emily Sheng, Kai-Wei Chang, Prem Natarajan and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.291.pdf) [**(code)**]() (to analyze and mitigate social biases).
 
 :heavy_minus_sign: (Findings) UNQOVERing Stereotyping Biases via Underspecified Questions. Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Vivek Srikumar.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.311.pdf) [**(code)**]()
 
