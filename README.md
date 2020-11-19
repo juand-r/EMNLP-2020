@@ -78,6 +78,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 #### [Applications](#applications-1)
   - [Cybersecurity](#top-cybersecurity)
   - [Language and Code](#top-language-and-code)
+  - [Pandemics and other crises](#top-language-and-code)
   - [Clinical and Biomedical](#top-clinical-and-biomedical)
   - [Mental Health](#top-mental-health)
   - [Scientific Text Mining](#top-scientific-text-mining)
@@ -1676,6 +1677,21 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 :heavy_minus_sign: [PyMT5: multi-mode translation of natural language and Python code with transformers. Colin Clement, Dawn Drain, Jonathan Timcheck, Alexey Svyatkovskiy and Neel Sundaresan.](https://virtual.2020.emnlp.org/paper_main.2990.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.728.pdf) [**(code)**]()
 
+---
+### [:top:](#applications) Pandemics and other crises
+
+See also [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/).
+
+:heavy_minus_sign: [(Findings+WS) A Corpus for Outbreak Detection of Diseases Prevalent in Latin America. Antonella Dellanzo, Viviana Cotik, Jose Ochoa-Luna](https://virtual.2020.emnlp.org/paper_WS-1.195.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.conll-1.44.pdf)
+
+
+**COVID-19:**
+
+
+
+**Other:**
+
+:heavy_minus_sign: (Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.366.pdf) [**(code)**]()
 
 ---
 ### [:top:](#applications) Clinical and Biomedical
@@ -1683,9 +1699,8 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 See also three workshops at this conference:
 - [3rd Clinical Natural Language Processing Workshop (Clinical NLP 2020)](https://clinical-nlp.github.io/2020/)
 - [LOUHI 2020 - 11th International Workshop on Health Text Mining and Information Analysis](https://louhi2020.fbk.eu/)
-- [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/)
 
-:heavy_minus_sign: [(Findings+WS) Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization. Jiho Noh and Ramakanth Kavuluru.](https://virtual.2020.emnlp.org/paper_WS-7.2502.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.304.pdf) [**(code)**]()
+:heavy_minus_sign: [(Findings+WS) **Literature Retrieval** for Precision Medicine with Neural Matching and Faceted Summarization. Jiho Noh and Ramakanth Kavuluru.](https://virtual.2020.emnlp.org/paper_WS-7.2502.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.304.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Characterizing the Value of Information in Medical Notes. Chao-Chun Hsu, Shantanu Karnwal, Sendhil Mullainathan, Ziad Obermeyer and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_WS-12.1713.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.187.pdf) [**(code)**]()
 
@@ -1844,6 +1859,8 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [**Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding**. Jiaming Shen, Heng Ji and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.328.html)  [**(preprint)**](https://arxiv.org/pdf/2010.00677.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.22.pdf) [**(code)**](https://github.com/mickeystroller/StegaText)
 
 :boom:++ [Solving Historical Dictionary Codes with a Neural Language Model. Christopher Chu, Raphael Valenti and Kevin Knight.](https://virtual.2020.emnlp.org/paper_main.2216.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.471.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness. Lingjuan Lyu, Xuanli He and Yitong Li.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.213.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection. Shaolei Wang, Zhongyuan Wang, Wanxiang Che and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.3540.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.142.pdf) [**(code)**]()
 
@@ -2714,8 +2731,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: (Findings) Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention. Daeun Lee, Soyoung Park, Jiwon Kang, Daejin Choi and Jinyoung Han.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.200.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness. Lingjuan Lyu, Xuanli He and Yitong Li.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.213.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network. Yue Cao and Xiaojun Wan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.218.pdf) [**(code)**]()
@@ -2871,8 +2886,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: (Findings) MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning. Lu Zhang, Mo Yu, Tian Gao and yue yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.351.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Weakly- and Semi-supervised Evidence Extraction. Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.353.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.366.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) How Can Self-Attention Networks Recognize Dyck-n Languages?. Javid Ebrahimi, Dhruv Gelda and Wei Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.384.pdf) [**(code)**]()
 
