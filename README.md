@@ -103,7 +103,24 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 - :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
-> Validation metrics are not enough! What else might you want: find errors, bugs, undesirable behavior in models and errors and bugs in data (isn't this just good science and engineering?) 
+> **Why interpretability?** Validation metrics are not enough! What else might you want: find errors, bugs, undesirable behavior in models and errors and bugs in data (isn't this just good science and engineering?) Do inherently interpretable models generalize better?  (see Gahdanu et al., 2018, Bogin et al., 2020, on CLEVR dataset]. Also: uncover patterns that models find, for scientific discovery (e.g., happened for alpha Go... has not happened so much for language yet).
+> **Interpretability methods:**
+> 1. Probing internal representations
+> 2. Testing model behavior using challenge sets, diagnostic sets, etc. Does a model capture some phenomena (lexical semantics, syntax, predicate-argument structure, logic, knowledge, etc.)
+> 3. Baking interpretability into the model. For example: generation explanations as well as making predictions (but this is **not** inherently interpretable).
+> 4. Looking at input features (e.g., saliency maps).
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+
 
 - :memo: [**Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era**
 (Preslav Nakov, Giovanni Da San Martino)](https://virtual.2020.emnlp.org/tutorial_T2.html)  [**(website)**](https://propaganda.qcri.org/emnlp20-tutorial) [**(video)**](https://slideslive.com/38940825/t2-factchecking-fake-news-propaganda-and-media-bias-truth-seeking-in-the-posttruth-era)
