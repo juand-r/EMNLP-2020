@@ -110,9 +110,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 > 1. Probing internal representations
 > 2. Testing model behavior using challenge sets, diagnostic sets, etc. Does a model capture some phenomena (lexical semantics, syntax, predicate-argument structure, logic, knowledge, etc.)
 > 3. Baking interpretability into the model. For example: generation explanations as well as making predictions (but this is **not** inherently interpretable).
-> **4.** Looking at input features (e.g., rationales, saliency maps).
-> **5.** Looking for global decision rules (e.g., Ribeiro et al., High-Precision Model-Agnostic Explanations, 2018 or Wallace et al., Universal Adversarial Triggers for Attacking and Analyzing NLP, 2019). 
-> **6.** Looking at training examples (e.g., influence functions). 
+> 4. **Looking at input features** (e.g., rationales, saliency maps).
+> 5. **Looking for global decision rules** (e.g., Ribeiro et al., High-Precision Model-Agnostic Explanations, 2018 or Wallace et al., Universal Adversarial Triggers for Attacking and Analyzing NLP, 2019). 
+> 6. **Looking at training examples** (e.g., influence functions). 
 > 
 > The ACL 2020 tutorial on interpretability covers 1. and 2. "Baking interpretability into the model -- does not have comprehensive resources". This tutorial: 4., 5., 6.
 > 
@@ -120,8 +120,10 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 >
 > **II. What Parts of an input led to a prediction?**
 > 
-> 
-> 
+> **Saliency maps** (gradient and perturbation based methods)
+> Goal: compute relative importance of each token in the input -- if you change or remove the token, how much is the prediction affected?
+
+> Perturbations as explanations (input reduction and adversarial perturbations.
 > 
 > 
 
