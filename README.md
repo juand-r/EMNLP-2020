@@ -193,6 +193,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 - [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/)
 - [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
 - [Second Workshop for NLP Open Source Software (NLP-OSS)](https://nlposs.github.io/)
+- [PrivateNLP 2020: The First Workshop on Privacy in NLP](https://sites.google.com/view/privatenlp/)
 
 ---
 ---
@@ -1737,12 +1738,18 @@ See also three workshops at this conference:
 ---
 ### [:top:](#applications) Mental Health
 
-:heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Do Models of Mental Health Based on Social Media Data Generalize?. Keith Harrigian, Carlos Aguirre and Mark Dredze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.337.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support. Ashish Sharma, Adam Miner, David Atkins and Tim Althoff.](https://virtual.2020.emnlp.org/paper_main.2707.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.425.pdf) [**(code)**]()
 
+**Suicide risk detection:**
+
+:heavy_minus_sign: [Suicidal Risk Detection for Military Personnel. Sungjoon Park, Kiwoong Park, Jaimeen Ahn and Alice Oh.](https://virtual.2020.emnlp.org/paper_main.1904.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.198.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention. Daeun Lee, Soyoung Park, Jiwon Kang, Daejin Choi and Jinyoung Han.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.200.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
 
 ---
 ### [:top:](#applications) Scientific Text Mining
@@ -1844,6 +1851,8 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 ---
 ### [:top:](#applications) Hate speech and offensive language
+
+See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https://www.workshopononlineabuse.com/home) (list of papers here: https://www.aclweb.org/anthology/volumes/2020.alw-1/).
 
 :heavy_minus_sign: [Fortifying Toxic Speech Detectors Against Veiled Toxicity. Xiaochuang Han and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.2614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.622.pdf) [**(code)**]()
 
@@ -2442,8 +2451,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Suicidal Risk Detection for Military Personnel. Sungjoon Park, Kiwoong Park, Jaimeen Ahn and Alice Oh.](https://virtual.2020.emnlp.org/paper_main.1904.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.198.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Beyond [CLS] through Ranking by Generation. Cicero Nogueira dos Santos, Xiaofei Ma, Ramesh Nallapati, zhiheng huang and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.1949.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.134.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Translation Quality Estimation by Jointly Learning to Score and Rank. Jingyi Zhang and Josef van Genabith.](https://virtual.2020.emnlp.org/paper_main.2061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.205.pdf) [**(code)**]()
@@ -2520,9 +2527,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 ###  [:top:](#applications) More Findings of EMNLP papers
 
-
-
-
 :heavy_minus_sign: (Findings) Improving Text Understanding via Deep Syntax-Semantics Communication. Hao Fei, Yafeng Ren and Donghong Ji.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.8.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) An Attentive Recurrent Model for Incremental Prediction of Sentence-final Verbs. Wenyan Li, Alvin Grissom II and Jordan Boyd-Graber.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.12.pdf) [**(code)**]()
@@ -2536,7 +2540,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [(Findings+WS) **A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification**. Federico López and Michael Strube.](https://virtual.2020.emnlp.org/paper_WS-21.490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.42.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Dynamic Data Selection for Curriculum Learning via Ability Estimation. John P. Lalor and hong yu.](https://virtual.2020.emnlp.org/paper_WS-1.510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.48.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: [(Findings+WS) LiMiT: The Literal Motion in Text Dataset. Irene Manotas, Ngoc Phuoc An Vo and Vadim Sheinin.](https://virtual.2020.emnlp.org/paper_WS-10.857.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.88.pdf) [**(code)**]()
 
@@ -2599,8 +2602,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: [(Findings+WS) **Out-of-Sample Representation Learning for Knowledge Graphs**. Marjan Albooyeh, Rishab Goel and Seyed Mehran Kazemi.](https://virtual.2020.emnlp.org/paper_WS-13.2047.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.241.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Visual Objects As Context: Exploiting Visual Objects for Lexical Entailment. Masayasu Muraoka, Tetsuya Nasukawa and Bishwaranjan Bhattacharjee.](https://virtual.2020.emnlp.org/paper_WS-13.2085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.246.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [(Findings+WS) **BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**. Nora Kassner and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_WS-13.2513.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf) [**(code)**]()
 
@@ -2728,8 +2729,6 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 :heavy_minus_sign: (Findings) Extracting Chemical-Protein Interactions via Calibrated Deep Neural Network and Self-training. Dongha Choi and Hyunju Lee.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.189.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) The Role of Reentrancies in Abstract Meaning Representation Parsing. Marco Damonte, Ida Szubert, Shay B. Cohen and Mark Steedman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.199.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention. Daeun Lee, Soyoung Park, Jiwon Kang, Daejin Choi and Jinyoung Han.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.200.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
 
