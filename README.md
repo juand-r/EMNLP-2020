@@ -101,7 +101,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 ## [Tutorials](#selections-from-emnlp-2020)
 
-- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
+- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
 > **I. Overview**
 > 
@@ -164,7 +164,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 >
 >
 
-- :memo: [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)] [**(video)**](https://slideslive.com/38940826/t3-high-performance-natural-language-processing)
+- :memo: [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)](https://virtual.2020.emnlp.org/tutorial_T3.html) [**(video)**](https://slideslive.com/38940826/t3-high-performance-natural-language-processing)
 >
 > x
 
