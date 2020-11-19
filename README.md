@@ -106,6 +106,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 > **I. Overview**
 > 
 > **Why interpretability?** Validation metrics are not enough! What else might you want: find errors, bugs, undesirable behavior in models and errors and bugs in data (isn't this just good science and engineering?) Do inherently interpretable models generalize better?  (see Gahdanu et al., 2018, Bogin et al., 2020, on CLEVR dataset]. Also: uncover patterns that models find, for scientific discovery (e.g., happened for alpha Go... has not happened so much for language yet).
+>
 > **Interpretability methods:**
 > 1. Probing internal representations
 > 2. Testing model behavior using challenge sets, diagnostic sets, etc. Does a model capture some phenomena (lexical semantics, syntax, predicate-argument structure, logic, knowledge, etc.)
@@ -122,8 +123,8 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 > 
 > **II.1. Saliency maps** (gradient and perturbation based methods)
 > Goal: compute relative importance of each token in the input -- if you change or remove the token, how much is the prediction affected?
-> **II.1.1 Saliency maps via input gradients**. Straightforward. For NLP, this is the "derivative of output of model wrt an input probability". But many options: what to use as output? (**loss**, top prediction probability.. and what do you do with multiple outputs, in say generation or tagging problems). How to turn gradient into a scalar score? (Lp norm? **Dot product with embedding itself?**) People have mostly agreed on \grad_e(t) L_y \dot e(t). (see Han et al., 2020 "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions" https://arxiv.org/abs/2005.06676 ). What is the intuition behind the dot product of the embedding? Takes sign and magnitude of embedding into account.
 >
+> **II.1.1 Saliency maps via input gradients**. Straightforward. For NLP, this is the "derivative of output of model wrt an input probability". But many options: what to use as output? (**loss**, top prediction probability.. and what do you do with multiple outputs, in say generation or tagging problems). How to turn gradient into a scalar score? (Lp norm? **Dot product with embedding itself?**) People have mostly agreed on \grad_e(t) L_y \dot e(t). (see Han et al., 2020 "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions" https://arxiv.org/abs/2005.06676 ). What is the intuition behind the dot product of the embedding? Takes sign and magnitude of embedding into account.
 >
 > Some problems: too local, and thus sensitive to slight perturbations; saturated outputs lead to unintuitive gradients; discontinuous gradients are problematic. These are not NLP-specific problems. How to fix? Don't rely on single gradient calculation: **SmoothGrad**, **Integrated Gradients** (other approaches not covered: LRP, DeepLIFT, GradCAM... lots of work in computer vision).
 >
@@ -132,6 +133,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 > Problems with gradient-based saliency methods: need gradient access of the model, not "customizable", difficult to apply to non-classification tasks.
 >
 > **II.1.2.  Saliency maps via input perturbations**
+>
 > Same goal as gradient-based methods, but these are black box (model-agnostic). They are more flexible/customizable (can define what perturbations/neighborhoods we care about, different units of explanation (words, phrases, sentences), etc.), can we enforce constraints like grammaticality?
 >
 > A simple approach: **leave-one-out**: remove tokens, and look at drop in prediction confidence (Li et al., Understanding Neural Networks through Representation Erasure 2017 https://arxiv.org/abs/1612.08220). Problem: "The movie is **mediocre**, maybe even **bad**". Removing both words at once has a bigger effect than removing each word individually.
