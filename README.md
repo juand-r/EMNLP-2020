@@ -165,7 +165,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 >
 >
 
-- :memo: [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)](https://virtual.2020.emnlp.org/tutorial_T3.html) [**(video)**](https://slideslive.com/38940826/t3-high-performance-natural-language-processing)
+- :memo: [High Performance Natural Language Processing (Gabriel Ilharco, Cesar Ilharco, Iulia Turc, Tim Dettmers, Felipe Ferreira, Kenton Lee)](https://virtual.2020.emnlp.org/tutorial_T3.html) [**(video)**](https://slideslive.com/38940826/t3-high-performance-natural-language-processing) [**(slides)**](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
 >
 > x
 
