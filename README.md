@@ -140,7 +140,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 >
 > Another approach: LIME. Look at model's predictions for nearby inputs; closer points are more important than further points. Fit a linear classifier, and use its weights as feature importances. Problems with LIME and leave-one-out: how to define "distance" between sentences? Hard for users to understand different explanations with different perturbations. Generating interpretations is expensive (many calls to the underlying model).
 >
-> Bigger problem with saliency maps: linear representations can be quite limited.
+> Bigger problem with saliency maps: linear representations can be quite limited. "Saliency maps are often not very actionable (in terms of finding artifacts)".
 >
 > **II. 2. Perturbations as explanations** (input reduction and adversarial perturbations).
 > 
