@@ -101,9 +101,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 ## [Tutorials](#selections-from-emnlp-2020)
 
-- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video]
+- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
-> x
+> Validation metrics are not enough! What else might you want: find errors, bugs, undesirable behavior in models and errors and bugs in data (isn't this just good science and engineering?) 
 
 - :memo: [**Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era**
 (Preslav Nakov, Giovanni Da San Martino)](https://virtual.2020.emnlp.org/tutorial_T2.html)  [**(website)**](https://propaganda.qcri.org/emnlp20-tutorial) [**(video)**](https://slideslive.com/38940825/t2-factchecking-fake-news-propaganda-and-media-bias-truth-seeking-in-the-posttruth-era)
