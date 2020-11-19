@@ -103,18 +103,22 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 - :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**] (https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
+> **I. Overview**
+> 
 > **Why interpretability?** Validation metrics are not enough! What else might you want: find errors, bugs, undesirable behavior in models and errors and bugs in data (isn't this just good science and engineering?) Do inherently interpretable models generalize better?  (see Gahdanu et al., 2018, Bogin et al., 2020, on CLEVR dataset]. Also: uncover patterns that models find, for scientific discovery (e.g., happened for alpha Go... has not happened so much for language yet).
 > **Interpretability methods:**
 > 1. Probing internal representations
 > 2. Testing model behavior using challenge sets, diagnostic sets, etc. Does a model capture some phenomena (lexical semantics, syntax, predicate-argument structure, logic, knowledge, etc.)
 > 3. Baking interpretability into the model. For example: generation explanations as well as making predictions (but this is **not** inherently interpretable).
-> 4. Looking at input features (e.g., saliency maps).
+> **4.** Looking at input features (e.g., rationales, saliency maps).
+> **5.** Looking for global decision rules (e.g., Ribeiro et al., High-Precision Model-Agnostic Explanations, 2018 or Wallace et al., Universal Adversarial Triggers for Attacking and Analyzing NLP, 2019). 
+> **6.** Looking at training examples (e.g., influence functions). 
 > 
+> The ACL 2020 tutorial on interpretability covers 1. and 2. "Baking interpretability into the model -- does not have comprehensive resources". This tutorial: 4., 5., 6.
 > 
-> 
-> 
-> 
-> 
+> Desirable properties: model-agnostic, fast and easy to compute, and faithful to underlying model (lots of caveats here!) 
+>
+> **II. What Parts of an input led to a prediction?**
 > 
 > 
 > 
