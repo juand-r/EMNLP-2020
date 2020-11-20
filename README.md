@@ -63,6 +63,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Style Transfer](#top-style-transfer)
 #### [NLU papers](#nlu-papers-1)
   - [Text Classification](#top-text-classification)
+  - [Information Retrieval](#top-information-retrieval)
   - [Entity Recognition, Linking and Representation](#top-entity-recognition-linking-and-representation)
     - [NER](#top-NER)
     - [Entity Linking](#top-entity-linking)
@@ -250,8 +251,6 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 **Multi/cross-lingual:**
 
 :heavy_minus_sign: [**XGLUE: A New Benchmark Datasetfor Cross-lingual Pre-training, Understanding and Generation. Yaobo Liang et al.**](https://virtual.2020.emnlp.org/paper_main.871.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.484.pdf) [**(code)**]()
-
-:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for Cross-Lingual **Information Retrieval**. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
 
 **In languages other than English:**
 
@@ -717,10 +716,14 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 ---
 ###  [:top:](#topics) Language Models and Transformers
 
+:boom:++ [KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations. Fabio Massimo Zanzotto et al.](https://virtual.2020.emnlp.org/paper_main.1210.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.18.pdf) [**(code)**]()
+
 :boom:++ [Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually). Alex Warstadt, Yian Zhang, Xiaocheng Li, Haokun Liu and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2893.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.16.pdf) [**(code)**](https://github.com/nyu-mll/msgs)
 >
 >
 > **See also:** [When Do You Need Billions of Words of Pretraining Data?](https://arxiv.org/abs/2011.04946), [Information-theoretic Probing Explains Reliance on Spurious Features](https://openreview.net/forum?id=mNtmhaDkAr).
+
+:boom:++ [**Which BERT? A Survey Organizing Contextualized Encoders**. Patrick Xia, Shijie Wu and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.2579.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.608.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Meta Fine-Tuning Neural Language Models for Multi-Domain Text Mining. Chengyu Wang, Minghui Qiu, jun huang and XIAOFENG HE.](https://virtual.2020.emnlp.org/paper_main.16.html)  [**(preprint)**](https://arxiv.org/pdf/2003.13003.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.250.pdf) [**(code)**]()
 
@@ -730,48 +733,80 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 
 :heavy_minus_sign: (Findings) **Byte Pair Encoding is Suboptimal for Language Model Pretraining. Kaj Bostrom and Greg Durrett.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) [**(code)**]()
 
+:heavy_minus_sign: [**Masking as an Efficient Alternative to Finetuning for Pretrained Language Models.** Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1220.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Empirical Investigation Towards Efficient **Multi-Domain** Language Model Pre-training. Kristjan Arumae, Qing Sun and Parminder Bhatia.](https://virtual.2020.emnlp.org/paper_main.1631.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.394.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Scaling Hidden Markov Language Models. Justin Chiu and Alexander Rush.](https://virtual.2020.emnlp.org/paper_main.3272.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.103.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Consistency of a Recurrent Language Model With Respect to Incomplete Decoding. Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.2198.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.448.pdf) [**(code)**]()
+
 **Analysis:**
 
 **See also:** what LMs know about **lexical semantics** ([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ) and **discourse** ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)). They also contain **social bias** ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
 
 :boom:++ [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
+:boom:++ [How Much Knowledge Can You Pack Into the Parameters of a Language Model?. Adam Roberts, Colin Raffel and Noam Shazeer.](https://virtual.2020.emnlp.org/paper_main.108.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf) [**(code)**]()
+
 :heavy_minus_sign: [**Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA**. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.573.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models. Bill Yuchen Lin et al.](https://virtual.2020.emnlp.org/paper_main.3304.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.557.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers. Marius Mosbach et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.227.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.](https://virtual.2020.emnlp.org/paper_main.2414.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.395.pdf) [**(code)**]()
-
-
-
-
-
+:heavy_minus_sign: (Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.415.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models**. Isabel Papadimitriou and Dan Jurafsky.](https://virtual.2020.emnlp.org/paper_main.1613.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.554.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Masking as an Efficient Alternative to Finetuning for Pretrained Language Models.** Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1220.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) Universal Dependencies According to BERT: Both More Specific and More General. Tomasz Limisiewicz, David Mareček and Rudolf Rosa.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.245.pdf) [**(code)**]()
 
-:heavy_minus_sign: [An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training. Kristjan Arumae, Qing Sun and Parminder Bhatia.](https://virtual.2020.emnlp.org/paper_main.1631.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.394.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting. Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu.](https://virtual.2020.emnlp.org/paper_main.1734.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.634.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Consistency of a Recurrent Language Model With Respect to Incomplete Decoding. Sean Welleck, Ilia Kulikov, Jaedeok Kim, Richard Yuanzhe Pang and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.2198.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.448.pdf) [**(code)**]()
-
-:heavy_minus_sign: [On Losses for Modern Language Models. Stéphane Aroca-Ouellette and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.2491.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.403.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and Out-of-Distribution Data. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.](https://virtual.2020.emnlp.org/paper_main.2959.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.102.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Structured Pruning of Large Language Models. Ziheng Wang, Jeremy Wohlwend and Tao Lei.](https://virtual.2020.emnlp.org/paper_main.3074.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.496.pdf) [**(code)**]()
+:heavy_minus_sign: [**Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.**](https://virtual.2020.emnlp.org/paper_main.3181.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.376.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Word Frequency Does Not Predict Grammatical Knowledge in Language Models. Charles Yu, Ryan Sie, Nicolas Tedeschi and Leon Bergen.](https://virtual.2020.emnlp.org/paper_main.3115.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.331.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) On the Interplay Between Fine-tuning and Sentence-level Probing for Linguistic Knowledge in Pre-trained Transformers. Marius Mosbach et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.227.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Birds have four legs?! NumerSense: Probing **Numerical Commonsense Knowledge** of Pre-Trained Language Models. Bill Yuchen Lin et al.](https://virtual.2020.emnlp.org/paper_main.3304.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.557.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Analyzing Individual Neurons in Pre-trained Language Models. Nadir Durrani, Hassan Sajjad, Fahim Dalvi and Yonatan Belinkov.](https://virtual.2020.emnlp.org/paper_main.2414.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.395.pdf) [**(code)**]()
+
 :heavy_minus_sign: [What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding. Yu-An Wang and Yun-Nung Chen.](https://virtual.2020.emnlp.org/paper_main.3143.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.555.pdf) [**(code)**]()
+
+:heavy_minus_sign: [When BERT Plays the Lottery, All Tickets Are Winning. Sai Prasanna, Anna Rogers and Anna Rumshisky.](https://virtual.2020.emnlp.org/paper_main.2215.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf) [**(code)**]()
+
+**BERT variants:**
+
+:boom:++ [PatchBERT: Just-in-Time, Out-of-Vocabulary Patching. Sangwhan Moon and Naoaki Okazaki.](https://virtual.2020.emnlp.org/paper_main.1227.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.631.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) **exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources. Wen Tai et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.129.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) **BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**. Nora Kassner and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_WS-13.2513.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models. Bin He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.207.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) LIMIT-BERT : Linguistics Informed Multi-Task BERT. Junru Zhou, Zhuosheng Zhang, Hai Zhao and Shuailiang Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.399.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) BERT-QE: Contextualized Query Expansion for Document Re-ranking. Zhi Zheng, Kai Hui, Ben He, Xianpei Han, Le Sun and Andrew Yates.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.424.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) TopicBERT for Energy Efﬁcient Document Classiﬁcation. Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.152.pdf) [**(code)**]()
+
+**Compression, Distillation, Pruning:**
+
+:heavy_minus_sign: [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance. jianquan li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang and yaohong jin.](https://virtual.2020.emnlp.org/paper_main.956.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.242.pdf) [**(code)**]()
+
+:heavy_minus_sign: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.633.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Contrastive Distillation on Intermediate Representations for Language Model Compression. Siqi Sun, Zhe Gan, Yuwei Fang, Yu Cheng, Shuohang Wang and Jingjing Liu.](https://virtual.2020.emnlp.org/paper_main.3394.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.36.pdf) [**(code)**]()
 
-:heavy_minus_sign: [How Much Knowledge Can You Pack Into the Parameters of a Language Model?. Adam Roberts, Colin Raffel and Noam Shazeer.](https://virtual.2020.emnlp.org/paper_main.108.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.437.pdf) [**(code)**]()
+:heavy_minus_sign: [TernaryBERT: Distillation-aware Ultra-low Bit BERT. Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang and Qun Liu.](https://virtual.2020.emnlp.org/paper_main.2783.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.37.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Structured Pruning of Large Language Models. Ziheng Wang, Jeremy Wohlwend and Tao Lei.](https://virtual.2020.emnlp.org/paper_main.3074.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.496.pdf) [**(code)**]()
+
+
+**Other:**
+
+:heavy_minus_sign: [Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting. Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu.](https://virtual.2020.emnlp.org/paper_main.1734.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.634.pdf) [**(code)**]()
+
+:heavy_minus_sign: [On Losses for Modern Language Models. Stéphane Aroca-Ouellette and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.2491.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.403.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Calibrated Language Model Fine-Tuning for In- and **Out-of-Distribution Data**. Lingkai Kong, Haoming Jiang, Yuchen Zhuang, Jie Lyu, Tuo Zhao and Chao Zhang.](https://virtual.2020.emnlp.org/paper_main.2959.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.102.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Pretrained Language Model Embryology: The Birth of ALBERT. Cheng-Han Chiang, Sung-Feng Huang and Hung-yi Lee.](https://virtual.2020.emnlp.org/paper_main.1280.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.553.pdf) [**(code)**]()
 
@@ -780,13 +815,6 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 :heavy_minus_sign: [Train No Evil: Selective Masking for Task-Guided Pre-Training. Yuxian Gu, Zhengyan Zhang, Xiaozhi Wang, Zhiyuan Liu and Maosong Sun.](https://virtual.2020.emnlp.org/paper_main.1299.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.566.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Low Compute Language Modeling with In-Domain Embedding Initialisation. Charles Welch, Rada Mihalcea and Jonathan K. Kummerfeld.](https://virtual.2020.emnlp.org/paper_main.1428.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.696.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Investigating representations of verb bias in neural language models. Robert Hawkins, Takateru Yamakoshi, Thomas Griffiths and Adele Goldberg.**](https://virtual.2020.emnlp.org/paper_main.3181.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.376.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Scaling Hidden Markov Language Models. Justin Chiu and Alexander Rush.](https://virtual.2020.emnlp.org/paper_main.3272.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.103.pdf) [**(code)**]()
-
-
-
 
 
 ---
@@ -913,8 +941,6 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment. Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.1445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf) [**(code)**]()
 
 :heavy_minus_sign: [From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers. Anne Lauscher, Vinit Ravishankar, Ivan Vulić and Goran Glavaš.](https://virtual.2020.emnlp.org/paper_main.2500.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.363.pdf) [**(code)**]()
-
-:heavy_minus_sign: [LAReQA: Language-Agnostic **Answer Retrieval** from a Multilingual Pool. Uma Roy, Noah Constant, Rami Al-Rfou, Aditya Barua, Aaron Phillips and Yinfei Yang.](https://virtual.2020.emnlp.org/paper_main.2278.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.477.pdf) [**(code)**]()
 
 :heavy_minus_sign: [X-FACTR: Multilingual **Factual Knowledge Retrieval** from Pretrained Language Models. Zhengbao Jiang, Antonios Anastasopoulos, Jun Araki, Haibo Ding and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.2630.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.479.pdf) [**(code)**]()
 
@@ -1472,6 +1498,17 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: [FIND: Human-in-the-Loop Debugging Deep Text Classifiers. Piyawat Lertvittayakumjorn, Lucia Specia and Francesca Toni.](https://virtual.2020.emnlp.org/paper_main.2958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf) [**(code)**]()
 
 ---
+### [:top:](#nlu-papers) Information Retrieval
+
+:heavy_minus_sign: [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2. Yosi Mass and Haggai Roitman.](https://virtual.2020.emnlp.org/paper_main.3240.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.343.pdf) [**(code)**]()
+
+**Cross/multi-lingual:**
+
+:heavy_minus_sign: [CLIRMatrix: A massively large collection of bilingual and multilingual datasets for **Cross-Lingual** Information Retrieval. Shuo Sun and Kevin Duh.](https://virtual.2020.emnlp.org/paper_main.1298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.340.pdf) [**(code)**]()
+
+:heavy_minus_sign: [LAReQA: Language-Agnostic **Answer Retrieval** from a Multilingual Pool. Uma Roy, Noah Constant, Rami Al-Rfou, Aditya Barua, Aaron Phillips and Yinfei Yang.](https://virtual.2020.emnlp.org/paper_main.2278.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.477.pdf) [**(code)**]()
+
+---
 ### [:top:](#nlu-papers) Entity Recognition, Linking and Representation
 
 ####  [:top:](#nlu-papers) NER
@@ -1931,6 +1968,8 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 
 :heavy_minus_sign: [An Element-aware Multi-representation Model for Law Article Prediction. Huilin Zhong, Junsheng Zhou, Weiguang QU, Yunfei Long and Yanhui Gu.](https://virtual.2020.emnlp.org/paper_main.1250.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.540.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines. Łukasz Borchmann et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.380.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) LEGAL-BERT: The Muppets straight out of Law School. Ilias Chalkidis, Manos Fergadiotis, Prodromos Malakasiotis, Nikolaos Aletras, Ion Androutsopoulos [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.261) [**(code)**](https://huggingface.co/nlpaueb)
 
 ---
@@ -2073,8 +2112,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [**Information-Theoretic Probing with Minimum Description Length**. Elena Voita and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.947.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf) [**(code)**]() [**(video - NLP with Friends)**](https://www.youtube.com/watch?v=27eWB8IYc1A)
 
-:heavy_minus_sign: [BERT-EMD: Many-to-Many Layer Mapping for BERT Compression with Earth Mover's Distance. jianquan li, Xiaokang Liu, Honghong Zhao, Ruifeng Xu, Min Yang and yaohong jin.](https://virtual.2020.emnlp.org/paper_main.956.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.242.pdf) [**(code)**]()
-
 :heavy_minus_sign: [A Diagnostic Study of Explainability Techniques for Text Classification. Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.263.pdf) [**(code)**]()
 
 :heavy_minus_sign: [F1 is Not Enough! Models and Evaluation Towards User-Centered Explainable Question Answering. Hendrik Schuff, Heike Adel and Ngoc Thang Vu.](https://virtual.2020.emnlp.org/paper_main.959.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.575.pdf) [**(code)**]()
@@ -2113,8 +2150,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Lifelong Language Knowledge Distillation. Yung-Sung Chuang, Shang-Yu Su and Yun-Nung Chen.](https://virtual.2020.emnlp.org/paper_main.1208.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.233.pdf) [**(code)**]()
 
-:heavy_minus_sign: [KERMIT: Complementing Transformer Architectures with Encoders of Explicit Syntactic Interpretations. Fabio Massimo Zanzotto et al.](https://virtual.2020.emnlp.org/paper_main.1210.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.18.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Incremental Processing in the Age of Non-Incremental Encoders: An Empirical Assessment of Bidirectional Models for Incremental NLU.** Brielen Madureira and David Schlangen.](https://virtual.2020.emnlp.org/paper_main.1219.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.26.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Uncertainty-Aware Label Reﬁnement for Sequence Labeling. Tao Gui, Jiacheng Ye, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang.](https://virtual.2020.emnlp.org/paper_main.1225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.181.pdf) [**(code)**]()
@@ -2143,8 +2178,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [**Understanding the Difficulty of Training Transformers**. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1552.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.463.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dynamic Data Selection and Weighting for Iterative Back-Translation. Zi-Yi Dou, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.1572.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.475.pdf) [**(code)**]()
-
-:heavy_minus_sign: [BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei and Ming Zhou.](https://virtual.2020.emnlp.org/paper_main.1574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.633.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SetConv: A New Approach for Learning from Imbalanced Data. Yang Gao, Yi-Fan Li, Yu Lin, Charu Aggarwal and Latifur Khan.](https://virtual.2020.emnlp.org/paper_main.1575.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.98.pdf) [**(code)**]()
 
@@ -2212,8 +2245,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation. Xiuyi Chen, Fandong Meng, Peng Li, Feilong Chen, Shuang Xu, Bo Xu and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.2212.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.275.pdf) [**(code)**]()
 
-:heavy_minus_sign: [When BERT Plays the Lottery, All Tickets Are Winning. Sai Prasanna, Anna Rogers and Anna Rumshisky.](https://virtual.2020.emnlp.org/paper_main.2215.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf) [**(code)**]()
-
 :heavy_minus_sign: [DORB: Dynamically Optimizing Multiple Rewards with Bandits. Ramakanth Pasunuru, Han Guo and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2221.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.625.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering. Harsh Jhamtani and Peter Clark.](https://virtual.2020.emnlp.org/paper_main.2228.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.10.pdf) [**(code)**]()
@@ -2258,8 +2289,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning. Xiaoxiao Guo, Mo Yu, Yupeng Gao, Chuang Gan, Murray Campbell and Shiyu Chang.](https://virtual.2020.emnlp.org/paper_main.2574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.624.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Which BERT? A Survey Organizing Contextualized Encoders**. Patrick Xia, Shijie Wu and Benjamin Van Durme.](https://virtual.2020.emnlp.org/paper_main.2579.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.608.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.](https://virtual.2020.emnlp.org/paper_main.2585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.347.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Biomedical Event Extraction as Sequence Labeling. Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank.](https://virtual.2020.emnlp.org/paper_main.2608.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.431.pdf) [**(code)**]()
@@ -2285,8 +2314,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
 
 :heavy_minus_sign: [CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs. Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.2746.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.480.pdf) [**(code)**]()
-
-:heavy_minus_sign: [TernaryBERT: Distillation-aware Ultra-low Bit BERT. Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang and Qun Liu.](https://virtual.2020.emnlp.org/paper_main.2783.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.37.pdf) [**(code)**]()
 
 :heavy_minus_sign: [We Can Detect Your Bias: Predicting the Political Ideology of News Articles. Ramy Baly, Giovanni Da San Martino, James Glass and Preslav Nakov.](https://virtual.2020.emnlp.org/paper_main.2784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.404.pdf) [**(code)**]()
 
@@ -2467,9 +2494,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.](https://virtual.2020.emnlp.org/paper_main.1180.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.307.pdf) [**(code)**]()
 
-:heavy_minus_sign: [PatchBERT: Just-in-Time, Out-of-Vocabulary Patching. Sangwhan Moon and Naoaki Okazaki.](https://virtual.2020.emnlp.org/paper_main.1227.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.631.pdf) [**(code)**]()
-
-
 :heavy_minus_sign: [Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems. Jindřich Libovický and Alexander Fraser.](https://virtual.2020.emnlp.org/paper_main.1248.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.203.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson et al.](https://virtual.2020.emnlp.org/paper_main.1389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf) [**(code)**]()
@@ -2536,8 +2560,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2943.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.711.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.](https://virtual.2020.emnlp.org/paper_main.3116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.367.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2. Yosi Mass and Haggai Roitman.](https://virtual.2020.emnlp.org/paper_main.3240.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.343.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Incorporating Behavioral Hypotheses for Query Generation. Ruey-Cheng Chen and Chia-Jung Lee.](https://virtual.2020.emnlp.org/paper_main.3327.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf) [**(code)**]()
 
@@ -2632,8 +2654,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [(Findings+WS) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-10.1595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Visual Objects As Context: Exploiting Visual Objects for Lexical Entailment. Masayasu Muraoka, Tetsuya Nasukawa and Bishwaranjan Bhattacharjee.](https://virtual.2020.emnlp.org/paper_WS-13.2085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.246.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) **BERT-kNN: Adding a kNN Search Component to Pretrained Language Models for Better QA**. Nora Kassner and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_WS-13.2513.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) A Semantics-based Approach to Disclosure Classification in User-Generated Online Content. Chandan Akiti, Anna squicciarini and Sarah Rajtmajer.](https://virtual.2020.emnlp.org/paper_WS-24.2534.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.312.pdf) [**(code)**]()
 
@@ -2781,16 +2801,12 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Textual Supervision for Visually Grounded Spoken Language Understanding. Bertrand Higy, Desmond Elliott and Grzegorz Chrupała.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.244.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Universal Dependencies According to BERT: Both More Specific and More General. Tomasz Limisiewicz, David Mareček and Rudolf Rosa.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.245.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Learning to Plan and Realize Separately for Open-Ended Dialogue Systems. Sashank Santhanam et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.247.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Be Different to Be Better! A Benchmark to Leverage the Complementarity of Language and Vision. Sandro Pezzelle et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.248.pdf) [**(code)**]()
 
 
 :heavy_minus_sign: (Findings) **Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs. Ana Marasović et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.253.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) BERT-MK: Integrating Graph Contextualized Knowledge into Pre-trained Language Models. Bin He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.207.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Inferring symmetry in natural language. Chelsea Tanchip, Lei Yu, Aotao Xu and Yang Xu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.259.pdf) [**(code)**]()
 
@@ -2830,17 +2846,9 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension. Xuguang Wang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.370.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Contract Discovery: Dataset and a Few-Shot Semantic Retrieval Challenge with Competitive Baselines. Łukasz Borchmann et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.380.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?. Peter Hase et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.390.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) LIMIT-BERT : Linguistics Informed Multi-Task BERT. Junru Zhou, Zhuosheng Zhang, Hai Zhao and Shuailiang Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.399.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Long Document Ranking with Query-Directed Sparse Transformer. Jyun-Yu Jiang, Chenyan Xiong, Chia-Jung Lee and Wei Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.412.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Exploring BERT's Sensitivity to Lexical Cues using Tests from Semantic Priming. Kanishka Misra, Allyson Ettinger and Julia Rayz.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.415.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) BERT-QE: Contextualized Query Expansion for Document Re-ranking. Zhi Zheng, Kai Hui, Ben He, Xianpei Han, Le Sun and Andrew Yates.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.424.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER. Qingkai Zeng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf) [**(code)**]()
 
@@ -2869,12 +2877,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Biomedical Event Extraction with Hierarchical Knowledge Graphs. Kung-Hsiang Huang, Mu Yang and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.114.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Examining the Ordering of Rhetorical Strategies in Persuasive Requests. Omar Shaikh, Jiaao Chen, Jon Saad-Falcon, Polo Chau and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.116.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **exBERT: Extending Pre-trained Models with Domain-specific Vocabulary Under Constrained Training Resources. Wen Tai et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.129.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: (Findings) TopicBERT for Energy Efﬁcient Document Classiﬁcation. Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.152.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: (Findings) PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision. Chuhan Wu, Fangzhao Wu, Tao Qi, Jianxun Lian, Yongfeng Huang and Xing Xie.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.174.pdf) [**(code)**]()
 
