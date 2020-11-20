@@ -196,6 +196,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 - [4th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/)
 - [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/)
 - [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
+- [NLP and Computational Social Science (NLP+CSS)](https://virtual.2020.emnlp.org/workshop_WS-18.html)
 - [Second Workshop for NLP Open Source Software (NLP-OSS)](https://nlposs.github.io/)
 - [PrivateNLP 2020: The First Workshop on Privacy in NLP](https://sites.google.com/view/privatenlp/)
 
