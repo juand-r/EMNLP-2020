@@ -1877,6 +1877,9 @@ See also three workshops at this conference:
 
 :heavy_minus_sign: [A Time-Aware Transformer Based Model for Suicide Ideation Detection on Social Media. Ramit Sawhney, Harshit Joshi, Saumya Gandhi and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2510.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.619.pdf) [**(code)**]()
 
+:heavy_minus_sign: [(WS) Assessing population-level symptoms of anxiety, depression, and suicide risk in real time using NLP applied to social media data. 
+Alex Fine, Patrick Crutchley, Jenny Blase, Joshua Carroll, Glen Coppersmith](https://virtual.2020.emnlp.org/paper_WS-18.22.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.nlpcss-1.6.pdf)
+
 ---
 ### [:top:](#applications) Scientific Text Mining
 
