@@ -70,6 +70,9 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Entity Representation](#top-entity-representation)
     - [Entity Set Expansion](#top-entity-set-expansion)
   - [Coreference](#top-coreference)
+  - [Relation Extraction](#top-relation-extraction)
+  - [Event Extraction](#top-event-extraction)
+  - [Open Information Extraction](#top-open-information-extraction)
   - [Semantic Role Labeling](#top-semantic-role-labeling)
   - [Semantic Parsing](#top-semantic-parsing)
   - [Topic Models](#top-topic-models)
@@ -1631,6 +1634,27 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 
 ---
+###  [:top:](#nlu-papers) Relation Extraction
+
+
+
+---
+###  [:top:](#nlu-papers) Event Extraction
+
+
+
+---
+###  [:top:](#nlu-papers) Open Information Extraction
+
+:heavy_minus_sign: [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction. Keshav Kolluru et al.](https://virtual.2020.emnlp.org/paper_main.3646.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.306.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction. Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.1669.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.690.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Syntactic and Semantic-driven Learning for Open Information Extraction. Jialong Tang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Xinyan Xiao and Hua Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.69.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Multi$^2$OIE: **Multilingual** Open Information Extraction Based on Multi-Head Attention with BERT. Youngbin Ro, Yukyung Lee and Pilsung Kang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.99.pdf) [**(code)**]()
+
+---
 ###  [:top:](#nlu-papers) Semantic Role Labeling
 
 :heavy_minus_sign: [Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling. Diego Marcheggiani and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.1754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.322.pdf) [**(code)**]()
@@ -2194,11 +2218,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.](https://virtual.2020.emnlp.org/paper_main.1618.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.19.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: [XL-AMR: Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques. Rexhina Blloshmi, Rocco Tripodi and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.1649.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.195.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction. Patrick Hohenecker, Frank Mtumbuka, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.1669.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.690.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1700.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [**(code)**]()
 
@@ -2463,8 +2483,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Weakly Supervised Learning of Nuanced Frames for Analyzing Polarization in News Media. Shamik Roy and Dan Goldwasser.](https://virtual.2020.emnlp.org/paper_main.3644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.620.pdf) [**(code)**]()
 
-:heavy_minus_sign: [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction. Keshav Kolluru et al.](https://virtual.2020.emnlp.org/paper_main.3646.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.306.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Small but Mighty: New Benchmarks for Split and Rephrase. Li Zhang, Huaiyu Zhu, Siddhartha Brahma and Yunyao Li.](https://virtual.2020.emnlp.org/paper_main.210.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.91.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Semantically Inspired AMR Alignment for the Portuguese Language. Rafael Anchiêta and Thiago Pardo.](https://virtual.2020.emnlp.org/paper_main.357.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.123.pdf) [**(code)**]()
@@ -2706,8 +2724,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Rethinking Self-Attention: Towards Interpretability in Neural Parsing. Khalil Mrini et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.65.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Syntactic and Semantic-driven Learning for Open Information Extraction. Jialong Tang, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Xinyan Xiao and Hua Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.69.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Group-wise Contrastive Learning for Neural Dialogue Generation. Hengyi Cai, Hongshen Chen, Yonghao Song, zhuoye Ding, Yongjun Bao, Weipeng Yan and Xiaofang Zhao.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.70.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) A Multi-task Learning Framework for Opinion Triplet Extraction. Chen Zhang, Qiuchi Li, Dawei Song and benyou wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.72.pdf) [**(code)**]()
@@ -2721,8 +2737,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Scene Graph Modification Based on Natural Language Commands. Xuanli He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.87.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Why do you think that? Exploring Faithful Sentence-Level Rationales Without Supervision. Max Glockner, Ivan Habernal and Iryna Gurevych.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.97.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Multi$^2$OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT. Youngbin Ro, Yukyung Lee and Pilsung Kang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.99.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Using the Past Knowledge to Improve Sentiment Classification. Qi Qin, Wenpeng Hu and Bing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.101.pdf) [**(code)**]()
 
