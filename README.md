@@ -1807,14 +1807,11 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 ---
 ### [:top:](#applications) Pandemics and other crises
 
-See also [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/).
-
 :heavy_minus_sign: [(Findings+WS) A Corpus for Outbreak Detection of Diseases Prevalent in Latin America. Antonella Dellanzo, Viviana Cotik, Jose Ochoa-Luna](https://virtual.2020.emnlp.org/paper_WS-1.195.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.conll-1.44.pdf)
-
 
 **COVID-19:**
 
-
+See also [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/). For COVID-related literature search, see under **Scientific Text Mining**.
 
 **Other:**
 
@@ -1885,6 +1882,11 @@ Alex Fine, Patrick Crutchley, Jenny Blase, Joshua Carroll, Glen Coppersmith](htt
 
 See also the [First Workshop on Scholarly Document Processing (SDP 2020)](https://ornlcda.github.io/SDProc/) at this conference.
 
+:heavy_minus_sign: (Findings) Document Classification for COVID-19 Literature. Bernal Jimenez Gutierrez, Jucheng Zeng, Dongdong Zhang, Ping Zhang and Yu Su.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.332.pdf) [**(code)**]()
+
+:heavy_minus_sign: [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search. Sean MacAvaney, Arman Cohan and Nazli Goharian.](https://virtual.2020.emnlp.org/paper_main.2825.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.341.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Will This Idea Spread Beyond Academia? Understanding Knowledge Transfer of Scientific Concepts across Text Corpora. Hancheng Cao et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.158.pdf) [**(code)**]()
 
 ---
 ### [:top:](#applications) Social Media
@@ -2556,8 +2558,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Improving Bilingual Lexicon Induction for Low Frequency Words. Jiaji Huang, Xingyu Cai and Kenneth Church.](https://virtual.2020.emnlp.org/paper_main.2818.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.100.pdf) [**(code)**]()
 
-:heavy_minus_sign: [SLEDGE-Z: A Zero-Shot Baseline for COVID-19 Literature Search. Sean MacAvaney, Arman Cohan and Nazli Goharian.](https://virtual.2020.emnlp.org/paper_main.2825.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.341.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2943.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.711.pdf) [**(code)**]()
@@ -2759,8 +2759,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) RecoBERT: A Catalog Language Model for Text-Based Recommendations. Itzik Malkiel, Oren Barkan, Avi Caciularu, Noam Razin, Ori Katz and Noam Koenigstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.154.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Will This Idea Spread Beyond Academia? Understanding Knowledge Transfer of Scientific Concepts across Text Corpora. Hancheng Cao et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.158.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) An Empirical Exploration of Local Ordering Pre-training for Structured Prediction. Zhisong Zhang, Xiang Kong, Lori Levin and Eduard Hovy.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.160.pdf) [**(code)**]()
 
 
@@ -2888,9 +2886,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) **Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success. Farzana Rashid et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.214.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
-
-
 :heavy_minus_sign: (Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.240.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Cross-Lingual Training of Neural Models for Document Ranking. Peng Shi, He Bai and Jimmy Lin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.249.pdf) [**(code)**]()
@@ -2909,8 +2904,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Using Visual Feature Space as a Pivot Across Languages. Ziyan Yang, Leticia Pinto-Alva, Franck Dernoncourt and Vicente Ordonez.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.328.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Document Classification for COVID-19 Literature. Bernal Jimenez Gutierrez, Jucheng Zeng, Dongdong Zhang, Ping Zhang and Yu Su.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.332.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Inserting Information Bottlenecks for Attribution in Transformers. Zhiying Jiang, Raphael Tang, Ji Xin and Jimmy Lin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.343.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Weakly- and Semi-supervised Evidence Extraction. Danish Pruthi, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.353.pdf) [**(code)**]()
@@ -2925,4 +2918,4 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Dual Inference for Improving Language Understanding and Generation. Shang-Yu Su, Yung-Sung Chuang and Yun-Nung Chen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.443.pdf) [**(code)**]()
 
-
+:heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
