@@ -407,6 +407,8 @@ See also: [Pragmatic Issue-Sensitive Image Captioning. Allen Nie, Reuben Cohn-Go
 
 See also the papers at the [**1st Workshop on Computational Approaches to Discourse (CODI)**](https://codi-workshop.github.io/).
 
+- Eduard Hovy's fantastic invited talk **"Discourse processing in the time of DNNs"** Data is not enough. What we need: **planning**, better discourse-annotated corpora with communicative intents/goals. And knowledge. The KR community split off from NLP in the late 70s and never came back. Question: "Do you think that building an accurate document representation could be done by combining formal discourse representations and distributional approaches to semantic representation" Answer: There is no other way.
+
 :heavy_minus_sign: [BERT-enhanced Relational Sentence Ordering Network. Baiyun Cui, Yingming Li and Zhongfei Zhang.](https://virtual.2020.emnlp.org/paper_main.1141.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.511.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations. I-Ta Lee, Maria Leonor Pacheco and Dan Goldwasser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.446.pdf) [**(code)**]()
