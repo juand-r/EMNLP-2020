@@ -72,7 +72,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Entity Set Expansion](#top-entity-set-expansion)
   - [Coreference](#top-coreference)
   - [Relation Extraction](#top-relation-extraction)
-  - [Event Extraction](#top-event-extraction)
+  - [Events](#top-events)
   - [Open Information Extraction](#top-open-information-extraction)
   - [Semantic Role Labeling](#top-semantic-role-labeling)
   - [Semantic Parsing](#top-semantic-parsing)
@@ -116,7 +116,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 > **Interpretability methods:**
 > 1. Probing internal representations
 > 2. Testing model behavior using challenge sets, diagnostic sets, etc. Does a model capture some phenomena (lexical semantics, syntax, predicate-argument structure, logic, knowledge, etc.)
-> 3. Baking interpretability into the model. For example: generation explanations as well as making predictions (but this is **not** inherently interpretable).
+> 3. Baking interpretability into the model. For example: generating explanations as well as making predictions (but this is **not** inherently interpretable).
 > 4. **Looking at input features** (e.g., rationales, saliency maps).
 > 5. **Looking for global decision rules** (e.g., Ribeiro et al., High-Precision Model-Agnostic Explanations, 2018 or Wallace et al., Universal Adversarial Triggers for Attacking and Analyzing NLP, 2019). 
 > 6. **Looking at training examples** (e.g., influence functions). 
@@ -262,6 +262,8 @@ See also: the papers in [**Evaluation and Comparison of NLP Systems (Eval4NLP)**
 See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART](https://arxiv.org/pdf/2001.08210.pdf) (25 languages) and [OSCAR](https://oscar-corpus.com/).
 
 :heavy_minus_sign: [CMU-MOSEAS: A **Multimodal** Language Dataset for **Spanish, Portuguese, German and French**. AmirAli Bagher Zadeh, Yansheng Cao, Simon Hessner, Paul Pu Liang, Soujanya Poria and Louis-Philippe Morency.](https://virtual.2020.emnlp.org/paper_main.2994.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Empirical Study of Pre-trained Transformers for **Arabic** Information Extraction. Wuwei Lan, Yang Chen, Wei Xu and Alan Ritter.](https://virtual.2020.emnlp.org/paper_main.2396.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.382.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) IndicNLPSuite: Monolingual Corpora, Evaluation Benchmarks and Pre-trained Multilingual Language Models for **Indian Languages**. Divyanshu Kakwani et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.445.pdf) [**(code)**]()
 
@@ -443,13 +445,13 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 ---
 ### [:top:](#topics) Argumentation
 
-:heavy_minus_sign: [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
+:boom:++ [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Extracting Implicitly Asserted Propositions in Argumentation. Yohan Jo, Jacky Visser, Chris Reed and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.440.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.2.pdf) [**(code)**]()
 
 :heavy_minus_sign: [APE: Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning. Liying Cheng, Lidong Bing, Qian Yu, Wei Lu and Luo Si.](https://virtual.2020.emnlp.org/paper_main.2133.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Multilingual Argument Mining: Datasets and Analysis. Orith Toledo-Ronen, Matan Orbach, Yonatan Bilu, Artem Spector and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.29.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) **Multilingual** Argument Mining: Datasets and Analysis. Orith Toledo-Ronen, Matan Orbach, Yonatan Bilu, Artem Spector and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.29.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring the Role of Argument Structure in Online Debate Persuasion. Jialu Li, Esin Durmus and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.1750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.716.pdf) [**(code)**]()
 
@@ -608,9 +610,6 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 :heavy_minus_sign: [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.](https://virtual.2020.emnlp.org/paper_main.2380.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.85.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering. Pratyay Banerjee and Chitta Baral.](https://virtual.2020.emnlp.org/paper_main.2640.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.11.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: (Findings) Event Extraction as Multi-turn Question Answering. Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.73.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Zero-Shot Rationalization by Multi-Task Transfer Learning from Question Answering. Po-Nien Kung, Tse-Hsuan Yang, Yi-Cheng Chen, Sheng-Siang Yin and Yun-Nung Chen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.198.pdf) [**(code)**]()
 
@@ -1696,13 +1695,44 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 :heavy_minus_sign: (Findings) Active Testing: An Unbiased Evaluation Method for Distantly Supervised Relation Extraction. Pengshuai Li, Xinsong Zhang, Weijia Jia and Wei Zhao.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.20.pdf) [**(code)**]()
 
 ---
-###  [:top:](#nlu-papers) Event Extraction
+###  [:top:](#nlu-papers) Events
+
+**Event-event relations:**
 
 :heavy_minus_sign: [Joint Constrained Learning for Event-Event Relation Extraction. Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.1116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.51.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss.](https://virtual.2020.emnlp.org/paper_main.237.html)  [**(preprint)**](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.50.pdf) [**(code)**](http://blender.cs.illinois.edu/software/pathlm)
+
+:heavy_minus_sign: [Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events. Miguel Ballesteros et al.](https://virtual.2020.emnlp.org/paper_main.861.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.436.pdf) [**(code)**]()
+
+**Event extraction:**
+
+:heavy_minus_sign: [**Incremental** Event Detection via Knowledge Consolidation Networks. Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang.](https://virtual.2020.emnlp.org/paper_main.1749.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.52.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**Biomedical** Event Extraction as Sequence Labeling. Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank.](https://virtual.2020.emnlp.org/paper_main.2608.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.431.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Biomedical Event Extraction with Hierarchical Knowledge Graphs. Kung-Hsiang Huang, Mu Yang and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.114.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Semi-supervised **New Event Type Induction** and Event Detection. Lifu Huang and Heng Ji.](https://virtual.2020.emnlp.org/paper_main.2427.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Event Extraction as Multi-turn Question Answering. Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.73.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks. Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen.](https://virtual.2020.emnlp.org/paper_main.3390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.435.pdf) [**(code)**]()
+
+**Event arguments:**
+
+:heavy_minus_sign: (Findings) Resource-Enhanced Neural Model for **Event Argument Extraction**. Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.318.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Discourse workshop) Joint Modeling of Arguments for Event Understanding. Yunmo Chen, Tongfei Chen, Benjamin Van Durme]()  [**(paper)**](https://www.aclweb.org/anthology/2020.codi-1.10) [**(code)**](https://github.com/wanmok/joint-arglinking)
+
+:heavy_minus_sign: (Findings) Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction. Amir Pouran Ben Veyseh, Tuan Ngo Nguyen, Thien Huu Nguyen [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.326.pdf)
+
+:boom:++ (BlackboxNLP) BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? - A Study on the RAMS Dataset. Varun Gangal, Eduard Hovy [**(paper)**](https://www.aclweb.org/anthology/2020.blackboxnlp-1.1.pdf)
 
 ---
 ###  [:top:](#nlu-papers) Open Information Extraction
+
+:heavy_minus_sign: [A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression. Mingming Sun et al.](https://virtual.2020.emnlp.org/paper_main.3497.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.167.pdf) [**(code)**]()
 
 :heavy_minus_sign: [OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction. Keshav Kolluru et al.](https://virtual.2020.emnlp.org/paper_main.3646.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.306.pdf) [**(code)**]()
 
@@ -1880,7 +1910,7 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 ### [:top:](#applications) Cybersecurity
 
-:heavy_minus_sign: [Introducing a New Dataset for Event Detection in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
+:heavy_minus_sign: [Introducing a New Dataset for **Event Detection** in Cybersecurity Texts. Hieu Man Duc Trong et al.](https://virtual.2020.emnlp.org/paper_main.3231.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.433.pdf) [**(code)**]()
 
 ---
 ### [:top:](#applications) Language and Code
@@ -2135,8 +2165,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Incomplete Utterance Rewriting as Semantic Segmentation. Qian Liu, Bei Chen, Jian-Guang LOU, Bin Zhou and Dongmei Zhang.](https://virtual.2020.emnlp.org/paper_main.214.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13166.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.227.pdf) [**(code)**](https://github.com/microsoft/ContextualSP)
 
-:heavy_minus_sign: [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling. Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers and Clare Voss.](https://virtual.2020.emnlp.org/paper_main.237.html)  [**(preprint)**](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.50.pdf) [**(code)**](http://blender.cs.illinois.edu/software/pathlm)
-
 :heavy_minus_sign: [VD-BERT: A Unified Vision and Dialog Transformer with BERT. Yue Wang, Shafiq Joty, Michael Lyu, Irwin King, Caiming Xiong and Steven C.H. Hoi.](https://virtual.2020.emnlp.org/paper_main.355.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.269.pdf) [**(code)**](https://github.com/salesforce/VD-BERT)
 
 :heavy_minus_sign: [Exploring Logically Dependent Multi-task Learning with Causal Inference. Wenqing Chen, Jidong Tian, Liqiang Xiao, Hao He and Yaohui Jin.](https://virtual.2020.emnlp.org/paper_main.362.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.173.pdf) [**(code)**]()
@@ -2265,8 +2293,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model. Bugeun Kim, Kyung Seo Ki, Donggeon Lee and Gahgene Gweon.](https://virtual.2020.emnlp.org/paper_main.1739.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.308.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Incremental Event Detection via Knowledge Consolidation Networks. Pengfei Cao, Yubo Chen, Jun Zhao and Taifeng Wang.](https://virtual.2020.emnlp.org/paper_main.1749.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.52.pdf) [**(code)**]()
-
 :heavy_minus_sign: [IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation. Yitao Cai and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.1784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.560.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer. Jonas Pfeiffer, Ivan Vulić, Iryna Gurevych and Sebastian Ruder.](https://virtual.2020.emnlp.org/paper_main.1803.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.617.pdf) [**(code)**]()
@@ -2359,7 +2385,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.](https://virtual.2020.emnlp.org/paper_main.2585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.347.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Biomedical Event Extraction as Sequence Labeling. Alan Ramponi, Rob van der Goot, Rosario Lombardo and Barbara Plank.](https://virtual.2020.emnlp.org/paper_main.2608.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.431.pdf) [**(code)**]()
 
 :heavy_minus_sign: [INSPIRED: Toward Sociable Recommendation Dialog Systems. Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi and Zhou Yu.](https://virtual.2020.emnlp.org/paper_main.2612.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.654.pdf) [**(code)**]()
 
@@ -2489,9 +2514,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Form2Seq : A Framework for Higher-Order Form Structure Extraction. Milan Aggarwal, Hiresh Gupta, Mausoom Sarkar and Balaji Krishnamurthy.](https://virtual.2020.emnlp.org/paper_main.3496.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.314.pdf) [**(code)**]()
 
-:heavy_minus_sign: [A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information eXpression. Mingming Sun et al.](https://virtual.2020.emnlp.org/paper_main.3497.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.167.pdf) [**(code)**]()
-
-
 :heavy_minus_sign: [Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations. Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao and xudong Liu.](https://virtual.2020.emnlp.org/paper_main.3519.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.304.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Modularized Transfomer-based Ranking Framework. Luyu Gao, Zhuyun Dai and Jamie Callan.](https://virtual.2020.emnlp.org/paper_main.3541.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.342.pdf) [**(code)**]()
@@ -2540,8 +2562,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings. Phillip Keung, Yichao Lu, Julian Salazar and Vikas Bhardwaj.](https://virtual.2020.emnlp.org/paper_main.858.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.40.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events. Miguel Ballesteros et al.](https://virtual.2020.emnlp.org/paper_main.861.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.436.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.](https://virtual.2020.emnlp.org/paper_main.876.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.414.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.](https://virtual.2020.emnlp.org/paper_main.877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.222.pdf) [**(code)**]()
@@ -2578,10 +2598,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee et al.](https://virtual.2020.emnlp.org/paper_main.2331.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.636.pdf) [**(code)**]()
 
-:heavy_minus_sign: [An Empirical Study of Pre-trained Transformers for Arabic Information Extraction. Wuwei Lan, Yang Chen, Wei Xu and Alan Ritter.](https://virtual.2020.emnlp.org/paper_main.2396.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.382.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Semi-supervised New Event Type Induction and Event Detection. Lifu Huang and Heng Ji.](https://virtual.2020.emnlp.org/paper_main.2427.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Do Explicit Alignments Robustly Improve Multilingual Encoders?. Shijie Wu and Mark Dredze.](https://virtual.2020.emnlp.org/paper_main.2490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.362.pdf) [**(code)**]()
 
 :heavy_minus_sign: [TNT: Text Normalization based Pre-training of Transformers for Content Moderation. Fei Tan, Yifan Hu, Changwei Hu, Keqian Li and Kevin Yen.](https://virtual.2020.emnlp.org/paper_main.2515.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.383.pdf) [**(code)**]()
@@ -2612,8 +2628,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme. Chaofa Yuan, Chuang Fan, Jianzhu Bao and Ruifeng Xu.](https://virtual.2020.emnlp.org/paper_main.3329.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.289.pdf) [**(code)**]()
 
 :heavy_minus_sign: [How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue. Henry Elder, Alexander O'Connor and Jennifer Foster.](https://virtual.2020.emnlp.org/paper_main.3353.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.230.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks. Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen.](https://virtual.2020.emnlp.org/paper_main.3390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.435.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Querying Across Genres for Medical Claims in News. Chaoyuan Zuo, Narayan Acharya and Ritwik Banerjee.](https://virtual.2020.emnlp.org/paper_main.3419.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.139.pdf) [**(code)**]()
 
@@ -2903,8 +2917,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) **What Can We Do to Improve Peer Review in NLP?. Anna Rogers and Isabelle Augenstein.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.112.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Biomedical Event Extraction with Hierarchical Knowledge Graphs. Kung-Hsiang Huang, Mu Yang and Nanyun Peng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.114.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Examining the Ordering of Rhetorical Strategies in Persuasive Requests. Omar Shaikh, Jiaao Chen, Jon Saad-Falcon, Polo Chau and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.116.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision. Chuhan Wu, Fangzhao Wu, Tao Qi, Jianxun Lian, Yongfeng Huang and Xing Xie.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.174.pdf) [**(code)**]()
@@ -2925,9 +2937,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Integrating Task Specific Information into Pretrained Language Models for Low Resource Fine Tuning. Rui Wang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.285.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Pushing the Limits of AMR Parsing with Self-Learning. Young-Suk Lee, Ramón Fernandez Astudillo, Tahira Naseem, Revanth Gangi Reddy, Radu Florian and Salim Roukos.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.288.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Resource-Enhanced Neural Model for Event Argument Extraction. Jie Ma, Shuai Wang, Rishita Anubhai, Miguel Ballesteros and Yaser Al-Onaizan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.318.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: (Findings) Using Visual Feature Space as a Pivot Across Languages. Ziyan Yang, Leticia Pinto-Alva, Franck Dernoncourt and Vicente Ordonez.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.328.pdf) [**(code)**]()
 
