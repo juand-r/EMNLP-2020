@@ -103,8 +103,14 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 - [Other](#top-other)
 - [More Findings of EMNLP papers](#top-more-findings-of-emnlp-papers)
 
-
 ## [General Remarks](#selections-from-emnlp-2020)
+
+- The use of GatherTown for poster sessions was a great improvement over ACL 2020, particularly for the conference to feel more like a real conference. However, it was extremely glitchy (disconnecting every few minutes), and so my experience with it was very frustrating.
+- The "Birds of a Feather" events have too many people in them. Breakout rooms are a good idea, but were not always used.
+- The Zoom QA sessions should automatically turn everyone's microphone's by default.
+
+**Best paper:** :boom:++ [Digital Voicing of Silent Speech. David Gaddy, Dan Klein](https://virtual.2020.emnlp.org/paper_main.2218.html) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.445) [**(code)**](https://github.com/dgaddy/silent_speech) [**(data)**](https://zenodo.org/record/4064409#.X7mJwHVKhhE) [**(predicted audio samples)**](https://www.aclweb.org/anthology/attachments/2020.emnlp-main.445.OptionalSupplementaryMaterial.zip)
+> Includes an interesting application of CCA (which improved performance substantially).
 
 ---
 ---
