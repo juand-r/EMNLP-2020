@@ -4,7 +4,7 @@
 
 ### Selections from EMNLP 2020
 
-This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented/goal-oriented dialogue, Morphology, Word Segmentation, Spelling Correction, Speech.
+This contains a selection of papers from  EMNLP 2020. Some papers are missing -- mainly papers on the following topics: Emotion Recognition/Detection, Aspect-Based Sentiment Analysis, Task-oriented/goal-oriented dialogue, Morphology, Word Segmentation, Spelling Correction, Speech/Spoken Language Understanding.
 
 
 **Schedule:** https://2020.emnlp.org/schedule
@@ -66,6 +66,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 #### [NLU papers](#nlu-papers-1)
   - [Text Classification](#top-text-classification)
   - [Information Retrieval](#top-information-retrieval)
+  - [POS tagging](#top-pos-tagging)
   - [Entity Recognition, Linking and Representation](#top-entity-recognition-linking-and-representation)
     - [NER](#top-NER)
     - [Entity Linking](#top-entity-linking)
@@ -1575,6 +1576,13 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: [LAReQA: Language-Agnostic **Answer Retrieval** from a Multilingual Pool. Uma Roy, Noah Constant, Rami Al-Rfou, Aditya Barua, Aaron Phillips and Yinfei Yang.](https://virtual.2020.emnlp.org/paper_main.2278.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.477.pdf) [**(code)**]()
 
 ---
+### [:top:](#nlu-papers) POS tagging
+
+:heavy_minus_sign: [**Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios.** Ramy Eskander, Smaranda Muresan and Michael Collins.](https://virtual.2020.emnlp.org/paper_main.3046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.391.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Persian Ezafe Recognition Using Transformers and Its Role in Part-Of-Speech Tagging. Ehsan Doostmohammadi, Minoo Nassajian and Adel Rahimi.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.86.pdf) [**(code)**]()
+
+---
 ### [:top:](#nlu-papers) Entity Recognition, Linking and Representation
 
 ####  [:top:](#nlu-papers) NER
@@ -2230,8 +2238,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages. Zheng Li, Mukul Kumar, William Headden, Bing Yin, Ying Wei, Yu Zhang and Qiang Yang.](https://virtual.2020.emnlp.org/paper_main.400.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.179.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Cross-lingual Spoken Language Understanding with Regularized Representation Alignment. Zihan Liu, Genta Indra Winata, Peng Xu, Zhaojiang Lin and Pascale Fung.](https://virtual.2020.emnlp.org/paper_main.407.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.587.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
 
 :heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
@@ -2493,8 +2499,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning. Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.3035.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.712.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Unsupervised Cross-Lingual Part-of-Speech Tagging for Truly Low-Resource Scenarios.** Ramy Eskander, Smaranda Muresan and Michael Collins.](https://virtual.2020.emnlp.org/paper_main.3046.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.391.pdf) [**(code)**]()
-
 :heavy_minus_sign: [A Method for Building a Commonsense Inference Dataset based on Basic Events. Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi.](https://virtual.2020.emnlp.org/paper_main.3057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.192.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Keeping Up Appearances: Computational Modeling of Face Acts in Persuasion Oriented Discussions. Ritam Dutt, Rishabh Joshi and Carolyn Rose.](https://virtual.2020.emnlp.org/paper_main.3072.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.605.pdf) [**(code)**]()
@@ -2512,8 +2516,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.](https://virtual.2020.emnlp.org/paper_main.3236.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.178.pdf) [**(code)**]()
-
-:heavy_minus_sign: [SLURP: A Spoken Language Understanding Resource Package. Emanuele Bastianelli, Andrea Vanzo, Pawel Swietojanski and Verena Rieser.](https://virtual.2020.emnlp.org/paper_main.3257.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.588.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning. Lianhui Qin et al.**](https://virtual.2020.emnlp.org/paper_main.3270.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.58.pdf) [**(code)**]()
 
@@ -2700,8 +2702,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [(Findings+WS) Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study. Saurabh Kulshreshtha, Jose Luis Redondo Garcia and Ching-Yun Chang.](https://virtual.2020.emnlp.org/paper_WS-11.816.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.83.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures. Chaitanya Ahuja et al.](https://virtual.2020.emnlp.org/paper_WS-23.1589.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.170.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) Recurrent Inference in Text Editing. Ning Shi, Ziheng Zeng, Haotian Zhang and Yichen Gong.](https://virtual.2020.emnlp.org/paper_WS-21.1463.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) RMM: A Recursive Mental Model for Dialogue Navigation. Homero Roman Roman, Yonatan Bisk, Jesse Thomason, Asli Celikyilmaz and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_WS-10.1453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.157.pdf) [**(code)**]()
@@ -2784,11 +2784,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) A Multi-task Learning Framework for Opinion Triplet Extraction. Chen Zhang, Qiuchi Li, Dawei Song and benyou wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.72.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: (Findings) SeNsER: Learning Cross-Building Sensor Metadata Tagger. Yang Jiao, Jiacheng Li, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.85.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Persian Ezafe Recognition Using Transformers and Its Role in Part-Of-Speech Tagging. Ehsan Doostmohammadi, Minoo Nassajian and Adel Rahimi.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.86.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Scene Graph Modification Based on Natural Language Commands. Xuanli He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.87.pdf) [**(code)**]()
 
@@ -2857,17 +2853,11 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [(Findings+WS) Social Commonsense Reasoning with Multi-Head Knowledge Attention. Debjit Paul and Anette Frank.](https://virtual.2020.emnlp.org/paper_WS-16.2195.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.267.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Hierarchical Pre-training for Sequence Labelling in Spoken Dialog. Emile Chapuis, Pierre Colombo, Matteo Manica, Matthieu Labeau and Chloé Clavel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.239.pdf) [**(code)**]()
-
-
 :heavy_minus_sign: (Findings) Unsupervised Expressive Rules Provide Explainability and Assist Human Experts Grasping New Domains. Eyal Shnarch et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.243.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Textual Supervision for Visually Grounded Spoken Language Understanding. Bertrand Higy, Desmond Elliott and Grzegorz Chrupała.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.244.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Learning to Plan and Realize Separately for Open-Ended Dialogue Systems. Sashank Santhanam et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.247.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Be Different to Be Better! A Benchmark to Leverage the Complementarity of Language and Vision. Sandro Pezzelle et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.248.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: (Findings) **Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs. Ana Marasović et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.253.pdf) [**(code)**]()
 
