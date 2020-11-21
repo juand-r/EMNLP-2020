@@ -1231,6 +1231,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 **Persona consistency:**
 
+:heavy_minus_sign: (Findings) A Multi-Persona Chatbot for Hotline Counselor Training. Orianna Demasi, Yu Li and Zhou Yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.324.pdf) [**(code)**]()
+
 :heavy_minus_sign: [CHARM: Inferring Personal Attributes from Conversations. Anna Tigunova, Andrew Yates, Paramita Mirza and Gerhard Weikum.](https://virtual.2020.emnlp.org/paper_main.3336.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.434.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents. Haoyu Song, Yan Wang, Wei-Nan Zhang, Zhengyu Zhao, Ting Liu and Xiaojiang Liu.](https://virtual.2020.emnlp.org/paper_main.999.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.539.pdf) [**(code)**]()
@@ -1267,6 +1269,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 **New dataset:**
 
+:heavy_minus_sign: [MovieChats: Chat like Humans in a Closed Domain. Hui Su, Xiaoyu Shen, Zhou Xiao, Zheng Zhang, Ernie Chang, Cheng Zhang, Cheng Niu and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.3580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.535.pdf) [**(code)**](https://github.com/chin-gyou/MovieChats) (in Chinese)
+
 :heavy_minus_sign: [Information Seeking in the Spirit of Learning: A Dataset for **Conversational Curiosity**. Pedro Rodriguez, Paul Crook, Seungwhan Moon and Zhiguang Wang.](https://virtual.2020.emnlp.org/paper_main.527.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.655.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A **Visually-grounded** First-person Dialogue Dataset with Verbal and Non-verbal Responses. Hisashi Kamezawa, Noriki Nishida, Nobuyuki Shimizu, Takashi Miyazaki and Hideki Nakayama.](https://virtual.2020.emnlp.org/paper_main.2927.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.267.pdf) [**(code)**]()
@@ -1282,6 +1286,14 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 :heavy_minus_sign: [The World is Not Binary: Learning to Rank with Grayscale Data for Dialogue Response Selection. Zibo Lin, Deng Cai, Yan Wang, Xiaojiang Liu, Haitao Zheng and Shuming Shi.](https://virtual.2020.emnlp.org/paper_main.317.html)  [**(preprint)**](https://arxiv.org/pdf/2004.02421.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.741.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1700.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
+
+:heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Filtering before Iteratively Referring for **Knowledge-Grounded** Response Selection in Retrieval-Based Chatbots. Jia-Chen Gu et al.](https://virtual.2020.emnlp.org/paper_WS-4.1175.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.127.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Focus-Constrained Attention Mechanism for CVAE-based Response Generation. Zhi Cui, Yanran Li, Jiayi ZHANG, Jianwei Cui, Chen Wei and Bin Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.183.pdf) [**(code)**]()
 
 **Other:**
 
@@ -1321,8 +1333,9 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 :heavy_minus_sign: [INSPIRED: Toward Sociable Recommendation Dialog Systems. Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi and Zhou Yu.](https://virtual.2020.emnlp.org/paper_main.2612.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.654.pdf) [**(code)**]()
 
-:boom:++ [Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.](https://virtual.2020.emnlp.org/paper_main.876.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.414.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) **Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success. Farzana Rashid et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.214.pdf) [**(code)**]()
 
+:boom:++ [Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.](https://virtual.2020.emnlp.org/paper_main.876.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.414.pdf) [**(code)**]()
 
 ---
 ---
@@ -2488,10 +2501,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Scene Restoring for Narrative Machine Reading Comprehension. Zhixing Tian, Yuanzhe Zhang, Kang Liu, Jun Zhao, Yantao Jia and Zhicheng Sheng.](https://virtual.2020.emnlp.org/paper_main.390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.247.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
-
-:heavy_minus_sign: [MIME: MIMicking Emotions for Empathetic Response Generation. Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea and Soujanya Poria.](https://virtual.2020.emnlp.org/paper_main.476.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.721.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Conditional Causal Relationships between Emotions and Causes in Texts. Xinhong Chen, Qing Li and Jianping Wang.](https://virtual.2020.emnlp.org/paper_main.548.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.252.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Attention is Not Only a Weight: Analyzing Transformers with Vector Norms. Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.616.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.574.pdf) [**(code)**]()
@@ -2730,8 +2739,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Multi-Stage Pre-training for Automated Chinese Essay Scoring. Wei Song, Kai Zhang, Ruiji Fu, Lizhen Liu, Ting Liu and Miaomiao Cheng.](https://virtual.2020.emnlp.org/paper_main.3567.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.546.pdf) [**(code)**]()
 
-:heavy_minus_sign: [MovieChats: Chat like Humans in a Closed Domain. Hui Su, Xiaoyu Shen, Zhou Xiao, Zheng Zhang, Ernie Chang, Cheng Zhang, Cheng Niu and Jie Zhou.](https://virtual.2020.emnlp.org/paper_main.3580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.535.pdf) [**(code)**]()
-
 :heavy_minus_sign: [End-to-End Emotion-Cause Pair Extraction based on Sliding Window Multi-Label Learning. Zixiang Ding, Rui Xia and Jianfei Yu.](https://virtual.2020.emnlp.org/paper_main.3594.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.290.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols. Prachi Jain, Sushant Rathi, Mausam - and Soumen Chakrabarti.](https://virtual.2020.emnlp.org/paper_main.3617.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf) [**(code)**]()
@@ -2826,8 +2833,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [(Findings+WS) Recurrent Inference in Text Editing. Ning Shi, Ziheng Zeng, Haotian Zhang and Yichen Gong.](https://virtual.2020.emnlp.org/paper_WS-21.1463.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Semantically Driven Sentence Fusion: Modeling and Evaluation. Eyal Ben-David, Orgad Keller, Eric Malmi, Idan Szpektor and Roi Reichart.](https://virtual.2020.emnlp.org/paper_WS-4.paper3.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.135.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots. Jia-Chen Gu et al.](https://virtual.2020.emnlp.org/paper_WS-4.1175.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.127.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) **TextHide: Tackling Data Privacy in Language Understanding Tasks. Yangsibo Huang, Zhao Song, Danqi Chen, Kai Li and Sanjeev Arora.**](https://virtual.2020.emnlp.org/paper_WS-24.3.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.123.pdf) [**(code)**]()
 
@@ -2926,8 +2931,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) **Ruler: Data Programming by Demonstration for Document Labeling**. Sara Evensen, Chang Ge and Cagatay Demiralp.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.181.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Focus-Constrained Attention Mechanism for CVAE-based Response Generation. Zhi Cui, Yanran Li, Jiayi ZHANG, Jianwei Cui, Chen Wei and Bin Wang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.183.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Extracting Chemical-Protein Interactions via Calibrated Deep Neural Network and Self-training. Dongha Choi and Hyunju Lee.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.189.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
@@ -2953,8 +2956,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) On the Importance of Adaptive Data Collection for Extremely Imbalanced Pairwise Tasks. Stephen Mussmann, Robin Jia and Percy Liang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.305.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.309.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) A Multi-Persona Chatbot for Hotline Counselor Training. Orianna Demasi, Yu Li and Zhou Yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.324.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Attending to Long-Distance Document Context for Sequence Labeling. Matthew Jörke, Jon Gillick, Matthew Sims and David Bamman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.330.pdf) [**(code)**]()
 
@@ -2985,8 +2986,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Examining the Ordering of Rhetorical Strategies in Persuasive Requests. Omar Shaikh, Jiaao Chen, Jon Saad-Falcon, Polo Chau and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.116.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision. Chuhan Wu, Fangzhao Wu, Tao Qi, Jianxun Lian, Yongfeng Huang and Xing Xie.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.174.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success. Farzana Rashid et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.214.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Data Annealing for Informal Language Understanding Tasks. Jing Gu and Zhou Yu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.282.pdf) [**(code)**]()
 
