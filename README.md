@@ -2197,6 +2197,8 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems. Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang and Liang Lin.](https://virtual.2020.emnlp.org/paper_main.179.html)  [**(preprint)**](https://arxiv.org/pdf/2010.06823.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.309.pdf) [**(data and code)**](https://github.com/QinJinghui/SAU-Solver)
 
+:heavy_minus_sign: (Findings) **What Can We Do to Improve Peer Review in NLP?. Anna Rogers and Isabelle Augenstein.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.112.pdf) [**(code)**]()
+
 :heavy_minus_sign: [Combining Self-Training and Self-Supervised Learning for Unsupervised Disfluency Detection. Shaolei Wang, Zhongyuan Wang, Wanxiang Che and Ting Liu.](https://virtual.2020.emnlp.org/paper_main.3540.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.142.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Assessing the Helpfulness of Learning Materials with Inference-Based Learner-Like Agent. Yun-Hsuan Jen, Chieh-Yang Huang, MeiHua Chen, Ting-Hao Huang and Lun-Wei Ku.](https://virtual.2020.emnlp.org/paper_main.3344.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.312.pdf) [**(code)**]()
@@ -2922,8 +2924,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) LGPSolver - Solving Logic Grid Puzzles Automatically. Elgun Jabrayilzade and Selma Tekir.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.100.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) HyperText: Endowing FastText with Hyperbolic Geometry. Yudong Zhu, Di Zhou, Jinghui Xiao, Xin Jiang, Xiao Chen and Qun Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.104.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **What Can We Do to Improve Peer Review in NLP?. Anna Rogers and Isabelle Augenstein.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.112.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Examining the Ordering of Rhetorical Strategies in Persuasive Requests. Omar Shaikh, Jiaao Chen, Jon Saad-Falcon, Polo Chau and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.116.pdf) [**(code)**]()
 
