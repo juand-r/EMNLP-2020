@@ -1512,9 +1512,11 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.](https://virtual.2020.emnlp.org/paper_main.1898.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.699.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Semi-supervised Formality Style Transfer using Language Model Discriminator and Mutual Information Maximization. Kunal Chawla and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.212.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Contextual Text Style Transfer. Yu Cheng, Zhe Gan, Yizhe Zhang, Oussama Elachqar, Dianqi Li and Jingjing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.263.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Semi-supervised **Formality** Style Transfer using Language Model Discriminator and Mutual Information Maximization. Kunal Chawla and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.212.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Facilitating the Communication of **Politeness** through Fine-Grained Paraphrasing. Liye Fu, Susan Fussell and Cristian Danescu-Niculescu-Mizil.](https://virtual.2020.emnlp.org/paper_main.168.html)  [**(preprint)**](http://www.cs.cornell.edu/~cristian/Politeness_Paraphrasing_files/fine-grained-politeness-paraphrasing.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf) [**(code)**]() [**(video)**](https://www.youtube.com/watch?v=k-Mv29f5pBQ&feature=youtu.be)
 
 ---
 ---
@@ -2214,10 +2216,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.96.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.49.pdf) [**(code)**](https://github.com/xinyadu/eeqa)
 
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing. Liye Fu, Susan Fussell and Cristian Danescu-Niculescu-Mizil.](https://virtual.2020.emnlp.org/paper_main.168.html)  [**(preprint)**](http://www.cs.cornell.edu/~cristian/Politeness_Paraphrasing_files/fine-grained-politeness-paraphrasing.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf) [**(code)**]() [**(video)**](https://www.youtube.com/watch?v=k-Mv29f5pBQ&feature=youtu.be)
-
-
 
 :heavy_minus_sign: [Incomplete Utterance Rewriting as Semantic Segmentation. Qian Liu, Bei Chen, Jian-Guang LOU, Bin Zhou and Dongmei Zhang.](https://virtual.2020.emnlp.org/paper_main.214.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13166.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.227.pdf) [**(code)**](https://github.com/microsoft/ContextualSP)
 
