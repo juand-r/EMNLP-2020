@@ -580,6 +580,12 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP**](https://blackboxnlp.github.io/).
 
+:boom:++ [(Honorable Mention) GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.145.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?. Peter Hase et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.390.pdf) [**(code)**]()
+
 :boom:++ [A Diagnostic Study of Explainability Techniques for Text Classification. Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.958.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.263.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.](https://virtual.2020.emnlp.org/paper_main.2585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.347.pdf) [**(code)**]()
@@ -2570,8 +2576,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
 
-:boom:++ [(Honorable Mention) GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
-
 :boom:++ [Grounded Compositional Outputs for Adaptive Language Modeling. Nikolaos Pappas, Phoebe Mulcaire and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.1130.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.96.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Towards Interpretable Reasoning over Paragraph Effects in Situation. Mucheng Ren, Xiubo Geng, Tao QIN, Heyan Huang and Daxin Jiang.](https://virtual.2020.emnlp.org/paper_main.1191.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.548.pdf) [**(code)**]()
@@ -2922,8 +2926,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Enhancing Automated Essay Scoring Performance via Fine-tuning Pre-trained Language Models with Combination of Regression and Ranking. Ruosong Yang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.141.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.145.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) RecoBERT: A Catalog Language Model for Text-Based Recommendations. Itzik Malkiel, Oren Barkan, Avi Caciularu, Noam Razin, Ori Katz and Noam Koenigstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.154.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) An Empirical Exploration of Local Ordering Pre-training for Structured Prediction. Zhisong Zhang, Xiang Kong, Lori Levin and Eduard Hovy.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.160.pdf) [**(code)**]()
@@ -2975,8 +2977,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Large Product Key Memory for Pretrained Language Models. Gyuwan Kim and Tae Hwan Jung.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.362.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension. Xuguang Wang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.370.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?. Peter Hase et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.390.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER. Qingkai Zeng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf) [**(code)**]()
 
