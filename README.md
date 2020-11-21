@@ -1476,17 +1476,17 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 ---
 ###  [:top:](#nlg-papers) Style Transfer
 
-:heavy_minus_sign: [DGST: a Dual-Generator Network for Text Style Transfer. Xiao Li, Guanyi Chen, Chenghua Lin and Ruizhe Li.](https://virtual.2020.emnlp.org/paper_main.3676.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.578.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.55.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.](https://virtual.2020.emnlp.org/paper_main.1898.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.699.pdf) [**(code)**]()
+:boom:++ [**Reformulating Unsupervised Style Transfer as Paraphrase Generation**. Kalpesh Krishna, John Wieting and Mohit Iyyer.](https://virtual.2020.emnlp.org/paper_main.1581.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.55.pdf) [**(project)**](http://style.cs.umass.edu/)  [**(code)**](https://github.com/martiansideofthemoon/style-transfer-paraphrase)
 
 :heavy_minus_sign: [**Blank Language Models**. Tianxiao Shen, Victor Quach, Regina Barzilay and Tommi Jaakkola.](https://virtual.2020.emnlp.org/paper_main.3403.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.420.pdf) [**(code)**](https://github.com/Varal7/blank_language_model)
 
+:heavy_minus_sign: [DGST: a Dual-Generator Network for Text Style Transfer. Xiao Li, Guanyi Chen, Chenghua Lin and Ruizhe Li.](https://virtual.2020.emnlp.org/paper_main.3676.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.578.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Unsupervised Text Style Transfer with Padded Masked Language Models. Eric Malmi, Aliaksei Severyn and Sascha Rothe.](https://virtual.2020.emnlp.org/paper_main.1898.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.699.pdf) [**(code)**]()
+
 :heavy_minus_sign: (Findings) Semi-supervised Formality Style Transfer using Language Model Discriminator and Mutual Information Maximization. Kunal Chawla and Diyi Yang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.212.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) **Contextual Text Style Transfer. Yu Cheng, Zhe Gan, Yizhe Zhang, Oussama Elachqar, Dianqi Li and Jingjing Liu.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.263.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) Contextual Text Style Transfer. Yu Cheng, Zhe Gan, Yizhe Zhang, Oussama Elachqar, Dianqi Li and Jingjing Liu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.263.pdf) [**(code)**]()
 
 ---
 ---
