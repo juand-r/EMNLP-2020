@@ -569,6 +569,17 @@ Bias in Word Embeddings](https://www.aclweb.org/anthology/2020.nlposs-1.5.pdf) f
 
 See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural networks for NLP**](https://blackboxnlp.github.io/).
 
+:heavy_minus_sign: [Towards Interpreting BERT for Reading Comprehension Based QA. Sahana Ramnath, Preksha Nema, Deep Sahni and Mitesh M. Khapra.](https://virtual.2020.emnlp.org/paper_main.3529.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.261.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.](https://virtual.2020.emnlp.org/paper_main.2585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.347.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks. Chengyue Jiang, Yinggong Zhao, Shanbo Chu, Libin Shen and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.258.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Interpretation of NLP models through input marginalization. Siwon Kim, Jihun Yi, Eunji Kim and Sungroh Yoon.](https://virtual.2020.emnlp.org/paper_main.1612.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.255.pdf) [**(code)**]()
+
+:heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.](https://virtual.2020.emnlp.org/paper_main.87.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.262.pdf) [**(code)**](https://github.com/nicola-decao/diffmask)
+
+
 ---
 ---
 ### [:top:](#topics) Adversarial ML
@@ -793,7 +804,7 @@ See also some papers under [Adversarial training](#top-adversarial-training).
 
 **Analysis:**
 
-**See also:** what LMs know about **lexical semantics** ([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ) and **discourse** ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)). They also contain **social bias** ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
+**See also:** what LMs know about **lexical semantics** ([Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html) ), **discourse** ([Predicting Reference: What do Language Models Learn about Discourse Models?. Shiva Upadhye, Leon Bergen and Andrew Kehler.](https://virtual.2020.emnlp.org/paper_main.2638.html)), and event arguments [BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? - A Study on the RAMS Dataset. Varun Gangal, Eduard Hovy](https://www.aclweb.org/anthology/2020.blackboxnlp-1.1.pdf)). They also contain **social bias** ([CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models. Nikita Nangia, Clara Vania, Rasika Bhalerao and Samuel R. Bowman.](https://virtual.2020.emnlp.org/paper_main.2644.html)).
 
 :boom:++ [**Asking without Telling: Exploring Latent Ontologies in Contextual Representations**. Julian Michael, Jan A. Botha and Ian Tenney.](https://virtual.2020.emnlp.org/paper_main.1052.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.552.pdf) [**(code)**]()
 
@@ -2293,8 +2304,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
 
-:heavy_minus_sign: [How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking. Nicola De Cao et al.](https://virtual.2020.emnlp.org/paper_main.87.html)  [**(preprint)**](https://arxiv.org/pdf/2004.14992.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.262.pdf) [**(code)**](https://github.com/nicola-decao/diffmask)
-
 :heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.96.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.49.pdf) [**(code)**](https://github.com/xinyadu/eeqa)
 
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
@@ -2400,8 +2409,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [AmbigQA: Answering Ambiguous Open-domain Questions. Sewon Min, Julian Michael, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.1580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.466.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Interpretation of NLP models through input marginalization. Siwon Kim, Jihun Yi, Eunji Kim and Sungroh Yoon.](https://virtual.2020.emnlp.org/paper_main.1612.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.255.pdf) [**(code)**]()
-
 :heavy_minus_sign: [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.](https://virtual.2020.emnlp.org/paper_main.1618.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.19.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dialogue Response Ranking Training with Large-Scale Human Feedback Data. Xiang Gao, Yizhe Zhang, Michel Galley, Chris Brockett and Bill Dolan.](https://virtual.2020.emnlp.org/paper_main.1700.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.28.pdf) [**(code)**]()
@@ -2421,8 +2428,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Question Directed Graph Attention Network for Numerical Reasoning over Text. Kunlong Chen, Weidi Xu, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song, Taifeng Wang, Yuan Qi and Wei Chu.](https://virtual.2020.emnlp.org/paper_main.1975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.549.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Event Extraction as Machine Reading Comprehension. Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu.](https://virtual.2020.emnlp.org/paper_main.1977.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.128.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Cold-Start and Interpretability: Turning Regular Expressions into Trainable Recurrent Neural Networks. Chengyue Jiang, Yinggong Zhao, Shanbo Chu, Libin Shen and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1996.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.258.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification**. Sen et al.](https://virtual.2020.emnlp.org/paper_main.2040.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.345.pdf) [**(code)**]()
 
@@ -2487,9 +2492,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification. Shyam Subramanian and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.2570.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.627.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning. Xiaoxiao Guo, Mo Yu, Yupeng Gao, Chuang Gan, Murray Campbell and Shiyu Chang.](https://virtual.2020.emnlp.org/paper_main.2574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.624.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Learning Variational Word Masks to Improve the Interpretability of Neural Text Classifiers. Hanjie Chen and Yangfeng Ji.](https://virtual.2020.emnlp.org/paper_main.2585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.347.pdf) [**(code)**]()
-
 
 :heavy_minus_sign: [INSPIRED: Toward Sociable Recommendation Dialog Systems. Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi and Zhou Yu.](https://virtual.2020.emnlp.org/paper_main.2612.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.654.pdf) [**(code)**]()
 
@@ -2699,8 +2701,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Neural Conversational QA: Learning to Reason vs Exploiting Patterns. Nikhil Verma et al.](https://virtual.2020.emnlp.org/paper_main.3495.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.589.pdf) [**(code)**]()
 
 :heavy_minus_sign: [On the weak link between importance and prunability of attention heads. Aakriti Budhraja, Madhura Pande, Preksha Nema, Pratyush Kumar and Mitesh M. Khapra.](https://virtual.2020.emnlp.org/paper_main.3513.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.260.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Towards Interpreting BERT for Reading Comprehension Based QA. Sahana Ramnath, Preksha Nema, Deep Sahni and Mitesh M. Khapra.](https://virtual.2020.emnlp.org/paper_main.3529.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.261.pdf) [**(code)**]()
 
 :heavy_minus_sign: [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling. Di Wu, Liang Ding, Fan Lu and Jian Xie.](https://virtual.2020.emnlp.org/paper_main.3621.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.152.pdf) [**(code)**]()
 
