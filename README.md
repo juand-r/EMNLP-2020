@@ -84,6 +84,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
     - [Text to SQL](#top-text-to-sql)
     - [AMR Parsing](#top-amr-parsing)
   - [Topic Models](#top-topic-models)
+  - [Fact Checking](#top-fact-checking)
   - [Knowledge Graphs](#top-knowledge-graphs)
   - [Natural Language Inference](#top-natural-language-inference)
   - [Emergent Language in Multi-Agent Communication](#top-emergent-language-in-multi-agent-communication)
@@ -473,6 +474,8 @@ See also the papers at the [**1st Workshop on Computational Approaches to Discou
 
 ---
 ### [:top:](#topics) Argumentation
+
+:heavy_minus_sign: (Findings) The workweek is the best time to start a family – A Study of GPT-2 Based Claim Generation. Shai Gretz, Yonatan Bilu, Edo Cohen-Karlik and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.47.pdf) [**(code)**]()
 
 :boom:++ [Detecting Attackable Sentences in Arguments. Yohan Jo, Seojin Bang, Emaad Manzoor, Eduard Hovy and Chris Reed.](https://virtual.2020.emnlp.org/paper_main.438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.1.pdf) [**(code)**]()
 
@@ -1393,6 +1396,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 
 
+:heavy_minus_sign: (Findings) How Decoding Strategies Affect the Verifiability of Generated Text. Luca Massarelli et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.22.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models. Peng Xu et al.**](https://virtual.2020.emnlp.org/paper_main.1647.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.226.pdf) [**(code)**]()
 
@@ -1414,7 +1418,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 :heavy_minus_sign: [(Findings+WS) GRUEN for Evaluating Linguistic Quality of Generated Text. Wanzheng Zhu and Suma Bhat.](https://virtual.2020.emnlp.org/paper_WS-20.183.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.9.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) How Decoding Strategies Affect the Verifiability of Generated Text. Luca Massarelli et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.22.pdf) [**(code)**]()
+
 
 :heavy_minus_sign: (Findings) Control, Generate, Augment: A Scalable Framework for Multi-Attribute Text Generation. Giuseppe Russo, Nora Hollenstein, Claudiu Cristian Musat and Ce Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.33.pdf) [**(code)**]()
 
@@ -1432,8 +1436,6 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 :heavy_minus_sign: (Findings) Target Conditioning for One-to-Many Generation. Marie-Anne Lachaux, Armand Joulin and Guillaume Lample.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.256.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Regularization of Distinct Strategies for Unsupervised Question Generation. Junmo Kang, Giwon Hong, Haritz Puerto San Roman and Sung-Hyon Myaeng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf) [**(code)**]()
-
-:boom:++ (Findings) **Evaluating Factuality in Generation with Dependency-level Entailment. Tanya Goyal and Greg Durrett.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.322.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Narrative Text Generation with a Latent Discrete Plan. Harsh Jhamtani and Taylor Berg-Kirkpatrick.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.325.pdf) [**(code)**]()
 
@@ -1576,6 +1578,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 :heavy_minus_sign: [(Findings+WS) CDEvalSumm: An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems. Yiran Chen et al.](https://virtual.2020.emnlp.org/paper_WS-20.2740.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.329.pdf) [**(code)**]()
 
 **Factuality evaluation and correction:**
+
+:boom:++ (Findings) **Evaluating Factuality in Generation with Dependency-level Entailment. Tanya Goyal and Greg Durrett.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.322.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Evaluating the Factual Consistency of Abstractive Text Summarization. Wojciech Kryscinski, Bryan McCann, Caiming Xiong and Richard Socher.](https://virtual.2020.emnlp.org/paper_main.2506.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.750.pdf) [**(code)**]()
 
@@ -1824,6 +1828,8 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 ### [:top:](#nlu-papers) Information Retrieval
 
 :heavy_minus_sign: [Ad-hoc Document Retrieval using Weak-Supervision with BERT and GPT2. Yosi Mass and Haggai Roitman.](https://virtual.2020.emnlp.org/paper_main.3240.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.343.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Querying Across Genres for Medical Claims in News. Chaoyuan Zuo, Narayan Acharya and Ritwik Banerjee.](https://virtual.2020.emnlp.org/paper_main.3419.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.139.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Document Ranking with a Pretrained Sequence-to-Sequence Model. Rodrigo Nogueira, Zhiying Jiang, Ronak Pradeep and Jimmy Lin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.63.pdf) [**(code)**]()
 
@@ -2160,6 +2166,39 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 
 :heavy_minus_sign: [Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder. Xiaobao Wu, Chunping Li, Yan Zhu and Yishu Miao.](https://virtual.2020.emnlp.org/paper_main.30.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf) [**(code)**](https://github.com/bobxwu/NQTM)
 
+
+---
+###  [:top:](#nlu-papers) Fact Checking
+
+See also **Factuality evaluation and correction** under [Summarization](#top-summarization).
+
+:heavy_minus_sign: [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News. Nguyen Vo and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.872.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.621.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Neural Deepfake Detection with Factual Structure of Text. Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin.](https://virtual.2020.emnlp.org/paper_main.1187.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.193.pdf) [**(code)**]()
+
+:boom:++ [Generating Fact Checking Briefs. Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes and Sebastian Riedel.](https://virtual.2020.emnlp.org/paper_main.2117.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.580.pdf) [**(code)**]()
+
+:boom:++ [Generating Label Cohesive and Well-Formed Adversarial Claims. Pepa Atanasova, Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.1614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.256.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Claim Check-Worthiness Detection as Positive Unlabelled Learning. Dustin Wright and Isabelle Augenstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.43.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification. Shyam Subramanian and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.2570.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.627.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
+
+:boom:++ [**Fact or Fiction: Verifying Scientific Claims**. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.](https://virtual.2020.emnlp.org/paper_main.2962.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Table Fact Verification with Structure-Aware Transformer. Hongzhi Zhang, Yingyao Wang, Sirui Wang, Xuezhi Cao, Fuzheng Zhang and Zhongyuan Wang.](https://virtual.2020.emnlp.org/paper_main.1086.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.126.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Constrained Fact Verification for FEVER. Adithya Pratapa, Sai Muralidhar Jayanthi and Kavya Nerella.](https://virtual.2020.emnlp.org/paper_main.2750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.629.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.309.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Explainable Automated Fact-Checking for Public Health Claims. Neema Kotonya and Francesca Toni.](https://virtual.2020.emnlp.org/paper_main.3151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.623.pdf) [**(code)**]()
+
+:heavy_minus_sign: [AnswerFact: Fact Checking in Product Question Answering. Wenxuan Zhang, Yang Deng, Jing Ma and Wai Lam.](https://virtual.2020.emnlp.org/paper_main.1004.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.188.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#nlu-papers) Knowledge Graphs
@@ -2521,8 +2560,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Writing Strategies for Science Communication: Data and Computational Analysis. Tal August, Lauren Kim, Katharina Reinecke and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.868.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.429.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News. Nguyen Vo and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.872.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.621.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference**. Bang An, Jie Lyu, Zhenyi Wang, Chunyuan Li, Changwei Hu, Fei Tan, Ruiyi Zhang, Yifan Hu and Changyou Chen.](https://virtual.2020.emnlp.org/paper_main.903.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.17.pdf) [**(code)**]()
 
 :heavy_minus_sign: [TeaForN: Teacher-Forcing with N-grams. Sebastian Goodman, Nan Ding and Radu Soricut.](https://virtual.2020.emnlp.org/paper_main.910.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.702.pdf) [**(code)**]()
@@ -2531,8 +2568,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Enhancing Aspect Term Extraction with Soft Prototypes. Zhuang Chen and Tieyun Qian.](https://virtual.2020.emnlp.org/paper_main.983.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.164.pdf) [**(code)**]()
 
-:heavy_minus_sign: [AnswerFact: Fact Checking in Product Question Answering. Wenxuan Zhang, Yang Deng, Jing Ma and Wai Lam.](https://virtual.2020.emnlp.org/paper_main.1004.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.188.pdf) [**(code)**]()
-
 :heavy_minus_sign: [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving. Qinzhuo Wu, Qi Zhang, Jinlan Fu and Xuanjing Huang.](https://virtual.2020.emnlp.org/paper_main.1010.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.579.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
@@ -2540,8 +2575,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :boom:++ [(Honorable Mention) GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
 
 :boom:++ [Grounded Compositional Outputs for Adaptive Language Modeling. Nikolaos Pappas, Phoebe Mulcaire and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.1130.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.96.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Neural Deepfake Detection with Factual Structure of Text. Wanjun Zhong, Duyu Tang, Zenan Xu, Ruize Wang, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin.](https://virtual.2020.emnlp.org/paper_main.1187.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.193.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Towards Interpretable Reasoning over Paragraph Effects in Situation. Mucheng Ren, Xiubo Geng, Tao QIN, Heyan Huang and Daxin Jiang.](https://virtual.2020.emnlp.org/paper_main.1191.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.548.pdf) [**(code)**]()
 
@@ -2591,8 +2624,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Interpreting Open-Domain Modifiers: Decomposition of Wikipedia Categories into Disambiguated Property-Value Pairs. Marius Pasca.](https://virtual.2020.emnlp.org/paper_main.2112.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.503.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Generating Fact Checking Briefs. Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes and Sebastian Riedel.](https://virtual.2020.emnlp.org/paper_main.2117.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.580.pdf) [**(code)**]()
-
 :heavy_minus_sign: [ISAAQ - Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention. Jose Manuel Gomez-Perez and Raúl Ortega.](https://virtual.2020.emnlp.org/paper_main.2120.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.441.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Intrinsic Probing through Dimension Selection. Lucas Torroba Hennigen, Adina Williams and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.2122.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.15.pdf) [**(code)**]()
@@ -2635,8 +2666,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning. Tsvetomila Mihaylova, Vlad Niculae and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.2535.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.171.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification. Shyam Subramanian and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.2570.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.627.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Autoregressive Knowledge Distillation through Imitation Learning. Alexander Lin, Jeremy Wohlwend, Howard Chen and Tao Lei.](https://virtual.2020.emnlp.org/paper_main.2632.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.494.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Cross-Thought for Sentence Encoder Pre-training. Shuohang Wang, Yuwei Fang, Siqi Sun, Zhe Gan, Yu Cheng, Jingjing Liu and Jing Jiang.](https://virtual.2020.emnlp.org/paper_main.2635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.30.pdf) [**(code)**]()
@@ -2646,8 +2675,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja and Navin Goyal.](https://virtual.2020.emnlp.org/paper_main.2696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.576.pdf) [**(code)**]()
 
 :boom:++ [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2705.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.746.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
 
 :heavy_minus_sign: [We Can Detect Your Bias: Predicting the Political Ideology of News Articles. Ramy Baly, Giovanni Da San Martino, James Glass and Preslav Nakov.](https://virtual.2020.emnlp.org/paper_main.2784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.404.pdf) [**(code)**]()
 
@@ -2670,8 +2697,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Disentangle-based Continual Graph Representation Learning. Xiaoyu Kou, Yankai Lin, Shaobo Liu, Peng Li, Jie Zhou and Yan Zhang.](https://virtual.2020.emnlp.org/paper_main.2873.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.237.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Annotating Temporal Dependency Graphs via Crowdsourcing. Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue.](https://virtual.2020.emnlp.org/paper_main.2922.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.432.pdf) [**(code)**]()
-
-:boom:++ [**Fact or Fiction: Verifying Scientific Claims**. David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan and Hannaneh Hajishirzi.](https://virtual.2020.emnlp.org/paper_main.2962.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.609.pdf) [**(code)**]()
 
 :heavy_minus_sign: [IIRC: A Dataset of Incomplete Information Reading Comprehension Questions. James Ferguson, Matt Gardner, Hannaneh Hajishirzi, Tushar Khot and Pradeep Dasigi.](https://virtual.2020.emnlp.org/paper_main.2973.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.86.pdf) [**(code)**]()
 
@@ -2697,7 +2722,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 ---
 
 
-:heavy_minus_sign: [Explainable Automated Fact-Checking for Public Health Claims. Neema Kotonya and Francesca Toni.](https://virtual.2020.emnlp.org/paper_main.3151.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.623.pdf) [**(code)**]()
+
 
 :boom:++ [**Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning. Lianhui Qin et al.**](https://virtual.2020.emnlp.org/paper_main.3270.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.58.pdf) [**(code)**]()
 
@@ -2761,8 +2786,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.](https://virtual.2020.emnlp.org/paper_main.877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.222.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Table Fact Verification with Structure-Aware Transformer. Hongzhi Zhang, Yingyao Wang, Sirui Wang, Xuezhi Cao, Fuzheng Zhang and Zhongyuan Wang.](https://virtual.2020.emnlp.org/paper_main.1086.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.126.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.](https://virtual.2020.emnlp.org/paper_main.1180.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.307.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Iterative Feature Mining for Constraint-Based Data Collection to Increase Data Diversity and Model Robustness. Stefan Larson et al.](https://virtual.2020.emnlp.org/paper_main.1389.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.650.pdf) [**(code)**]()
@@ -2772,8 +2795,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Text Graph Transformer for Document Classification. Haopeng Zhang and Jiawei Zhang.](https://virtual.2020.emnlp.org/paper_main.1488.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.668.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring Contextualized Neural Language Models for Temporal Dependency Parsing. Hayley Ross, Jonathon Cai and Bonan Min.](https://virtual.2020.emnlp.org/paper_main.1569.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.689.pdf) [**(code)**]()
-
-:boom:++ [Generating Label Cohesive and Well-Formed Adversarial Claims. Pepa Atanasova, Dustin Wright and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.1614.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.256.pdf) [**(code)**]()
 
 :heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
 
@@ -2787,8 +2808,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Supervised Seeded Iterated Learning for Interactive Language Learning. Yuchen Lu, Soumye Singhal, Florian Strub, Olivier Pietquin and Aaron Courville.](https://virtual.2020.emnlp.org/paper_main.2583.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.325.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Constrained Fact Verification for FEVER. Adithya Pratapa, Sai Muralidhar Jayanthi and Kavya Nerella.](https://virtual.2020.emnlp.org/paper_main.2750.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.629.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Reading Between the Lines: Exploring Infilling in Visual Narratives. Khyathi Raghavi Chandu, Ruo-Ping Dong and Alan W Black.](https://virtual.2020.emnlp.org/paper_main.2758.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Streaming Approach For Efficient Batched Beam Search. Kevin Yang, Violet Yao, John DeNero and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.2767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.366.pdf) [**(code)**]()
@@ -2800,8 +2819,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Incorporating Behavioral Hypotheses for Query Generation. Ruey-Cheng Chen and Chia-Jung Lee.](https://virtual.2020.emnlp.org/paper_main.3327.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Emotion-Cause Pair Extraction as Sequence Labeling Based on A Novel Tagging Scheme. Chaofa Yuan, Chuang Fan, Jianzhu Bao and Ruifeng Xu.](https://virtual.2020.emnlp.org/paper_main.3329.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.289.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Querying Across Genres for Medical Claims in News. Chaoyuan Zuo, Narayan Acharya and Ritwik Banerjee.](https://virtual.2020.emnlp.org/paper_main.3419.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.139.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Neural Conversational QA: Learning to Reason vs Exploiting Patterns. Nikhil Verma et al.](https://virtual.2020.emnlp.org/paper_main.3495.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.589.pdf) [**(code)**]()
 
@@ -2866,11 +2883,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Semantic Matching for Sequence-to-Sequence Learning. Ruiyi Zhang, Changyou Chen, Xinyuan Zhang, Ke Bai and Lawrence Carin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.21.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Claim Check-Worthiness Detection as Positive Unlabelled Learning. Dustin Wright and Isabelle Augenstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.43.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Revisiting Representation Degeneration Problem in Language Modeling. Zhong Zhang, Chongming Gao, Cong Xu, Rui Miao, Qinli Yang and Junming Shao.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.46.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) The workweek is the best time to start a family – A Study of GPT-2 Based Claim Generation. Shai Gretz, Yonatan Bilu, Edo Cohen-Karlik and Noam Slonim.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.47.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) A structure-enhanced graph convolutional network for sentiment analysis. Fanyu Meng, Junlan Feng, danping yin, Si Chen and Min Hu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.52.pdf) [**(code)**]()
 
@@ -2955,8 +2968,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) On the Importance of Adaptive Data Collection for Extremely Imbalanced Pairwise Tasks. Stephen Mussmann, Robin Jia and Percy Liang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.305.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification. Yichen Jiang, Shikha Bordia, ZHENG ZHONG, Charles Dognin, Maneesh Singh and Mohit Bansal.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.309.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Attending to Long-Distance Document Context for Sequence Labeling. Matthew Jörke, Jon Gillick, Matthew Sims and David Bamman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.330.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Context Analysis for Pre-trained Masked Language Models. Yi-An Lai, Garima Lalwani and Yi Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.338.pdf) [**(code)**]()
@@ -3003,4 +3014,3 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Dual Inference for Improving Language Understanding and Generation. Shang-Yu Su, Yung-Sung Chuang and Yun-Nung Chen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.443.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Adapting Open Domain Fact Extraction and Verification to COVID-FACT through In-Domain Language Modeling. Zhenghao Liu et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.216.pdf) [**(code)**]()
