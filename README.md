@@ -2301,13 +2301,11 @@ See also **Factuality evaluation and correction** under [Summarization](#top-sum
 
 :heavy_minus_sign: [(Findings+WS) A Corpus for Outbreak Detection of Diseases Prevalent in Latin America. Antonella Dellanzo, Viviana Cotik, Jose Ochoa-Luna](https://virtual.2020.emnlp.org/paper_WS-1.195.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.conll-1.44.pdf)
 
+:heavy_minus_sign: (Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.366.pdf) [**(code)**]()
+
 **COVID-19:**
 
 See also [NLP for COVID-19 Workshop (Part 2)](https://www.nlpcovid19workshop.org/emnlp2020/). For COVID-related literature search, see under **Scientific Text Mining**.
-
-**Other:**
-
-:heavy_minus_sign: (Findings) An Empirical Methodology for Detecting and Prioritizing Needs during Crisis Events. M. Janina Sarol et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.366.pdf) [**(code)**]()
 
 ---
 ### [:top:](#applications) Clinical and Biomedical
