@@ -344,6 +344,8 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 
 #### [:top:](#topics) Lexical Semantics
 
+See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)
+
 :boom:++ [**Do ``Undocumented Workers" == ``Illegal Aliens"? Differentiating Denotation and Connotation in Vector Spaces**. Albert Webson, Zhizhong Chen, Carsten Eickhoff and Ellie Pavlick.](https://virtual.2020.emnlp.org/paper_main.2920.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.335.pdf) [**(code)**]()
 > **Philosophy of Language prelude:** Frege, Sense and Reference (1894): Semantic meaning = Reference (denotation) + "mode of presentation". Most semantics to follow largely focused on reference and truth conditions -- in philosophy of language these are roughly the externalists and referentialists such as Putnam and Kripke. However, one can also look at semantics as grounded on psychological concepts (e.g., Gilbert Harman, Conceptual Role Semantics) and how they are used. Two-Factor Semantics (Ned Block, endorsed by Susan Carey) integrates both. This paper tries to operationalize the disentanglement of denotation and connotation with an adversarial neural network.
 >
@@ -351,7 +353,7 @@ See also: [mT5](https://arxiv.org/pdf/2010.11934.pdf) (101 languages) and [mBART
 >
 > Not all that related, but interesting: [Media Persuasion through Slanted Language: Evidence from the Coverage of Immigration](https://www.barcelonagse.eu/research/working-papers/media-persuasion-through-slanted-language-evidence-coverage-immigration)
 
-See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT: A Case Study on CoQA. Ieva Staliūnaitė and Ignacio Iacobacci.](https://virtual.2020.emnlp.org/paper_main.1970.html)
+:boom:++ [**Speakers Fill Lexical Semantic Gaps with Context**. Tiago Pimentel, Rowan Hall Maudslay, Damian Blasi and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.328.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploring Semantic Capacity of Terms. Jie Huang, Zilong Wang, Kevin Chang, Wen-mei Hwu and JinJun Xiong.](https://virtual.2020.emnlp.org/paper_main.598.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.684.pdf) [**(code)**]()
 
@@ -395,6 +397,14 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 :heavy_minus_sign: (Findings) An Evaluation Method for Diachronic Word Sense Induction. Ashjan Alsulaimani, Erwan Moreau and Carl Vogel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.284.pdf) [**(code)**]()
 
+**Bilingual Lexicon Induction:**
+
+:heavy_minus_sign: [LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space. Tasnim Mohiuddin, M Saiful Bari and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.865.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.215.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. Xu Zhao, Zihao Wang, Hao Wu and Yong Zhang.](https://virtual.2020.emnlp.org/paper_main.3205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.238.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Improving Bilingual Lexicon Induction for Low Frequency Words. Jiaji Huang, Xingyu Cai and Kenneth Church.](https://virtual.2020.emnlp.org/paper_main.2818.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.100.pdf) [**(code)**]()
+
 **Other:**
 
 :heavy_minus_sign: [Generationary or "How We Went beyond Word Sense Inventories and Learned to Gloss''. Michele Bevilacqua, Marco Maru and Roberto Navigli.](https://virtual.2020.emnlp.org/paper_main.2349.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.585.pdf) [**(code)**]()
@@ -403,6 +413,9 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 
 #### [:top:](#topics) Sentence-level Semantics
+
+For NLI, see [Natural Language Inference](#top-natural-language-inference).
+
 
 
 
@@ -2246,8 +2259,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Attention is Not Only a Weight: Analyzing Transformers with Vector Norms. Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.616.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.574.pdf) [**(code)**]()
 
-:boom:++ [**Speakers Fill Lexical Semantic Gaps with Context**. Tiago Pimentel, Rowan Hall Maudslay, Damian Blasi and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.644.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.328.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning. Tao Shen, Yi Mao, Pengcheng He, Guodong Long, Adam Trischler and Weizhu Chen.](https://virtual.2020.emnlp.org/paper_main.666.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.722.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-view Story Characterization from Movie Plot Synopses and Reviews. Sudipta Kar, Gustavo Aguilar, Mirella Lapata and Thamar Solorio.](https://virtual.2020.emnlp.org/paper_main.668.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.454.pdf) [**(code)**]()
@@ -2261,8 +2272,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Multilevel Text Alignment with Cross-Document Attention. Xuhui Zhou, Nikolaos Pappas and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.825.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.407.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Joint Estimation and Analysis of Risk Behavior Ratings in Movie Scripts. Victor Martinez, Krishna Somandepalli, Yalda Tehranian-Uhls and Shrikanth Narayanan.](https://virtual.2020.emnlp.org/paper_main.851.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.387.pdf) [**(code)**]()
-
-:heavy_minus_sign: [LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space. Tasnim Mohiuddin, M Saiful Bari and Shafiq Joty.](https://virtual.2020.emnlp.org/paper_main.865.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.215.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Writing Strategies for Science Communication: Data and Computational Analysis. Tal August, Lauren Kim, Katharina Reinecke and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.868.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.429.pdf) [**(code)**]()
 
@@ -2511,8 +2520,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Generating Dialogue Responses from a Semantic Latent Space. Wei-Jen Ko, Avik Ray, Yilin Shen and Hongxia Jin.](https://virtual.2020.emnlp.org/paper_main.3179.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.352.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Semi-Supervised Bilingual Lexicon Induction with Two-way Interaction. Xu Zhao, Zihao Wang, Hao Wu and Yong Zhang.](https://virtual.2020.emnlp.org/paper_main.3205.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.238.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.](https://virtual.2020.emnlp.org/paper_main.3236.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.178.pdf) [**(code)**]()
@@ -2647,9 +2654,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [A Streaming Approach For Efficient Batched Beam Search. Kevin Yang, Violet Yao, John DeNero and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.2767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.366.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
-
-
-:heavy_minus_sign: [Improving Bilingual Lexicon Induction for Low Frequency Words. Jiaji Huang, Xingyu Cai and Kenneth Church.](https://virtual.2020.emnlp.org/paper_main.2818.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.100.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
 
