@@ -965,13 +965,16 @@ See also the following workshops:
 - [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
 - [**NLP Beyond Text**](https://sites.google.com/view/nlpbt-2020)
 
+For fun: "Semantic Understanding of Proefessional Soccer Commentaries" (UAI 2012),Hannaneh Hajishirzi, Mohammad Rastegari, Ali Farhadi, and Jessica Hodgins. And 
+"Reasoning in Robocup Soccer Narratives" (UAI 11), Hannaneh Hajishirzi, Julia Hockenmaier, Erik T. Mueller, and Eyal Amir. For social aspects of language use: the Cards Corpus (http://cardscorpus.christopherpotts.net/).
+
 :boom:++ [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
 
 :heavy_minus_sign: [(Findings+WS) Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions. Peter Jansen.](https://virtual.2020.emnlp.org/paper_WS-10.3302.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.395.pdf) [**(code)**]()
 
 **Vision:**
 
-:boom:++ [(Honourable Mention) Visually Grounded Compound PCFGs. Yanpeng Zhao and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.2702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.354.pdf) [**(code)**](https://github.com/zhaoyanpeng/vpcfg)
+:boom:++ [(Honorable Mention) Visually Grounded Compound PCFGs. Yanpeng Zhao and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.2702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.354.pdf) [**(code)**](https://github.com/zhaoyanpeng/vpcfg)
 
 :boom:++ [Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision. Hao Tan and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.3360.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.162.pdf) [**(code)**]()
 
@@ -1167,7 +1170,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 :heavy_minus_sign: [GRADE: Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems. Lishan Huang, Zheng Ye, Jinghui Qin, Liang Lin and Xiaodan Liang.](https://virtual.2020.emnlp.org/paper_main.1606.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.742.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu et al.](https://virtual.2020.emnlp.org/paper_main.2281.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.326.pdf) [**(code)**]()
+:boom:++ [(Honorable Mention) Spot The Bot: A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems. Jan Deriu et al.](https://virtual.2020.emnlp.org/paper_main.2281.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.326.pdf) [**(code)**]()
 
 **New dataset:**
 
@@ -2409,7 +2412,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
 
-:boom:++ [GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
+:boom:++ [(Honorable Mention) GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
 
 :boom:++ [Grounded Compositional Outputs for Adaptive Language Modeling. Nikolaos Pappas, Phoebe Mulcaire and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.1130.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.96.pdf) [**(code)**]()
 
@@ -2429,7 +2432,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model. Jun Yen Leung, Guy Emerson and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.1282.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.329.pdf) [**(code)**]()
 
-:heavy_minus_sign: [If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
+:boom:++ [(Honorable Mention) If beam search is the answer, what was the question?. Clara Meister, Ryan Cotterell and Tim Vieira.](https://virtual.2020.emnlp.org/paper_main.1377.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.170.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Analogous Process Structure Induction for Sub-event Sequence Prediction. Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song and Dan Roth.](https://virtual.2020.emnlp.org/paper_main.1421.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.119.pdf) [**(code)**]()
 
