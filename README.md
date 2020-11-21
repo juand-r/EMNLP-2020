@@ -822,11 +822,11 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 ---
 ###  [:top:](#topics) Zero-shot Learning
 
+:heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
+
 :heavy_minus_sign: [MultiCQA: Zero-Shot Transfer of Self-Supervised Text Matching Models on a Massive Scale. Andreas Rücklé, Jonas Pfeiffer and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.1032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.194.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Zero-Shot **Stance Detection**: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for Zero-Shot **Question Answering**. Pratyay Banerjee and Chitta Baral.](https://virtual.2020.emnlp.org/paper_main.2640.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.11.pdf) [**(code)**]()
 
