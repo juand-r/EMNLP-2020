@@ -2636,7 +2636,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja and Navin Goyal.](https://virtual.2020.emnlp.org/paper_main.2696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.576.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2705.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.746.pdf) [**(code)**]()
+:boom:++ [Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics. Swabha Swayamdipta, Roy Schwartz, Nicholas Lourie, Yizhong Wang, Hannaneh Hajishirzi, Noah A. Smith and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.2705.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.746.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
 
