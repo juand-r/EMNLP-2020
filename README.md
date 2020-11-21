@@ -398,8 +398,6 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 :heavy_minus_sign: [Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation. Daniel Loureiro and Jose Camacho-Collados.](https://virtual.2020.emnlp.org/paper_main.1935.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.283.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Learning to Learn to Disambiguate: Meta-Learning for **Few-Shot** Word Sense Disambiguation. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.405.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Adapting BERT for Word Sense Disambiguation with Gloss Selection Objective and Example Sentences. Boon Peng Yap, Andrew Koh and Eng Siong Chng.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.4.pdf) [**(code)**]()
 
 **Word Sense Induction:**
@@ -665,10 +663,6 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 
 :heavy_minus_sign: [ProtoQA: A Question Answering Dataset for Prototypical Common-Sense Reasoning. Michael Boratko, Xiang Li, Tim O'Gorman, Rajarshi Das, Dan Le and Andrew McCallum.](https://virtual.2020.emnlp.org/paper_main.2380.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.85.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for **Zero-Shot** Question Answering. Pratyay Banerjee and Chitta Baral.](https://virtual.2020.emnlp.org/paper_main.2640.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.11.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) **Zero-Shot** Rationalization by Multi-Task Transfer Learning from Question Answering. Po-Nien Kung, Tse-Hsuan Yang, Yi-Cheng Chen, Sheng-Siang Yin and Yun-Nung Chen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.198.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Question Answering with Long Multiple-Span Answers. Ming Zhu, Aman Ahuja, Da-Cheng Juan, Wei Wei and Chandan K Reddy.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.342.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering. Peifeng Wang, Nanyun Peng, Filip Ilievski, Pedro Szekely and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.369.pdf) [**(code)**]()
@@ -696,8 +690,6 @@ See also: [**Detecting Word Sense Disambiguation Biases in Machine Translation f
 :heavy_minus_sign: [Dense Passage Retrieval for Open-Domain Question Answering. Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen and Wen-tau Yih.](https://virtual.2020.emnlp.org/paper_main.2587.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.550.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Unsupervised Adaptation of Question Answering Systems via Generative Self-training. Steven Rennie, Etienne Marcheret, Neil Mallinar, David Nahamoo and Vaibhava Goel.](https://virtual.2020.emnlp.org/paper_main.3140.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.87.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning. Yuncheng Hua, Yuan-Fang Li, Gholamreza Haffari, Guilin Qi and Tongtong Wu.](https://virtual.2020.emnlp.org/paper_main.3672.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.469.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Is Graph Structure Necessary for Multi-hop Question Answering?. Nan Shao, Yiming Cui, Ting Liu, Shijin Wang and Guoping Hu.](https://virtual.2020.emnlp.org/paper_main.782.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.583.pdf) [**(code)**]()
 
@@ -804,6 +796,12 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 
 :heavy_minus_sign: (Findings) Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases. Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang and Nitesh Chawla.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.51.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Adaptive Attentional Network for Few-Shot **Knowledge Graph Completion**. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
+
+**NER:**
+
+:heavy_minus_sign: [**Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning**. Yi Yang and Arzoo Katiyar.](https://virtual.2020.emnlp.org/paper_main.2799.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.516.pdf) [**(code)**]()
+
 **Intent Detection:**
 
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
@@ -812,15 +810,27 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 
 :heavy_minus_sign: [(Findings+WS) Composed Variational Natural Language Generation for Few-shot Intents. Congying Xia, Caiming Xiong, Philip Yu and Richard Socher.](https://virtual.2020.emnlp.org/paper_WS-16.2487.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.303.pdf) [**(code)**]()
 
+
+**WSD:**
+
+:heavy_minus_sign: (Findings) Learning to Learn to Disambiguate: Meta-Learning for Few-Shot **Word Sense Disambiguation**. Nithin Holla, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.405.pdf) [**(code)**]()
+
+**QA:**
+
+:heavy_minus_sign: [Few-Shot Complex Knowledge Base Question Answering via Meta Reinforcement Learning. Yuncheng Hua, Yuan-Fang Li, Gholamreza Haffari, Guilin Qi and Tongtong Wu.](https://virtual.2020.emnlp.org/paper_main.3672.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.469.pdf) [**(code)**]()
+
 ---
 ###  [:top:](#topics) Zero-shot Learning
 
 :heavy_minus_sign: [MultiCQA: Zero-Shot Transfer of Self-Supervised Text Matching Models on a Massive Scale. Andreas Rücklé, Jonas Pfeiffer and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.1032.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.194.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
+:heavy_minus_sign: [Zero-Shot **Stance Detection**: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multi-label Few/Zero-shot Learning with Knowledge Aggregated from Multiple Label Graphs. Jueqing Lu, Lan Du, Ming Liu and Joanna Dipnall.](https://virtual.2020.emnlp.org/paper_main.1682.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.235.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Self-Supervised Knowledge Triplet Learning for Zero-Shot **Question Answering**. Pratyay Banerjee and Chitta Baral.](https://virtual.2020.emnlp.org/paper_main.2640.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.11.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Zero-Shot **Rationalization** by Multi-Task Transfer Learning from Question Answering. Po-Nien Kung, Tse-Hsuan Yang, Yi-Cheng Chen, Sheng-Siang Yin and Yun-Nung Chen.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.198.pdf) [**(code)**]()
 
 ---
 ---
@@ -1592,6 +1602,8 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [Monolingual Adapters for Zero-Shot Neural Machine Translation. Jerin Philip, Alexandre Berard, Matthias Gallé and Laurent Besacier.](https://virtual.2020.emnlp.org/paper_main.2412.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.361.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Sparse and Decorrelated Representations for Stable Zero-shot NMT. Bokyung Son and Sungwon Lyu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.205.pdf) [**(code)**]()
+
 **Non-autoregressive:**
 
 :heavy_minus_sign: [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation. Jason Lee, Raphael Shu and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.1432.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.73.pdf) [**(code)**]()
@@ -1618,8 +1630,6 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: [Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses. Prathyusha Jwalapuram, Shafiq Joty and Youlin Shen.](https://virtual.2020.emnlp.org/paper_main.3227.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.177.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems. Jindřich Libovický and Alexander Fraser.](https://virtual.2020.emnlp.org/paper_main.1248.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.203.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Sparse and Decorrelated Representations for Stable Zero-shot NMT. Bokyung Son and Sungwon Lyu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.205.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Self-Induced Curriculum Learning in Self-Supervised Neural Machine Translation. Dana Ruiter, Josef van Genabith and Cristina España-Bonet.](https://virtual.2020.emnlp.org/paper_main.1146.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.202.pdf) [**(code)**]()
 
@@ -1804,8 +1814,6 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 ####  [:top:](#nlu-papers) Entity Linking
 
 **Zero-shot/few-shot:**
-
-:heavy_minus_sign: [**Simple and Effective Few-Shot Named Entity Recognition with Structured Nearest Neighbor Learning**. Yi Yang and Arzoo Katiyar.](https://virtual.2020.emnlp.org/paper_main.2799.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.516.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Scalable Zero-shot Entity Linking with Dense Entity Retrieval. Ledell Wu, Fabio Petroni, Martin Josifoski, Sebastian Riedel and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.519.pdf) [**(code)**]()
 
@@ -2094,8 +2102,6 @@ See also the workshop on [Interactive and Executable Semantic Parsing (Int-Ex)](
 :heavy_minus_sign: [Knowledge Association with Hyperbolic Knowledge Graph Embeddings. Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai and Wei Zhang.](https://virtual.2020.emnlp.org/paper_main.1011.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.460.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph. Xin Lv, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Wei Zhang, YICHI ZHANG, Hao Kong and Suhui Wu.](https://virtual.2020.emnlp.org/paper_main.684.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.459.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Adaptive Attentional Network for Few-Shot Knowledge Graph Completion. Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu and Hongbo Xu.](https://virtual.2020.emnlp.org/paper_main.300.html)  [**(preprint)**](https://arxiv.org/pdf/2010.09638.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.131.pdf) [**(code)**](https://github.com/JiaweiSheng/FAAN)
 
 :heavy_minus_sign: [Structure Aware Negative Sampling in Knowledge Graphs. Kian Ahrabian, Aarash Feizi, Yasmin Salehi, William L. Hamilton and Avishek Joey Bose.](https://virtual.2020.emnlp.org/paper_main.1508.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.492.pdf) [**(code)**]()
 
