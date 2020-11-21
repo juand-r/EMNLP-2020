@@ -1000,6 +1000,42 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 ---
 ### [:top:](#topics) Multilingual
 
+:heavy_minus_sign: (Findings) On the Language Neutrality of Pre-trained Multilingual Representations. Jindřich Libovický, Rudolf Rosa and Alexander Fraser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.150.pdf) [**(code)**]()
+
+**Cross-lingual:**
+
+:heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
+
+:heavy_minus_sign: [Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages. Zheng Li, Mukul Kumar, William Headden, Bing Yin, Ying Wei, Yu Zhang and Qiang Yang.](https://virtual.2020.emnlp.org/paper_main.400.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.179.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
+
+:heavy_minus_sign: [MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer. Jonas Pfeiffer, Ivan Vulić, Iryna Gurevych and Sebastian Ruder.](https://virtual.2020.emnlp.org/paper_main.1803.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.617.pdf) [**(code)**]()
+
+:heavy_minus_sign: [**The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures**. Haim Dubossarsky, Ivan Vulić, Roi Reichart and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2131.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.186.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank. Eleftheria Briakou and Marine Carpuat.](https://virtual.2020.emnlp.org/paper_main.2553.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.121.pdf) [**(code)**]()
+
+:heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.](https://virtual.2020.emnlp.org/paper_main.2641.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.410.pdf) [**(code)**]()
+
+:heavy_minus_sign: [CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs. Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.2746.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.480.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings. Phillip Keung, Yichao Lu, Julian Salazar and Vikas Bhardwaj.](https://virtual.2020.emnlp.org/paper_main.858.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.40.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study. Saurabh Kulshreshtha, Jose Luis Redondo Garcia and Ching-Yun Chang.](https://virtual.2020.emnlp.org/paper_WS-11.816.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.83.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Cross-Lingual Text Classification with Minimal Resources by Transferring a Sparse Teacher. Giannis Karamanolakis, Daniel Hsu and Luis Gravano.](https://virtual.2020.emnlp.org/paper_WS-13.2666.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.323.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Findings+WS) Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension. Adyasha Maharana and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_WS-13.2797.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.333.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) The RELX Dataset and Matching the Multilingual Blanks for Cross-Lingual Relation Classification. Abdullatif Köksal and Arzucan Özgür.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.32.pdf) [**(code)**]()
+
+**Multilingual:**
+
+:heavy_minus_sign: [Do Explicit Alignments Robustly Improve Multilingual Encoders?. Shijie Wu and Mark Dredze.](https://virtual.2020.emnlp.org/paper_main.2490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.362.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.](https://virtual.2020.emnlp.org/paper_main.3116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.367.pdf) [**(code)**]()
+
 :heavy_minus_sign: [On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment. Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov.](https://virtual.2020.emnlp.org/paper_main.1445.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.359.pdf) [**(code)**]()
 
 :heavy_minus_sign: [From Zero to Hero: On the Limitations of Zero-Shot Language Transfer with Multilingual Transformers. Anne Lauscher, Vinit Ravishankar, Ivan Vulić and Goran Glavaš.](https://virtual.2020.emnlp.org/paper_main.2500.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.363.pdf) [**(code)**]()
@@ -1009,6 +1045,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 :heavy_minus_sign: [Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages. Michael A. Hedderich, David Adelani, Dawei Zhu, Jesujoba Alabi, Udia Markus and Dietrich Klakow.](https://virtual.2020.emnlp.org/paper_main.1263.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.204.pdf) [**(code)**]()
 
 **BERT:**
+
+:heavy_minus_sign: (Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.240.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Identifying Elements Essential for BERT’s Multilinguality. Philipp Dufter and Hinrich Schütze.](https://virtual.2020.emnlp.org/paper_main.1383.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.358.pdf) [**(code)**]()
 
@@ -1385,6 +1423,8 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering). See al
 
 :heavy_minus_sign: [Zero-Shot Crosslingual Sentence Simplification. Jonathan Mallinson, Rico Sennrich and Mirella Lapata.](https://virtual.2020.emnlp.org/paper_main.1339.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.415.pdf) [**(code)**]()
 
+:heavy_minus_sign: [(Findings+WS) PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. Jiazhao Li et al.](https://virtual.2020.emnlp.org/paper_WS-12.2127.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [**(code)**]()
+
 ---
 ###  [:top:](#nlg-papers) Machine Translation
 
@@ -1399,6 +1439,8 @@ See also the [Fifth Conference on Machine Translation (WMT20)](http://www.statmt
 :heavy_minus_sign: [(Findings+WS) KoBE: Knowledge-Based Machine Translation Evaluation. Zorik Gekhman, Roee Aharoni, Genady Beryozkin, Markus Freitag and Wolfgang Macherey.](https://virtual.2020.emnlp.org/paper_WS-20.2378.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.287.pdf) [**(code)**]()
 
 :heavy_minus_sign: [COMET: A Neural Framework for MT Evaluation. Ricardo Rei, Craig Stewart, Ana C Farinha and Alon Lavie.](https://virtual.2020.emnlp.org/paper_main.835.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.213.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Translation Quality Estimation by Jointly Learning to Score and Rank. Jingyi Zhang and Josef van Genabith.](https://virtual.2020.emnlp.org/paper_main.2061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.205.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing. Brian Thompson and Matt Post.](https://virtual.2020.emnlp.org/paper_main.888.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.8.pdf) [**(code)**]()
 
@@ -1444,15 +1486,13 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [Monolingual Adapters for Zero-Shot Neural Machine Translation. Jerin Philip, Alexandre Berard, Matthias Gallé and Laurent Besacier.](https://virtual.2020.emnlp.org/paper_main.2412.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.361.pdf) [**(code)**]()
 
-**Multimodal:**
-
-:heavy_minus_sign: [Simultaneous Machine Translation with Visual Context. Ozan Caglayan, Julia Ive, Veneta Haralampieva, Pranava Madhyastha, Loïc Barrault and Lucia Specia.](https://virtual.2020.emnlp.org/paper_main.1402.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.184.pdf) [**(code)**]()
-
 **Non-autoregressive:**
 
 :heavy_minus_sign: [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation. Jason Lee, Raphael Shu and Kyunghyun Cho.](https://virtual.2020.emnlp.org/paper_main.1432.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.73.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Non-Autoregressive Machine Translation with Latent Alignments. Chitwan Saharia, William Chan, Saurabh Saxena and Mohammad Norouzi.](https://virtual.2020.emnlp.org/paper_main.453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.83.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Incorporating a Local Translation Mechanism into Non-autoregressive Translation. Xiang Kong, Zhisong Zhang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.2100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.79.pdf) [**(code)**]()
 
 **Document-level:**
 
@@ -1460,9 +1500,14 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [Dynamic Context Selection for Document-level Neural Machine Translation via **Reinforcement Learning**. Xiaomian Kang, Yang Zhao, Jiajun Zhang and Chengqing Zong.](https://virtual.2020.emnlp.org/paper_main.1504.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.175.pdf) [**(code)**]()
 
-**Other:**
+
+**Post-editing:**
+
+:heavy_minus_sign: [(Findings+WS) Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing. Ke Wang, Jiayi Wang, Niyu Ge, Yangbin Shi, Yu Zhao and Kai Fan.](https://virtual.2020.emnlp.org/paper_WS-21.1774.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.197.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Can Automatic Post-Editing Improve NMT?. Shamil Chollampatt, Raymond Hendy Susanto, Liling Tan and Ewa Szymanska.](https://virtual.2020.emnlp.org/paper_main.894.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.217.pdf) [**(code)**]()
+
+**Other:**
 
 :heavy_minus_sign: [Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses. Prathyusha Jwalapuram, Shafiq Joty and Youlin Shen.](https://virtual.2020.emnlp.org/paper_main.3227.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.177.pdf) [**(code)**]()
 
@@ -1510,10 +1555,32 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: (Findings) Dual Reconstruction: a Unifying Objective for Semi-Supervised Neural Machine Translation. Weijia Xu, Xing Niu and Marine Carpuat.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.182.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Reference Language based Unsupervised Neural Machine Translation. Zuchao Li, Hai Zhao, Rui Wang, Masao Utiyama and Eiichiro Sumita.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.371.pdf) [**(code)**]()
+:heavy_minus_sign: (Findings) Reference Language based **Unsupervised** Neural Machine Translation. Zuchao Li, Hai Zhao, Rui Wang, Masao Utiyama and Eiichiro Sumita.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.371.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Training Flexible Depth Model by Multi-Task Learning for Neural Machine Translation. Qiang Wang, Tong Xiao and Jingbo Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.385.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Generating Diverse Translation from Model Distribution with Dropout. Xuanfu Wu, Yang Feng and Chenze Shao.](https://virtual.2020.emnlp.org/paper_main.3441.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.82.pdf) [**(code)**]()
+
+**Back-translation:**
+
+:heavy_minus_sign: [Iterative Domain-Repaired Back-Translation. Hao-Ran Wei, Zhirui Zhang, Boxing Chen and Weihua Luo.](https://virtual.2020.emnlp.org/paper_main.1100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.474.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Dynamic Data Selection and Weighting for Iterative Back-Translation. Zi-Yi Dou, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.1572.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.475.pdf) [**(code)**]()
+
+**Simulatenous Translation:**
+
+:heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.](https://virtual.2020.emnlp.org/paper_main.3236.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.178.pdf) [**(code)**]()
+
+:heavy_minus_sign: [(Demo paper) SIMULEVAL: An Evaluation Toolkit for Simultaneous Translation. Xutai Ma, Mohammad Javad Dousti, Changhan Wang, Jiatao Gu, Juan Pino](https://virtual.2020.emnlp.org/paper_demo.111.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-demos.19/) [**(code)**](https://github.com/facebookresearch/SimulEval)
+
+:heavy_minus_sign: (Findings) Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training. Renjie Zheng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.349.pdf) [**(code)**]()
+
+
+**Simultaneous Translation, Multimodal:**
+
+:heavy_minus_sign: [Simultaneous Machine Translation with Visual Context. Ozan Caglayan, Julia Ive, Veneta Haralampieva, Pranava Madhyastha, Loïc Barrault and Lucia Specia.](https://virtual.2020.emnlp.org/paper_main.1402.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.184.pdf) [**(code)**](https://github.com/toshohirasawa/mst)
+
+:heavy_minus_sign: [Towards Multimodal Simultaneous Neural Machine Translation. Aizhan Imankulova, Masahiro Kaneko, Tosho Hirasawa, Mamoru Komachi](https://virtual.2020.emnlp.org/paper_WS-2.26.html)  [**(paper)**](https://www.statmt.org/wmt20/pdf/2020.wmt-1.70.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#nlg-papers) Style Transfer
@@ -2203,8 +2270,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Assessing the Helpfulness of Learning Materials with Inference-Based Learner-Like Agent. Yun-Hsuan Jen, Chieh-Yang Huang, MeiHua Chen, Ting-Hao Huang and Lun-Wei Ku.](https://virtual.2020.emnlp.org/paper_main.3344.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.312.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) PharmMT: A Neural Machine Translation Approach to Simplify Prescription Directions. Jiazhao Li et al.](https://virtual.2020.emnlp.org/paper_WS-12.2127.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.251.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) **Inferring about fraudulent collusion risk on Brazilian public works contracts in official texts using a Bi-LSTM approach.** Marcos Lima et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.143.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Natural Language Processing for Achieving Sustainable Development: the Case of Neural Labelling to Enhance Community Profiling. Costanza Conforti et al.](https://virtual.2020.emnlp.org/paper_main.3049.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.677.pdf) [**(code)**]()
@@ -2220,17 +2285,11 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 ###  [:top:](#applications) Other
 
 
-
-
 ---
 ---
 ---
 
 # Papers, sort
-
-
-
-:heavy_minus_sign: [Zero-Shot Cross-Lingual Transfer with Meta Learning. Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva and Isabelle Augenstein.](https://virtual.2020.emnlp.org/paper_main.74.html)  [**(preprint)**](https://arxiv.org/pdf/2003.02739.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) [**(code)**](https://github.com/copenlu/X-MAML)
 
 :boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
 
@@ -2250,8 +2309,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 ---
 
 :heavy_minus_sign: [Scene Restoring for Narrative Machine Reading Comprehension. Zhixing Tian, Yuanzhe Zhang, Kang Liu, Jun Zhao, Yantao Jia and Zhicheng Sheng.](https://virtual.2020.emnlp.org/paper_main.390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.247.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages. Zheng Li, Mukul Kumar, William Headden, Bing Yin, Ying Wei, Yu Zhang and Qiang Yang.](https://virtual.2020.emnlp.org/paper_main.400.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.179.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks. YUFAN ZHAO, Can Xu and Wei Wu.](https://virtual.2020.emnlp.org/paper_main.699.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) [**(code)**]()
 
@@ -2305,8 +2362,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Learning to Represent Image and Text with Denotation Graph. Bowen Zhang, Hexiang Hu, Vihan Jain, Eugene Ie and Fei Sha.](https://virtual.2020.emnlp.org/paper_main.1071.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.60.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Iterative Domain-Repaired Back-Translation. Hao-Ran Wei, Zhirui Zhang, Boxing Chen and Weihua Luo.](https://virtual.2020.emnlp.org/paper_main.1100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.474.pdf) [**(code)**]()
-
 :boom:++ [GLUCOSE: GeneraLized and COntextualized Story Explanations. Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren Berkowitz, Or Biran and Jennifer Chu-Carroll.](https://virtual.2020.emnlp.org/paper_main.1103.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.370.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding. Alexander Ku, Peter Anderson, Roma Patel, Eugene Ie and Jason Baldridge.](https://virtual.2020.emnlp.org/paper_main.1113.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.356.pdf) [**(code)**]()
@@ -2341,8 +2396,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [**Understanding the Difficulty of Training Transformers**. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1552.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.463.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Dynamic Data Selection and Weighting for Iterative Back-Translation. Zi-Yi Dou, Antonios Anastasopoulos and Graham Neubig.](https://virtual.2020.emnlp.org/paper_main.1572.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.475.pdf) [**(code)**]()
-
 :heavy_minus_sign: [SetConv: A New Approach for Learning from Imbalanced Data. Yang Gao, Yi-Fan Li, Yu Lin, Charu Aggarwal and Latifur Khan.](https://virtual.2020.emnlp.org/paper_main.1575.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.98.pdf) [**(code)**]()
 
 :heavy_minus_sign: [AmbigQA: Answering Ambiguous Open-domain Questions. Sewon Min, Julian Michael, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.1580.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.466.pdf) [**(code)**]()
@@ -2356,8 +2409,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Point to the Expression: Solving Algebraic Word Problems using the Expression-Pointer Transformer Model. Bugeun Kim, Kyung Seo Ki, Donggeon Lee and Gahgene Gweon.](https://virtual.2020.emnlp.org/paper_main.1739.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.308.pdf) [**(code)**]()
 
 :heavy_minus_sign: [IGSQL: Database Schema Interaction Graph Based Neural Model for Context-Dependent Text-to-SQL Generation. Yitao Cai and Xiaojun Wan.](https://virtual.2020.emnlp.org/paper_main.1784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.560.pdf) [**(code)**]()
-
-:heavy_minus_sign: [MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer. Jonas Pfeiffer, Ivan Vulić, Iryna Gurevych and Sebastian Ruder.](https://virtual.2020.emnlp.org/paper_main.1803.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.617.pdf) [**(code)**]()
 
 :heavy_minus_sign: [AxCell: Automatic Extraction of Results from Machine Learning Papers. Marcin Kardas, Piotr Czapla, Pontus Stenetorp, Sebastian Ruder, Sebastian Riedel, Ross Taylor and Robert Stojnic.](https://virtual.2020.emnlp.org/paper_main.1817.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.692.pdf) [**(code)**]()
 
@@ -2388,8 +2439,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [ISAAQ - Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention. Jose Manuel Gomez-Perez and Raúl Ortega.](https://virtual.2020.emnlp.org/paper_main.2120.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.441.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Intrinsic Probing through Dimension Selection. Lucas Torroba Hennigen, Adina Williams and Ryan Cotterell.](https://virtual.2020.emnlp.org/paper_main.2122.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.15.pdf) [**(code)**]()
-
-:heavy_minus_sign: [**The Secret is in the Spectra: Predicting Cross-lingual Task Performance with Spectral Similarity Measures**. Haim Dubossarsky, Ivan Vulić, Roi Reichart and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2131.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.186.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Filtering Noisy Dialogue Corpora by Connectivity and Content Relatedness. Reina Akama, Sho Yokoi, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2164.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.68.pdf) [**(code)**]()
 
@@ -2435,8 +2484,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning. Tsvetomila Mihaylova, Vlad Niculae and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.2535.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.171.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Detecting Fine-Grained Cross-Lingual Semantic Divergences without Supervision by Learning to Rank. Eleftheria Briakou and Marine Carpuat.](https://virtual.2020.emnlp.org/paper_main.2553.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.121.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Hierarchical Evidence Set Modeling for Automated Fact Extraction and Verification. Shyam Subramanian and Kyumin Lee.](https://virtual.2020.emnlp.org/paper_main.2570.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.627.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning. Xiaoxiao Guo, Mo Yu, Yupeng Gao, Chuang Gan, Murray Campbell and Shiyu Chang.](https://virtual.2020.emnlp.org/paper_main.2574.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.624.pdf) [**(code)**]()
@@ -2452,8 +2499,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks. Lifu Tu, Tianyu Liu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.2636.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.449.pdf) [**(code)**]()
 
-:heavy_minus_sign: [End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. Weijia Xu, Batool Haider and Saab Mansour.](https://virtual.2020.emnlp.org/paper_main.2641.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.410.pdf) [**(code)**]()
-
 :heavy_minus_sign: [On the Ability and Limitations of Transformers to Recognize Formal Languages. Satwik Bhattamishra, Kabir Ahuja and Navin Goyal.](https://virtual.2020.emnlp.org/paper_main.2696.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.576.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Visually Grounded Compound PCFGs. Yanpeng Zhao and Ivan Titov.](https://virtual.2020.emnlp.org/paper_main.2702.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.354.pdf) [**(code)**]()
@@ -2463,8 +2508,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Zero-Shot Stance Detection: A Dataset and Model using Generalized Topic Representations. Emily Allaway and Kathleen McKeown.](https://virtual.2020.emnlp.org/paper_main.2712.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.717.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Program Enhanced Fact Verification with Verbalization and Graph Attention Network. Xiaoyu Yang, Feng Nie, Yufei Feng, Quan Liu, Zhigang Chen and Xiaodan Zhu.](https://virtual.2020.emnlp.org/paper_main.2724.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.628.pdf) [**(code)**]()
-
-:heavy_minus_sign: [CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs. Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.2746.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.480.pdf) [**(code)**]()
 
 :heavy_minus_sign: [We Can Detect Your Bias: Predicting the Political Ideology of News Articles. Ramy Baly, Giovanni Da San Martino, James Glass and Preslav Nakov.](https://virtual.2020.emnlp.org/paper_main.2784.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.404.pdf) [**(code)**]()
 
@@ -2524,8 +2567,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [**Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference**. Jianguo Zhang et al.](https://virtual.2020.emnlp.org/paper_main.3217.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.411.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Learning Adaptive Segmentation Policy for Simultaneous Translation. Ruiqing Zhang, Chuanqiang Zhang, Zhongjun He, Hua Wu and Haifeng Wang.](https://virtual.2020.emnlp.org/paper_main.3236.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.178.pdf) [**(code)**]()
-
 :heavy_minus_sign: [**Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning. Lianhui Qin et al.**](https://virtual.2020.emnlp.org/paper_main.3270.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.58.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Assessing Phrasal Representation and Composition in Transformers. Lang Yu and Allyson Ettinger.](https://virtual.2020.emnlp.org/paper_main.3278.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.397.pdf) [**(code)**]()
@@ -2548,11 +2589,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Coding Textual Inputs Boosts the Accuracy of Neural Networks. Abdul Rafae Khan, Jia Xu and Weiwei Sun.](https://virtual.2020.emnlp.org/paper_main.3391.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.104.pdf) [**(code)**]()
 
-
-
 :heavy_minus_sign: [Selection and Generation: Learning towards Multi-Product Advertisement Post Generation. Zhangming Chan, Yuchi Zhang, Xiuying Chen, Shen Gao, Zhiqiang Zhang, Dongyan Zhao and Rui Yan.](https://virtual.2020.emnlp.org/paper_main.3431.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Generating Diverse Translation from Model Distribution with Dropout. Xuanfu Wu, Yang Feng and Chenze Shao.](https://virtual.2020.emnlp.org/paper_main.3441.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.82.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Social Chemistry 101: Learning to Reason about Social and Moral Norms. Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap and Yejin Choi.](https://virtual.2020.emnlp.org/paper_main.3450.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.48.pdf) [**(code)**]()
 
@@ -2605,8 +2642,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Bootstrapped Q-learning with Context Relevant Observation Pruning to Generalize in Text-based Games. Subhajit Chaudhury et al.](https://virtual.2020.emnlp.org/paper_main.763.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.241.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Don't Use English Dev: On the Zero-Shot Cross-Lingual Evaluation of Contextual Embeddings. Phillip Keung, Yichao Lu, Julian Salazar and Vikas Bhardwaj.](https://virtual.2020.emnlp.org/paper_main.858.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.40.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.](https://virtual.2020.emnlp.org/paper_main.876.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.414.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.](https://virtual.2020.emnlp.org/paper_main.877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.222.pdf) [**(code)**]()
@@ -2631,17 +2666,11 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Beyond [CLS] through Ranking by Generation. Cicero Nogueira dos Santos, Xiaofei Ma, Ramesh Nallapati, zhiheng huang and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.1949.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.134.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Translation Quality Estimation by Jointly Learning to Score and Rank. Jingyi Zhang and Josef van Genabith.](https://virtual.2020.emnlp.org/paper_main.2061.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.205.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Incorporating a Local Translation Mechanism into Non-autoregressive Translation. Xiang Kong, Zhisong Zhang and Eduard Hovy.](https://virtual.2020.emnlp.org/paper_main.2100.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.79.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Does the Objective Matter? Comparing Training Objectives for Pronoun Resolution. Yordan Yordanov, Oana-Maria Camburu, Vid Kocijan and Thomas Lukasiewicz.](https://virtual.2020.emnlp.org/paper_main.2271.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.402.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Domain-Specific Lexical Grounding in Noisy Visual-Textual Documents. Gregory Yauney, Jack Hessel and David Mimno.](https://virtual.2020.emnlp.org/paper_main.2273.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.160.pdf) [**(code)**]()
 
 :heavy_minus_sign: [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee et al.](https://virtual.2020.emnlp.org/paper_main.2331.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.636.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Do Explicit Alignments Robustly Improve Multilingual Encoders?. Shijie Wu and Mark Dredze.](https://virtual.2020.emnlp.org/paper_main.2490.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.362.pdf) [**(code)**]()
 
 :heavy_minus_sign: [TNT: Text Normalization based Pre-training of Transformers for Content Moderation. Fei Tan, Yifan Hu, Changwei Hu, Keqian Li and Kevin Yen.](https://virtual.2020.emnlp.org/paper_main.2515.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.383.pdf) [**(code)**]()
 
@@ -2657,11 +2686,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Multitask Learning for Cross-Lingual Transfer of Broad-coverage Semantic Dependencies. Maryam Aminian, Mohammad Sadegh Rasooli and Mona Diab.](https://virtual.2020.emnlp.org/paper_main.2890.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.663.pdf) [**(code)**]()
-
 :heavy_minus_sign: [A Simple Yet Strong Pipeline for HotpotQA. Dirk Groeneveld, Tushar Khot, Mausam - and Ashish Sabharwal.](https://virtual.2020.emnlp.org/paper_main.2943.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.711.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Improving Multilingual Models with Language-Clustered Vocabularies. Hyung Won Chung, Dan Garrette, Kiat Chuan Tan and Jason Riesa.](https://virtual.2020.emnlp.org/paper_main.3116.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.367.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Incorporating Behavioral Hypotheses for Query Generation. Ruey-Cheng Chen and Chia-Jung Lee.](https://virtual.2020.emnlp.org/paper_main.3327.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.251.pdf) [**(code)**]()
 
@@ -2706,8 +2731,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [(Findings+WS) From Language to Language-ish: How Brain-Like is an LSTM's Representation of Nonsensical Language Stimuli?. Maryam Hashemzadeh et al.](https://virtual.2020.emnlp.org/paper_WS-1.561_F.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.57.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) Cross-lingual Alignment Methods for Multilingual BERT: A Comparative Study. Saurabh Kulshreshtha, Jose Luis Redondo Garcia and Ching-Yun Chang.](https://virtual.2020.emnlp.org/paper_WS-11.816.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.83.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) Recurrent Inference in Text Editing. Ning Shi, Ziheng Zeng, Haotian Zhang and Yichen Gong.](https://virtual.2020.emnlp.org/paper_WS-21.1463.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.159.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) RMM: A Recursive Mental Model for Dialogue Navigation. Homero Roman Roman, Yonatan Bisk, Jesse Thomason, Asli Celikyilmaz and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_WS-10.1453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.157.pdf) [**(code)**]()
@@ -2740,17 +2763,11 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [(Findings+WS) **ConveRT: Efficient and Accurate Conversational Representations from Transformers. Matthew Henderson et al.**](https://virtual.2020.emnlp.org/paper_WS-4.1761-ws4.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.196.pdf) [**(code)**]()
 
-:heavy_minus_sign: [(Findings+WS) Computer Assisted Translation with Neural Quality Estimation and Automatic Post-Editing. Ke Wang, Jiayi Wang, Niyu Ge, Yangbin Shi, Yu Zhao and Kai Fan.](https://virtual.2020.emnlp.org/paper_WS-21.1774.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.197.pdf) [**(code)**]()
-
 :heavy_minus_sign: [(Findings+WS) Robust and Interpretable Grounding of Spatial References with Relation Networks. Tsung-Yen Yang, Andrew Lan and Karthik Narasimhan.](https://virtual.2020.emnlp.org/paper_WS-10.1595.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.172.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Visual Objects As Context: Exploiting Visual Objects for Lexical Entailment. Masayasu Muraoka, Tetsuya Nasukawa and Bishwaranjan Bhattacharjee.](https://virtual.2020.emnlp.org/paper_WS-13.2085.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.246.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) A Semantics-based Approach to Disclosure Classification in User-Generated Online Content. Chandan Akiti, Anna squicciarini and Sarah Rajtmajer.](https://virtual.2020.emnlp.org/paper_WS-24.2534.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.312.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Cross-Lingual Text Classification with Minimal Resources by Transferring a Sparse Teacher. Giannis Karamanolakis, Daniel Hsu and Luis Gravano.](https://virtual.2020.emnlp.org/paper_WS-13.2666.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.323.pdf) [**(code)**]()
-
-:heavy_minus_sign: [(Findings+WS) Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension. Adyasha Maharana and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_WS-13.2797.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.333.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Multichannel Generative Language Model: Learning All Possible Factorizations Within and Across Channels. Harris Chan, Jamie Kiros and William Chan.](https://virtual.2020.emnlp.org/paper_WS-20.3148.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.376.pdf) [**(code)**]()
 
@@ -2763,12 +2780,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Mimic and Conquer: Heterogeneous Tree Structure Distillation for Syntactic NLP. Hao Fei, Yafeng Ren and Donghong Ji.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.18.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Semantic Matching for Sequence-to-Sequence Learning. Ruiyi Zhang, Changyou Chen, Xinyuan Zhang, Ke Bai and Lawrence Carin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.21.pdf) [**(code)**]()
-
-
-
-
-
-:heavy_minus_sign: (Findings) The RELX Dataset and Matching the Multilingual Blanks for Cross-Lingual Relation Classification. Abdullatif Köksal and Arzucan Özgür.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.32.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Claim Check-Worthiness Detection as Positive Unlabelled Learning. Dustin Wright and Isabelle Augenstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.43.pdf) [**(code)**]()
 
@@ -2822,8 +2833,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Enhancing Automated Essay Scoring Performance via Fine-tuning Pre-trained Language Models with Combination of Regression and Ranking. Ruosong Yang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.141.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Teaching Machine Comprehension with Compositional Explanations. Qinyuan Ye, Xiao Huang, Elizabeth Boschee and Xiang Ren.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.145.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) On the Language Neutrality of Pre-trained Multilingual Representations. Jindřich Libovický, Rudolf Rosa and Alexander Fraser.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.150.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) RecoBERT: A Catalog Language Model for Text-Based Recommendations. Itzik Malkiel, Oren Barkan, Avi Caciularu, Noam Razin, Ori Katz and Noam Koenigstein.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.154.pdf) [**(code)**]()
 
@@ -2895,8 +2904,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments. Hyounghun Kim et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.348.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Fluent and Low-latency Simultaneous Speech-to-Speech Translation with Self-adaptive Training. Renjie Zheng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.349.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Generalizable and Explainable Dialogue Generation via Explicit Action Learning. Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.355.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Large Product Key Memory for Pretrained Language Models. Gyuwan Kim and Tae Hwan Jung.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.362.pdf) [**(code)**]()
@@ -2906,8 +2913,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?. Peter Hase et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.390.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER. Qingkai Zeng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: (Findings) **Neural Speed Reading Audited. Anders Søgaard.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.14.pdf) [**(code)**]()
 
@@ -2930,8 +2935,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) PTUM: Pre-training User Model from Unlabeled User Behaviors via Self-supervision. Chuhan Wu, Fangzhao Wu, Tao Qi, Jianxun Lian, Yongfeng Huang and Xing Xie.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.174.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **Helpful or Hierarchical? Predicting the Communicative Strategies of Chat Participants, and their Impact on Success. Farzana Rashid et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.214.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Extending Multilingual BERT to Low-Resource Languages. Zihan Wang, Karthikeyan K, Stephen Mayhew and Dan Roth.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.240.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Knowing What You Know: Calibrating Dialogue Belief State Distributions via Ensembles. Carel van Niekerk et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.277.pdf) [**(code)**]()
 
