@@ -2005,9 +2005,16 @@ See also the papers from ACL 2020 on nested NER, including [Named Entity Recogni
 
 :heavy_minus_sign: [Semi-supervised **New Event Type Induction** and Event Detection. Lifu Huang and Heng Ji.](https://virtual.2020.emnlp.org/paper_main.2427.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.53.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks. Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen.](https://virtual.2020.emnlp.org/paper_main.3390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.435.pdf) [**(code)**]()
+
+
+**Event extraction via question answering:**
+
 :heavy_minus_sign: (Findings) Event Extraction as Multi-turn Question Answering. Fayuan Li, Weihua Peng, Yuguang Chen, Quan Wang, Lu Pan, Yajuan Lyu and Yong Zhu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.73.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks. Viet Dac Lai, Tuan Ngo Nguyen and Thien Huu Nguyen.](https://virtual.2020.emnlp.org/paper_main.3390.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.435.pdf) [**(code)**]()
+:heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.96.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.49.pdf) [**(code)**](https://github.com/xinyadu/eeqa)
+
+:heavy_minus_sign: [Event Extraction as Machine Reading Comprehension. Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu.](https://virtual.2020.emnlp.org/paper_main.1977.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.128.pdf) [**(code)**]()
 
 **Event arguments:**
 
@@ -2395,6 +2402,8 @@ See also https://www.aclweb.org/anthology/W13-2507.pdf
 ---
 ### [:top:](#applications) Finance
 
+:heavy_minus_sign: (Findings) Event-Driven Learning of Systematic Behaviours in Stock Markets. Xianchao Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.220.pdf) [**(code)**]()
+
 :heavy_minus_sign: [Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations. Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.676.pdf) [**(code)**]()
 
 :heavy_minus_sign: [VolTAGE: Volatility Forecasting via Text Audio Fusion with Graph Convolution Networks for Earnings Calls. Ramit Sawhney, Piyush Khanna, Arshiya Aggarwal, Taru Jain, Puneet Mathur and Rajiv Ratn Shah.](https://virtual.2020.emnlp.org/paper_main.2520.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.643.pdf) [**(code)**]()
@@ -2467,8 +2476,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 # Papers, sort
 
 :boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Event Extraction by Answering (Almost) Natural Questions. Xinya Du and Claire Cardie.](https://virtual.2020.emnlp.org/paper_main.96.html)  [**(preprint)**](https://arxiv.org/pdf/2004.13625.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.49.pdf) [**(code)**](https://github.com/xinyadu/eeqa)
 
 :heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
 
@@ -2568,8 +2575,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [**Are All Good Word Vector Spaces Isomorphic?**. Ivan Vulić, Sebastian Ruder and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.1901.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.257.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Question Directed Graph Attention Network for Numerical Reasoning over Text. Kunlong Chen, Weidi Xu, Xingyi Cheng, Zou Xiaochuan, Yuyu Zhang, Le Song, Taifeng Wang, Yuan Qi and Wei Chu.](https://virtual.2020.emnlp.org/paper_main.1975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.549.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Event Extraction as Machine Reading Comprehension. Jian Liu, Yubo Chen, Kang Liu, Wei Bi and Xiaojiang Liu.](https://virtual.2020.emnlp.org/paper_main.1977.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.128.pdf) [**(code)**]()
 
 :boom:++ [PRover: Proof Generation for Interpretable Reasoning over Rules. Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2054.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.9.pdf) [**(code)**]()
 
@@ -2928,8 +2933,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network. Yue Cao and Xiaojun Wan.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.218.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Event-Driven Learning of Systematic Behaviours in Stock Markets. Xianchao Wu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.220.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Improve Transformer Models with Better Relative Position Embeddings. zhiheng huang, Davis Liang, Peng Xu and Bing Xiang.](https://virtual.2020.emnlp.org/paper_WS-15.2453.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.298.pdf) [**(code)**]()
 
