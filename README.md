@@ -50,6 +50,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Embeddings](#top-embeddings)
   - [Cognitive Models and Psycholinguistics](#top-cognitive-models-and-psycholinguistics)
   - [Compositionality](#top-compositionality)
+  - [Language Grounding](#top-language-grounding)
   - [Multimodal](#top-multimodal)
   - [Multilingual](#top-multilingual)
 #### [NLG papers](#nlg-papers-1)
@@ -949,14 +950,18 @@ See also: ROLE paper (BlackboxNLP)
 :heavy_minus_sign: [Visually Grounded Continual Learning of Compositional Phrases. Xisen Jin, Junyi Du, Arka Sadhu, Ram Nevatia and Xiang Ren.](https://virtual.2020.emnlp.org/paper_main.1388.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.158.pdf) [**(code)**]()
 
 ---
+###  [:top:](#topics) Language Grounding
+
+:boom:++ [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
+
+
+---
 ###  [:top:](#topics) Multimodal
 
 For VQA, see [Visual Question Answering](#top-visual-question-answering). See also the two multimodal workshops at this conference:
 
 - [**Spatial Language Understanding**](https://spatial-language.github.io/) ("Spatial Language Understanding, Learning/Reasoning on Spatial Semantics, (sub)Symbolic Representations and Grounding Language in Perception")
 - [**NLP Beyond Text**](https://sites.google.com/view/nlpbt-2020)
-
-:boom:++ [**Experience Grounds Language. Yonatan Bisk et al.**](https://virtual.2020.emnlp.org/paper_main.1455.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.703.pdf)
 
 :heavy_minus_sign: [X-LXMERT: Paint, Caption and Answer Questions with Multi-Modal Transformers. Jaemin Cho, jiasen lu, Dustin Schwenk, Hannaneh Hajishirzi and Aniruddha Kembhavi.](https://virtual.2020.emnlp.org/paper_main.284.html)  [**(preprint)**](https://arxiv.org/pdf/2009.11278.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.707.pdf) [**(code and demo)**](https://prior.allenai.org/projects/x-lxmert)
 
