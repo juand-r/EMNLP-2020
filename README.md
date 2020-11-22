@@ -454,6 +454,9 @@ For NLI, see [Natural Language Inference](#top-natural-language-inference).
 
 :heavy_minus_sign: [An Unsupervised Sentence Embedding Method by Mutual Information Maximization. Yan Zhang, Ruidan He, ZUOZHU LIU, Kwan Hui Lim and Lidong Bing.](https://virtual.2020.emnlp.org/paper_main.3609.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.124.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Cross-Thought for Sentence Encoder Pre-training. Shuohang Wang, Yuwei Fang, Siqi Sun, Zhe Gan, Yu Cheng, Jingjing Liu and Jing Jiang.](https://virtual.2020.emnlp.org/paper_main.2635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.30.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Do sequence-to-sequence VAEs learn global features of sentences?. Tom Bosc and Pascal Vincent.](https://virtual.2020.emnlp.org/paper_main.2430.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.350.pdf) [**(code)**]()
 
 ---
 ### [:top:](#topics) Pragmatics
@@ -630,6 +633,20 @@ See also: the papers in [**BlackboxNLP 2020: Analyzing and interpreting neural n
 :heavy_minus_sign: (Findings) Unsupervised Expressive Rules Provide Explainability and Assist Human Experts Grasping New Domains. Eyal Shnarch et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.243.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) What-if I ask you to explain: Explaining the effects of perturbations in procedural text. Dheeraj Rajagopal et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.300.pdf) [**(code)**]()
+
+
+**Rationales:**
+
+See also the paper from ACL 2020, [Learning to Faithfully Rationalize by Construction](https://www.aclweb.org/anthology/2020.acl-main.409.pdf).
+
+:heavy_minus_sign: (Findings) Why do you think that? Exploring Faithful Sentence-Level Rationales Without Supervision. Max Glockner, Ivan Habernal and Iryna Gurevych.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.97.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction. Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2307.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.153.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Evaluating and Characterizing Human Rationales. Samuel Carton, Anirudh Rathore and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_main.2814.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.747.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) **Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs. Ana Marasović et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.253.pdf) [**(code)**]()
+
 
 **Applications:**
 
@@ -2867,20 +2884,11 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions. Xiang Zhou, Yixin Nie, Hao Tan and Mohit Bansal.](https://virtual.2020.emnlp.org/paper_main.2268.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.659.pdf) [**(code)**]()
 
-:heavy_minus_sign: [An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction. Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi and Luke Zettlemoyer.](https://virtual.2020.emnlp.org/paper_main.2307.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.153.pdf) [**(code)**]()
-
 :heavy_minus_sign: [Text Segmentation by Cross Segment Attention. Michal Lukasik, Boris Dadachev, Kishore Papineni and Goncalo Simoes.](https://virtual.2020.emnlp.org/paper_main.2367.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.380.pdf) [**(code)**]()
-
-
 
 :heavy_minus_sign: [Dissecting Span Identification Tasks with Performance Prediction. Sean Papay, Roman Klinger and Sebastian Padó.](https://virtual.2020.emnlp.org/paper_main.2438.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.396.pdf) [**(code)**]()
 
-
 :heavy_minus_sign: [Understanding the Mechanics of SPIGOT: Surrogate Gradients for Latent Structure Learning. Tsvetomila Mihaylova, Vlad Niculae and André F. T. Martins.](https://virtual.2020.emnlp.org/paper_main.2535.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.171.pdf) [**(code)**]()
-
-
-
-:heavy_minus_sign: [Evaluating and Characterizing Human Rationales. Samuel Carton, Anirudh Rathore and Chenhao Tan.](https://virtual.2020.emnlp.org/paper_main.2814.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.747.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Ensemble Distillation for Structured Prediction: Calibrated, Accurate, Fast---Choose Three. Steven Reich, David Mueller and Nicholas Andrews.](https://virtual.2020.emnlp.org/paper_main.2834.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.450.pdf) [**(code)**]()
 
@@ -2897,7 +2905,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: [Annotating Temporal Dependency Graphs via Crowdsourcing. Jiarui Yao, Haoling Qiu, Bonan Min and Nianwen Xue.](https://virtual.2020.emnlp.org/paper_main.2922.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.432.pdf) [**(code)**]()
 
 
-:heavy_minus_sign: [MODE-LSTM: A Parameter-efficient Recurrent Network with Multi-Scale for Sentence Classification. Qianli Ma, Zhenxi Lin, Jiangyue Yan, Zipeng Chen and Liuhong Yu.](https://virtual.2020.emnlp.org/paper_main.3013.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.544.pdf) [**(code)**]()
 
 :heavy_minus_sign: [A Method for Building a Commonsense Inference Dataset based on Basic Events. Kazumasa Omura, Daisuke Kawahara and Sadao Kurohashi.](https://virtual.2020.emnlp.org/paper_main.3057.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.192.pdf) [**(code)**]()
 
@@ -2934,19 +2941,19 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: [**Repulsive Attention: Rethinking Multi-head Attention as Bayesian Inference**. Bang An, Jie Lyu, Zhenyi Wang, Chunyuan Li, Changwei Hu, Fei Tan, Ruiyi Zhang, Yifan Hu and Changyou Chen.](https://virtual.2020.emnlp.org/paper_main.903.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.17.pdf) [**(code)**]()
 
-
-
-:heavy_minus_sign: [Cross-Thought for Sentence Encoder Pre-training. Shuohang Wang, Yuwei Fang, Siqi Sun, Zhe Gan, Yu Cheng, Jingjing Liu and Jing Jiang.](https://virtual.2020.emnlp.org/paper_main.2635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.30.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Do sequence-to-sequence VAEs learn global features of sentences?. Tom Bosc and Pascal Vincent.](https://virtual.2020.emnlp.org/paper_main.2430.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.350.pdf) [**(code)**]()
+---
 
 :heavy_minus_sign: [Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space. Chunyuan Li, Xiang Gao, Yuan Li, Baolin Peng, Xiujun Li, Yizhe Zhang and Jianfeng Gao.](https://virtual.2020.emnlp.org/paper_main.1446.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.378.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Exploiting Sentence Order in Document Alignment. Brian Thompson and Philipp Koehn.](https://virtual.2020.emnlp.org/paper_main.639.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.483.pdf) [**(code)**]()
 
+---
+
 :heavy_minus_sign: [Modularized Syntactic Neural Networks for Sentence Classification. Haiyan Wu, Ying Liu and Shaoyun Shi.](https://virtual.2020.emnlp.org/paper_main.877.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.222.pdf) [**(code)**]()
 
+:heavy_minus_sign: [MODE-LSTM: A Parameter-efficient Recurrent Network with Multi-Scale for Sentence Classification. Qianli Ma, Zhenxi Lin, Jiangyue Yan, Zipeng Chen and Liuhong Yu.](https://virtual.2020.emnlp.org/paper_main.3013.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.544.pdf) [**(code)**]()
 
+---
 
 :heavy_minus_sign: [Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder. Wenyue Zhang et al.](https://virtual.2020.emnlp.org/paper_main.1180.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.307.pdf) [**(code)**]()
 
@@ -3037,8 +3044,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Scene Graph Modification Based on Natural Language Commands. Xuanli He et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.87.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Why do you think that? Exploring Faithful Sentence-Level Rationales Without Supervision. Max Glockner, Ivan Habernal and Iryna Gurevych.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.97.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Undersensitivity in Neural Reading Comprehension. Johannes Welbl, Pasquale Minervini, Max Bartolo, Pontus Stenetorp and Sebastian Riedel.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.103.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) FELIX: Flexible Text Editing Through Tagging and Insertion. Jonathan Mallinson, Aliaksei Severyn, Eric Malmi and Guillermo Garrido.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.111.pdf) [**(code)**]()
@@ -3062,7 +3067,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :heavy_minus_sign: (Findings) Extracting Chemical-Protein Interactions via Calibrated Deep Neural Network and Self-training. Dongha Choi and Hyunju Lee.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.189.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) **Natural Language Rationales with Full-Stack Visual Reasoning: From Pixels to Semantic Frames to Commonsense Graphs. Ana Marasović et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.253.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Inferring symmetry in natural language. Chelsea Tanchip, Lei Yu, Aotao Xu and Yang Xu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.259.pdf) [**(code)**]()
 
