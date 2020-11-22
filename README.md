@@ -2100,6 +2100,8 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 
 :heavy_minus_sign: [A Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?. Hongyu Lin, Yaojie Lu, Jialong Tang, Xianpei Han, Le Sun, Zhicheng Wei and Nicholas Jing Yuan.](https://virtual.2020.emnlp.org/paper_main.1974.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.592.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER. Qingkai Zeng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf) [**(code)**]()
+
 :heavy_minus_sign: [Named Entity Recognition for Social Media Texts with Semantic Augmentation. Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song and Bo Dai.](https://virtual.2020.emnlp.org/paper_main.3298.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) A Dual-Attention Network for Joint Named Entity Recognition and Sentence Classification of Adverse Drug Events. Susmitha Wunnava et al.](https://virtual.2020.emnlp.org/paper_WS-12.2509.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.306.pdf) [**(code)**]()
@@ -3081,8 +3083,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 :heavy_minus_sign: (Findings) Large Product Key Memory for Pretrained Language Models. Gyuwan Kim and Tae Hwan Jung.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.362.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension. Xuguang Wang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.370.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Tri-Train: Automatic Pre-Fine Tuning between Pre-Training and Fine-Tuning for SciNER. Qingkai Zeng et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.429.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Exploring Versatile Generative Language Model Via Parameter-Efficient Transfer Learning. Zhaojiang Lin, Andrea Madotto and Pascale Fung.  [**(paper)**]() [**(code)**]()
 
