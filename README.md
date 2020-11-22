@@ -388,6 +388,7 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 **Contextualized Representations:**
 
 :heavy_minus_sign: [**Towards Better Context-aware Lexical Semantics:Adjusting Contextualized Representations through Static Anchors.** Qianchu Liu, Diana McCarthy and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.1395.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.333.pdf) [**(code)**]()
+> Goal: post-processing technique to improve contextualized embeddings with static embeddings. Question: Why does rotation work so well? I am curious if there were any patterns in the words that did not align closely after the transformation. BERT uses a wider context than SGNS, GloVe, etc., which could lead to qualitatively different representations.
 
 :heavy_minus_sign: [**Word class flexibility: A deep contextualized approach**. Bai Li, Guillaume Thomas, Yang Xu and Frank Rudzicz.](https://virtual.2020.emnlp.org/paper_main.820.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.71.pdf) [**(code)**]()
 
@@ -439,7 +440,7 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 For NLI, see [Natural Language Inference](#top-natural-language-inference).
 
-:heavy_minus_sign: [Compositional Phrase Alignment and Beyond. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
+:heavy_minus_sign: [**Compositional Phrase Alignment and Beyond**. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]() (for sentence similarity)
 
