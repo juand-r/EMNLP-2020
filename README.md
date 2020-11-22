@@ -393,6 +393,10 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 :heavy_minus_sign: [Probing Pretrained Language Models for Lexical Semantics. Ivan Vulić, Edoardo Maria Ponti, Robert Litschko, Goran Glavaš and Anna Korhonen.](https://virtual.2020.emnlp.org/paper_main.2363.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.586.pdf) [**(code)**]()
 
+:heavy_minus_sign: (Findings) Quantifying the Contextualization of Word Representations with Semantic Class Probing. Mengjie Zhao, Philipp Dufter, Yadollah Yaghoobzadeh and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.109.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings. Masoud Jalili Sabet et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.147.pdf) [**(code)**]()
+
 :heavy_minus_sign: [XL-WiC: A Multilingual Benchmark for Evaluating Semantic Contextualization. Alessandro Raganato et al.](https://virtual.2020.emnlp.org/paper_main.143.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.584.pdf) [**(code)**](https://pilehvar.github.io/xlwic/)
 
 :heavy_minus_sign: [BERT Knows Punta Cana is not just beautiful, it's gorgeous: Ranking Scalar Adjectives with Contextualised Representations. Aina Garí Soler and Marianna Apidianaki.](https://virtual.2020.emnlp.org/paper_main.2094.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.598.pdf) [**(code)**]()
@@ -435,9 +439,19 @@ See also:  [Compositional and Lexical Semantics in RoBERTa, BERT and DistilBERT:
 
 For NLI, see [Natural Language Inference](#top-natural-language-inference).
 
+:heavy_minus_sign: [Compositional Phrase Alignment and Beyond. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
 
+:heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]() (for sentence similarity)
 
+**Sentence embeddings:**
 
+:heavy_minus_sign: [Making Monolingual Sentence Embeddings **Multilingual** using Knowledge Distillation. Nils Reimers and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.267.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09813.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.365.pdf) [**(code, models and data)**](https://github.com/UKPLab/sentence-transformers)
+
+:heavy_minus_sign: [A **Bilingual** Generative Transformer for Semantic Sentence Embedding. John Wieting, Graham Neubig and Taylor Berg-Kirkpatrick.](https://virtual.2020.emnlp.org/paper_main.3358.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.122.pdf) [**(code)**]()
+
+:heavy_minus_sign: [On the Sentence Embeddings from Pre-trained Language Models. Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang and Lei Li.](https://virtual.2020.emnlp.org/paper_main.3635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.733.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Unsupervised Sentence Embedding Method by Mutual Information Maximization. Yan Zhang, Ruidan He, ZUOZHU LIU, Kwan Hui Lim and Lidong Bing.](https://virtual.2020.emnlp.org/paper_main.3609.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.124.pdf) [**(code)**]()
 
 
 ---
@@ -1103,11 +1117,11 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 ---
 ###  [:top:](#topics) Embeddings
 
-For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bias).
+Also papers in [Lexical Semantics](#top-lexical-semantics). For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bias).
 
 :heavy_minus_sign: (Findings) More Embeddings, Better Sequence Labelers?. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.356.pdf) [**(code)**]()
 
-**Cross-lingual embeddings:**
+**Cross/multi-lingual embeddings:**
 
 :heavy_minus_sign: [Interactive Refinement of Cross-Lingual Word Embeddings. Michelle Yuan, Mozhi Zhang, Benjamin Van Durme, Leah Findlater and Jordan Boyd-Graber.](https://virtual.2020.emnlp.org/paper_main.585.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.482.pdf) [**(code)**]()
 
@@ -1123,9 +1137,7 @@ For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bi
 
 :heavy_minus_sign: [**Are All Good Word Vector Spaces Isomorphic?**. Ivan Vulić, Sebastian Ruder and Anders Søgaard.](https://virtual.2020.emnlp.org/paper_main.1901.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.257.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) Quantifying the Contextualization of Word Representations with Semantic Class Probing. Mengjie Zhao, Philipp Dufter, Yadollah Yaghoobzadeh and Hinrich Schütze.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.109.pdf) [**(code)**]()
-
-:heavy_minus_sign: [DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion. Zhen Han, Peng Chen, Yunpu Ma and Volker Tresp.](https://virtual.2020.emnlp.org/paper_main.658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.593.pdf) [**(code)**]()
+:heavy_minus_sign: [DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for **Temporal Knowledge Graph Completion**. Zhen Han, Peng Chen, Yunpu Ma and Volker Tresp.](https://virtual.2020.emnlp.org/paper_main.658.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.593.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Embedding Words in Non-Vector Space with Unsupervised Graph Learning. Max Ryabinin, Sergei Popov, Liudmila Prokhorenkova and Elena Voita.](https://virtual.2020.emnlp.org/paper_main.973.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.594.pdf) [**(code)**]()
 
@@ -1137,8 +1149,6 @@ For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bi
 
 :heavy_minus_sign: [(Findings+WS) General Purpose Text Embeddings from Pre-trained Language Models for Scalable Inference. Jingfei Du, Myle Ott, Haoran Li, Xing Zhou and Veselin Stoyanov.](https://virtual.2020.emnlp.org/paper_WS-15.2230.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.271.pdf) [**(code)**]()
 
-:heavy_minus_sign: (Findings) SimAlign: High Quality Word Alignments Without Parallel Training Data Using Static and Contextualized Embeddings. Masoud Jalili Sabet et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.147.pdf) [**(code)**]()
-
 :heavy_minus_sign: (Findings) Improving Word Embedding Factorization for Compression Using Distilled Nonlinear Neural Decomposition. Vasileios Lioutas et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.250.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) Robust Backed-off Estimation of Out-of-Vocabulary Embeddings. Nobukazu Fukuda, Naoki Yoshinaga and Masaru Kitsuregawa.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.434.pdf) [**(code)**]()
@@ -1146,18 +1156,6 @@ For debiasing gender bias from word embeddings, see [Gender Bias](#top-gender-bi
 :heavy_minus_sign: (Findings) Learning Numeral Embedding. Chengyue Jiang, Zhonglin Nian, Kaihao Guo, Shanbo Chu, Yinggong Zhao, Libin Shen and Kewei Tu.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.235.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Methods for Numeracy-Preserving Word Embeddings. Dhanasekar Sundararaman, Shijing Si, Vivek Subramanian, Guoyin Wang, Devamanyu Hazarika and Lawrence Carin.](https://virtual.2020.emnlp.org/paper_main.3093.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.384.pdf) [**(code)**]()
-
-**Sentence embeddings:**
-
-:heavy_minus_sign: [Word Rotator's Distance. Sho Yokoi, Ryo Takahashi, Reina Akama, Jun Suzuki and Kentaro Inui.](https://virtual.2020.emnlp.org/paper_main.2370.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.236.pdf) [**(code)**]() (for sentence similarity)
-
-:heavy_minus_sign: [Making Monolingual Sentence Embeddings **Multilingual** using Knowledge Distillation. Nils Reimers and Iryna Gurevych.](https://virtual.2020.emnlp.org/paper_main.267.html)  [**(preprint)**](https://arxiv.org/pdf/2004.09813.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.365.pdf) [**(code, models and data)**](https://github.com/UKPLab/sentence-transformers)
-
-:heavy_minus_sign: [A **Bilingual** Generative Transformer for Semantic Sentence Embedding. John Wieting, Graham Neubig and Taylor Berg-Kirkpatrick.](https://virtual.2020.emnlp.org/paper_main.3358.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.122.pdf) [**(code)**]()
-
-:heavy_minus_sign: [On the Sentence Embeddings from Pre-trained Language Models. Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang and Lei Li.](https://virtual.2020.emnlp.org/paper_main.3635.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.733.pdf) [**(code)**]()
-
-:heavy_minus_sign: [An Unsupervised Sentence Embedding Method by Mutual Information Maximization. Yan Zhang, Ruidan He, ZUOZHU LIU, Kwan Hui Lim and Lidong Bing.](https://virtual.2020.emnlp.org/paper_main.3609.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.124.pdf) [**(code)**]()
 
 ---
 ###  [:top:](#topics) Cognitive Models and Psycholinguistics
@@ -2841,7 +2839,6 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 ---
 ---
 
-:heavy_minus_sign: [Compositional Phrase Alignment and Beyond. Yuki Arase and Jun'ichi Tsujii.](https://virtual.2020.emnlp.org/paper_main.754.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.125.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Multilevel Text Alignment with Cross-Document Attention. Xuhui Zhou, Nikolaos Pappas and Noah A. Smith.](https://virtual.2020.emnlp.org/paper_main.825.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.407.pdf) [**(code)**]()
 
