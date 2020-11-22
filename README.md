@@ -58,6 +58,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
   - [Multilingual](#top-multilingual)
 #### [NLG papers](#nlg-papers-1)
   - [Dialogue](#top-dialogue)
+  - [Sequence to Sequence](#top-sequence-to-sequence)
   - [Text Generation](#top-text-generation)
     - [Open-ended text generation](#top-open-ended-text-generation)
     - [Meaning-to-text generation](#top-meaning-to-text-generation)
@@ -71,6 +72,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 #### [NLU papers](#nlu-papers-1)
   - [Text Classification](#top-text-classification)
   - [Information Retrieval](#top-information-retrieval)
+  - [Sequence Labeling](#top-sequence-labeling)
   - [POS tagging](#top-pos-tagging)
   - [Entity Recognition, Linking and Representation](#top-entity-recognition-linking-and-representation)
     - [NER](#top-NER)
@@ -1504,6 +1506,22 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 :boom:++ [Sound Natural: Content Rephrasing in Dialog Systems. Arash Einolghozati, Anchit Gupta, Keith Diedrick and Sonal Gupta.](https://virtual.2020.emnlp.org/paper_main.876.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.414.pdf) [**(code)**]()
 
 ---
+
+
+---
+### [:top:](#nlg-papers) Sequence to Sequence
+
+:heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Seq2Edits: Sequence Transduction Using Span-level Edit Operations. Felix Stahlberg and Shankar Kumar.](https://virtual.2020.emnlp.org/paper_main.2448.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.418.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Semantic Matching for Sequence-to-Sequence Learning. Ruiyi Zhang, Changyou Chen, Xinyuan Zhang, Ke Bai and Lawrence Carin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.21.pdf) [**(code)**]()
+
+:heavy_minus_sign: [A Streaming Approach For Efficient Batched Beam Search. Kevin Yang, Violet Yao, John DeNero and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.2767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.366.pdf) [**(code)**]()
+
+
 ---
 ###  [:top:](#nlg-papers) Text Generation
 
@@ -1524,6 +1542,7 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 :heavy_minus_sign: [**Gradient-guided Unsupervised Lexically Constrained Text Generation.** Lei Sha.](https://virtual.2020.emnlp.org/paper_main.730.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.701.pdf) [**(code)**]()
 
+:boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
 
 --- 
 ####  [:top:](#nlg-papers) Meaning-to-text generation
@@ -2028,6 +2047,22 @@ See also  [Bridging Linguistic Typology and Multilingual Machine Translation wit
 :heavy_minus_sign: (Findings) Cross-Lingual Training of Neural Models for Document Ranking. Peng Shi, He Bai and Jimmy Lin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.249.pdf) [**(code)**]()
 
 :heavy_minus_sign: [LAReQA: Language-Agnostic **Answer Retrieval** from a Multilingual Pool. Uma Roy, Noah Constant, Rami Al-Rfou, Aditya Barua, Aaron Phillips and Yinfei Yang.](https://virtual.2020.emnlp.org/paper_main.2278.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.477.pdf) [**(code)**]()
+
+
+---
+### [:top:](#nlu-papers)  Sequence Labeling
+
+:heavy_minus_sign: [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee et al.](https://virtual.2020.emnlp.org/paper_main.2331.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.636.pdf) [**(code)**]()
+
+:heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
+
+:heavy_minus_sign: [Uncertainty-Aware Label Reﬁnement for Sequence Labeling. Tao Gui, Jiacheng Ye, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang.](https://virtual.2020.emnlp.org/paper_main.1225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.181.pdf) [**(code)**]()
+
+:heavy_minus_sign: [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks. Lifu Tu, Tianyu Liu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.2636.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.449.pdf) [**(code)**]()
+
+:heavy_minus_sign: (Findings) Attending to Long-Distance Document Context for Sequence Labeling. Matthew Jörke, Jon Gillick, Matthew Sims and David Bamman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.330.pdf) [**(code)**]()
 
 ---
 ### [:top:](#nlu-papers) POS tagging
@@ -2790,31 +2825,9 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 :boom:++ (Findings) RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models. Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi and Noah A. Smith.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.301.pdf) [**(code)**]()
 
-**Sequence Labeling:**
 
-:heavy_minus_sign: [To BERT or Not to BERT: Comparing Task-specific and Task-agnostic Semi-Supervised Approaches for Sequence Tagging. Kasturi Bhattacharjee et al.](https://virtual.2020.emnlp.org/paper_main.2331.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.636.pdf) [**(code)**]()
 
-:heavy_minus_sign: [AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network. Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang and Kewei Tu.](https://virtual.2020.emnlp.org/paper_main.1615.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.485.pdf) [**(code)**]()
 
-:heavy_minus_sign: [Augmented Natural Language for Generative Sequence Labeling. Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone and Bing Xiang.](https://virtual.2020.emnlp.org/paper_main.148.html)  [**(preprint)**](https://arxiv.org/pdf/2009.13272.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Uncertainty-Aware Label Reﬁnement for Sequence Labeling. Tao Gui, Jiacheng Ye, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang.](https://virtual.2020.emnlp.org/paper_main.1225.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.181.pdf) [**(code)**]()
-
-:heavy_minus_sign: [An Exploration of Arbitrary-Order Sequence Labeling via Energy-Based Inference Networks. Lifu Tu, Tianyu Liu and Kevin Gimpel.](https://virtual.2020.emnlp.org/paper_main.2636.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.449.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Attending to Long-Distance Document Context for Sequence Labeling. Matthew Jörke, Jon Gillick, Matthew Sims and David Bamman.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.330.pdf) [**(code)**]()
-
-**Sequence to Sequence:**
-
-:heavy_minus_sign: (Findings) **ProphetNet: Predicting Future N-gram for Sequence-to-SequencePre-training. Weizhen Qi et al.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.217.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Seq2Edits: Sequence Transduction Using Span-level Edit Operations. Felix Stahlberg and Shankar Kumar.](https://virtual.2020.emnlp.org/paper_main.2448.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.418.pdf) [**(code)**]()
-
-:heavy_minus_sign: [Semantic Label Smoothing for Sequence to Sequence Problems. Michal Lukasik et al.](https://virtual.2020.emnlp.org/paper_main.2790.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.405.pdf) [**(code)**]()
-
-:heavy_minus_sign: (Findings) Semantic Matching for Sequence-to-Sequence Learning. Ruiyi Zhang, Changyou Chen, Xinyuan Zhang, Ke Bai and Lawrence Carin.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.21.pdf) [**(code)**]()
-
-:heavy_minus_sign: [A Streaming Approach For Efficient Batched Beam Search. Kevin Yang, Violet Yao, John DeNero and Dan Klein.](https://virtual.2020.emnlp.org/paper_main.2767.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.366.pdf) [**(code)**]()
 
 ---
 ---
@@ -2823,7 +2836,7 @@ See also [The Fourth Workshop on Online Abuse and Harms (WOAH) a.k.a. ALW](https
 
 # Papers, sort
 
-:boom:++ [BLEU might be Guilty but References are not Innocent. Markus Freitag, David Grangier and Isaac Caswell.](https://virtual.2020.emnlp.org/paper_main.84.html)  [**(preprint)**](https://arxiv.org/pdf/2004.06063.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.5.pdf) [**(code)**]()
+
 
 ---
 ---
