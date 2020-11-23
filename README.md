@@ -987,7 +987,7 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 
 :heavy_minus_sign: (Findings) Integrating Task Specific Information into Pretrained Language Models for Low Resource Fine Tuning. Rui Wang et al.  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.285.pdf) [**(code)**]()
 
-:heavy_minus_sign: [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.](https://virtual.2020.emnlp.org/paper_main.1618.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.19.pdf) [**(code)**]()
+:boom:++ [ETC: Encoding Long and Structured Inputs in Transformers. Joshua Ainslie, Santiago Ontanon, Chris Alberti, Vaclav Cvicek, Zachary Fisher, Philip Pham, Anirudh Ravula, Sumit Sanghai, Qifan Wang and Li Yang.](https://virtual.2020.emnlp.org/paper_main.1618.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.19.pdf) [**(code)**]()
 
 :heavy_minus_sign: [**Understanding the Difficulty of Training Transformers**. Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen and Jiawei Han.](https://virtual.2020.emnlp.org/paper_main.1552.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.463.pdf) [**(code)**]()
 
@@ -1011,7 +1011,7 @@ NOTE: A few other interesting few-shot papers are scattered in other sections.
 
 :heavy_minus_sign: [Retrofitting Structure-aware Transformer Language Model for End Tasks. Hao Fei, Yafeng Ren and Donghong Ji.](https://virtual.2020.emnlp.org/paper_main.204.html)  [**(preprint)**](https://arxiv.org/pdf/2009.07408.pdf) [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.168.pdf) [**(code)**]()
 
-:heavy_minus_sign: [**Pre-Training Transformers as Energy-Based Cloze Models**. Kevin Clark, Minh-Thang Luong, Quoc Le and Christopher D. Manning.](https://virtual.2020.emnlp.org/paper_main.2343.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.20.pdf) [**(code)**]()
+:boom:++ [**Pre-Training Transformers as Energy-Based Cloze Models**. Kevin Clark, Minh-Thang Luong, Quoc Le and Christopher D. Manning.](https://virtual.2020.emnlp.org/paper_main.2343.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.20.pdf) [**(code)**]()
 
 :heavy_minus_sign: (Findings) **Byte Pair Encoding is Suboptimal for Language Model Pretraining. Kaj Bostrom and Greg Durrett.**  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf) [**(code)**]()
 
@@ -1375,13 +1375,19 @@ For VQA, see [Visual Question Answering](#top-visual-question-answering).
 
 ###  [:top:](#nlg-papers) Dialogue
 
+**Task-oriented**
+
+NOTE: several task/goal-oriented papers are missing.
+
+:boom:++ [How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue. Henry Elder, Alexander O'Connor and Jennifer Foster.](https://virtual.2020.emnlp.org/paper_main.3353.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.230.pdf) [**(code)**]()
+
+:boom:++ [(TACL) Task-Oriented Dialogue as Dataflow Synthesis. Jacob Andreas.](https://virtual.2020.emnlp.org/paper_TACL.2143.html)  [**(paper)**](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00333) [**(project)**](https://www.microsoft.com/en-us/research/blog/dialogue-as-dataflow-a-new-approach-to-conversational-ai/) [**(code)**](https://github.com/microsoft/task_oriented_dialogue_as_dataflow_synthesis/) [**(blog)**](https://www.microsoft.com/en-us/research/blog/dialogue-as-dataflow-a-new-approach-to-conversational-ai/)
+
 **Dialogue generation:**
 
 :heavy_minus_sign: [Cross Copy Network for Dialogue Generation. Changzhen Ji, Xin Zhou, Yating Zhang, Xiaozhong Liu, Changlong Sun, Conghui Zhu and Tiejun Zhao.](https://virtual.2020.emnlp.org/paper_main.1522.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.149.pdf) [**(code)**]()
 
 :heavy_minus_sign: [Counterfactual Off-Policy Training for Neural Dialogue Generation. Qingfu Zhu, Wei-Nan Zhang, Ting Liu and William Yang Wang.](https://virtual.2020.emnlp.org/paper_main.2975.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.276.pdf) [**(code)**]()
-
-:boom:++ [How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue. Henry Elder, Alexander O'Connor and Jennifer Foster.](https://virtual.2020.emnlp.org/paper_main.3353.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.emnlp-main.230.pdf) [**(code)**]()
 
 :heavy_minus_sign: [(Findings+WS) Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning. Yifan Gao, Piji Li, Wei Bi, Xiaojiang Liu, Michael Lyu and Irwin King.](https://virtual.2020.emnlp.org/paper_WS-16.475.html)  [**(paper)**](https://www.aclweb.org/anthology/2020.findings-emnlp.40.pdf) [**(code)**]()
 
