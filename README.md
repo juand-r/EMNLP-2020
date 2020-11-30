@@ -128,7 +128,7 @@ This contains a selection of papers from  EMNLP 2020. Some papers are missing --
 
 ## [Tutorials](#selections-from-emnlp-2020)
 
-- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [no pre-recorded video] [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
+- :memo: [**Interpreting Predictions of NLP Models** (Eric Wallace, Matt Gardner, Sameer Singh)](https://virtual.2020.emnlp.org/tutorial_T1.html) [**(website)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/) [**(video)**](https://www.youtube.com/watch?v=gprIzglUW1s&feature=youtu.be&ab_channel=UCINLP) [**(slides)**](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/)
 >
 > **I. Overview**
 > 
