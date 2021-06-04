@@ -214,7 +214,7 @@ Full list of workshops: https://2020.emnlp.org/workshops
 - [**Evaluation and Comparison of NLP Systems (Eval4NLP)**](https://nlpevaluation2020.github.io/)
 - [**SustaiNLP: Workshop on Simple and Efficient Natural Language Processing**](https://sites.google.com/view/sustainlp2020) (Promoting computationally efficient NLP and justified model complexity. Encouraging conceptual NLP novelty, discouraging 'more compute'")
 - [**CoNLL 2020**](https://www.conll.org/)
-- [**Deep Learning Inside Out (DeeLIO)**: The First Workshop on Knowledge Extraction and Integration for DL Architectures](https://sites.google.com/view/deelio-ws/) (focus on "low-data regimes")
+- [**Deep Learning Inside Out (DeeLIO)**: The First Workshop on Knowledge Extraction and Integration for DL Architectures](https://sites.google.com/view/deelio-ws/) (focus on "low-data regimes") See [Eduard Hovy's fantastic talk](https://slideslive.com/38940164/knowledge-in-deep-networks)
 - [4th Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/)
 - [Interactive and Executable Semantic Parsing (Int-Ex)](https://intex-sempar.github.io/)
 - [6th Workshop on Noisy User-generated Text (W-NUT 2020)](http://noisy-text.github.io/)
